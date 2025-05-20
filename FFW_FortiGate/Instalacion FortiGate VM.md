@@ -7,12 +7,15 @@ Desactivamos todas las targetas de red y en la tarjeta de red 2 creamos una LAN 
  Encendemos la VM y dejamos que se ejecute, esta nos pedirá que ingresemos une user: admin y pass el cual será vacío
  Luego ejecutaremos pondremos nuestro password de preferencia en este caso m4sterAdmin
  Después ejecutaremos ciertos comando para evitar que expire la licencia de pruebas
+ ```
  #config system ntp
  #set ntpsync disable
  #set type custom
  #end
+ ```
  Reiniciamos la VM
 ### Configurar las tarjetas de Red
+```
 #config system interface
 #edit port1
 #set mode dhcp
@@ -30,9 +33,9 @@ Desactivamos todas las targetas de red y en la tarjeta de red 2 creamos una LAN 
 #set allowacces https ssh ping
 #show sys interface
 #end para salir
-
+```
 # Obtener los ip de las interfaces
-#get system interface
+\#get system interface
 
 ## Obtener el estado del sistema
-#get system status
+\#get system status
