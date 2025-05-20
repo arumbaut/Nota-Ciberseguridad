@@ -35,7 +35,11 @@ Desactivamos todas las targetas de red y en la tarjeta de red 2 creamos una LAN 
 #end para salir
 ```
 # Obtener los ip de las interfaces
-\#get system interface
+```
+#get system interface
+```
 
 ## Obtener el estado del sistema
-\#get system status
+```
+#get system status
+```
