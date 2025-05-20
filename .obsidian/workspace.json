@@ -11,14 +11,10 @@
             "id": "b263e9e6b1c0338a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "hjgj.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "hjgj"
+              "title": "Nueva pestaña"
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hjgj.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de hjgj"
+              "title": "Enlaces entrantes"
             }
           },
           {
@@ -113,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hjgj.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de hjgj"
+              "title": "Enlaces salientes"
             }
           },
           {
@@ -142,13 +136,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hjgj.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de hjgj"
+              "title": "Esquema"
             }
           },
           {
@@ -179,8 +172,47 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b263e9e6b1c0338a",
+  "active": "9c8552b45a1c0e11",
   "lastOpenFiles": [
-    "hjgj.md"
+    "hjgj.md",
+    "Warp/🐧 Warp en Linux.md",
+    "Warp",
+    "SC-900/tipos_identidades.md",
+    "SC-900/Servicios de Directorio Active Directory y Federación.md",
+    "SC-900/Roles y Control de Acceso Basado en Roles (RBAC).md",
+    "SC-900/proveedor_identidades.md",
+    "SC-900/resumen_SC-900.md",
+    "SC-900/proteccion_microsoft_entra_id.md",
+    "SC-900/privileged_identity_management.md",
+    "SC-900/modelo_confianza_cero.md",
+    "SC-900/Modelo de Responsabilidad Compartida (1).md",
+    "SC-900/microsoft_entra_id.md",
+    "SC-900/metodos_autenticacion.md",
+    "SC-900/identidad_hibrida_externas.md",
+    "SC-900/gobernanza_riesgo_cumplimiento.md",
+    "SC-900/Gobernanza de Microsoft Entra ID.md",
+    "SC-900/Funcionalidades de Administración y Protección de Contraseñas.md",
+    "SC-900/Defensa en Prfundidad.md",
+    "SC-900/cifrado_y_hash.md",
+    "SC-900/CIA.md",
+    "SC-900/autenticacion_identidad e identidad como perimetro.md",
+    "SC-900/administracion_permisos_microsoft_entra.md",
+    "SC-900/Acceso Condicional y Global Secure Access.md",
+    "SC-900",
+    "Notas de Ciberseguridad",
+    "Hacking Pentesting/Maquinas DMV y WPOWN.md",
+    "Hacking Pentesting",
+    "FFW_FortiGate/Instalacion FortiGate VM.md",
+    "FFW_FortiGate/Configuracion de VLANs con Fortigate y Swichh Cisco en GNS3.md",
+    "FFW_FortiGate",
+    "attachments/Pasted image 20250520110238.png",
+    "attachments/Pasted image 20250520110119.png",
+    "attachments/Pasted image 20250520104658.png",
+    "attachments/Pasted image 20250520104623.png",
+    "attachments/Pasted image 20250520094728.png",
+    "attachments/Pasted image 20250520093633.png",
+    "attachments/Pasted image 20250520092854.png",
+    "attachments/Pasted image 20250520092736.png",
+    "attachments"
   ]
 }
