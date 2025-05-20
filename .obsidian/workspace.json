@@ -11,10 +11,14 @@
             "id": "b263e9e6b1c0338a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "FFW_FortiGate/Configuracion de VLANs con Fortigate y Swichh Cisco en GNS3.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "Configuracion de VLANs con Fortigate y Swichh Cisco en GNS3"
             }
           }
         ]
@@ -159,7 +163,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 282.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,8 +176,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9c8552b45a1c0e11",
+  "active": "b263e9e6b1c0338a",
   "lastOpenFiles": [
+    "FFW_FortiGate/Instalacion FortiGate VM.md",
+    "FFW_FortiGate/Configuracion de VLANs con Fortigate y Swichh Cisco en GNS3.md",
+    "README.md",
     "hjgj.md",
     "Warp/🐧 Warp en Linux.md",
     "Warp",
@@ -200,10 +207,7 @@
     "SC-900/Acceso Condicional y Global Secure Access.md",
     "SC-900",
     "Notas de Ciberseguridad",
-    "Hacking Pentesting/Maquinas DMV y WPOWN.md",
     "Hacking Pentesting",
-    "FFW_FortiGate/Instalacion FortiGate VM.md",
-    "FFW_FortiGate/Configuracion de VLANs con Fortigate y Swichh Cisco en GNS3.md",
     "FFW_FortiGate",
     "attachments/Pasted image 20250520110238.png",
     "attachments/Pasted image 20250520110119.png",

@@ -18,6 +18,7 @@
 ![[Pasted image 20250520093633.png]]
 
 Y nos iremos a las interfaces para por la interface del puerto2 que es por donde tendrán acceso las VLANs le crearemos cada 1 de las VLANs que necesitamos que para este caso les asignaremos VLAN2, VLAN3, VLAN4. 
+
 ![[Pasted image 20250520094728.png]]
 
 Una vez configurada cada una de las Vlans en el FW nos dirigimos a configurara el switch de cisco para que habilite las Vlans y les permita el paso además de crear modo trunkal para que permita el paso de las Vlans por el mismo puerto de salida.
@@ -68,6 +69,7 @@ Luego verificamos que esten funcionando las configuraciones realizadas, nos vamo
 
 PC1
 **ip dhcp**
+
 ![[Pasted image 20250520104658.png]]
 
 Una vez comprobado que ya tenemos una ip le daremos acceso en las reglas del FW para permitir el trafico hacia la red externa. En esta interface nos creamos las reglas que permitiran el trafico , por defecto el FW tiene un regla implicita donde deniega todo el trafico .
