@@ -1,7 +1,7 @@
 
 #### Esta será nuestra arquitectura de red  en la cual crearemos 3 Vlan y les permitiremos comunicación 
 
-![](attachments/image20250520092736.png)
+![](../attachments/image20250520092736.png)
 1- Configuraremos la interface del puerto 1 de nuestro FW para poder acceder a la interface WEB de administración 
 
 **\#config system interface**
