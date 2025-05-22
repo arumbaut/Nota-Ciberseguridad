@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FFW_FortiGate/Configuracion de VLANs con Fortigate y Swichh Cisco en GNS3.md",
+                "file": "CEHv13/Training/Modulo 20 Cryptography/02 Hash Message Digest (One-way Hash) Functions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Configuracion de VLANs con Fortigate y Swichh Cisco en GNS3"
+              "title": "02 Hash Message Digest (One-way Hash) Functions"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 318.5
   },
   "right": {
     "id": "dd62f90908c3232e",
@@ -140,12 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "CEHv13/Training/Modulo 20 Cryptography/02 Hash Message Digest (One-way Hash) Functions.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema"
+              "title": "Esquema de 02 Hash Message Digest (One-way Hash) Functions"
             }
           },
           {
@@ -163,60 +164,69 @@
       }
     ],
     "direction": "horizontal",
-    "width": 282.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-projects:Open projects": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
       "switcher:Abrir selector rápido": false,
       "graph:Abrir vista gráfica": false,
       "canvas:Crear nuevo lienzo": false,
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "155a5766cf9a51c7",
   "lastOpenFiles": [
-    "FFW_FortiGate/Instalacion FortiGate VM.md",
-    "Hacking Pentesting/Maquinas DMV y WPOWN.md",
-    "atta.md",
-    "FFW_FortiGate/Configuracion de VLANs con Fortigate y Swichh Cisco en GNS3.md",
+    "CEHv13/Training/Modulo 20 Cryptography/1.2 Asymmetric Encryption Algorithms.md",
+    "CEHv13/Training/Modulo 20 Cryptography/02 Hash Message Digest (One-way Hash) Functions.md",
+    "CEHv13/Training/Modulo 20 Cryptography/Drawing 2025-05-22 23.36.03.excalidraw.md",
+    "attachments/image20250522233325.png",
+    "attachments/image20250522180952.png",
+    "CEHv13/Training/Modulo 20 Cryptography/1.1 Symmetric Encryption Algorithms.md",
+    "Sin título.md",
+    "CEHv13/Training/Modulo 20 Cryptography/01 Cryptography Concepts and Encryption Algorithms.md",
+    "attachments/image20250522121521.png",
+    "attachments/Pasted image 20250522180913.png",
+    "attachments/Pasted image 20250522180902.png",
+    "attachments/Pasted image 20250522180852.png",
+    "attachments/Pasted image 20250522180841.png",
+    "attachments/image20250522180615.png",
+    "attachments/image20250522180122.png",
+    "CEHv13/Training/Modulo 10 Denial-of-Service/04 DoS-DDoS Attack Countermeasures.md",
+    "CEHv13/Training/Modulo 20 Cryptography",
+    "CEHv13/Training/Modulo 10 Denial-of-Service/03 DoS-DDoS Attack Toolkits.md",
+    "CEHv13/Training/Modulo 10 Denial-of-Service/02 DoS-DDoS Attack Techniques.md",
+    "CEHv13/Training/Modulo 10 Denial-of-Service/01 DoS-DDoS Concepts.md",
+    "CEHv13/Training/Modulo 1 Introduccion/01 Information Security.md",
+    "CEHv13/Training/Modulo 1 Introduccion/05 Information Security Laws and Standards.md",
+    "CEHv13/Training/Modulo 10 Denial-of-Service",
+    "CEHv13/Training/Modulo 9 Social Engineering",
+    "CEHv13/Training/Modulo 8 Sniffing",
+    "CEHv13/Training/Modulo 7 Malware Threats",
+    "CEHv13/Training/Modulo 6 System Hacking",
+    "CEHv13/Training/Modulo 5 Vulnerability Analysis",
+    "CEHv13/Training/Modulo 04 Enumeration",
+    "CEHv13/Training/Modulo 3 Scanning Networks 03",
+    "CEHv13/Training/Modulo 2 Footprinting and Reconnaissance",
+    "CEHv13/Training/Modulo 1 Introduccion/04 Information Security Control.md",
     "attachments/image20250520092736.png",
+    "CEHv13/Training/Modulo 1 Introduccion/02 Hacking Concepts.md",
+    "CEHv13/Training/Modulo 1 Introduccion/03 Hacking Methodology.md",
+    "CEHv13/Training/Modulo 1/03 Indicators of Compromise (IoCs).md",
+    "CEHv13/Training/Modulo 1/Drawing 2025-05-22 11.59.54.excalidraw.md",
+    "CEHv13/Training/Modulo 1/Drawing 2025-05-22 11.59.03.excalidraw.md",
+    "CEHv13/Training/Modulo 1/Drawing 2025-05-22 11.51.49.excalidraw.md",
+    "attachm.md",
     "attachments/Pasted.md",
-    "attachments/image20250520094728.png",
-    "attachments/image20250520110238.png",
-    "attachments/image20250520110119.png",
-    "attachments/image20250520104658.png",
-    "attachments/image20250520093633.png",
-    "attachments/Pasted image 20250520092854.png",
-    "README.md",
-    "hjgj.md",
-    "Warp/🐧 Warp en Linux.md",
-    "Warp",
-    "SC-900/tipos_identidades.md",
-    "SC-900/Servicios de Directorio Active Directory y Federación.md",
-    "SC-900/Roles y Control de Acceso Basado en Roles (RBAC).md",
-    "SC-900/proveedor_identidades.md",
-    "SC-900/resumen_SC-900.md",
-    "SC-900/proteccion_microsoft_entra_id.md",
-    "SC-900/privileged_identity_management.md",
-    "SC-900/modelo_confianza_cero.md",
-    "SC-900/Modelo de Responsabilidad Compartida (1).md",
-    "SC-900/microsoft_entra_id.md",
-    "SC-900/metodos_autenticacion.md",
-    "SC-900/identidad_hibrida_externas.md",
-    "SC-900/gobernanza_riesgo_cumplimiento.md",
-    "SC-900/Gobernanza de Microsoft Entra ID.md",
-    "SC-900/Funcionalidades de Administración y Protección de Contraseñas.md",
-    "SC-900/Defensa en Prfundidad.md",
-    "SC-900/cifrado_y_hash.md",
-    "SC-900/CIA.md",
-    "SC-900",
-    "Notas de Ciberseguridad",
-    "Hacking Pentesting",
-    "FFW_FortiGate",
-    "attachments/image20250520104623.png",
-    "attachments"
+    "CEHv13/Practical Exercices/CEHv12 Practical Exercises.md",
+    "CEHv13/Exam Questions/CEHv12 Exam Questions Study Guide.md",
+    "FFW_FortiGate/Configuracion de VLANs con Fortigate y Swichh Cisco en GNS3.md",
+    "FFW_FortiGate/Instalacion FortiGate VM.md",
+    "Hacking Pentesting/Maquinas DMV y WPOWN.md"
   ]
 }
