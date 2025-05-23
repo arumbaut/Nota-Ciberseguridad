@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CEHv13/Training/Modulo 20 Cryptography/15 Cryptography Attacks.md",
+                "file": "FFW_FortiGate/Instalacion FortiGate VM.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "15 Cryptography Attacks"
+              "title": "Instalacion FortiGate VM"
             }
           }
         ]
@@ -182,8 +182,12 @@
   },
   "active": "155a5766cf9a51c7",
   "lastOpenFiles": [
-    "CEHv13/Training/Modulo 20 Cryptography/14 Blockchain.md",
+    "FFW_FortiGate/Configuracion de VLANs con Fortigate y Swichh Cisco en GNS3.md",
+    "CEHv13/Training/Modulo 19 Cloud Computing/1.1 Types of Cloud Computing Services.md",
+    "CEHv13/Training/Modulo 19 Cloud Computing/01 Cloud Computing Concepts.md",
+    "CEHv13/Training/Modulo 20 Cryptography/16 Code Breaking Methodologies.md",
     "CEHv13/Training/Modulo 20 Cryptography/15 Cryptography Attacks.md",
+    "CEHv13/Training/Modulo 20 Cryptography/14 Blockchain.md",
     "CEHv13/Training/Modulo 20 Cryptography/09 Cryptography Toolkits.md",
     "CEHv13/Training/Modulo 20 Cryptography/13 Disk Encryption.md",
     "CEHv13/Training/Modulo 20 Cryptography/08 Transport Layer Security (TLS).md",
@@ -216,10 +220,6 @@
     "CEHv13/Training/Modulo 10 Denial-of-Service/04 DoS-DDoS Attack Countermeasures.md",
     "CEHv13/Training/Modulo 20 Cryptography",
     "CEHv13/Training/Modulo 10 Denial-of-Service/03 DoS-DDoS Attack Toolkits.md",
-    "CEHv13/Training/Modulo 10 Denial-of-Service/02 DoS-DDoS Attack Techniques.md",
-    "CEHv13/Training/Modulo 10 Denial-of-Service/01 DoS-DDoS Concepts.md",
-    "CEHv13/Training/Modulo 1 Introduccion/01 Information Security.md",
-    "CEHv13/Training/Modulo 1 Introduccion/05 Information Security Laws and Standards.md",
     "CEHv13/Training/Modulo 10 Denial-of-Service",
     "CEHv13/Training/Modulo 9 Social Engineering",
     "CEHv13/Training/Modulo 8 Sniffing",
