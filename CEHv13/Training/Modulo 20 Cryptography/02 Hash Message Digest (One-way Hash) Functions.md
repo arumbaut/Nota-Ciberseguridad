@@ -74,6 +74,22 @@ El cifrado USB es una función adicional para los dispositivos de almacenamiento
 
 La cifrado de disco duro es una tecnología mediante la cual los datos almacenados en el hardware pueden ser cifrados utilizando una amplia variedad de opciones de cifrado. Los dispositivos de cifrado de disco duro no pueden usar un teclado integrado ni un lector de huellas dactilares; en su lugar, requieren un TPM (módulo de plataforma confiable) o un HSM (módulo de seguridad de hardware). Estos dispositivos pueden instalarse como un disco interno en una computadora. Algunos dispositivos de cifrado de disco duro incluyen el cifrado de hardware AES de grado militar de 256 bits y el DiskCypher AES Sata Hard Drive Encryption.
 
+##### RIPEMD-160
+
+RACE Integrity Primitives Evaluation Message Digest (RIPEMD) es un algoritmo hash de 160 bits desarrollado por Hans Dobbertin, Antoon Bosselaers y Bart Preneel. Existen versiones de 128, 256 y 320 bits de este algoritmo, denominadas RIPEMD-128, RIPEMD-256 y RIPEMD-320, respectivamente. En este algoritmo, la función de compresión consta de 80 etapas, es decir, 5 bloques que se ejecutan 16 veces cada uno. Este proceso se repite dos veces combinando los resultados en la parte inferior mediante la suma módulo 32.
+
+##### HMAC 
+Hash-based message authentication code (HMAC) es un tipo de código de autenticación de mensajes (MAC) que utiliza una clave criptográfica junto con una función hash criptográfica. Se utiliza ampliamente para verificar la integridad de los datos y la autenticación de un mensaje. Este algoritmo incluye una función hash integrada, como SHA-1 o MD5. La solidez del HMAC depende de la función hash integrada, el tamaño de la clave y el tamaño del hash de salida.
 
 
+##### Message Digest Functions Calculators 
 
+**▪ MD5 Calculator** 
+**Source:** https://www.bullzip.com
+La Calculadora MD5 es una aplicación sencilla que calcula el hash MD5 de un archivo determinado. Se puede usar con archivos grandes (por ejemplo, de varios gigabytes). Cuenta con un contador de progreso y un campo de texto desde el cual se puede copiar fácilmente el hash MD5 final al portapapeles. La Calculadora MD5 permite comprobar la integridad de un archivo.
+
+**▪ HashMyFiles** 
+**Source:** https://www.nirsoft.net
+HashMyFiles es una utilidad que permite calcular los hashes MD5 y SHA1 de uno o más archivos del sistema. Permite copiar la lista de hashes MD5/SHA1 al portapapeles o guardarla en un archivo de texto, HTML o XML.
+
+Some additional MD5 and MD6 hash calculators are as follows: ▪ MD6 Hash Generator (https://www.browserling.com) ▪ All Hash Generator (https://www.browserling.com) ▪ md5 hash calculator (https://onlinehashtools.com) ▪ Message Digester (https://www.freeformatter.com) ▪ MD6 Hash Generator (https://www.atatus.com) 

@@ -1,0 +1,7 @@
+==El protocolo Secure Sockets Layer (SSL) es un protocolo de capa de aplicación desarrollado por Netscape para gestionar la seguridad de la transmisión de mensajes en Internet==. Se utiliza para proporcionar un mecanismo de autenticación seguro entre dos aplicaciones que se comunican, como un cliente y un servidor. ==SSL requiere un protocolo de transporte fiable, como TCP==, para la transmisión y recepción de datos. ==Utiliza el cifrado asimétrico RSA (de clave pública) para cifrar los datos transferidos a través de conexiones SSL.== ==Cualquier protocolo de capa de aplicación superior a SSL, como HTTP, FTP y Telnet, puede formar una capa transparente sobre SSL==. SSL ==actúa como árbitro entre el algoritmo de cifrado y la clave de sesión; también verifica el servidor de destino antes de la transmisión y recepción de datos.== SSL ==cifra todos los datos del protocolo de aplicación para garantizar la seguridad. SSL también ofrece "seguridad de canal"== con tres propiedades básicas: 
+
+▪ Canal privado: todos los mensajes se cifran tras un simple protocolo de enlace para definir una clave secreta.
+▪ Canal autenticado: el extremo del servidor de la conversación siempre está cifrado, mientras que el extremo del cliente se autentica opcionalmente.
+▪ Canal confiable: la transferencia de mensajes tiene una verificación de integridad
+
+![](attachments/image20250523055327.png)
