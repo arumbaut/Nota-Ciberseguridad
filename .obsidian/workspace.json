@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f6187a648d9cc3ae",
+        "id": "572afaae0d9cd016",
         "type": "tabs",
         "children": [
           {
-            "id": "155a5766cf9a51c7",
+            "id": "e914eddc31ef7e3c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FFW_FortiGate/Instalacion FortiGate VM.md",
+                "file": "CEHv13/Training/Modulo 3 Scanning Networks 03/07 Network Scanning Countermeasures.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Instalacion FortiGate VM"
+              "title": "07 Network Scanning Countermeasures"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 318.5
+    "width": 265.5
   },
   "right": {
     "id": "dd62f90908c3232e",
@@ -158,6 +158,16 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "3bd7a79c53c239b3",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
         ],
         "currentTab": 4
@@ -180,53 +190,53 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "155a5766cf9a51c7",
+  "active": "e914eddc31ef7e3c",
   "lastOpenFiles": [
-    "FFW_FortiGate/Configuracion de VLANs con Fortigate y Swichh Cisco en GNS3.md",
-    "CEHv13/Training/Modulo 19 Cloud Computing/1.1 Types of Cloud Computing Services.md",
-    "CEHv13/Training/Modulo 19 Cloud Computing/01 Cloud Computing Concepts.md",
-    "CEHv13/Training/Modulo 20 Cryptography/16 Code Breaking Methodologies.md",
-    "CEHv13/Training/Modulo 20 Cryptography/15 Cryptography Attacks.md",
-    "CEHv13/Training/Modulo 20 Cryptography/14 Blockchain.md",
-    "CEHv13/Training/Modulo 20 Cryptography/09 Cryptography Toolkits.md",
-    "CEHv13/Training/Modulo 20 Cryptography/13 Disk Encryption.md",
-    "CEHv13/Training/Modulo 20 Cryptography/08 Transport Layer Security (TLS).md",
-    "CEHv13/Training/Modulo 20 Cryptography/1.2 Asymmetric Encryption Algorithms.md",
-    "CEHv13/Training/Modulo 19 Cloud Computing",
-    "CEHv13/Training/Modulo 20 Cryptography/12 Web of Trust - WOT (Red de Confianza).md",
-    "CEHv13/Training/Modulo 20 Cryptography/11 GNU Privacy Guard (GPG).md",
-    "CEHv13/Training/Modulo 20 Cryptography/10 Pretty Good Privacy (PGP).md",
-    "CEHv13/Training/Modulo 20 Cryptography/6.1 Digital Signature.md",
-    "CEHv13/Training/Modulo 20 Cryptography/07 Secure Sockets Layer (SSL).md",
-    "attachments/image20250523055914.png",
-    "attachments/image20250523055327.png",
-    "CEHv13/Training/Modulo 20 Cryptography/06 PKI Applications of Cryptography.md",
-    "CEHv13/Training/Modulo 20 Cryptography/01 Cryptography Concepts and Encryption Algorithms.md",
-    "attachments/image20250523054652.png",
-    "attachments/image20250523053729.png",
-    "attachments/image20250523053710.png",
-    "attachments/Pasted image 20250523053700.png",
-    "attachments/image20250523053428.png",
-    "CEHv13/Training/Modulo 20 Cryptography/05 Cryptography Tools.md",
-    "CEHv13/Training/Modulo 20 Cryptography/04 Quantum Cryptography.md",
-    "CEHv13/Training/Modulo 20 Cryptography/03 Hardware-Based Encryption.md",
-    "CEHv13/Training/Modulo 20 Cryptography/02 Hash Message Digest (One-way Hash) Functions.md",
+    "CEHv13/Training/Modulo 3 Scanning Networks 03/06 Scanning Beyond IDS and Firewall.md",
+    "CEHv13/Training/Modulo 3 Scanning Networks 03/05 OS Discovery (Banner Grabbing OS Fingerprinting).md",
+    "CEHv13/Training/Modulo 3 Scanning Networks 03/04 Port and Service Discovery.md",
+    "CEHv13/Training/Modulo 3 Scanning Networks 03/03 Host Discovery.md",
+    "CEHv13/Training/Modulo 3 Scanning Networks 03/02 Scanning Tools.md",
+    "CEHv13/Training/Modulo 3 Scanning Networks 03/1.2 Comunicación TCP IP.md",
+    "CEHv13/Training/Modulo 3 Scanning Networks 03/1.1 TCP Communication Flags.md",
+    "CEHv13/Training/Modulo 3 Scanning Networks 03/01 Scanning Networks.md",
+    "CEHv13/Training/Modulo 04 Enumeration/Sin título.md",
+    "CEHv13/Training/Modulo 3 Scanning Networks 03/07 Network Scanning Countermeasures.md",
+    "attachments/image20250526123036.png",
+    "attachments/Pasted image 20250526123028.png",
+    "attachments/image20250526120942.png",
+    "attachments/image20250526120040.png",
+    "attachments/Pasted image 20250526115957.png",
+    "attachments/image20250526111952.png",
+    "attachments/image20250526111607.png",
+    "attachments/image20250526111558.png",
+    "attachments/image20250526111351.png",
+    "attachments/image20250526111007.png",
+    "CEHv13/Training/02 Puertos.md",
+    "CEHv13/Training/01 OSI Model.md",
+    "CEHv13/Training/Modulo 2 Footprinting and Reconnaissance/01 Footprinting Concepts.md",
+    "CEHv13/Training/Ataques/Ataques.md",
     "CEHv13/Training/Modulo 20 Cryptography/1.1 Symmetric Encryption Algorithms.md",
-    "CEHv13/Training/Modulo 20 Cryptography/Drawing 2025-05-22 23.36.03.excalidraw.md",
-    "attachments/image20250522233325.png",
-    "attachments/image20250522180952.png",
-    "Sin título.md",
-    "attachments/image20250522121521.png",
-    "CEHv13/Training/Modulo 10 Denial-of-Service/04 DoS-DDoS Attack Countermeasures.md",
+    "CEHv13/Training/Ataques/Sin nombre",
+    "CEHv13/Training/Ataques",
+    "CEHv13/Training/Modulo 20 Cryptography/1.2 Asymmetric Encryption Algorithms.md",
+    "CEHv13/Training/Modulo 20 Cryptography/01 Cryptography Concepts and Encryption Algorithms.md",
+    "CEHv13/Training/Modulo 2 Footprinting and Reconnaissance/04 DNS Footprinting.md",
+    "CEHv13/Training/Modulo 6 System Hacking/01 Gaining Access.md",
+    "CEHv13/Training/Modulo 2 Footprinting and Reconnaissance/03 Whois Footprinting.md",
+    "CEHv13/Training/Modulo 2 Footprinting and Reconnaissance/02 Tools to Search Company`s Sub domains.md",
+    "CEHv13/Training/Modulo 19 Cloud Computing/04 Cloud Attacks.md",
+    "CEHv13/Training/Modulo 19 Cloud Computing/03 Serverless Computing.md",
+    "CEHv13/Training/Modulo 19 Cloud Computing/02 Container Technology.md",
+    "CEHv13/Training/Modulo 19 Cloud Computing/1.3 Cloud Deployment Models.md",
+    "CEHv13/Training/Modulo 19 Cloud Computing/1.2 Shared Responsibilities in Cloud.md",
+    "CEHv13/Training/Modulo 19 Cloud Computing",
     "CEHv13/Training/Modulo 20 Cryptography",
-    "CEHv13/Training/Modulo 10 Denial-of-Service/03 DoS-DDoS Attack Toolkits.md",
     "CEHv13/Training/Modulo 10 Denial-of-Service",
     "CEHv13/Training/Modulo 9 Social Engineering",
     "CEHv13/Training/Modulo 8 Sniffing",
     "CEHv13/Training/Modulo 7 Malware Threats",
     "CEHv13/Training/Modulo 6 System Hacking",
-    "CEHv13/Training/Modulo 5 Vulnerability Analysis",
-    "CEHv13/Training/Modulo 04 Enumeration",
-    "CEHv13/Training/Modulo 3 Scanning Networks 03"
+    "CEHv13/Training/Modulo 5 Vulnerability Analysis"
   ]
 }

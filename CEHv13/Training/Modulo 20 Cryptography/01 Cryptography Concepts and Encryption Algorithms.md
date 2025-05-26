@@ -27,7 +27,7 @@ El cifrado simétrico requiere que tanto el remitente como el receptor del mensa
 
 ##### ▪ Asymmetric Encryption
 
-El concepto de cifrado asimétrico (conocido como criptografía de clave pública) se introdujo para resolver los problemas de gestión de claves. El cifrado asimétrico **implica tanto una clave pública como una clave privada**. La clave pública está disponible públicamente, mientras que el remitente mantiene la clave privada en secreto. Un sistema de clave asimétrica es un método de cifrado que utiliza un par de claves compuesto por una clave pública disponible para cualquiera y una clave privada mantenida solo por el propietario de la clave, lo que ayuda a **proporcionar confidencialidad, integridad, autenticación y no repudio en la gestión de datos.**
+==El concepto de cifrado asimétrico (conocido como criptografía de clave pública)== se introdujo para resolver los problemas de gestión de claves. El cifrado asimétrico **implica tanto una clave pública como una clave privada**. La clave pública está disponible públicamente, mientras que el remitente mantiene la clave privada en secreto. Un sistema de clave asimétrica es un método de cifrado que utiliza un par de claves compuesto por una clave pública disponible para cualquiera y una clave privada mantenida solo por el propietario de la clave, lo que ayuda a **proporcionar confidencialidad, integridad, autenticación y no repudio en la gestión de datos.**
 
 ![[image20250522180952.png]]
 
