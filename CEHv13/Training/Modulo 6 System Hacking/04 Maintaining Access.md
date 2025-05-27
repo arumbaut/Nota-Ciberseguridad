@@ -14,4 +14,16 @@ Después de obtener acceso y escalar privilegios en el sistema objetivo, los ata
 
 Los _keyloggers_ son programas de software o dispositivos de hardware que registran las teclas presionadas en el teclado de una computadora.Como los _keyloggers_ ocultan sus procesos e interfaz, el objetivo no es consciente de que está siendo monitoreado.
 
-![[image20250527124626.png]]
+![](attachments/image20250527124626.png)
+
+#### Tools for Executing Applications 
+#### ▪ Dameware Remote Support  
+Fuente: [https://www.solarwinds.com](https://www.solarwinds.com)  
+Dameware Remote Support es una herramienta de control remoto y gestión de sistemas que facilita la administración remota de Windows, ofrece herramientas administrativas integradas y permite gestionar de forma remota entornos de Active Directory (AD).
+
+**Some of the privilege escalation tools are listed as follows:** 
+▪ Ninja (https://github.com) 
+▪ Pupy (https://github.com)
+▪ PDQ Deploy (https://www.pdq.com) 
+▪ ManageEngine Endpoint Central (https://www.manageengine.com) 
+▪ PsExec (https://www.microsoft.com)

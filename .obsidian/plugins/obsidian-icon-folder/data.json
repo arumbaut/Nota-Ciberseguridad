@@ -169,5 +169,15 @@
   "CEHv13/Training/Modulo 6 System Hacking/2.1 Metasploit Architecture.md": "TiNotes",
   "CEHv13/Training/Modulo 6 System Hacking/2.2 Buffer Overflow.md": "TiNotes",
   "CEHv13/Training/Modulo 6 System Hacking/3 Escalating Privileges.md": "LiNotebookTabs",
-  "CEHv13/Training/Modulo 6 System Hacking/3.1 Tools for Defending against DLL and Dylib Hijacking.md": "TiNotes"
+  "CEHv13/Training/Modulo 6 System Hacking/3.1 Tools for Defending against DLL and Dylib Hijacking.md": "TiNotes",
+  "CEHv13/Training/Modulo 6 System Hacking/04 Maintaining Access.md": "LiNotebookTabs",
+  "CEHv13/Training/Modulo 6 System Hacking/4.1 ▪ Hardware Keystroke Loggers.md": "TiNotes",
+  "CEHv13/Training/Modulo 6 System Hacking/4.2 Software Keystroke Loggers.md": "TiNotes",
+  "CEHv13/Training/Modulo 6 System Hacking/4.3 Spyware.md": "TiNotes",
+  "CEHv13/Training/Modulo 6 System Hacking/5 Hiding Files.md": "LiNotebookTabs",
+  "CEHv13/Training/Modulo 6 System Hacking/06 Esteganografía.md": "LiNotebookTabs",
+  "CEHv13/Training/Modulo 6 System Hacking/07 Establishing Persistence.md": "LiNotebookTabs",
+  "CEHv13/Training/Modulo 6 System Hacking/08 Clearing Logs.md": "LiNotebookTabs",
+  "CEHv13/Training/Modulo 7 Malware Threats/01 Malware Concepts.md": "LiNotebookTabs",
+  "CEHv13/Training/Modulo 7 Malware Threats/02 APT Concepts.md": "LiNotebookTabs"
 }
