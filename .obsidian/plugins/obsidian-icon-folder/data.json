@@ -179,5 +179,15 @@
   "CEHv13/Training/Modulo 6 System Hacking/07 Establishing Persistence.md": "LiNotebookTabs",
   "CEHv13/Training/Modulo 6 System Hacking/08 Clearing Logs.md": "LiNotebookTabs",
   "CEHv13/Training/Modulo 7 Malware Threats/01 Malware Concepts.md": "LiNotebookTabs",
-  "CEHv13/Training/Modulo 7 Malware Threats/02 APT Concepts.md": "LiNotebookTabs"
+  "CEHv13/Training/Modulo 7 Malware Threats/02 APT Concepts.md": "LiNotebookTabs",
+  "attachments": "LiImage",
+  "CEHv13/Training/Modulo 7 Malware Threats/03 Trojan Concepts.md": "LiNotebookTabs",
+  "CEHv13/Training/Modulo 7 Malware Threats/3.1 Types of Trojans.md": "TiNotes",
+  "CEHv13/Training/Modulo 7 Malware Threats/3.2 Employing a Dropper or Downloader.md": "TiNotes",
+  "CEHv13/Training/Modulo 7 Malware Threats/4.1 Types of Viruses.md": "TiNotes",
+  "CEHv13/Training/Modulo 7 Malware Threats/04 Virus.md": "LiNotebookTabs",
+  "CEHv13/Training/Modulo 7 Malware Threats/05 Worm Concepts.md": "LiNotebookTabs",
+  "CEHv13/Training/Modulo 7 Malware Threats/06 Fileless Malware.md": "LiNotebookTabs",
+  "CEHv13/Training/Modulo 7 Malware Threats/07  AI-based Malware.md": "LiNotebookTabs",
+  "CEHv13/Training/Modulo 7 Malware Threats/08 Malware Analysis.md": "LiNotebookTabs"
 }
