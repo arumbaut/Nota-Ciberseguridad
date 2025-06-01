@@ -209,5 +209,22 @@
   "CEHv13/Training/Modulo 09 Social Engineering/03 Social Engineering Countermeasures.md": "LiNotebookTabs",
   "CEHv13/Training/Modulo 09 Social Engineering/01 Social Engineering Concepts.md": "LiNotebookTabs",
   "CEHv13/Training/Modulo 09 Social Engineering/02 Types of Social Engineering.md": "LiNotebookTabs",
-  "CEHv13/Training/Modulo 12 Evading IDS, Firewalls, and Honeypots": "LiFolder"
+  "CEHv13/Training/Modulo 12 Evading IDS, Firewalls, and Honeypots": "LiFolder",
+  "CEHv13/Training/Modulo 12 Evading IDS, Firewalls, and Honeypots/01 IDS, IPS, and Firewall Concepts.md": "LiNotebookTabs",
+  "CEHv13/Training/Modulo 12 Evading IDS, Firewalls, and Honeypots/02 How an IDS Detects an Intrusion.md": "LiNotebookTabs",
+  "CEHv13/Training/Modulo 12 Evading IDS, Firewalls, and Honeypots/03 Types of Intrusion Detection Systems.md": "LiNotebookTabs",
+  "CEHv13/Training/Modulo 12 Evading IDS, Firewalls, and Honeypots/04 Types of IDS Alerts.md": {
+    "iconName": "LiNotebookTabs",
+    "iconColor": "#e81111"
+  },
+  "CEHv13/Training/Modulo 12 Evading IDS, Firewalls, and Honeypots/05 Firewall.md": "LiNotebookTabs",
+  "CEHv13/Training/Modulo 12 Evading IDS, Firewalls, and Honeypots/5.1 Types of Firewalls.md": "LiNotebookTabs",
+  "CEHv13/Training/Modulo 12 Evading IDS, Firewalls, and Honeypots/06 Intrusion Detection Tools.md": "LiNotebookTabs",
+  "CEHv13/Training/Modulo 12 Evading IDS, Firewalls, and Honeypots/07 Intrusion Prevention Tools.md": "LiNotebookTabs",
+  "CEHv13/Training/Modulo 12 Evading IDS, Firewalls, and Honeypots/08 Evading IDS Firewalls.md": "LiNotebookTabs",
+  "CEHv13/Training/Modulo 12 Evading IDS, Firewalls, and Honeypots/09 NAC and Endpoint Security Evasion Techniques.md": "LiNotebookTabs",
+  "CEHv13/Training/Modulo 12 Evading IDS, Firewalls, and Honeypots/10 Honeypo.md": "LiNotebookTabs",
+  "CEHv13/Training/Modulo 12 Evading IDS, Firewalls, and Honeypots/10.1 Detecting Honeypots.md": "TiNotes",
+  "CEHv13/Training/Modulo 12 Evading IDS, Firewalls, and Honeypots/11 IDS Firewall Evasion Countermeasures.md": "LiNotebookTabs",
+  "CEHv13/Training/Modulo 13 Hacking Web Servers": "LiFolder"
 }
