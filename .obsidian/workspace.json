@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CEHv13/Training/Modulo 13 Hacking Web Servers/09 Web Server Attack Countermeasures.md",
+                "file": "CEHv13/Training/Modulo 14 Hacking Web Applications/08 How to Defend Against Web Application Attacks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "09 Web Server Attack Countermeasures"
+              "title": "08 How to Defend Against Web Application Attacks"
             }
           }
         ]
@@ -192,8 +192,27 @@
   },
   "active": "e914eddc31ef7e3c",
   "lastOpenFiles": [
-    "CEHv13/Training/Modulo 13 Hacking Web Servers/08 Web Server Attack Tools.md",
+    "CEHv13/Training/Modulo 14 Hacking Web Applications/05 Web API.md",
+    "CEHv13/Training/Modulo 14 Hacking Web Applications/06 Encoding Schemes.md",
+    "CEHv13/Training/Modulo 14 Hacking Web Applications/07 Application Whitelisting and Blacklisting Tools.md",
+    "CEHv13/Training/Modulo 14 Hacking Web Applications/08 How to Defend Against Web Application Attacks.md",
+    "attachments/image20250601211945.png",
+    "attachments/image20250601210141.png",
+    "CEHv13/Training/Modulo 14 Hacking Web Applications/04 Web Application Hacking Methodology.md",
+    "attachments/image20250601205738.png",
+    "attachments/image20250601205541.png",
+    "CEHv13/Training/Modulo 14 Hacking Web Applications/03 Web Application Attacks.md",
+    "CEHv13/Training/Modulo 14 Hacking Web Applications/02 Web Services.md",
+    "CEHv13/Training/Modulo 14 Hacking Web Applications/01 Web Application Concepts.md",
+    "CEHv13/Training/Modulo 19 Cloud Computing/03 Serverless Computing.md",
+    "attachments/image20250601164624.png",
+    "attachments/image20250601181031.png",
+    "CEHv13/Training/Modulo 19 Cloud Computing/01 Cloud Computing Concepts.md",
+    "attachments/Pasted image 20250601180935.png",
+    "CEHv13/Training/Ataques/Ataques.md",
+    "CEHv13/Training/Modulo 14 Hacking Web Applications",
     "CEHv13/Training/Modulo 13 Hacking Web Servers/09 Web Server Attack Countermeasures.md",
+    "CEHv13/Training/Modulo 13 Hacking Web Servers/08 Web Server Attack Tools.md",
     "CEHv13/Training/Modulo 13 Hacking Web Servers/05 Web Server Attack Methodology.md",
     "CEHv13/Training/Modulo 13 Hacking Web Servers/07 Finding Default Credentials of Web Server.md",
     "CEHv13/Training/Modulo 13 Hacking Web Servers/06 Enumerating Web Server Information Using Nmap.md",
@@ -203,7 +222,6 @@
     "attachments/Pasted image 20250601164830.png",
     "CEHv13/Training/Modulo 13 Hacking Web Servers/02 Web Server Architecture.md",
     "attachments/Pasted image 20250601164804.png",
-    "attachments/image20250601164624.png",
     "attachments/image20250601153717.png",
     "CEHv13/Training/Modulo 12 Evading IDS, Firewalls, and Honeypots/11 IDS Firewall Evasion Countermeasures.md",
     "CEHv13/Training/Modulo 13 Hacking Web Servers",
@@ -211,24 +229,6 @@
     "CEHv13/Training/Modulo 12 Evading IDS, Firewalls, and Honeypots/10 Honeypo.md",
     "CEHv13/Training/Modulo 12 Evading IDS, Firewalls, and Honeypots/02 How an IDS Detects an Intrusion.md",
     "CEHv13/Training/Modulo 12 Evading IDS, Firewalls, and Honeypots/09 NAC and Endpoint Security Evasion Techniques.md",
-    "CEHv13/Training/Modulo 12 Evading IDS, Firewalls, and Honeypots/08 Evading IDS Firewalls.md",
-    "CEHv13/Training/Modulo 12 Evading IDS, Firewalls, and Honeypots/5.1 Types of Firewalls.md",
-    "CEHv13/Training/Modulo 12 Evading IDS, Firewalls, and Honeypots/07 Intrusion Prevention Tools.md",
-    "CEHv13/Training/Modulo 12 Evading IDS, Firewalls, and Honeypots/06 Intrusion Detection Tools.md",
-    "CEHv13/Training/Modulo 12 Evading IDS, Firewalls, and Honeypots/03 Types of Intrusion Detection Systems.md",
-    "attachments/image20250601120103.png",
-    "attachments/image20250601114843.png",
-    "attachments/image20250601114838.png",
-    "attachments/image20250601114823.png",
-    "attachments/image20250601114713.png",
-    "CEHv13/Training/Modulo 12 Evading IDS, Firewalls, and Honeypots/05 Firewall.md",
-    "attachments/image20250601102642.png",
-    "CEHv13/Training/Modulo 12 Evading IDS, Firewalls, and Honeypots/04 Types of IDS Alerts.md",
-    "CEHv13/Training/Modulo 12 Evading IDS, Firewalls, and Honeypots/01 IDS, IPS, and Firewall Concepts.md",
-    "Hacking Pentesting/Maquinas DMV y WPOWN.md",
-    "Hacking Pentesting/FFW_FortiGate/Instalacion FortiGate VM.md",
-    "Hacking Pentesting/FFW_FortiGate/Configuracion de VLANs con Fortigate y Swichh Cisco en GNS3.md",
-    "CEHv13/Training/Modulo 11 Session Hijacking/07 Approaches to Prevent Session Hijacking.md",
     "CEHv13/Training/Modulo 12 Evading IDS, Firewalls, and Honeypots",
     "CEHv13/Training/Modulo 11 Session Hijacking",
     "CEHv13/Training/Ataques/Sin nombre",
@@ -236,7 +236,6 @@
     "CEHv13/Training/Modulo 19 Cloud Computing",
     "CEHv13/Training/Modulo 20 Cryptography",
     "CEHv13/Training/Modulo 10 Denial-of-Service",
-    "CEHv13/Training/Modulo 09 Social Engineering",
-    "CEHv13/Training/Modulo 08 Sniffing"
+    "CEHv13/Training/Modulo 09 Social Engineering"
   ]
 }

@@ -226,5 +226,25 @@
   "CEHv13/Training/Modulo 12 Evading IDS, Firewalls, and Honeypots/10 Honeypo.md": "LiNotebookTabs",
   "CEHv13/Training/Modulo 12 Evading IDS, Firewalls, and Honeypots/10.1 Detecting Honeypots.md": "TiNotes",
   "CEHv13/Training/Modulo 12 Evading IDS, Firewalls, and Honeypots/11 IDS Firewall Evasion Countermeasures.md": "LiNotebookTabs",
-  "CEHv13/Training/Modulo 13 Hacking Web Servers": "LiFolder"
+  "CEHv13/Training/Modulo 13 Hacking Web Servers": "LiFolder",
+  "CEHv13/Training/Modulo 13 Hacking Web Servers/01 Web Server Concepts.md": "LiNotebookTabs",
+  "CEHv13/Training/Modulo 13 Hacking Web Servers/02 Web Server Attacks.md": "LiNotebookTabs",
+  "CEHv13/Training/Modulo 13 Hacking Web Servers/04 Web Application Attacks.md": "LiNotebookTabs",
+  "CEHv13/Training/Modulo 13 Hacking Web Servers/05 Web Server Attack Methodology.md": "LiNotebookTabs",
+  "CEHv13/Training/Modulo 13 Hacking Web Servers/06 Enumerating Web Server Information Using Nmap.md": "LiNotebookTabs",
+  "CEHv13/Training/Modulo 13 Hacking Web Servers/07 Finding Default Credentials of Web Server.md": "LiNotebookTabs",
+  "CEHv13/Training/Modulo 13 Hacking Web Servers/08 Web Server Attack Tools.md": "LiNotebookTabs",
+  "CEHv13/Training/Modulo 13 Hacking Web Servers/09 Web Server Attack Countermeasures.md": "LiNotebookTabs",
+  "CEHv13/Training/Modulo 14 Hacking Web Applications": "LiFolder",
+  "CEHv13/Training/Modulo 14 Hacking Web Applications/01 Web Application Concepts.md": "LiNotebookTabs",
+  "CEHv13/Training/Modulo 14 Hacking Web Applications/02 Web Services.md": "LiNotebookTabs",
+  "CEHv13/Training/Modulo 14 Hacking Web Applications/03 Web Application Attacks.md": {
+    "iconName": "LiNotebookTabs",
+    "iconColor": "#d21919"
+  },
+  "CEHv13/Training/Modulo 14 Hacking Web Applications/04 Web Application Hacking Methodology.md": "LiNotebookTabs",
+  "CEHv13/Training/Modulo 14 Hacking Web Applications/05 Web API.md": "LiNotebookTabs",
+  "CEHv13/Training/Modulo 14 Hacking Web Applications/06 Encoding Schemes.md": "LiNotebookTabs",
+  "CEHv13/Training/Modulo 14 Hacking Web Applications/07 Application Whitelisting and Blacklisting Tools.md": "LiNotebookTabs",
+  "CEHv13/Training/Modulo 14 Hacking Web Applications/08 How to Defend Against Web Application Attacks.md": "LiNotebookTabs"
 }
