@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CEHv13/Training/Modulo 14 Hacking Web Applications/08 How to Defend Against Web Application Attacks.md",
+                "file": "CEHv13/Training/Modulo 15 SQL Injection/12 SQL Injection Detection Tools.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "08 How to Defend Against Web Application Attacks"
+              "title": "12 SQL Injection Detection Tools"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 385.5
+    "width": 200
   },
   "right": {
     "id": "dd62f90908c3232e",
@@ -112,11 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CEHv13/Training/Modulo 15 SQL Injection/12 SQL Injection Detection Tools.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes"
+              "title": "Enlaces salientes de 12 SQL Injection Detection Tools"
             }
           },
           {
@@ -192,50 +193,51 @@
   },
   "active": "e914eddc31ef7e3c",
   "lastOpenFiles": [
+    "CEHv13/Training/Modulo 15 SQL Injection/11 Defense Againts SQL Injections.md",
+    "CEHv13/Training/Modulo 15 SQL Injection/12 SQL Injection Detection Tools.md",
+    "CEHv13/Training/Modulo 15 SQL Injection/08 Creatin Server Backdoors.md",
+    "CEHv13/Training/Modulo 15 SQL Injection/09 SQL Injection Tools.md",
+    "CEHv13/Training/Modulo 15 SQL Injection/10 Evading IDS.md",
+    "attachments/image20250602232311.png",
+    "attachments/image20250602232019.png",
+    "CEHv13/Training/Modulo 15 SQL Injection/07 Interacting with the Operating System.md",
+    "CEHv13/Training/Modulo 15 SQL Injection/06 Launch SQL Injection Attacks.md",
+    "CEHv13/Training/Modulo 15 SQL Injection/05 Additional Methods to Detect SQL Injection.md",
+    "CEHv13/Training/Modulo 15 SQL Injection/04 Testing for SQL Injection.md",
+    "attachments/image20250602225333.png",
+    "attachments/image20250602225307.png",
+    "attachments/image20250602225216.png",
+    "CEHv13/Training/Modulo 15 SQL Injection/03 SQL Injection Methodology.md",
+    "CEHv13/Training/Modulo 15 SQL Injection/02 Types of SQL Injection.md",
+    "attachments/image20250602222651.png",
+    "CEHv13/Training/Modulo 15 SQL Injection/01 SQL Injection Concepts.md",
+    "attachments/image20250602222042.png",
+    "attachments/image20250602222035.png",
+    "CEHv13/Training/El encabezado del Packet IPv6.md",
+    "CEHv13/Training/Modulo 15 SQL Injection",
+    "attachments/image20250602221258.png",
+    "CEHv13/Training/El encabezado del Packet IPv4.md",
+    "attachments/image20250602221131.png",
+    "CEHv13/Training/Encabezado y Operación del Segmento UDP.md",
+    "CEHv13/Training/Encabezado de Segmento TCP.md",
+    "CEHv13/Training/Ataques/Ataques.md",
+    "CEHv13/Training/Modulo 14 Hacking Web Applications/08 How to Defend Against Web Application Attacks.md",
     "CEHv13/Training/Modulo 14 Hacking Web Applications/05 Web API.md",
     "CEHv13/Training/Modulo 14 Hacking Web Applications/06 Encoding Schemes.md",
     "CEHv13/Training/Modulo 14 Hacking Web Applications/07 Application Whitelisting and Blacklisting Tools.md",
-    "CEHv13/Training/Modulo 14 Hacking Web Applications/08 How to Defend Against Web Application Attacks.md",
-    "attachments/image20250601211945.png",
-    "attachments/image20250601210141.png",
     "CEHv13/Training/Modulo 14 Hacking Web Applications/04 Web Application Hacking Methodology.md",
-    "attachments/image20250601205738.png",
-    "attachments/image20250601205541.png",
     "CEHv13/Training/Modulo 14 Hacking Web Applications/03 Web Application Attacks.md",
     "CEHv13/Training/Modulo 14 Hacking Web Applications/02 Web Services.md",
     "CEHv13/Training/Modulo 14 Hacking Web Applications/01 Web Application Concepts.md",
     "CEHv13/Training/Modulo 19 Cloud Computing/03 Serverless Computing.md",
-    "attachments/image20250601164624.png",
-    "attachments/image20250601181031.png",
-    "CEHv13/Training/Modulo 19 Cloud Computing/01 Cloud Computing Concepts.md",
-    "attachments/Pasted image 20250601180935.png",
-    "CEHv13/Training/Ataques/Ataques.md",
     "CEHv13/Training/Modulo 14 Hacking Web Applications",
-    "CEHv13/Training/Modulo 13 Hacking Web Servers/09 Web Server Attack Countermeasures.md",
-    "CEHv13/Training/Modulo 13 Hacking Web Servers/08 Web Server Attack Tools.md",
-    "CEHv13/Training/Modulo 13 Hacking Web Servers/05 Web Server Attack Methodology.md",
-    "CEHv13/Training/Modulo 13 Hacking Web Servers/07 Finding Default Credentials of Web Server.md",
-    "CEHv13/Training/Modulo 13 Hacking Web Servers/06 Enumerating Web Server Information Using Nmap.md",
-    "CEHv13/Training/Modulo 13 Hacking Web Servers/04 Web Application Attacks.md",
-    "CEHv13/Training/Modulo 13 Hacking Web Servers/02 Web Server Attacks.md",
-    "CEHv13/Training/Modulo 13 Hacking Web Servers/01 Web Server Concepts.md",
-    "attachments/Pasted image 20250601164830.png",
-    "CEHv13/Training/Modulo 13 Hacking Web Servers/02 Web Server Architecture.md",
-    "attachments/Pasted image 20250601164804.png",
-    "attachments/image20250601153717.png",
-    "CEHv13/Training/Modulo 12 Evading IDS, Firewalls, and Honeypots/11 IDS Firewall Evasion Countermeasures.md",
     "CEHv13/Training/Modulo 13 Hacking Web Servers",
-    "CEHv13/Training/Modulo 12 Evading IDS, Firewalls, and Honeypots/10.1 Detecting Honeypots.md",
-    "CEHv13/Training/Modulo 12 Evading IDS, Firewalls, and Honeypots/10 Honeypo.md",
-    "CEHv13/Training/Modulo 12 Evading IDS, Firewalls, and Honeypots/02 How an IDS Detects an Intrusion.md",
-    "CEHv13/Training/Modulo 12 Evading IDS, Firewalls, and Honeypots/09 NAC and Endpoint Security Evasion Techniques.md",
     "CEHv13/Training/Modulo 12 Evading IDS, Firewalls, and Honeypots",
     "CEHv13/Training/Modulo 11 Session Hijacking",
     "CEHv13/Training/Ataques/Sin nombre",
     "CEHv13/Training/Ataques",
     "CEHv13/Training/Modulo 19 Cloud Computing",
     "CEHv13/Training/Modulo 20 Cryptography",
-    "CEHv13/Training/Modulo 10 Denial-of-Service",
-    "CEHv13/Training/Modulo 09 Social Engineering"
+    "CEHv13/Training/Modulo 10 Denial-of-Service"
   ]
 }

@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "📦",
       "TiNotes",
       "LiImage",
       "LiFolder",
-      "LiNotebookTabs",
-      "LiNotebook"
+      "LiNotebookTabs"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -246,5 +246,20 @@
   "CEHv13/Training/Modulo 14 Hacking Web Applications/05 Web API.md": "LiNotebookTabs",
   "CEHv13/Training/Modulo 14 Hacking Web Applications/06 Encoding Schemes.md": "LiNotebookTabs",
   "CEHv13/Training/Modulo 14 Hacking Web Applications/07 Application Whitelisting and Blacklisting Tools.md": "LiNotebookTabs",
-  "CEHv13/Training/Modulo 14 Hacking Web Applications/08 How to Defend Against Web Application Attacks.md": "LiNotebookTabs"
+  "CEHv13/Training/Modulo 14 Hacking Web Applications/08 How to Defend Against Web Application Attacks.md": "LiNotebookTabs",
+  "CEHv13/Training/Encabezado de Segmento TCP.md": "📦",
+  "CEHv13/Training/Encabezado y Operación del Segmento UDP.md": "📦",
+  "CEHv13/Training/El encabezado del Packet IPv4.md": "📦",
+  "CEHv13/Training/Modulo 15 SQL Injection": "LiFolder",
+  "CEHv13/Training/Modulo 15 SQL Injection/01 SQL Injection Concepts.md": "LiNotebookTabs",
+  "CEHv13/Training/Modulo 15 SQL Injection/02 Types of SQL Injection.md": "LiNotebookTabs",
+  "CEHv13/Training/Modulo 15 SQL Injection/03 SQL Injection Methodology.md": "LiNotebookTabs",
+  "CEHv13/Training/Modulo 15 SQL Injection/04 Testing for SQL Injection.md": "LiNotebookTabs",
+  "CEHv13/Training/Modulo 15 SQL Injection/05 Additional Methods to Detect SQL Injection.md": "LiNotebookTabs",
+  "CEHv13/Training/Modulo 15 SQL Injection/06 Launch SQL Injection Attacks.md": "LiNotebookTabs",
+  "CEHv13/Training/Modulo 15 SQL Injection/07 Interacting with the Operating System.md": "LiNotebookTabs",
+  "CEHv13/Training/Modulo 15 SQL Injection/08 Creatin Server Backdoors.md": "LiNotebookTabs",
+  "CEHv13/Training/Modulo 15 SQL Injection/09 SQL Injection Tools.md": "LiNotebookTabs",
+  "CEHv13/Training/Modulo 15 SQL Injection/10 Evading IDS.md": "LiNotebookTabs",
+  "CEHv13/Training/Modulo 15 SQL Injection/11 Defense Againts SQL Injections.md": "LiNotebookTabs"
 }
