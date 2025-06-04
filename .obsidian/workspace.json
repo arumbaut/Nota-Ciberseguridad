@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CEHv13/Training/Modulo 16 Hacking Wireless Networks/06 Wireless Encryption.md",
+                "file": "CEHv13/Training/Modulo 16 Hacking Wireless Networks/10 Wi-Fi Security Auditing Tools.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "06 Wireless Encryption"
+              "title": "10 Wi-Fi Security Auditing Tools"
             }
           }
         ]
@@ -191,21 +191,27 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "19b62d1d9a29ce9d",
+  "active": "e914eddc31ef7e3c",
   "lastOpenFiles": [
-    "attachments/image20250604221618.png",
+    "CEHv13/Training/Modulo 16 Hacking Wireless Networks/09 Launch of Wireless Attacks.md",
+    "CEHv13/Training/Modulo 16 Hacking Wireless Networks/10 Wi-Fi Security Auditing Tools.md",
+    "CEHv13/Training/Modulo 16 Hacking Wireless Networks/07 Wireless Threats.md",
+    "CEHv13/Training/Modulo 16 Hacking Wireless Networks/08 Wireless Hacking Methodology.md",
+    "attachments/image20250604223401.png",
+    "attachments/image20250604222619.png",
+    "attachments/image20250604222613.png",
+    "attachments/image20250604222442.png",
+    "attachments/image20250604222436.png",
+    "attachments/image20250604222431.png",
+    "attachments/image20250604222236.png",
+    "attachments/image20250604222229.png",
+    "attachments/image20250604222018.png",
+    "attachments/image20250604222013.png",
+    "CEHv13/Training/Modulo 16 Hacking Wireless Networks/06 Wireless Encryption.md",
     "CEHv13/Training/Modulo 16 Hacking Wireless Networks/05 Types of Wireless Antennas.md",
     "Pasted.md",
-    "CEHv13/Training/Modulo 16 Hacking Wireless Networks/06 Wireless Encryption.md",
-    "attachments/image20250604215523.png",
-    "attachments/image20250604215035.png",
-    "attachments/image20250604214813.png",
     "CEHv13/Training/Modulo 16 Hacking Wireless Networks/04 Wi-Fi Authentication Process.md",
-    "attachments/image20250604214037.png",
-    "attachments/image20250604213429.png",
     "CEHv13/Training/Modulo 16 Hacking Wireless Networks/03 Wireless Standards.md",
-    "attachments/image20250604212850.png",
-    "attachments/image20250604212813.png",
     "CEHv13/Training/Modulo 16 Hacking Wireless Networks/02 Types of Wireless Networks.md",
     "CEHv13/Training/Modulo 16 Hacking Wireless Networks/01 Wireless Terminology.md",
     "CEHv13/Training/El encabezado del Packet IPv6.md",
@@ -224,12 +230,6 @@
     "CEHv13/Training/Modulo 11 Session Hijacking/04 Network-Level Session Hijacking.md",
     "CEHv13/Training/Modulo 11 Session Hijacking/03  Application-Level Session Hijacking.md",
     "CEHv13/Training/Modulo 11 Session Hijacking/02 Types of Session Hijacking.md",
-    "CEHv13/Training/Modulo 11 Session Hijacking/01 Session Hijacking Concepts.md",
-    "CEHv13/Training/Modulo 10 Denial-of-Service/04 DoS-DDoS Attack Countermeasures.md",
-    "CEHv13/Training/Modulo 10 Denial-of-Service/03 DoS-DDoS Attack Toolkits.md",
-    "attachments/image20250602232311.png",
-    "attachments/image20250602232019.png",
-    "attachments/image20250602225333.png",
     "CEHv13/Training/Modulo 15 SQL Injection",
     "CEHv13/Training/Modulo 14 Hacking Web Applications",
     "CEHv13/Training/Modulo 13 Hacking Web Servers",
