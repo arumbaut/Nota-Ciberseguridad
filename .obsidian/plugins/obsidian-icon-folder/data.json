@@ -265,5 +265,12 @@
   "CEHv13/Training/Modulo 15 SQL Injection/10 Evading IDS.md": "LiNotebookTabs",
   "CEHv13/Training/Modulo 15 SQL Injection/11 Defense Againts SQL Injections.md": "LiNotebookTabs",
   "CEHv13/Training/Modulo 06 System Hacking/4.1 Hardware Keystroke Loggers.md": "TiNotes",
-  "CEHv13/Training/El encabezado del Packet IPv6.md": "📦"
+  "CEHv13/Training/El encabezado del Packet IPv6.md": "📦",
+  "CEHv13/Training/Modulo 16 Hacking Wireless Networks": "LiFolder",
+  "CEHv13/Training/Modulo 16 Hacking Wireless Networks/01 Wireless Terminology.md": "LiNotebookTabs",
+  "CEHv13/Training/Modulo 16 Hacking Wireless Networks/02 Types of Wireless Networks.md": "LiNotebookTabs",
+  "CEHv13/Training/Modulo 16 Hacking Wireless Networks/03 Wireless Standards.md": "LiNotebookTabs",
+  "CEHv13/Training/Modulo 16 Hacking Wireless Networks/04 Wi-Fi Authentication Process.md": "LiNotebookTabs",
+  "CEHv13/Training/Modulo 16 Hacking Wireless Networks/05 Types of Wireless Antennas.md": "LiNotebookTabs",
+  "CEHv13/Training/Modulo 16 Hacking Wireless Networks/06 Wireless Encryption.md": "LiNotebookTabs"
 }
