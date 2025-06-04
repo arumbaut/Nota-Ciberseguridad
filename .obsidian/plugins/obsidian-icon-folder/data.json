@@ -180,7 +180,6 @@
   "CEHv13/Training/Modulo 06 System Hacking/2.2 Buffer Overflow.md": "TiNotes",
   "CEHv13/Training/Modulo 06 System Hacking/3 Escalating Privileges.md": "LiNotebookTabs",
   "CEHv13/Training/Modulo 06 System Hacking/3.1 Tools for Defending against DLL and Dylib Hijacking.md": "TiNotes",
-  "CEHv13/Training/Modulo 06 System Hacking/4.1 ▪ Hardware Keystroke Loggers.md": "TiNotes",
   "CEHv13/Training/Modulo 06 System Hacking/4.2 Software Keystroke Loggers.md": "TiNotes",
   "CEHv13/Training/Modulo 06 System Hacking/4.3 Spyware.md": "TiNotes",
   "CEHv13/Training/Modulo 06 System Hacking/5 Hiding Files.md": "LiNotebookTabs",
@@ -264,5 +263,7 @@
   "CEHv13/Training/Modulo 15 SQL Injection/08 Creatin Server Backdoors.md": "LiNotebookTabs",
   "CEHv13/Training/Modulo 15 SQL Injection/09 SQL Injection Tools.md": "LiNotebookTabs",
   "CEHv13/Training/Modulo 15 SQL Injection/10 Evading IDS.md": "LiNotebookTabs",
-  "CEHv13/Training/Modulo 15 SQL Injection/11 Defense Againts SQL Injections.md": "LiNotebookTabs"
+  "CEHv13/Training/Modulo 15 SQL Injection/11 Defense Againts SQL Injections.md": "LiNotebookTabs",
+  "CEHv13/Training/Modulo 06 System Hacking/4.1 Hardware Keystroke Loggers.md": "TiNotes",
+  "CEHv13/Training/El encabezado del Packet IPv6.md": "📦"
 }

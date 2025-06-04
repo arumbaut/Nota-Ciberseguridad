@@ -1,4 +1,4 @@
-![](attachments/image20250530134207.png)
+![](../../../attachments/image20250530134207.png)
 
 **Protecting against Session Hijacking**
 

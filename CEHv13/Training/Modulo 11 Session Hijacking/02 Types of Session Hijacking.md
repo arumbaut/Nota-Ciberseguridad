@@ -23,6 +23,6 @@ There are two levels of session hijacking in the OSI model: the network-level an
 | **Interacción con el host víctima**                      | Se requiere desplazar al usuario legítimo de la sesión (DoS) antes de tomar el control.            | No es necesario desplazar al usuario legítimo; se inicia una nueva sesión.                                         |
 | **Requiere control sobre la sesión del usuario**         | Sí, el atacante debe tener control sobre la sesión para "tomarla".                                 | No necesariamente, ya que el atacante puede crear una nueva sesión desde cero.                                     |
 | **Resistencia a la autenticación**                       | Más difícil, requiere herramientas especializadas.                                                 | Depende de la capacidad de adivinar o suplantar las credenciales.                                                  |
-![](attachments/image20250530132044.png)
+![](../../../attachments/image20250530132044.png)
 
-![](attachments/image20250530132110.png)
+![](../../../attachments/image20250530132110.png)

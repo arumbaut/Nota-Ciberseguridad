@@ -10,7 +10,7 @@ El secuestro de sesión (**session hijacking**) es un ataque en el que un atacan
 
 **Session Hijacking Process**
 
-![](attachments/image20250530131546.png)
+![](../../../attachments/image20250530131546.png)
 **Session hijacking can be divided into three broad phases.**
 
 **▪ Tracking the connection :** El atacante utiliza un network sniffer para rastrear a una víctima y al host, o emplea una herramienta como Nmap para escanear la red en busca de un objetivo con una secuencia TCP fácil de predecir.

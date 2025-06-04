@@ -19,8 +19,8 @@ Set up a password expiration policy
 
 ##### **Common Social Engineering Targets and Defense Strategies**
 
-![](attachments/image20250530130652.png)
-![](attachments/image20250530130700.png)
+![](../../../attachments/image20250530130652.png)
+![](../../../attachments/image20250530130700.png)
 ![](attachments/image20250530130706.png)
 
 ##### **Audit Organization's Security for Phishing Attacks using OhPhish**
