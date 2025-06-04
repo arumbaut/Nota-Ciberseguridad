@@ -44,7 +44,7 @@ La suplantación de dirección IP es una técnica de secuestro en la que un atac
 ==**Nota: No podrás completar el protocolo de enlace de tres vías ni establecer una conexión TCP exitosa utilizando direcciones IP suplantadas.**==
 
 **IP spoofing using Hping3:**
-![](attachments/image20250526123036.png)
+![](../../../attachments/image20250526123036.png)
 
 **Hping3 www.certifiedhacker.com -a 7.7.7.7**
 

@@ -19,7 +19,7 @@ Al igual que el banner grabbing activo, el banner grabbing pasivo también depen
 
 ==El campo TTL (Time to Live) determina el tiempo máximo que un paquete puede permanecer en una red, y el tamaño de la ventana TCP determina la longitud del paquete reportado. Estos valores varían entre los sistemas operativos, como se describe en la siguiente tabla==.
 
-![](attachments/image20250526120942.png)
+![](../../../attachments/image20250526120942.png)
 
 ##### **OS Discovery using Wireshark** 
 Source: https://www.wireshark.org 

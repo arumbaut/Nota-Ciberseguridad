@@ -7,7 +7,7 @@ Los atacantes utilizan la enumeración de NetBIOS para obtener lo siguiente:
 Un atacante que encuentra un sistema Windows con el puerto 139 abierto puede verificar qué recursos se pueden acceder o visualizar en un sistema remoto.
 **Note** that Microsoft does **not support NetBIOS** name resolution for **IPv6**
 
-![](attachments/image20250526134351.png)
+![](../../../attachments/image20250526134351.png)
 
 |                    |          |                                                                                                                                       |
 | ------------------ | -------- | ------------------------------------------------------------------------------------------------------------------------------------- |
@@ -38,8 +38,8 @@ The syntax of the nbtstat command is as follows:
 nbtstat [-a <remotename>] [-A <IPaddress>] [-c] [-n] [-r] [-R] [-RR] [-s] [-S] [<interval>][-?]
 ```
 
-![](attachments/image20250526135808.png)
-![](attachments/image20250526135823.png)
+![](../../../attachments/image20250526135808.png)
+![](../../../attachments/image20250526135823.png)
 
 #### **Examples for nbtstat commands.** 
 

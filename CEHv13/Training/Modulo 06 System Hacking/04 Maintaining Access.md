@@ -14,7 +14,7 @@ Después de obtener acceso y escalar privilegios en el sistema objetivo, los ata
 
 Los _keyloggers_ son programas de software o dispositivos de hardware que registran las teclas presionadas en el teclado de una computadora.Como los _keyloggers_ ocultan sus procesos e interfaz, el objetivo no es consciente de que está siendo monitoreado.
 
-![](attachments/image20250527124626.png)
+![](../../../attachments/image20250527124626.png)
 
 #### Tools for Executing Applications 
 #### ▪ Dameware Remote Support  

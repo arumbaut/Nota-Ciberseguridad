@@ -3,12 +3,12 @@
 
 ==Una dirección MAC identifica de manera única cada nodo de una red.Las direcciones MAC se utilizan como direcciones de red para la mayoría de las tecnologías de red IEEE 802, incluyendo Ethernet==.el protocolo MAC en el modelo de referencia OSI utiliza direcciones MAC para la transferencia de información.Una dirección MAC ==está compuesta por 48 bits que se dividen en dos secciones, cada una conteniendo 24 bits. La primera sección contiene el número de identificación de la organización que fabricó el adaptador y se llama el **identificador único organizacional (OUI)**==. ==La siguiente sección contiene el número de serie asignado al adaptador de la NIC (tarjeta de interfaz de red) y se llama especificación de NIC.== La dirección MAC ==contiene números hexadecimales de 12 dígitos, divididos en tres o seis grupos. Los primeros seis dígitos indican el fabricante, mientras que los siguientes seis dígitos indican el número de serie del adaptador.==
 
-![](attachments/image20250530104906.png)
+![](../../../attachments/image20250530104906.png)
 **CAM Table**
 
 ==Una tabla CAM (Content Addressable Memory) es una tabla dinámica de **tamaño fijo**. Almacena información como las direcciones MAC disponibles en los puertos físicos junto con los parámetros de VLAN asociados a ellas.Cuando una máquina envía datos a otra máquina en una red, los datos pasan a través del switch. El switch busca la dirección MAC de destino (ubicada en el marco Ethernet) en su tabla CAM, y una vez que encuentra la dirección MAC, reenvía los datos a la máquina a través del puerto con el que está vinculada esa dirección MAC.==
 
-![](attachments/image20250530105141.png)
+![](../../../attachments/image20250530105141.png)
 ==**Si la tabla CAM se llena con más direcciones MAC de las que puede almacenar, el switch se comportará como un hub.**==
 
 ==**El tamaño limitado de una tabla CAM la hace susceptible a ataques de MAC flooding, que inunda el switch con direcciones MAC de origen falsas hasta que la tabla CAM se llena.**==

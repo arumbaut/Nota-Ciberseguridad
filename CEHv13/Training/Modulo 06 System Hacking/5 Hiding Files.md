@@ -81,9 +81,9 @@ GMER es una aplicación que ayuda a los profesionales de seguridad a detectar y 
 
 NTFS (New Technology File System) es un sistema de archivos utilizado en sistemas operativos Windows para almacenar y organizar los archivos en un disco duro o dispositivo de almacenamiento. NTFS almacena los archivos mediante el uso de flujos de datos (data streams) y atributos de archivos
 
-![](attachments/image20250527131511.png)
+![](../../../attachments/image20250527131511.png)
 
-![](attachments/image20250527131605.png)
+![](../../../attachments/image20250527131605.png)
 
 #### NTFS Stream Detectors
 **▪ Stream Armor Source: https://securityxploded.com** 

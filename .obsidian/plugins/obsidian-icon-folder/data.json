@@ -186,7 +186,10 @@
   "CEHv13/Training/Modulo 06 System Hacking/5 Hiding Files.md": "LiNotebookTabs",
   "CEHv13/Training/Modulo 07 Malware Threats": "LiFolder",
   "CEHv13/Training/Modulo 07 Malware Threats/03 Trojan Concepts.md": "LiNotebookTabs",
-  "CEHv13/Training/Modulo 07 Malware Threats/02 APT Concepts.md": "LiNotebookTabs",
+  "CEHv13/Training/Modulo 07 Malware Threats/02 APT Concepts.md": {
+    "iconName": "LiNotebookTabs",
+    "iconColor": "#d01111"
+  },
   "CEHv13/Training/Modulo 07 Malware Threats/04 Virus.md": "LiNotebookTabs",
   "CEHv13/Training/Modulo 07 Malware Threats/01 Malware Concepts.md": "LiNotebookTabs",
   "CEHv13/Training/Modulo 07 Malware Threats/06 Fileless Malware.md": "LiNotebookTabs",

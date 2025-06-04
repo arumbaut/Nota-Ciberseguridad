@@ -32,8 +32,8 @@ Some of the additional tools to extract password hashes are as follows:
 ▪ hashcat (https://hashcat.net) 
 ▪ PyCrack (https://github.com)
 
-![](attachments/image20250527094054.png)
-**Nota:** **==Los usuarios con el User ID 500 son administradores de sistema==**
+![](../../../attachments/image20250527094054.png)
+**Nota:** **==Los usuarios con el User ID 500 son administradores de sistema 501 invitados==**
 
 #### Password Cracking 
 

@@ -5,8 +5,8 @@ El siguiente paso en el proceso de escaneo de redes consiste en verificar los pu
 
 **El escaneo TCP** Connect/Full-Open es una de las formas más confiables de escaneo TCP. En el escaneo TCP Connect, la llamada al sistema connect() del sistema operativo intenta abrir una conexión a cada puerto de interés en la máquina objetivo. Si el puerto está escuchando, la llamada connect() resultará en una conexión exitosa con el host en ese puerto particular; de lo contrario, devolverá un mensaje de error indicando que el puerto no es alcanzable.  
 
-| **nmap -sT -v 10.10.1.11**                              . | ![](attachments/image20250526110124.png) |
-| --------------------------------------------------------- | ---------------------------------------- |
+| **nmap -sT -v 10.10.1.11**                              . | ![](../../../attachments/image20250526110124.png) |
+| --------------------------------------------------------- | ------------------------------------------------- |
 
 
 ##### **Stealth Scan (Half-Open Scan)**  
@@ -15,15 +15,15 @@ El escaneo sigiloso implica restablecer la conexión TCP entre el cliente y el s
 
 **SYN Scan**
 
-| **nmap -sS -v 10.10.1.11**                         . | ![](attachments/image20250526110302.png) |
-| ---------------------------------------------------- | ---------------------------------------- |
+| **nmap -sS -v 10.10.1.11**                         . | ![](../../../attachments/image20250526110302.png) |
+| ---------------------------------------------------- | ------------------------------------------------- |
 
 ##### **Inverse TCP Flag Scan:** 
 
 ==Los atacantes envían paquetes de sondeo TCP con una bandera TCP (FIN, URG, PSH) establecida o sin ninguna bandera. Cuando el puerto está abierto, el atacante no recibe ninguna respuesta del host, mientras que cuando el puerto está cerrado, recibe un RST del host objetivo.==
 
 ==Los mecanismos de seguridad, como los firewalls y los IDS, detectan los paquetes SYN enviados a los puertos sensibles de los hosts objetivo. Programas como Syslog están disponibles para registrar los intentos de escaneo con la bandera SYN a medio abrir. En algunos casos, los paquetes de sondeo habilitados con banderas TCP pueden pasar a través de los filtros sin ser detectados, dependiendo de los mecanismos de seguridad instalados.==
-![](attachments/image20250526110623.png)
+![](../../../attachments/image20250526110623.png)
 
 **Las configuraciones de bandera comunes utilizadas para un paquete de sondeo incluyen:**  
 **▪ Un sondeo FIN** con la bandera TCP FIN establecida  
@@ -35,26 +35,26 @@ El escaneo sigiloso implica restablecer la conexión TCP entre el cliente y el s
 
 El escaneo **Xmas es un tipo de técnica de escaneo TCP inverso con las banderas FIN, URG y PUSH establecidas para enviar un marco TCP** a un dispositivo remoto. ==Si el objetivo ha abierto el puerto, no recibirás ninguna respuesta del sistema remoto. Si el objetivo ha cerrado el puerto, recibirás una respuesta del sistema remoto con un RST==.  
 
-| **(Xmas) <br>nmap -sX -v 10.10.1.11**     | ![](attachments/image20250526111007.png) |
-| ----------------------------------------- | ---------------------------------------- |
-| **(FIN) <br>nmap -sF -v 10.10.1.11;**     |                                          |
-| <br>**(Null) <br>nmap -sN -v 10.10.1.11** |                                          |
+| **(Xmas) <br>nmap -sX -v 10.10.1.11**     | ![](../../../attachments/image20250526111007.png) |
+| ----------------------------------------- | ------------------------------------------------- |
+| **(FIN) <br>nmap -sF -v 10.10.1.11;**     |                                                   |
+| <br>**(Null) <br>nmap -sN -v 10.10.1.11** |                                                   |
 
 ##### **Escaneo TCP Maimon**
 
 ==Esta técnica de escaneo es muy similar al escaneo NULL, FIN y Xmas, pero **el paquete de sondeo utilizado aquí es FIN/ACK**. En la mayoría de los casos, para determinar si el puerto está abierto o cerrado, el paquete RST debe generarse como respuesta a una solicitud de sondeo. Sin embargo, en muchos sistemas BSD, el puerto está abierto si el paquete es descartado en respuesta a un sondeo.==
 
 
-| **nmap -sM -v 10.10.1.11** | ![](attachments/image20250526111351.png) |
-| -------------------------- | ---------------------------------------- |
+| **nmap -sM -v 10.10.1.11** | ![](../../../attachments/image20250526111351.png) |
+| -------------------------- | ------------------------------------------------- |
 
 
 **ACK Flag Probe Scan**  
 Los atacantes envían paquetes de sondeo TCP con la bandera **ACK** establecida a un dispositivo remoto y luego analizan la información del encabezado (TTL y campo WINDOW) de los paquetes **RST** recibidos para determinar si el puerto está abierto o cerrado. El escaneo de sonda con bandera ACK explota las vulnerabilidades dentro del **stack TCP/IP derivado de BSD**. ==Por lo tanto, este tipo de escaneo solo es efectivo en los sistemas operativos y plataformas en los que el stack TCP/IP se deriva de BSD.== 
 
-| <br>**nmap -sA -v 10.10.1.11** | ![](attachments/image20250526111558.png) |
-| ------------------------------ | ---------------------------------------- |
-|                                | ![](attachments/image20250526111607.png) |
+| <br>**nmap -sA -v 10.10.1.11** | ![](../../../attachments/image20250526111558.png) |
+| ------------------------------ | ------------------------------------------------- |
+|                                | ![](../../../attachments/image20250526111607.png) |
 
 
 **TTL-Based ACK Flag Probe scanning**
@@ -67,7 +67,7 @@ En esta técnica de escaneo, primero necesitarás enviar paquetes de sondeo ACK 
 
 La opción **nmap -sW [tiempo] [objetivo]** se utiliza para realizar un escaneo basado en ventana. Si el valor de la ventana del paquete RST en un puerto en particular es diferente de cero, entonces ese puerto está abierto.
 
-![](attachments/image20250526111952.png)
+![](../../../attachments/image20250526111952.png)
 
 
 ##### **IDLE/IPID Header Scan**
@@ -89,8 +89,8 @@ Los escáneres de puertos UDP utilizan el protocolo UDP en lugar de TCP. **No ha
 
   
 
-| **nmap -sU -v 10.10.1.11** | ![](attachments/image20250526120040.png) |
-| -------------------------- | ---------------------------------------- |
+| **nmap -sU -v 10.10.1.11** | ![](../../../attachments/image20250526120040.png) |
+| -------------------------- | ------------------------------------------------- |
 
 **SCTP INIT Scan**
 

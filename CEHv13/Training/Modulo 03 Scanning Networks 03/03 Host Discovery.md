@@ -14,8 +14,8 @@
 
 El escaneo UDP ping es similar al escaneo TCP ping; sin embargo, en el escaneo UDP ping, Nmap envía paquetes UDP al host de destino. El número de puerto predeterminado que utiliza Nmap para el escaneo UDP ping es el 40,125. Este puerto, poco común, se usa por defecto para enviar paquetes UDP al objetivo.
 
-| **nmap -sn -PU target** | ![](attachments/image20250526102728.png) |
-| ----------------------- | ---------------------------------------- |
+| **nmap -sn -PU target** | ![](../../../attachments/image20250526102728.png) |
+| ----------------------- | ------------------------------------------------- |
 
 
 
@@ -57,8 +57,8 @@ En esta técnica, un atacante utiliza la herramienta Nmap para iniciar el handsh
 
 El puerto 80 se utiliza como puerto de destino por defecto para este tipo de escaneo.
 
-| **nmap -sn -PS 10.10.1.5** | ![](attachments/image20250526103724.png) |
-| :------------------------- | ---------------------------------------: |
+| **nmap -sn -PS 10.10.1.5** | ![](../../../attachments/image20250526103724.png) |
+| :------------------------- | ------------------------------------------------: |
 
 **TCP ACK Ping Scan**
 
