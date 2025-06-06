@@ -52,7 +52,15 @@
       "modifiers": [
         "Mod"
       ],
-      "key": "H"
+      "key": "`"
+    }
+  ],
+  "editor:insert-codeblock": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "."
     }
   ]
 }

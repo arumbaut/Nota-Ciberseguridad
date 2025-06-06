@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "TiWall",
+      "FasComputer",
       "📦",
       "TiNotes",
-      "LiImage",
-      "LiFolder",
-      "LiNotebookTabs"
+      "LiImage"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -282,5 +282,28 @@
     "iconName": "LiNotebookTabs",
     "iconColor": "#fa0000"
   },
-  "CEHv13/Training/Modulo 16 Hacking Wireless Networks/10 Wi-Fi Security Auditing Tools.md": "LiNotebookTabs"
+  "CEHv13/Training/Modulo 16 Hacking Wireless Networks/10 Wi-Fi Security Auditing Tools.md": "LiNotebookTabs",
+  "CEHv13/Training/Modulo 18 IoT and OT Hacking": "LiFolder",
+  "CEHv13/Training/Modulo 17 Hacking Mobile Platforms": "LiFolder",
+  "CEHv13/Training/Modulo 17 Hacking Mobile Platforms/01 Mobile Platform Attack Vectors.md": "LiNotebookTabs",
+  "CEHv13/Training/Modulo 17 Hacking Mobile Platforms/02 Mobile Attacks.md": "LiNotebookTabs",
+  "CEHv13/Training/Modulo 17 Hacking Mobile Platforms/03 Analyzing Android Devices.md": "LiNotebookTabs",
+  "CEHv13/Training/Modulo 17 Hacking Mobile Platforms/04 Hacking iOS.md": "LiNotebookTabs",
+  "CEHv13/Training/Modulo 17 Hacking Mobile Platforms/05 Mobile Device Management (MDM).md": "LiNotebookTabs",
+  "CEHv13/Training/Modulo 17 Hacking Mobile Platforms/06 Mobile Security Tools.md": "LiNotebookTabs",
+  "CEHv13/Training/Modulo 17 Hacking Mobile Platforms/07 IoT and OT Hacking.md": "LiNotebookTabs",
+  "CEHv13/Training/Modulo 17 Hacking Mobile Platforms/08 IoT Threats.md": "LiNotebookTabs",
+  "CEHv13/Training/Modulo 17 Hacking Mobile Platforms/09 What is IoT Device Hacking.md": "LiNotebookTabs",
+  "CEHv13/Training/Modulo 17 Hacking Mobile Platforms/10 Qué es OT.md": "LiNotebookTabs",
+  "CEHv13/Training/Modulo 17 Hacking Mobile Platforms/11 What is OT Hacking.md": "LiNotebookTabs",
+  "Hacking Pentesting/Maquinas DMV y WPOWN.md": "FasComputer",
+  "Hacking Pentesting/Maquina Psycho Paso a paso.md": "FasComputer",
+  "Hacking Pentesting/Maquina Injection.md": "FasComputer",
+  "Hacking Pentesting/FFW_FortiGate": "TiWall",
+  "Hacking Pentesting/Firsthacking.md": "FasComputer",
+  "Hacking Pentesting/Borazuwarahctf.md": "FasComputer",
+  "Hacking Pentesting/Hedgehog.md": "FasComputer",
+  "Hacking Pentesting/Breakmyssh.md": "FasComputer",
+  "Hacking Pentesting/Vacaciones.md": "FasComputer",
+  "Hacking Pentesting/Obsession.md": "FasComputer"
 }
