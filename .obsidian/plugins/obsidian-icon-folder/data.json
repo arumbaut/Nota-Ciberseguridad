@@ -288,7 +288,10 @@
   "CEHv13/Training/Modulo 17 Hacking Mobile Platforms/01 Mobile Platform Attack Vectors.md": "LiNotebookTabs",
   "CEHv13/Training/Modulo 17 Hacking Mobile Platforms/02 Mobile Attacks.md": "LiNotebookTabs",
   "CEHv13/Training/Modulo 17 Hacking Mobile Platforms/03 Analyzing Android Devices.md": "LiNotebookTabs",
-  "CEHv13/Training/Modulo 17 Hacking Mobile Platforms/04 Hacking iOS.md": "LiNotebookTabs",
+  "CEHv13/Training/Modulo 17 Hacking Mobile Platforms/04 Hacking iOS.md": {
+    "iconName": "LiNotebookTabs",
+    "iconColor": "#ca8686"
+  },
   "CEHv13/Training/Modulo 17 Hacking Mobile Platforms/05 Mobile Device Management (MDM).md": "LiNotebookTabs",
   "CEHv13/Training/Modulo 17 Hacking Mobile Platforms/06 Mobile Security Tools.md": "LiNotebookTabs",
   "CEHv13/Training/Modulo 17 Hacking Mobile Platforms/07 IoT and OT Hacking.md": "LiNotebookTabs",
@@ -305,5 +308,5 @@
   "Hacking Pentesting/Hedgehog.md": "FasComputer",
   "Hacking Pentesting/Breakmyssh.md": "FasComputer",
   "Hacking Pentesting/Vacaciones.md": "FasComputer",
-  "Hacking Pentesting/Obsession.md": "FasComputer"
+  "CEHv13/Training/Modulo 05 Vulnerability Analysis/07 Vulnerability Assessment Reports.md": "TiNotes"
 }

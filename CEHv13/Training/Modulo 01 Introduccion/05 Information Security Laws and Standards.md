@@ -1,4 +1,5 @@
 
+### **Modulo 1** 
 #### :TiJewishStar: Payment Card Industry Data Security Standard (PCI DSS)  
 #### Source: https://www.pcisecuritystandards.org 
 Es una norma de seguridad de la información patentada para organizaciones que manejan información de titulares de tarjetas de las principales tarjetas de débito, crédito, prepago, monedero electrónico, cajero automático y punto de venta. Esta norma ofrece normas sólidas y completas y materiales de apoyo para mejorar la seguridad de los datos de las tarjetas de pago.
@@ -32,4 +33,6 @@ La **DMCA** (Ley de Derechos de Autor del Milenio Digital) es una ley estadounid
 FISMA proporciona un marco integral para asegurar la efectividad de los controles de seguridad de la información sobre los recursos de información que respaldan las operaciones y activos federales. Exige que cada agencia federal desarrolle, documente e implemente un programa a nivel de toda la agencia para proporcionar seguridad de la información para la información y los sistemas de información que apoyan las operaciones y activos de la agencia, incluyendo aquellos proporcionados o gestionados por otra agencia, contratista u otra fuente.
 
 #### General Data Protection Regulation (GDPR)
-es una de las leyes de privacidad y seguridad más estrictas a nivel mundial. Aunque fue redactado y aprobado por la Unión Europea (UE), impone obligaciones a organizaciones en cualquier lugar, siempre que tengan como objetivo o recopilen datos relacionados con personas en la UE. Con el GDPR, Europa manifiesta su postura firme sobre la privacidad y seguridad de los datos, especialmente en un contexto donde cada vez más personas confían sus datos a servicios en la nube y las violaciones de seguridad son algo cotidiano.
+Es una de las leyes de privacidad y seguridad más estrictas a nivel mundial. Aunque fue redactado y aprobado por la Unión Europea (UE), impone obligaciones a organizaciones en cualquier lugar, siempre que tengan como objetivo o recopilen datos relacionados con personas en la UE. Con el GDPR, Europa manifiesta su postura firme sobre la privacidad y seguridad de los datos, especialmente en un contexto donde cada vez más personas confían sus datos a servicios en la nube y las violaciones de seguridad son algo cotidiano.
+
+### **Modulo 2**

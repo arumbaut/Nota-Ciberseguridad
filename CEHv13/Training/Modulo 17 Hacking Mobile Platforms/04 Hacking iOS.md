@@ -1,11 +1,13 @@
 Jailbreaking iOS  
 El jailbreaking se define como el proceso de instalar un conjunto modificado de parches al kernel que permiten a los usuarios ejecutar aplicaciones de terceros no firmadas por el proveedor del sistema operativo. Es el proceso de eludir las limitaciones impuestas por Apple, como modificar el sistema operativo, obtener privilegios de administrador e instalar aplicaciones no aprobadas oficialmente a través de la "carga lateral" (side loading). El jailbreaking se puede lograr simplemente modificando los kernels del sistema iOS.
 
-**Types of Jailbreaking**
+**==Types of Jailbreaking==**
 
-**▪ Explotación Userland**La explotación Userland utiliza una laguna en la aplicación del sistema. Permite el acceso a nivel de usuario, pero no permite el acceso a nivel de iboot.Solo las actualizaciones de firmware pueden corregir estas vulnerabilidades.
+**▪ Explotación Userland**
+==La explotación Userland utiliza una laguna en la aplicación del sistema. Permite el acceso a nivel de usuario, pero no permite el acceso a nivel de iboot.Solo las actualizaciones de firmware pueden corregir estas vulnerabilidades.==
 
-**▪ Explotación iBoot**Este tipo de explotación puede ser semi-anclada si el dispositivo tiene un bootrom nuevo. Un jailbreak de iBoot permite el acceso a nivel de usuario y a nivel de iboot.
+**▪ Explotación iBoot**
+Este tipo de explotación puede ser semi-anclada si el dispositivo tiene un bootrom nuevo. Un jailbreak de iBoot permite el acceso a nivel de usuario y a nivel de iboot.
 
 **▪ Explotación Bootrom**La explotación Bootrom utiliza una laguna en el SecureROM (el primer cargador de arranque del iDevice) para desactivar las verificaciones de firmas, lo que permite cargar firmware de NOR parcheado.Solo una actualización de hardware del bootrom por parte de Apple puede corregir esta explotación.
 

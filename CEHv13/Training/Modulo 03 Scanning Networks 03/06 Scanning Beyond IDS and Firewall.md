@@ -7,11 +7,11 @@ En este escaneo, el sistema divide el encabezado TCP en varios fragmentos y los 
 
 **nmap -sS -T4 -A -f -v 10.10.1.11**
 
-| -f  | Frafmenta los paquetes         |
-| --- | ------------------------------ |
-| -sS | SYN scan                       |
-| -A  | Agresive scan                  |
-| -T4 | nivel de velocidad del escaneo |
+| -f  | Frafmenta los paquetes         |     |     |
+| --- | ------------------------------ | --- | --- |
+| -sS | SYN scan                       |     |     |
+| -A  | Agresive scan                  |     |     |
+| -T4 | nivel de velocidad del escaneo |     |     |
 
 
 **Source Routing**

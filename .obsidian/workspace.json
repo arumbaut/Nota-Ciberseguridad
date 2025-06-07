@@ -10,18 +10,51 @@
           {
             "id": "e914eddc31ef7e3c",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hacking Pentesting/Obsession.md",
+                "file": "CEHv13/Training/Ataques/Resumen Notas Importantes.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Resumen Notas Importantes"
+            }
+          },
+          {
+            "id": "cbd66bd16d7b60b1",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CEHv13/Training/Ataques/Resumen e la parte de Ataques.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Resumen e la parte de Ataques"
+            }
+          },
+          {
+            "id": "d6c4cd739d1e5dd8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CEHv13/Training/Modulo 17 Hacking Mobile Platforms/04 Hacking iOS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Obsession"
+              "title": "04 Hacking iOS"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -53,7 +86,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Userland Exploit ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -191,19 +224,34 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e914eddc31ef7e3c",
+  "active": "19b62d1d9a29ce9d",
   "lastOpenFiles": [
-    "Hacking Pentesting/Vacaciones.md",
-    "Hacking Pentesting/Obsession.md",
-    "Hacking Pentesting/Breakmyssh.md",
-    "Hacking Pentesting/Borazuwarahctf.md",
-    "Hacking Pentesting/Hedgehog.md",
-    "Hacking Pentesting/Firsthacking.md",
-    "Hacking Pentesting/Maquina Injection.md",
-    "Warp/🐧 Warp en Linux.md",
-    "Hacking Pentesting/Maquina Psycho Paso a paso.md",
-    "CEHv13/Training/Modulo 17 Hacking Mobile Platforms/11 What is OT Hacking.md",
-    "CEHv13/Training/Modulo 17 Hacking Mobile Platforms/10 Qué es OT.md",
+    "CEHv13/Training/Modulo 14 Hacking Web Applications/03 Web Application Attacks.md",
+    "CEHv13/Training/Modulo 13 Hacking Web Servers/02 Web Server Attacks.md",
+    "CEHv13/Training/Modulo 03 Scanning Networks 03/04 Port and Service Discovery.md",
+    "CEHv13/Training/Modulo 10 Denial-of-Service/02 DoS-DDoS Attack Techniques.md",
+    "CEHv13/Training/Modulo 12 Evading IDS, Firewalls, and Honeypots/04 Types of IDS Alerts.md",
+    "CEHv13/Training/Modulo 12 Evading IDS, Firewalls, and Honeypots/03 Types of Intrusion Detection Systems.md",
+    "CEHv13/Training/Modulo 12 Evading IDS, Firewalls, and Honeypots/02 How an IDS Detects an Intrusion.md",
+    "CEHv13/Training/Modulo 12 Evading IDS, Firewalls, and Honeypots/01 IDS, IPS, and Firewall Concepts.md",
+    "CEHv13/Training/Modulo 16 Hacking Wireless Networks/01 Wireless Terminology.md",
+    "CEHv13/Training/Modulo 16 Hacking Wireless Networks/02 Types of Wireless Networks.md",
+    "CEHv13/Training/Modulo 16 Hacking Wireless Networks/03 Wireless Standards.md",
+    "CEHv13/Training/Modulo 16 Hacking Wireless Networks/04 Wi-Fi Authentication Process.md",
+    "CEHv13/Training/Modulo 16 Hacking Wireless Networks/05 Types of Wireless Antennas.md",
+    "CEHv13/Training/Modulo 16 Hacking Wireless Networks/06 Wireless Encryption.md",
+    "CEHv13/Training/Modulo 07 Malware Threats/3.1 Types of Trojans.md",
+    "CEHv13/Training/Modulo 07 Malware Threats/03 Trojan Concepts.md",
+    "CEHv13/Training/Modulo 07 Malware Threats/02 APT Concepts.md",
+    "CEHv13/Training/Modulo 07 Malware Threats/01 Malware Concepts.md",
+    "CEHv13/Training/Modulo 06 System Hacking/08 Clearing Logs.md",
+    "CEHv13/Training/Modulo 06 System Hacking/07 Establishing Persistence.md",
+    "CEHv13/Training/Modulo 06 System Hacking/06 Esteganografía.md",
+    "CEHv13/Training/Modulo 06 System Hacking/5 Hiding Files.md",
+    "CEHv13/Training/Modulo 06 System Hacking/4.3 Spyware.md",
+    "CEHv13/Training/Modulo 06 System Hacking/4.2 Software Keystroke Loggers.md",
+    "CEHv13/Training/Modulo 06 System Hacking/4.1 Hardware Keystroke Loggers.md",
+    "CEHv13/Training/Modulo 06 System Hacking/04 Maintaining Access.md",
     "attachments/Pasted image 20250606091404.png",
     "attachments/image20250606091300.png",
     "attachments/image20250606091207.png",
@@ -211,26 +259,11 @@
     "attachments/image20250606090936.png",
     "attachments/image20250606090759.png",
     "attachments/image20250606090724.png",
-    "CEHv13/Training/Modulo 17 Hacking Mobile Platforms/09 What is IoT Device Hacking.md",
     "attachments/image20250606090417.png",
     "attachments/image20250606090222.png",
-    "CEHv13/Training/Modulo 17 Hacking Mobile Platforms/08 IoT Threats.md",
-    "CEHv13/Training/Modulo 17 Hacking Mobile Platforms/07 IoT and OT Hacking.md",
     "attachments/image20250606085742.png",
-    "CEHv13/Training/Modulo 17 Hacking Mobile Platforms/06 Mobile Security Tools.md",
-    "CEHv13/Training/Modulo 17 Hacking Mobile Platforms/05 Mobile Device Management (MDM).md",
-    "CEHv13/Training/Modulo 17 Hacking Mobile Platforms/04 Hacking iOS.md",
-    "CEHv13/Training/Modulo 17 Hacking Mobile Platforms/03 Analyzing Android Devices.md",
-    "CEHv13/Training/Modulo 17 Hacking Mobile Platforms/02 Mobile Attacks.md",
-    "CEHv13/Training/Modulo 17 Hacking Mobile Platforms/01 Mobile Platform Attack Vectors.md",
-    "CEHv13/Training/Modulo 18 IoT and OT Hacking/01 IoT Concepts and Attacks.md",
     "CEHv13/Training/Modulo 17 Hacking Mobile Platforms",
-    "CEHv13/Training/Modulo 16 Hacking Wireless Networks/10 Wi-Fi Security Auditing Tools.md",
     "CEHv13/Training/Modulo 18 IoT and OT Hacking",
-    "CEHv13/Training/Modulo 16 Hacking Wireless Networks/09 Launch of Wireless Attacks.md",
-    "CEHv13/Training/Modulo 16 Hacking Wireless Networks/07 Wireless Threats.md",
-    "CEHv13/Training/Modulo 16 Hacking Wireless Networks/08 Wireless Hacking Methodology.md",
-    "CEHv13/Training/Modulo 16 Hacking Wireless Networks/06 Wireless Encryption.md",
     "CEHv13/Training/Modulo 16 Hacking Wireless Networks",
     "CEHv13/Training/Modulo 15 SQL Injection",
     "CEHv13/Training/Modulo 14 Hacking Web Applications",

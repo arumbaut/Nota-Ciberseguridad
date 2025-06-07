@@ -79,7 +79,7 @@ Los ataques de Cross-Site Scripting (XSS o CSS) explotan vulnerabilidades en pá
 
 **Cross-Site Request Forgery (CSRF) Attack**
 
-Conocido como ataque de un solo clic, ocurre cuando un hacker instruye al navegador de un usuario para que envíe una solicitud al sitio web vulnerable a través de una página web maliciosa. Los sitios web relacionados con finanzas suelen contener vulnerabilidades CSRF. Generalmente, los atacantes externos no pueden acceder a las intranets corporativas; por lo tanto, CSRF es uno de los métodos utilizados para ingresar a estas redes. ==En este escenario, el atacante construye un script malicioso y lo almacena en un servidor web malicioso. Cuando un usuario visita el sitio web, el script malicioso comienza a ejecutarse, y el atacante obtiene acceso al navegador del usuario.==
+==Conocido como ataque de un solo clic,== ocurre cuando un hacker ==instruye al navegador de un usuario para que envíe una solicitud al sitio web vulnerable a través de una página web maliciosa==. Los sitios web relacionados con finanzas suelen contener vulnerabilidades CSRF. Generalmente, los atacantes externos no pueden acceder a las intranets corporativas; por lo tanto, CSRF es uno de los métodos utilizados para ingresar a estas redes. ==En este escenario, el atacante construye un script malicioso y lo almacena en un servidor web malicioso. Cuando un usuario visita el sitio web, el script malicioso comienza a ejecutarse, y el atacante obtiene acceso al navegador del usuario.==
 
 **Cookie/Session Poisoning**
 
