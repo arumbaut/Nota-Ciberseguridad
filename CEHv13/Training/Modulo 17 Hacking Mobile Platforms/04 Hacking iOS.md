@@ -9,7 +9,12 @@ El jailbreaking se define como el proceso de instalar un conjunto modificado de 
 **▪ Explotación iBoot**
 Este tipo de explotación puede ser semi-anclada si el dispositivo tiene un bootrom nuevo. Un jailbreak de iBoot permite el acceso a nivel de usuario y a nivel de iboot.
 
-**▪ Explotación Bootrom**La explotación Bootrom utiliza una laguna en el SecureROM (el primer cargador de arranque del iDevice) para desactivar las verificaciones de firmas, lo que permite cargar firmware de NOR parcheado.Solo una actualización de hardware del bootrom por parte de Apple puede corregir esta explotación.
+**▪ Explotación Bootrom**
+La explotación Bootrom utiliza una laguna en el SecureROM (el primer cargador de arranque del iDevice) para desactivar las verificaciones de firmas, lo que permite cargar firmware de NOR parcheado.Solo una actualización de hardware del bootrom por parte de Apple puede corregir esta explotación.
+
+1. Userland Exploit: It allows user-level access but does not allow iboot-level access. 
+2. iBoot Exploit: An iBoot jailbreak allows user-level and iboot-level access. 
+3. Bootrom Exploit: It allows user-level access and iboot-level access
 
 **Jailbreaking iOS Using Hexxa Plus**
 

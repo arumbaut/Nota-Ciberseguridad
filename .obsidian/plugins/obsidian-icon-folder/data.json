@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiNotebookTabs",
+      "LiNotebook",
       "TiWall",
       "FasComputer",
-      "📦",
-      "TiNotes",
-      "LiImage"
+      "📦"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -308,5 +308,10 @@
   "Hacking Pentesting/Hedgehog.md": "FasComputer",
   "Hacking Pentesting/Breakmyssh.md": "FasComputer",
   "Hacking Pentesting/Vacaciones.md": "FasComputer",
-  "CEHv13/Training/Modulo 05 Vulnerability Analysis/07 Vulnerability Assessment Reports.md": "TiNotes"
+  "CEHv13/Training/Modulo 05 Vulnerability Analysis/07 Vulnerability Assessment Reports.md": "TiNotes",
+  "CEHv13/Training/Modulo 19 Cloud Computing/04 Cloud Attacks.md": {
+    "iconName": "LiNotebookTabs",
+    "iconColor": "#b14343"
+  },
+  "CEHv13/Training/Modulo 15 SQL Injection/12 SQL Injection Detection Tools.md": "LiNotebookTabs"
 }
