@@ -30,7 +30,6 @@
     
 - **Piggybacked Query**: encadena `; DROP TABLE…` para ejecutar múltiples consultas.
     
-
 ### Bloque II: Blind/Inferential
 
 - **No hay errores visibles**: el atacante infiere por comportamiento.
@@ -50,7 +49,6 @@
     
 
 ---
-
 ## 3. Técnica de Loci + mnemotecnia
 
 Imagina un **castillo de 3 alas**:

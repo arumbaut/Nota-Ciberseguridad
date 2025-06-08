@@ -109,8 +109,6 @@ Los ataques del lado del cliente ocurren cuando los clientes establecen conexion
 **▪ Address Resolution Protocol (ARP) Spoofing** **:**
 ==Esta técnica implica engañar al host mediante la transmisión de solicitudes ARP y modificar sus tablas ARP enviando respuestas ARP falsificadas. El atacante envía respuestas ARP falsificadas que actualizan las tablas ARP del host, redirigiendo el tráfico hacia el host del atacante en lugar de la dirección IP legítima.==
 
-**PetitPotam Hijacking** **:** En un ataque PetitPotam, ==un atacante obliga a un controlador de dominio (DC) a iniciar una autenticación hacia el servidor del atacante. Para ello, el atacante utiliza la llamada a la API MS-EFSRPC de Microsoft para secuestrar la sesión de autenticación. El servidor SMB del atacante manipula la sesión para hacer que el controlador de dominio crea que el atacante es un usuario legítimo y, de esta forma, obtener el hash NTLM del controlador de dominio. Este ataque requiere que el atacante tenga credenciales válidas de un usuario legítimo dentro de la red==. Luego, el atacante retransmite la autenticación NTLM del controlador de dominio al Active Directory Certificate Services (AD CS) y genera un certificado.
-
-
+**PetitPotam Hijacking** **:** ==Un atacante obliga a un controlador de dominio (DC) a iniciar una autenticación hacia el servidor del atacante.  El servidor SMB del atacante manipula la sesión para hacer que el controlador de dominio crea que el atacante es un usuario legítimo y, de esta forma, obtener el hash NTLM del controlador de dominio. Este ataque requiere que el atacante tenga credenciales válidas de un usuario legítimo dentro de la red==. 
 
 
