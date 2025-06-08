@@ -1,10 +1,10 @@
-|**Bloque**|**Técnicas y ataques**|
-|---|---|
-|**I. Non-Electrónicos**|Social Engineering, Shoulder Surfing, Dumpster Diving|
-|**II. Activos Online**|Dictionary, Brute-Force, Password Spraying, Mask, Rule-based, Hybrid, Syllable, Hash Injection/PtH, LLMNR/NBT-NS Poisoning, Trojans/Spyware/Keyloggers, Internal Monologue, Kerberoasting, AS-REP Roasting, NTLM Relay|
-|**III. Pasivos Online**|Wire Sniffing, MITM/Manipulator-in-the-Middle, Replay Attacks|
-|**IV. Offline**|Rainbow Tables, Distributed Network Attack|
-|**V. Kerberos & Tickets**|Pass-the-Ticket (Silver/Golden), NTLM Relay (Responder), Mimikatz/Rubeus/etc.|
+| **Bloque**                | **Técnicas y ataques**                                                                                                                                                                                                 |
+| ------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **I. Non-Electrónicos**   | Social Engineering, Shoulder Surfing, Dumpster Diving                                                                                                                                                                  |
+| **II. Activos Online**    | Dictionary, Brute-Force, Password Spraying, Mask, Rule-based, Hybrid, Syllable, Hash Injection/PtH, LLMNR/NBT-NS Poisoning, Trojans/Spyware/Keyloggers, Internal Monologue, Kerberoasting, AS-REP Roasting, NTLM Relay |
+| **III. Pasivos Online**   | Wire Sniffing, MITM/Manipulator-in-the-Middle, Replay Attacks                                                                                                                                                          |
+| **IV. Offline**           | Rainbow Tables, Distributed Network Attack                                                                                                                                                                             |
+| **V. Kerberos & Tickets** | Pass-the-Ticket (Silver/Golden), NTLM Relay (Responder), Mimikatz/Rubeus/etc.                                                                                                                                          |
 
 ---
 

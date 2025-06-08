@@ -8,7 +8,7 @@ Es una norma de seguridad de la información patentada para organizaciones que m
 #### Source: https://www.iso.org 
 Son normas internacionales para los Sistemas de Gestión de Seguridad de la Información (SGSI). Estas especifican los requisitos y el marco para establecer, implementar, mantener y mejorar continuamente un SGSI con el fin de garantizar la confidencialidad, integridad y disponibilidad de la información. Esta norma ayuda a las organizaciones a gestionar los riesgos de seguridad y proteger la información sensible, incluyendo datos financieros, propiedad intelectual, información de empleados y datos confiados por terceros.
 
-##### La norma está diseñada para ser aplicable con diversos propósitos:
+**####La norma está diseñada para ser aplicable con diversos propósitos:**
 
 ▪ Proporcionar un enfoque estructurado para identificar, evaluar y gestionar los riesgos de seguridad de la información.  
 ▪ Ayudar a las organizaciones a cumplir con obligaciones normativas, legales y contractuales relacionadas con la seguridad de la información.  

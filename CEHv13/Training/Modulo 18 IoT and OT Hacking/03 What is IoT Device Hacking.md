@@ -78,7 +78,6 @@ El escaneo de vulnerabilidades permite a un atacante encontrar el número total 
 ▪ Enterprise IoT Security (https://www.paloaltonetworks.com)
 
   
-
 **▪ Launch Attacks**
 Las vulnerabilidades encontradas luego se explotan para lanzar varios ataques, como ataques DDoS, ataques de código rodante, ataques de interferencia de señal, ataques Sybil, ataques de intermediario (MITM), y ataques de robo de datos e identidad.
 

@@ -26,3 +26,4 @@ There are two levels of session hijacking in the OSI model: the network-level an
 ![](../../../attachments/image20250530132044.png)
 
 ![](../../../attachments/image20250530132110.png)
+

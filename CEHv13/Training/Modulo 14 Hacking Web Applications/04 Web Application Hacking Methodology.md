@@ -36,9 +36,7 @@ Use the following tools to analyze the web application:
 **▪ Vega Source:** https://www.subgraph.com 
 Vega is a free and open-source web security scanner and web security testing platform for testing the security of web applications. Vega helps you to find and validate SQL injection, cross-site scripting (XSS), inadvertently disclosed sensitive information, and other vulnerabilities.
 
-**Common web application attacks used to bypass client-side controls**:
-
-  
+**Common web application attacks used to bypass client-side controls**:  
 
 ▪ Cross-site scripting (XSS)
 ▪ Cross-site request forgery (CSRF)

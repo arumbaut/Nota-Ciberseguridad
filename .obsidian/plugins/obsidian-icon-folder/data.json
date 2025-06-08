@@ -223,7 +223,10 @@
   "CEHv13/Training/Modulo 12 Evading IDS, Firewalls, and Honeypots/5.1 Types of Firewalls.md": "LiNotebookTabs",
   "CEHv13/Training/Modulo 12 Evading IDS, Firewalls, and Honeypots/06 Intrusion Detection Tools.md": "LiNotebookTabs",
   "CEHv13/Training/Modulo 12 Evading IDS, Firewalls, and Honeypots/07 Intrusion Prevention Tools.md": "LiNotebookTabs",
-  "CEHv13/Training/Modulo 12 Evading IDS, Firewalls, and Honeypots/08 Evading IDS Firewalls.md": "LiNotebookTabs",
+  "CEHv13/Training/Modulo 12 Evading IDS, Firewalls, and Honeypots/08 Evading IDS Firewalls.md": {
+    "iconName": "LiNotebookTabs",
+    "iconColor": "#ed0707"
+  },
   "CEHv13/Training/Modulo 12 Evading IDS, Firewalls, and Honeypots/09 NAC and Endpoint Security Evasion Techniques.md": "LiNotebookTabs",
   "CEHv13/Training/Modulo 12 Evading IDS, Firewalls, and Honeypots/10 Honeypo.md": "LiNotebookTabs",
   "CEHv13/Training/Modulo 12 Evading IDS, Firewalls, and Honeypots/10.1 Detecting Honeypots.md": "TiNotes",
@@ -294,11 +297,6 @@
   },
   "CEHv13/Training/Modulo 17 Hacking Mobile Platforms/05 Mobile Device Management (MDM).md": "LiNotebookTabs",
   "CEHv13/Training/Modulo 17 Hacking Mobile Platforms/06 Mobile Security Tools.md": "LiNotebookTabs",
-  "CEHv13/Training/Modulo 17 Hacking Mobile Platforms/07 IoT and OT Hacking.md": "LiNotebookTabs",
-  "CEHv13/Training/Modulo 17 Hacking Mobile Platforms/08 IoT Threats.md": "LiNotebookTabs",
-  "CEHv13/Training/Modulo 17 Hacking Mobile Platforms/09 What is IoT Device Hacking.md": "LiNotebookTabs",
-  "CEHv13/Training/Modulo 17 Hacking Mobile Platforms/10 Qué es OT.md": "LiNotebookTabs",
-  "CEHv13/Training/Modulo 17 Hacking Mobile Platforms/11 What is OT Hacking.md": "LiNotebookTabs",
   "Hacking Pentesting/Maquinas DMV y WPOWN.md": "FasComputer",
   "Hacking Pentesting/Maquina Psycho Paso a paso.md": "FasComputer",
   "Hacking Pentesting/Maquina Injection.md": "FasComputer",
@@ -313,5 +311,10 @@
     "iconName": "LiNotebookTabs",
     "iconColor": "#b14343"
   },
-  "CEHv13/Training/Modulo 15 SQL Injection/12 SQL Injection Detection Tools.md": "LiNotebookTabs"
+  "CEHv13/Training/Modulo 15 SQL Injection/12 SQL Injection Detection Tools.md": "LiNotebookTabs",
+  "CEHv13/Training/Modulo 18 IoT and OT Hacking/01 IoT and OT Hacking.md": "LiNotebookTabs",
+  "CEHv13/Training/Modulo 18 IoT and OT Hacking/02 IoT Threats.md": "LiNotebookTabs",
+  "CEHv13/Training/Modulo 18 IoT and OT Hacking/03 What is IoT Device Hacking.md": "LiNotebookTabs",
+  "CEHv13/Training/Modulo 18 IoT and OT Hacking/04 Qué es OT.md": "LiNotebookTabs",
+  "CEHv13/Training/Modulo 18 IoT and OT Hacking/05 What is OT Hacking.md": "LiNotebookTabs"
 }
