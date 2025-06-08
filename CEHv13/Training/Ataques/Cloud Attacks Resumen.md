@@ -36,7 +36,7 @@
         
 2. **Man-in-the-Cloud (MITC)**
     
-    - **Clave**: abuso de **tokens de sincronización** (Drive/Dropbox) — trafico inyectado indistinguible.
+    - **Clave**: abuso de **tokens o servicios de sincronización** (Drive/Dropbox) — trafico inyectado indistinguible.
         
 
 ### Bloque III: Canal lateral y envoltorios
@@ -48,34 +48,41 @@
 2. **Wrapping Attack**
     
     - **Clave**: duplicado del **cuerpo SOAP** en la capa TLS → firma válida, ejecución de código malicioso.
-        
+        Se produce durante la traducción del mensaje SOAP en la capa TLS. El atacante duplica el cuerpo del mensaje y lo envía al servidor como si fuera un usuario legítimo
 
 ### Bloque IV: Ataques avanzados y malware
 
 1. **Cloud Hopper**
     
     - **Clave**: phishing a MSP → **movimiento lateral** y C&C sin archivos (PowerShell, PowerSploit).
+        Se desencadenan contra proveedores de servicios gestionados ([^5]MSP) y sus clientes. Una vez implementado con éxito, los atacantes pueden obtener acceso remoto a la propiedad intelectual e información crítica del MSP objetivo
         
 2. **Cryptojacking**
     
     - **Clave**: scripts JS (CoinHive…) inyectados para **minería sigilosa** en navegadores.
+        Consiste en el uso no autorizado del ordenador de la víctima para extraer criptomonedas de forma sigilosa. Los ataques de criptojacking son muy lucrativos e involucran tanto a atacantes externos como a infiltrados internos
         
 3. **Cloudborne**
     
     - **Clave**: backdoor en **firmware** del servidor físico → persiste al reasignar IaaS.
+        Vulnerabilidad que reside en un servidor en la nube físico que permite a los atacantes implantar una puerta trasera maliciosa en su firmware
         
-4. **IMDS Attack**
+4. ****Instance Metadata Service IMDS Attack**
     
     - **Clave**: explotar fallo de **Instance Metadata Service** → robar credenciales de roles.
+        Explotan una vulnerabilidad de día cero en el servidor de aplicaciones objetivo o utilizando información filtrada a través de un proxy inverso implementado por los administradores
         
 5. **Cloud Snooper**
     
     - **Clave**: GS mal configurado en AWS → rootkits que evaden firewall (puertos 80/443).
+        Ataques de espionaje en la nube .Este ataque aprovechando un firewall mal configurado o cualquier vulnerabilidad subyacente
         
 6. **Golden SAML**
     
     - **Clave**: manipular **assertions** SAML tras comprometer ADFS → creación de tokens falsos.
+        Obtienen acceso administrativo al perfil de usuario del proveedor de identidad y explotan certificados de firma de tokens para generar tokens o respuestas SAML falsificados mediante la manipulación de las aserciones SAML
         
 7. **Living Off the Cloud (LotC)**
     
     - **Clave**: uso de SaaS/IaaS legítimos para **exfiltrar datos** o lanzar DDoS / minería.
+    - Atacantes atacan las aplicaciones SaaS e IaaS de las víctimas para llevar a cabo actividades maliciosas como la exfiltración de datos.

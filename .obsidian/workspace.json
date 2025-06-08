@@ -8,33 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "18045319aa882f9e",
+            "id": "5e4a59f8c8a7d8f7",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CEHv13/Training/Modulo 11 Session Hijacking/02 Types of Session Hijacking.md",
+                "file": "CEHv13/Training/Ataques/Cloud Attacks Resumen.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "02 Types of Session Hijacking"
-            }
-          },
-          {
-            "id": "5e4a59f8c8a7d8f7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CEHv13/Training/Ataques/SQL Injection Attacks Resumen.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SQL Injection Attacks Resumen"
+              "title": "Cloud Attacks Resumen"
             }
           },
           {
@@ -50,9 +36,39 @@
               "icon": "lucide-file",
               "title": "03  Application-Level Session Hijacking"
             }
+          },
+          {
+            "id": "cfb8a977cf8205a7",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CEHv13/Training/Modulo 19 Cloud Computing/04 Cloud Attacks.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "04 Cloud Attacks"
+            }
+          },
+          {
+            "id": "e4a9e7330b29cd18",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CEHv13/Training/Modulo 20 Cryptography/1.1 Symmetric Encryption Algorithms.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.1 Symmetric Encryption Algorithms"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -222,12 +238,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5e4a59f8c8a7d8f7",
+  "active": "e4a9e7330b29cd18",
   "lastOpenFiles": [
-    "CEHv13/Training/Ataques/Session Hijacking Resume.md",
+    "CEHv13/Training/Modulo 19 Cloud Computing/04 Cloud Attacks.md",
+    "CEHv13/Training/Ataques/Cloud Attacks Resumen.md",
     "CEHv13/Training/Modulo 11 Session Hijacking/03  Application-Level Session Hijacking.md",
-    "CEHv13/Training/Modulo 11 Session Hijacking/04 Network-Level Session Hijacking.md",
     "CEHv13/Training/Modulo 11 Session Hijacking/02 Types of Session Hijacking.md",
+    "CEHv13/Training/Ataques/Buffer Overflow Resumen.md",
+    "CEHv13/Training/Ataques/SQL Injection Attacks Resumen.md",
+    "CEHv13/Training/Ataques/Session Hijacking Resume.md",
+    "CEHv13/Training/Modulo 11 Session Hijacking/04 Network-Level Session Hijacking.md",
     "CEHv13/Training/Modulo 11 Session Hijacking/07 Approaches to Prevent Session Hijacking.md",
     "CEHv13/Training/Modulo 11 Session Hijacking/06 Session Hijacking Countermeasures.md",
     "CEHv13/Training/Modulo 11 Session Hijacking/05 Session Hijacking Tools.md",
@@ -243,13 +263,9 @@
     "CEHv13/Training/Modulo 06 System Hacking/3.1 Tools for Defending against DLL and Dylib Hijacking.md",
     "CEHv13/Training/Modulo 06 System Hacking/3 Escalating Privileges.md",
     "CEHv13/Training/Modulo 06 System Hacking/2.2 Buffer Overflow.md",
-    "CEHv13/Training/Ataques/Buffer Overflow Resumen.md",
-    "CEHv13/Training/Modulo 19 Cloud Computing/04 Cloud Attacks.md",
-    "CEHv13/Training/Ataques/Cloud Attacks Resumen.md",
     "CEHv13/Training/Ataques/Resumen e la parte de Ataques.md",
     "CEHv13/Training/Ataques/Resumen Notas Importantes.md",
     "CEHv13/Training/Modulo 06 System Hacking/2.1 Metasploit Architecture.md",
-    "CEHv13/Training/Modulo 06 System Hacking/02 Vulnerability Exploitation.md",
     "attachments/Pasted image 20250606091404.png",
     "attachments/image20250606091300.png",
     "attachments/image20250606091207.png",

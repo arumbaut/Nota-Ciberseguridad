@@ -67,8 +67,14 @@
   "attachments/image20250520094728.png": "LiImage",
   "attachments/image20250520093633.png": "LiImage",
   "attachments/image20250520092736.png": "LiImage",
-  "CEHv13/Training/Modulo 20 Cryptography/1.1 Symmetric Encryption Algorithms.md": "TiNotes",
-  "CEHv13/Training/Modulo 20 Cryptography/1.2 Asymmetric Encryption Algorithms.md": "TiNotes",
+  "CEHv13/Training/Modulo 20 Cryptography/1.1 Symmetric Encryption Algorithms.md": {
+    "iconName": "TiNotes",
+    "iconColor": "#ed0202"
+  },
+  "CEHv13/Training/Modulo 20 Cryptography/1.2 Asymmetric Encryption Algorithms.md": {
+    "iconName": "TiNotes",
+    "iconColor": "#e31616"
+  },
   "attachments/image20250522233325.png": "LiImage",
   "CEHv13/Training/Modulo 20 Cryptography/02 Hash Message Digest (One-way Hash) Functions.md": "LiNotebookTabs",
   "CEHv13/Training/Modulo 20 Cryptography/03 Hardware-Based Encryption.md": "LiNotebookTabs",
