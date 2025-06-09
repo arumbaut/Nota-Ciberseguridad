@@ -6,6 +6,7 @@
 
 📌 **Definición**:  
 Un **stack-based buffer overflow** ocurre cuando se escriben más datos de los permitidos en un búfer ubicado en la **pila de memoria (stack)**.
+Nota: Utiliza una pila estatica fija
 
 📌 **Características clave**:
 
@@ -44,7 +45,8 @@ Un **stack-based buffer overflow** ocurre cuando se escriben más datos de los p
 ### 🔷 **2. Heap-Based Buffer Overflow (Desbordamiento de Búfer en el Heap)**
 
 📌 **Definición**:  
-Un **heap-based buffer overflow** ocurre cuando se exceden los límites de un búfer ubicado en el **heap**, que es usado para la **asignación dinámica de memoria**.
+Un **heap-based buffer overflow** ocurre cuando se exceden los límites de un búfer ubicado en el **heap**, que es usado para la **asignación dinámica de memoria**. 
+Nota: Utiliza la memoria dinamica
 
 📌 **Características clave**:
 

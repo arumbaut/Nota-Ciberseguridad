@@ -1,19 +1,23 @@
 **Non-Repudiation** 
 El no repudio es una forma de garantizar que el remitente de un mensaje no pueda negar posteriormente haberlo enviado y que el destinatario no pueda negar haberlo recibido
 
-#### :TiJewishStar: Payment Card Industry Data Security Standard (PCI DSS)  
+#### Payment Card Industry Data Security Standard (PCI DSS)  
 Norma para la proteccion de  información de titulares de tarjetas de las principales tarjetas de débito, crédito, prepago, monedero electrónico, cajero automático y punto de venta
 
-:TiJewishStar: ISO/IEC 27001:2022  
-normas internacionales para los Sistemas de Gestión de Seguridad de la Información (SGSI). Estas especifican los requisitos y el marco para establecer, implementar, mantener y mejorar continuamente un SGSI con el fin de garantizar la confidencialidad, integridad y disponibilidad de la información.
+ ISO/IEC 27001:2022  
+ **Es una norma certificable** que especifica los requisitos para establecer, implementar, mantener y mejorar un **Sistema de Gestión de Seguridad de la Información (SGSI)**
+Normas internacionales para los Sistemas de Gestión de Seguridad de la Información (SGSI). Estas especifican los requisitos y el marco para establecer, implementar, mantener y mejorar continuamente un SGSI con el fin de garantizar la confidencialidad, integridad y disponibilidad de la información.
 
-#### :TiJewishStar:Health Insurance Portability and Accountability Act (HIPAA) 
+ISO/IEC 27002:2022 
+Es un **código de buenas prácticas** y directrices para implementar controles de seguridad específicos.
+Establece las mejores prácticas y objetivos de control para áreas críticas de ciberseguridad, como el control de acceso, la criptografía y el personal de seguridad. Este documento ofrece un marco integral para implementar controles de seguridad efectivos que protejan la información sensible y aseguren el cumplimiento normativo
+#### Health Insurance Portability and Accountability Act (HIPAA) 
 Proporciona protecciones federales para la información de salud individualmente identificable
 
 #### The Digital Millennium Copyright Act (DMCA) 
 La **DMCA** (Ley de Derechos de Autor del Milenio Digital) es una ley estadounidense de derechos de autor que implementa dos tratados de 1996 de la Organización Mundial de la Propiedad Intelectual (OMPI)
 
-#### :TiJewishStar: The Federal Information Security Management Act (FISMA) 
+#### The Federal Information Security Management Act (FISMA) 
 
 FISMA proporciona un marco integral para asegurar la efectividad de los controles de seguridad de la información sobre los recursos de información que respaldan las operaciones y activos federales. 
 
@@ -92,16 +96,19 @@ Scanning Tools
 
 **Nmap** 
 Notas importantes parametros
--F : escanea solo los 100 puesrtos mas comunes
--p- : escanea los 65535 puertos  [conocidos: 0  -  1023 , Registrados : 1024  -  49.151, dinámicos  o  privados: 49.152  -  65.535]
--f : Frangmntar paquetes
-==Permite descubrir hosts, puertos y servicios en una red informática, creando así un "mapa" de la red.==
+Opción -F mayuscula : escanea solo los 100 puesrtos mas comunes
+-p- : escanea los 65535 puertos 
+Puertos conocidos: desde el  0  al  1023  
+Puertos Registrados : desde el 1024  al  49.151, 
+Puertos dinámicos  o  privados: desde el 49.152  al  65.535]
+Opción -f minudcula : Frangmnta paquetes
 
-**Escaneo ARP Ping**
-==**nmap -sn -PR target**==
+
+**Escaneo ARP Ping**.
+==**nmap -sn -PR target.**==
 **-sn** es el comando de Nmap que **se utiliza para deshabilitar el escaneo de puertos**
 
-**Escaneo UDP Ping**
+**Escaneo UDP Ping**.
 **nmap -sn -PU target**
 
 **Escaneo ICMP ECHO Ping**
@@ -110,7 +117,7 @@ Notas importantes parametros
 ==**ICMP ECHO Ping Sweep (también conocido como barrido ICMP) **==
 **nmap -sn -PE** **target** **10.10.1.5-24**
 
-**Escaneo ICMP Timestamp Ping**
+**Escaneo ICMP Timestamp Ping.**
 **nmap -sn -PM** **target** **10.10.1.5**
 
 
@@ -131,7 +138,7 @@ Notas importantes parametros
 **Comandos de Hping**
 
 **Escaneo ACK en el puerto 80**  
-**Ej.** **hping3 –A 10.0.0.25 –p 80** 
+**hping3 –A 10.0.0.25 –p 80** 
 Para sondear la existencia de un cortafuegos y sus reglas.verifica si un host está activo en una red. ==**Si encuentra un host activo y un puerto abierto, devuelve una respuesta RST==
 
 **Escaneo UDP en el puerto 80**  
@@ -184,9 +191,9 @@ Para sondear la existencia de un cortafuegos y sus reglas.verifica si un host es
 **Escaneo TCP Maimon**
 Similar al escaneo NULL, FIN y Xmas, pero **el paquete de sondeo utilizado aquí es FIN/ACK
 nmap -sM -v 10.10.1.11
-No response port open,  
-RST packet    port  Close
-IVMP unreacheble error port filtered
+No responde  puerto abierto,  
+RST packet    puerto cerrado
+ICMP unreacheble error puerto filtrado
 
 **ACK Flag Probe Scan** 
 **nmap -sA -v 10.10.1.11**

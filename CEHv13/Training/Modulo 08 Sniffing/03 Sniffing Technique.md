@@ -23,7 +23,7 @@ Source: https://monkey.org**
 
 ##### macof -i eth0 -n 10
 
-##### **Switch Port Stealing** 
+ **Switch Port Stealing** 
 La técnica de _sniffing_ conocida como **switch port stealing** utiliza **MAC flooding** para interceptar los paquetes. El atacante inunda el _switch_ con paquetes **ARP gratuitos falsificados**, utilizando como dirección MAC de origen la del objetivo, y como dirección MAC de destino la suya propia.
 Esto genera una **condición de carrera** entre los paquetes inyectados por el atacante y los paquetes legítimos del host objetivo, lo que obliga al _switch_ a alternar constantemente la vinculación de la dirección MAC entre dos puertos diferentes.
 
@@ -31,7 +31,7 @@ En este escenario, si el atacante actúa con suficiente rapidez, podrá redirigi
 
 Cuando el atacante recibe una **respuesta ARP (ARP reply)**, esto indica que la vinculación del puerto del host en el switch ha sido restaurada, y el atacante puede **interceptar los paquetes** que se envían hacia el host objetivo.
 
-#### **How to Defend against MAC Attacks**
+**How to Defend against MAC Attacks**
 
 La seguridad de puertos es una función que identifica y limita las direcciones MAC de las máquinas que pueden acceder al puerto.Si asignas una dirección MAC segura a un puerto seguro, entonces el puerto solo reenviará paquetes cuya dirección MAC de origen esté dentro del grupo de direcciones definidas.
 

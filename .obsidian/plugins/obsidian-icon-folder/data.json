@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "📝",
+      "📙",
       "LiNotebookTabs",
       "LiNotebook",
-      "TiWall",
-      "FasComputer",
-      "📦"
+      "TiWall"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -143,7 +143,10 @@
   "CEHv13/Training/Modulo 02 Footprinting and Reconnaissance/01 Footprinting Concepts.md": "LiNotebookTabs",
   "CEHv13/Training/Modulo 02 Footprinting and Reconnaissance/03 Whois Footprinting.md": "LiNotebookTabs",
   "CEHv13/Training/Modulo 02 Footprinting and Reconnaissance/04 DNS Footprinting.md": "LiNotebookTabs",
-  "CEHv13/Training/Modulo 02 Footprinting and Reconnaissance/02 Tools to Search Company`s Sub domains.md": "LiNotebookTabs",
+  "CEHv13/Training/Modulo 02 Footprinting and Reconnaissance/02 Tools to Search Company`s Sub domains.md": {
+    "iconName": "LiNotebookTabs",
+    "iconColor": "#d20f0f"
+  },
   "CEHv13/Training/Modulo 03 Scanning Networks 03": "LiFolder",
   "CEHv13/Training/Modulo 03 Scanning Networks 03/01 Scanning Networks.md": "LiNotebookTabs",
   "CEHv13/Training/Modulo 03 Scanning Networks 03/02 Scanning Tools.md": "LiNotebookTabs",
@@ -322,5 +325,14 @@
   "CEHv13/Training/Modulo 18 IoT and OT Hacking/02 IoT Threats.md": "LiNotebookTabs",
   "CEHv13/Training/Modulo 18 IoT and OT Hacking/03 What is IoT Device Hacking.md": "LiNotebookTabs",
   "CEHv13/Training/Modulo 18 IoT and OT Hacking/04 Qué es OT.md": "LiNotebookTabs",
-  "CEHv13/Training/Modulo 18 IoT and OT Hacking/05 What is OT Hacking.md": "LiNotebookTabs"
+  "CEHv13/Training/Modulo 18 IoT and OT Hacking/05 What is OT Hacking.md": "LiNotebookTabs",
+  "CEHv13/Training/Ataques/SQL Injection Attacks Resumen.md": "📝",
+  "CEHv13/Training/Ataques/Social Engineering Resumen.md": "📝",
+  "CEHv13/Training/Ataques/Session Hijacking Resume.md": "📝",
+  "CEHv13/Training/Ataques/Cloud Attacks Resumen.md": "📝",
+  "CEHv13/Training/Ataques/Buffer Overflow Resumen.md": "📝",
+  "CEHv13/Training/Ataques/Cracking Passwords Attacks Resumen.md": "📝",
+  "CEHv13/Training/Ataques/Cryptography Attacks  Resumen.md": "📝",
+  "CEHv13/Training/Ataques/DOS Attack Resumen.md": "📝",
+  "CEHv13/Training/Ataques/Acanneo de redes Resumen.md": "📝"
 }
