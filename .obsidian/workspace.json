@@ -24,20 +24,6 @@
             }
           },
           {
-            "id": "3b4d7e91218c86bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CEHv13/Training/Modulo 11 Session Hijacking/03  Application-Level Session Hijacking.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "03  Application-Level Session Hijacking"
-            }
-          },
-          {
             "id": "cfb8a977cf8205a7",
             "type": "leaf",
             "pinned": true,
@@ -59,16 +45,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CEHv13/Training/Modulo 20 Cryptography/1.1 Symmetric Encryption Algorithms.md",
+                "file": "CEHv13/Training/Modulo 20 Cryptography/02 Hash Message Digest (One-way Hash) Functions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.1 Symmetric Encryption Algorithms"
+              "title": "02 Hash Message Digest (One-way Hash) Functions"
+            }
+          },
+          {
+            "id": "dfde691bf5ad637f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CEHv13/Training/Ataques/DOS Attack Resumen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DOS Attack Resumen"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -222,7 +222,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 245.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -235,18 +235,35 @@
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
       "obsidian-git:Open Git source control": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "edge-tts:Read note aloud": false
     }
   },
-  "active": "e4a9e7330b29cd18",
+  "active": "cfb8a977cf8205a7",
   "lastOpenFiles": [
-    "CEHv13/Training/Modulo 19 Cloud Computing/04 Cloud Attacks.md",
+    "Nuevo Documento de texto.txt",
+    "Note Narration Audio/Cloud Attacks.mp3",
+    "Note Narration Audio/note - 09 jun 2025 10-30.mp3",
     "CEHv13/Training/Ataques/Cloud Attacks Resumen.md",
+    "CEHv13/Training/Modulo 19 Cloud Computing/04 Cloud Attacks.md",
+    "CEHv13/Training/Ataques/SQL Injection Attacks Resumen.md",
+    "CEHv13/Training/Modulo 15 SQL Injection/02 Types of SQL Injection.md",
+    "CEHv13/Training/Ataques/DOS Attack Resumen.md",
+    "CEHv13/Training/Ataques/Session Hijacking Resume.md",
+    "CEHv13/Training/Ataques/Social Engineering Resumen.md",
+    "Note Narration Audio/SQL Injection Attacks.mp3",
+    "Note Narration Audio/note - 09 jun 2025 09-42.mp3",
+    "Note Narration Audio/Social Engineering Attacks.mp3",
+    "Note Narration Audio/note - 09 jun 2025 08-40.mp3",
+    "Note Narration Audio/Session Hijacking Attacks.mp3",
+    "Note Narration Audio/note - 09 jun 2025 08-11.mp3",
+    "Note Narration Audio/note - 09 jun 2025 08-07.mp3",
+    "Note Narration Audio/note - 09 jun 2025 07-57.mp3",
     "CEHv13/Training/Modulo 11 Session Hijacking/03  Application-Level Session Hijacking.md",
+    "CEHv13/Training/Modulo 20 Cryptography/02 Hash Message Digest (One-way Hash) Functions.md",
+    "CEHv13/Training/Modulo 20 Cryptography/1.1 Symmetric Encryption Algorithms.md",
     "CEHv13/Training/Modulo 11 Session Hijacking/02 Types of Session Hijacking.md",
     "CEHv13/Training/Ataques/Buffer Overflow Resumen.md",
-    "CEHv13/Training/Ataques/SQL Injection Attacks Resumen.md",
-    "CEHv13/Training/Ataques/Session Hijacking Resume.md",
     "CEHv13/Training/Modulo 11 Session Hijacking/04 Network-Level Session Hijacking.md",
     "CEHv13/Training/Modulo 11 Session Hijacking/07 Approaches to Prevent Session Hijacking.md",
     "CEHv13/Training/Modulo 11 Session Hijacking/06 Session Hijacking Countermeasures.md",
@@ -259,13 +276,7 @@
     "CEHv13/Training/Modulo 08 Sniffing/3.2 Sniffing Technique Spoofing Attacks.md",
     "CEHv13/Training/Modulo 08 Sniffing/3.1 Sniffing Technique ARP Poisoning.md",
     "CEHv13/Training/Modulo 06 System Hacking/4.3 Spyware.md",
-    "CEHv13/Training/Ataques/Social Engineering Resumen.md",
     "CEHv13/Training/Modulo 06 System Hacking/3.1 Tools for Defending against DLL and Dylib Hijacking.md",
-    "CEHv13/Training/Modulo 06 System Hacking/3 Escalating Privileges.md",
-    "CEHv13/Training/Modulo 06 System Hacking/2.2 Buffer Overflow.md",
-    "CEHv13/Training/Ataques/Resumen e la parte de Ataques.md",
-    "CEHv13/Training/Ataques/Resumen Notas Importantes.md",
-    "CEHv13/Training/Modulo 06 System Hacking/2.1 Metasploit Architecture.md",
     "attachments/Pasted image 20250606091404.png",
     "attachments/image20250606091300.png",
     "attachments/image20250606091207.png",
@@ -275,16 +286,6 @@
     "attachments/image20250606090724.png",
     "attachments/image20250606090417.png",
     "attachments/image20250606090222.png",
-    "attachments/image20250606085742.png",
-    "CEHv13/Training/Modulo 17 Hacking Mobile Platforms",
-    "CEHv13/Training/Modulo 18 IoT and OT Hacking",
-    "CEHv13/Training/Modulo 16 Hacking Wireless Networks",
-    "CEHv13/Training/Modulo 15 SQL Injection",
-    "CEHv13/Training/Modulo 14 Hacking Web Applications",
-    "CEHv13/Training/Modulo 13 Hacking Web Servers",
-    "CEHv13/Training/Modulo 12 Evading IDS, Firewalls, and Honeypots",
-    "CEHv13/Training/Modulo 11 Session Hijacking",
-    "CEHv13/Training/Ataques/Sin nombre",
-    "CEHv13/Training/Ataques"
+    "attachments/image20250606085742.png"
   ]
 }

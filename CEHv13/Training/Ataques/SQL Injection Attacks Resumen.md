@@ -1,82 +1,62 @@
-## 1. Chunking: 3 grandes bloques
+**▪ In-band SQL Injection:**  ==Un atacante utiliza el mismo canal de comunicación tanto para llevar a cabo el ataque como para obtener los resultados. Las variantes más utilizadas de la inyección SQL in-band son la inyección SQL basada en errores (**error-based SQL injection)** y la **inyección SQL mediante UNION (UNION SQL injection).**==
 
-|**Bloque**|**Tipos de inyección SQL**|
-|---|---|
-|**I. In-band (canal único)**|Error-based, System Stored Procedure, Illegal/Logically Incorrect Query, UNION, Tautology, End-of-Line Comment, In-line Comment, Piggybacked Query|
-|**II. Blind/Inferential (ciega)**|Boolean-based, Time-based (WAITFOR), Heavy Query|
-|**III. Out-of-Band (fuera de banda)**|Canal secundario (DNS, HTTP)|
+**▪ Blind/Inferential SQL Injection:** El atacante no recibe mensajes de error del sistema para guiar su ataque. En su lugar, envía consultas SQL maliciosas al servidor de base de datos y observa el comportamiento de la aplicación para inferir información.
 
----
+**▪ Out-of-Band SQL Injection:** Los atacantes utilizan canales de comunicación distintos al principal (como funcionalidades de correo electrónico del sistema de bases de datos o funciones de escritura y carga de archivos) para ejecutar el ataque y obtener los resultados.
 
-## 2. Resumen y **puntos clave** por bloque
+ **Ataques In-Band SQL Injection **
+ 
+** Error-based SQL Injection**
 
-### Bloque I: In-band SQL Injection
+==Un atacante inserta intencionalmente entradas incorrectas en una aplicación, lo que provoca que se devuelvan errores a nivel de base de datos.== El atacante analiza los mensajes de error resultantes para identificar vulnerabilidades de inyección SQL en la aplicación
 
-- **Mismo canal para atacar y extraer**
-    
-- **Error-based**: provoca errores para leer información directamente.
-    
-- **System Stored Procedure**: ejecuta SP maliciosos (p.ej. `anyusername or 1=1’`).
-    
-- **Illegal/Logically Incorrect Query**: inyecta consultas sintácticamente incorrectas para forzar mensajes de error.
-    
-- **UNION**: añade `UNION SELECT` para combinar resultados legítimos con datos sensibles.
-    
-- **Tautology**: `… WHERE x OR ‘1’=‘1’` → siempre true, esquiva autenticación.
-    
-- **End-of-Line Comment**: usa `--` para truncar la consulta legítima.
-    
-- **In-line Comment**: `/* … */` para ofuscar y evadir filtros.
-    
-- **Piggybacked Query**: encadena `; DROP TABLE…` para ejecutar múltiples consultas.
-    
-### Bloque II: Blind/Inferential
+**System Stored Procedure**
+Un atacante puede aprovechar las entradas maliciosas para ejecutar las consultas SQL maliciosas dentro del procedimiento almacenado
 
-- **No hay errores visibles**: el atacante infiere por comportamiento.
-    
-- **Boolean-based**: envía condiciones que devuelven true/false (`AND 1=2` vs `AND 1=1`).
-    
-- **Time-based**: usa `WAITFOR` para medir retardos y extraer datos.
-    
-- **Heavy Query**: consultas muy costosas (`JOIN` múltiples tablas del sistema) para medir tiempo de respuesta.
-    
+**Illegal/Logically Incorrect Query** **:**
+Un atacante puede obtener información inyectando solicitudes ilegales/lógicamente incorrectas, como parámetros inyectables, tipos de datos, nombres de tablas, etc. En este ataque de inyección SQL, un atacante envía intencionadamente una consulta incorrecta a la base de datos para generar un mensaje de error que puede ser útil para realizar ataques adicionales.
 
-### Bloque III: Out-of-Band
+Ejemplo
+**SELECT * FROM Users WHERE UserName = 'Bob"' AND password =**
 
-- **Canal secundario** distinto (SMTP, DNS, HTTP UTL_HTTP/`xp_dirtree`).
-    
-- **Requiere**: habilidad para hacer que el servidor de BD llame a un recurso externo controlado por el atacante.
-    
+**UNION SQL Injection**
 
----
-## 3. Técnica de Loci + mnemotecnia
+La instrucción **“UNION SELECT”** devuelve la unión del conjunto de datos previsto con el conjunto de datos objetivo. En una inyección SQL mediante UNION, un atacante utiliza una cláusula **UNION** para anexar una consulta maliciosa a la consulta original solicitada, como se muestra en el siguiente ejemplo
 
-Imagina un **castillo de 3 alas**:
+**SELECT Name, Phone, Address FROM Users WHERE Id=1 UNION ALL SELECT creditCardNumber,1,1 FROM CreditCardTable**
 
-- **Ala Este (In-band)**: una gran **tubería** por donde fluyen los 8 tipos de inyección; cada tubería tiene un cartel con su nombre y un color distintivo:
-    
-    1. Error-based → placa rota que chisporrotea (errores).
-        
-    2. Stored Proc → armario con tomos de SP.
-        
-    3. Illegal Query → lápidas mal escritas.
-        
-    4. UNION → dos ríos que se unen.
-        
-    5. Tautology → espejo mágico que siempre dice “cierto”.
-        
-    6. End-Line Comment → línea de metro que se detiene en “–”.
-        
-    7. In-line Comment → gusano que recorre `/*…*/`.
-        
-    8. Piggybacked → un tren con dos vagones (consulta + ataque).
-        
-- **Ala Oeste (Blind/Inferential)**: un tribunal con tres pruebas:
-    
-    1. Juicio de Verdad/Falsedad (Boolean).
-        
-    2. Reloj de arena gigante (Time-based WAITFOR).
-        
-    3. Carretón cargado de pesadas rocas (Heavy Query).
-        
-- **Ala Norte (Out-of-Band)**: un torreón con una antena parabólica que envía señales DNS/HTTP a un satélite del atacante.
+**▪ Tautology**
+Un atacante utiliza una cláusula condicional OR de manera que la condición de la cláusula WHERE siempre sea verdadera. Este tipo de ataque puede usarse para eludir la autenticación de usuarios. Por ejemplo:
+
+**SELECT * FROM users WHERE name = ‘’ OR ‘1’=‘1’;**
+
+**End-of-Line Comment**
+ Los comentarios en una línea de código suelen estar representados por (--), y son ignorados por la consulta. Un atacante se aprovecha de esta característica de los comentarios escribiendo una línea de código que termina en un comentario. La base de datos ejecutará el código hasta llegar a la parte comentada,
+
+**SELECT * FROM members WHERE username = 'admin'--' AND password = 'password'**
+
+**In-line Comments**
+Un ataque de inyección SQL integrando múltiples entradas vulnerables en una sola consulta mediante el uso de comentarios en línea. Este tipo de inyección permite al atacante eludir listas negras, eliminar espacios, ofuscar código y determinar versiones de bases de datos.
+
+Por ejemplo:
+**INSERT INTO Users (UserName, isAdmin, Password) VALUES ('".$username."', 0, '".$password."')
+
+**Piggybacked Query**
+Este tipo de inyección se realiza generalmente en consultas SQL por lotes. La consulta original permanece sin modificar, y la consulta del atacante se acopla a esta. Gracias a este acoplamiento, el sistema de gestión de bases de datos (DBMS) recibe múltiples consultas SQL. Los atacantes utilizan un punto y coma (;) como delimitador de consultas para separar las instrucciones.Este tipo de ataque también se conoce como stacked queries attack. El objetivo del atacante puede ser extraer, agregar, modificar o eliminar datos, ejecutar comandos remotos o realizar un ataque de denegación de servicio (DoS).
+
+
+** Ataques Blind/Inferential SQL Injection**
+
+ **Blind SQL Injection: Time-based SQL Injection**
+La inyección SQL basada en tiempo (a veces llamada inyección SQL de retraso en el tiempo) evalúa el retraso temporal que ocurre en respuesta a consultas de verdadero o falso enviadas a la base de datos. Una declaración WAITFOR detiene el servidor SQL durante un tiempo específico. 
+
+**Blind SQL Injection: Boolean Exploitation Boolean**
+El atacante utiliza un conjunto de operaciones booleanas para extraer información sobre las tablas de la base de datos.  Si la aplicación no devuelve ningún mensaje de error predeterminado, el atacante intenta usar operaciones booleanas contra la aplicación. 
+Nota: Uso de AND 
+
+Ejemplo 
+SELECT Name, Price, Description FROM ITEM_DATA WHERE ITEM_ID = 67 AND 1 = 2
+
+**Blind SQL Injection: Heavy Query**
+Una consulta pesada recupera una gran cantidad de datos y tomará mucho tiempo para ejecutarse en el motor de base de datos. Los atacantes generan consultas pesadas utilizando múltiples uniones en las tablas del sistema, porque las consultas sobre tablas del sistema suelen tardar más tiempo en ejecutarse.
+

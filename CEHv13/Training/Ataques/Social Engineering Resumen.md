@@ -50,19 +50,15 @@
 
 **Phishing Tools :** 
 
-▪ ShellPhish Source: https://github.com
-▪ Social Engineering Toolkit (SET) Source: https://www.trustedsec.com
-▪ Dark-Phish (https://github.com)
-▪ BLACKEYE (https://github.com)
-▪ SocialFish (https://github.com)
-▪ Modlishka (https://github.com)
-▪ Trape (https://github.com)
-▪ Gophish (https://getgophish.com)
-▪ King Phisher (https://github.com)
-▪ LUCY SECURITY (https://lucysecurity.com)
-▪ Zphisher (https://github.com)
-
-  
+▪ ShellPhish 
+▪ Social Engineering Toolkit SET
+▪ SocialFish
+▪ Modlishka
+▪ Trape 
+▪ Gophish
+▪ King Phisher 
+▪ LUCY SECURITY
+▪ Zphisher 
 
 **Spam mail****:** Tipo de correo electrónico no deseado, irrelevante y no solicitado diseñado para recolectar información financiera como números de seguro social o detalles de redes.
 
@@ -74,24 +70,7 @@
 
 **Create Deepfake Videos****:** Los atacantes manipulan o generan contenido de audio y video falso de una persona específica. Estos deepfakes se producen utilizando clips de audio y video previamente grabados, medios personales robados o incluso contenido de identidades desconocidas o expiradas. El objetivo principal es engañar a los espectadores haciéndoles creer que el contenido es genuino.utiliza tecnologías avanzadas como aprendizaje automático (ML) e inteligencia artificial (IA) para crear contenido fraudulento y engañoso.
 
-**Deepfake Video Creation Tools**
 
-▪ DeepFaceLab Source: https://www.deepfakevfx.com
-▪ Vidnoz (https://www.vidnoz.com)
-▪ Deepfakesweb (https://deepfakesweb.com)
-▪ Synthesia (https://www.synthesia.io)
-▪ DeepBrain AI (https://www.deepbrain.io)
-▪ Hoodem (https://hoodem.com)
-
-**Voice Cloning****:** Crean imitaciones altamente convincentes de la voz de un individuo.
-
-Voice Cloning Tools
-▪ VEED.IO Source: https://www.veed.io
-▪ Murf.AI (https://murf.ai)
-▪ Resemble.AI (https://www.resemble.ai)
-▪ ElevenLabs (https://elevenlabs.io)
-▪ PlayHT (https://play.ht)
-▪ voice.ai (https://voice.ai)
 
 **▪ Angler Phishing:**atacantes realizan este ataque creando cuentas falsas en redes sociales que se hacen pasar por cuentas oficiales de soporte técnico de una organización y se conectan con los individuos descontentos a través de publicaciones.
 
@@ -104,12 +83,6 @@ El atacante crea una aplicación maliciosa y la publica en las principales tiend
 
 **QRLJacking****:** 
 ==Ataque de ingeniería social que explota el método de inicio de sesión mediante códigos QR en diversas aplicaciones web para secuestrar sesiones de inicio de sesión y obtener acceso no autorizado a las cuentas de las víctimas.==.
-
-**QR Code Cloning Tools**
-▪ QR TIGER Source: https://www.qrcode-tiger.com
-▪ QR Code Generator (https://support.qr-code-generator.com)
-▪ Soti MobiControl (https://www.soti.net)
-▪ QR Code KIT (https://qrcodekit.com)
 
 **Using fake security applications****:** Primero infecta la computadora de la víctima enviando algún archivo malicioso. Luego, sube una aplicación maliciosa a una tienda de aplicaciones.Cuando la víctima inicia sesión en su cuenta bancaria, el malware en el sistema muestra un mensaje emergente indicando que necesita descargar una aplicación en su teléfono para recibir un mensaje de seguridad. La víctima descarga la aplicación desde la tienda del atacante, creyendo que está descargando una aplicación legítima.
 
