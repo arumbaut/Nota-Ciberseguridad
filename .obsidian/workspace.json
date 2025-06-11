@@ -89,12 +89,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CEHv13/Training/Modulo 17 Hacking Mobile Platforms/02 Mobile Attacks.md",
+                "file": "CEHv13/Training/Formato ICMP Message.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02 Mobile Attacks"
+              "title": "Formato ICMP Message"
             }
           }
         ],
@@ -130,7 +130,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ad hoc",
+                "query": "unreache",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -155,7 +155,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321.5
+    "width": 337.5
   },
   "right": {
     "id": "dd62f90908c3232e",
@@ -269,53 +269,53 @@
       "edge-tts:Read note aloud": false
     }
   },
-  "active": "f6cb5ee8974cdcc1",
+  "active": "19b62d1d9a29ce9d",
   "lastOpenFiles": [
+    "attachments/image20250611232114.png",
+    "CEHv13/Training/DNS Hierarchy.md",
+    "CEHv13/Training/Formato ICMP Message.md",
+    "attachments/image20250611231323.png",
+    "attachments/Pasted image 20250606091404.png",
+    "CEHv13/Training/Encabezado y Operación del Segmento UDP.md",
+    "Sin título.md",
+    "README.md",
+    "Pasted.md",
+    "attachments.md",
+    "CEHv13/Training/Encabezado de Segmento TCP.md",
+    "CEHv13/Training/El encabezado del Packet IPv4.md",
+    "CEHv13/Training/El encabezado del Packet IPv6.md",
+    "CEHv13/Training/02 Puertos.md",
+    "CEHv13/Training/01 OSI Model.md",
+    "CEHv13/Training/Ataques/Acanneo de redes Resumen.md",
+    "CEHv13/Training/Ataques/Resumen Notas Importantes.md",
+    "CEHv13/Training/Ataques/Apuntes de examenes resueltos.md",
+    "CEHv13/Training/Ataques/DOS Attack Resumen.md",
+    "CEHv13/Training/Ataques/Session Hijacking Resume.md",
+    "attachments/image20250524225024.png",
+    "attachments/image20250524162821.png",
+    "attachments/image20250524160852.png",
+    "attachments/image20250523055914.png",
+    "attachments/image20250523055327.png",
+    "attachments/image20250523053729.png",
+    "attachments/image20250523053710.png",
+    "attachments/image20250523053428.png",
+    "CEHv13/Training/Modulo 17 Hacking Mobile Platforms/02 Mobile Attacks.md",
+    "CEHv13/Training/Modulo 17 Hacking Mobile Platforms/04 Hacking iOS.md",
+    "CEHv13/Training/Modulo 17 Hacking Mobile Platforms/05 Mobile Device Management (MDM).md",
+    "CEHv13/Training/Modulo 17 Hacking Mobile Platforms/03 Analyzing Android Devices.md",
     "CEHv13/Training/Modulo 17 Hacking Mobile Platforms/01 Mobile Platform Attack Vectors.md",
     "CEHv13/Training/Modulo 16 Hacking Wireless Networks/07 Wireless Threats.md",
-    "CEHv13/Training/Ataques/Apuntes de examenes resueltos.md",
     "CEHv13/Training/Modulo 16 Hacking Wireless Networks/03 Wireless Standards.md",
     "Note Narration Audio/Apuntes de examenes resueltos - 11 jun 2025 07-39.mp3",
     "CEHv13/Training/Modulo 16 Hacking Wireless Networks/02 Types of Wireless Networks.md",
-    "CEHv13/Training/Modulo 16 Hacking Wireless Networks/01 Wireless Terminology.md",
-    "CEHv13/Training/01 OSI Model.md",
-    "CEHv13/Training/Ataques/Sniffing.md",
-    "CEHv13/Training/Modulo 08 Sniffing/01 Sniffing Concepts.md",
-    "CEHv13/Training/Ataques/Sin título.md",
-    "CEHv13/Training/Modulo 02 Footprinting and Reconnaissance/03 Whois Footprinting.md",
     "Note Narration Audio/Apuntes de examenes resueltos - 10 jun 2025 07-35.mp3",
     "Note Narration Audio/Resumen Notas Importantes - 10 jun 2025 07-30.mp3",
-    "CEHv13/Training/Modulo 02 Footprinting and Reconnaissance/02 Tools to Search Company`s Sub domains.md",
-    "CEHv13/Training/Modulo 02 Footprinting and Reconnaissance/01 Footprinting Concepts.md",
     "Note Narration Audio/SQL Injection Attacks Resumen - 10 jun 2025 07-29.mp3",
-    "CEHv13/Training/Ataques/Resumen Notas Importantes.md",
-    "CEHv13/Training/Ataques/Resumen e la parte de Ataques.md",
     "Note Narration Audio/Social Engineering Resumen - 10 jun 2025 07-28.mp3",
-    "CEHv13/Training/Ataques/Cloud Attacks Resumen.md",
     "Note Narration Audio/Session Hijacking Resume - 10 jun 2025 07-28.mp3",
     "Note Narration Audio/DOS Attack Resumen - 10 jun 2025 07-28.mp3",
     "Note Narration Audio/Cryptography Attacks  Resumen - 10 jun 2025 07-28.mp3",
     "Note Narration Audio/Cracking Passwords Attacks Resumen - 10 jun 2025 07-25.mp3",
-    "Note Narration Audio/Cloud Attacks Resumen - 10 jun 2025 07-25.mp3",
-    "CEHv13/Training/Ataques/Buffer Overflow Resumen.md",
-    "CEHv13/Training/Ataques/Acanneo de redes Resumen.md",
-    "CEHv13/Training/Ataques/SQL Injection Attacks Resumen.md",
-    "CEHv13/Training/Ataques/Social Engineering Resumen.md",
-    "CEHv13/Training/Ataques/Session Hijacking Resume.md",
-    "CEHv13/Training/Ataques/DOS Attack Resumen.md",
-    "CEHv13/Training/Ataques/Cryptography Attacks  Resumen.md",
-    "CEHv13/Training/Ataques/Cracking Passwords Attacks Resumen.md",
-    "CEHv13/Training/Modulo 10 Denial-of-Service/02 DoS-DDoS Attack Techniques.md",
-    "CEHv13/Training/Modulo 03 Scanning Networks 03/1.2 Comunicación TCP IP.md",
-    "attachments/Pasted image 20250606091404.png",
-    "attachments/image20250606091300.png",
-    "attachments/image20250606091207.png",
-    "attachments/image20250606091109.png",
-    "attachments/image20250606090936.png",
-    "attachments/image20250606090759.png",
-    "attachments/image20250606090724.png",
-    "attachments/image20250606090417.png",
-    "attachments/image20250606090222.png",
-    "attachments/image20250606085742.png"
+    "Note Narration Audio/Cloud Attacks Resumen - 10 jun 2025 07-25.mp3"
   ]
 }

@@ -38,7 +38,8 @@ Los ataques Agent Smith se ejecutan engañando a las víctimas para que descargu
 
 El Signaling System 7 (SS7) es un protocolo de comunicación que permite a los usuarios móviles intercambiar comunicaciones a través de otras redes celulares, especialmente durante el roaming (itinerancia).Este mecanismo de señalización opera sobre la base de la confianza mutua entre los operadores, sin requerir autenticación ni verificación de identidad. Dado que la red de señalización SS7 no está aislada, los atacantes pueden explotar esta vulnerabilidad para ejecutar ataques de tipo Man-in-the-Middle (MITM), interceptando mensajes de texto y llamadas entre los dispositivos que se comunican.A través de esta técnica, el atacante puede escuchar credenciales bancarias, contraseñas de un solo uso (OTP) y otra información sensible que se transmite por la red. Esta vulnerabilidad en SS7 también puede permitir al atacante eludir la autenticación de dos factores (2FA) e incluso comprometer la cifrado de extremo a extremo basado en SMS.
 
-**Simjacker: Ataque a través de la Tarjeta SIM**Simjacker es una vulnerabilidad asociada al navegador S@T (SIMalliance Toolbox Browser) de la tarjeta SIM, un software preinstalado en muchas tarjetas SIM que permite ejecutar un conjunto de instrucciones específicas.
+**Simjacker: Ataque a través de la Tarjeta SIM**
+Simjacker es una vulnerabilidad asociada al navegador S@T (SIMalliance Toolbox Browser) de la tarjeta SIM, un software preinstalado en muchas tarjetas SIM que permite ejecutar un conjunto de instrucciones específicas.
 
 Los atacantes explotan esta vulnerabilidad del navegador S@T para llevar a cabo diversas actividades maliciosas
 
@@ -173,7 +174,7 @@ Además, esta herramienta permite a los atacantes generar cargas útiles persona
 ² Generar una payload adecuada para la intrusión
 ### Lanzar ataque DoS utilizando Low Orbit Ion Cannon (LOIC)
 
-### LOIC es una aplicación móvil que permite a los atacantes realizar ataques DoS/DDoS sobre una dirección IP objetivo.
+### ==LOIC es una aplicación móvil que permite a los atacantes realizar ataques DoS/DDoS sobre una dirección IP objetivo.==
 
 Esta aplicación puede llevar a cabo ataques de inundación UDP, HTTP o TCP.
 Hacking with Orbot Proxy
@@ -185,6 +186,7 @@ Exploiting Android Device through ADB Using PhoneSploit Pro
 Source: https://github.com
 Android Debug Bridge (ADB) is a command-line tool that allows attackers to communicate with the target Android device. This tool provides various features to install and debug apps and access the Unix shell to execute various shell commands on a device.
 
-**Launching Spearphone Attack**Un ataque Spearphone permite a las aplicaciones Android grabar datos del altavoz sin requerir privilegios especiales.  
+**Launching Spearphone Attack**
+Un ataque Spearphone permite a las aplicaciones Android grabar datos del altavoz sin requerir privilegios especiales.  
 Los atacantes pueden espiar conversaciones de voz del altavoz entre usuarios móviles remotos explotando el sensor de movimiento basado en hardware, es decir, el acelerómetro.El sensor de movimiento permite a las aplicaciones capturar el movimiento físico del dispositivo en función de los cambios en la posición y la velocidad.  
 Las reverberaciones del habla también pueden ser grabadas a través de este sensor incorporado, ya que el altavoz se encuentra en la misma superficie del dispositivo.

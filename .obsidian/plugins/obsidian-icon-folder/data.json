@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "TiWorldWww",
       "📝",
       "📙",
       "LiNotebookTabs",
-      "LiNotebook",
-      "TiWall"
+      "LiNotebook"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -335,5 +335,6 @@
   "CEHv13/Training/Ataques/Cryptography Attacks  Resumen.md": "📝",
   "CEHv13/Training/Ataques/DOS Attack Resumen.md": "📝",
   "CEHv13/Training/Ataques/Acanneo de redes Resumen.md": "📝",
-  "CEHv13/Training/Ataques/Sniffing.md": "📝"
+  "CEHv13/Training/Ataques/Sniffing.md": "📝",
+  "CEHv13/Training/DNS Hierarchy.md": "TiWorldWww"
 }
