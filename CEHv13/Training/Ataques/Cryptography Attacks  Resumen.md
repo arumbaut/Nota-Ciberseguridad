@@ -64,7 +64,7 @@ Es un   cifrado por bloques simétrico y modificable ("tweakable")  de gran tama
 Asymmetric Encryption Algorithms
 
  Digital Signature Algorithm (DSA)
-Es un Estándar de Procesamiento de Información Federal para firmas digitales. El NIST propuso el DSA para su uso en el Estándar de Firma Digital (DSS). El DSA ayuda en la generación y verificación de firmas digitales para aplicaciones sensibles y no clasificadas. Crea una firma digital de 320 bits con seguridad de 512 a 1024 bits
+Es un Estándar de Procesamiento de Información Federal para firmas digitales. El NIST propuso el DSA para su uso en el Estándar de Firma Digital (DSS). El DSA ayuda en la generación y verificación de firmas digitales para aplicaciones sensibles y no clasificadas. Crea una firma digital de 320 bits con seguridad de 512 a 1024 bits. Es un algoritmo que se utiliza para proporcionar **firmas digitales** en archivos y correos electrónicos, con el fin de ofrecer **no repudio** y **autenticidad**. **No proporciona confidencialidad ni integridad**.
 
 Rivest–Shamir–Adleman (RSA)
  Sistema de criptografía de clave pública para el cifrado y la autenticación en Internet. Utiliza aritmética modular y teorías elementales de números para realizar cálculos utilizando dos números primos grandes. El sistema RSA se utiliza ampliamente en una variedad de productos, plataformas e industrias.
@@ -146,7 +146,7 @@ Solicita, gestiona y utiliza certificados.
 Actúa como verificador para la CA
  
  Digital Signature 
-==Una firma digital utiliza criptografía asimétrica== para simular las propiedades de seguridad de una firma en forma digital en lugar de escrita. Es un medio criptográfico de autenticación. La criptografía de clave pública utiliza cifrado asimétrico y ayuda al usuario a crear una firma digital.
+ Una firma digital utiliza criptografía asimétrica  para simular las propiedades de seguridad de una firma en forma digital en lugar de escrita. Es un medio criptográfico de autenticación. La criptografía de clave pública utiliza cifrado asimétrico y ayuda al usuario a crear una firma digital.
 
 Secure Sockets Layer (SSL)
 es un protocolo de capa de aplicación desarrollado por Netscape para gestionar la seguridad de la transmisión de mensajes en Internet. requiere un protocolo de transporte fiable, como TCP. Utiliza el cifrado asimétrico RSA (de clave pública) para cifrar los datos transferidos a través de conexiones SSL. Cualquier protocolo de capa de aplicación superior a SSL, como HTTP, FTP y Telnet, puede formar una capa transparente sobre SSL. actúa como árbitro entre el algoritmo de cifrado y la clave de sesión; también verifica el servidor de destino antes de la transmisión y recepción de datos

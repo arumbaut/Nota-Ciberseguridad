@@ -1,4 +1,4 @@
-**▪ In-band SQL Injection:**  ==Un atacante utiliza el mismo canal de comunicación tanto para llevar a cabo el ataque como para obtener los resultados. Las variantes más utilizadas de la inyección SQL in-band son la inyección SQL basada en errores (**error-based SQL injection)** y la **inyección SQL mediante UNION (UNION SQL injection).**==
+**▪ In-band SQL Injection:**   Un atacante utiliza el mismo canal de comunicación tanto para llevar a cabo el ataque como para obtener los resultados. Las variantes más utilizadas de la inyección SQL in-band son la inyección SQL basada en errores (**error-based SQL injection)** y la **inyección SQL mediante UNION (UNION SQL injection).** 
 
 **▪ Blind/Inferential SQL Injection:** El atacante no recibe mensajes de error del sistema para guiar su ataque. En su lugar, envía consultas SQL maliciosas al servidor de base de datos y observa el comportamiento de la aplicación para inferir información.
 
@@ -8,7 +8,7 @@
  
 ** Error-based SQL Injection**
 
-==Un atacante inserta intencionalmente entradas incorrectas en una aplicación, lo que provoca que se devuelvan errores a nivel de base de datos.== El atacante analiza los mensajes de error resultantes para identificar vulnerabilidades de inyección SQL en la aplicación
+ Un atacante inserta intencionalmente entradas incorrectas en una aplicación, lo que provoca que se devuelvan errores a nivel de base de datos.  El atacante analiza los mensajes de error resultantes para identificar vulnerabilidades de inyección SQL en la aplicación
 
 **System Stored Procedure**
 Un atacante puede aprovechar las entradas maliciosas para ejecutar las consultas SQL maliciosas dentro del procedimiento almacenado
@@ -60,3 +60,4 @@ SELECT Name, Price, Description FROM ITEM_DATA WHERE ITEM_ID = 67 AND 1 = 2
 **Blind SQL Injection: Heavy Query**
 Una consulta pesada recupera una gran cantidad de datos y tomará mucho tiempo para ejecutarse en el motor de base de datos. Los atacantes generan consultas pesadas utilizando múltiples uniones en las tablas del sistema, porque las consultas sobre tablas del sistema suelen tardar más tiempo en ejecutarse.
 
+ 

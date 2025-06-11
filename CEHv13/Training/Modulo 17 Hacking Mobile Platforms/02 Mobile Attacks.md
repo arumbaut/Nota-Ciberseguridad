@@ -2,7 +2,8 @@
 
 El spam móvil, también conocido como spam por SMS, spam de texto o m-spam, hace referencia a los mensajes no deseados enviados de forma masiva a números de teléfono o direcciones de correo electrónico conocidas o desconocidas con el objetivo de llegar a dispositivos móviles.
 
-**Los tipos más comunes de mensajes spam enviados a teléfonos móviles incluyen:**▪ Mensajes con anuncios o enlaces maliciosos diseñados para engañar al usuario y hacer que revele información confidencial.  
+**Los tipos más comunes de mensajes spam enviados a teléfonos móviles incluyen:**
+▪ Mensajes con anuncios o enlaces maliciosos diseñados para engañar al usuario y hacer que revele información confidencial.  
 ▪ Mensajes comerciales atractivos que promocionan productos o servicios.  
 ▪ Mensajes SMS o MMS que afirman que la víctima ha ganado un premio y la instan a llamar a un número de teléfono de tarifa premium para obtener más información.  
 ▪ Enlaces maliciosos diseñados para atraer a los usuarios y hacer que revelen datos personales o corporativos sensibles.  

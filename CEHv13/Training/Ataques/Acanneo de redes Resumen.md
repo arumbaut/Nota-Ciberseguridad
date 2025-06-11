@@ -11,7 +11,7 @@ Opción -f minudcula : Frangmnta paquetes
 
 
 **Escaneo ARP Ping**.
-==**nmap -sn -PR target.**==
+ **nmap -sn -PR target.** 
 **-sn** es el comando de Nmap que **se utiliza para deshabilitar el escaneo de puertos**
 
 **Escaneo UDP Ping**.
@@ -20,51 +20,51 @@ Opción -f minudcula : Frangmnta paquetes
 **Escaneo ICMP ECHO Ping**
 **nmap -sn -PE target**
 
-==**ICMP ECHO Ping Sweep (también conocido como barrido ICMP) **==
+ **ICMP ECHO Ping Sweep (también conocido como barrido ICMP) ** 
 **nmap -sn -PE** **target** **10.10.1.5-24**
 
 **Escaneo ICMP Timestamp Ping.**
 **nmap -sn -PM** **target** **10.10.1.5**
 
 
-==**TCP SYN Ping Scan**==
+ **TCP SYN Ping Scan** 
 **nmap -sn -PS 10.10.1.5**
-==El TCP SYN ping es una técnica de descubrimiento de hosts que se utiliza para sondear diferentes puertos y determinar si están en línea, así como para identificar si existen reglas de firewall activas.==
+ El TCP SYN ping es una técnica de descubrimiento de hosts que se utiliza para sondear diferentes puertos y determinar si están en línea, así como para identificar si existen reglas de firewall activas. 
 
 **TCP ACK Ping Scan**
-==**La recepción del paquete RST por parte del atacante indica que el host está activo
+ **La recepción del paquete RST por parte del atacante indica que el host está activo
 **nmap -sn -PA 10.10.1.5**
 
 **IP Protocol Ping Scan**
 **nmap -sn -PO 10.10.1.5**
 
 **▪ Hping3**
-==Es una herramienta orientada a la línea de comandos para el escaneo de redes y la creación de paquetes para el protocolo TCP/IP que envía solicitudes de eco ICMP y admite los protocolos TCP, UDP, ICMP y raw-IP. Realiza auditorías de seguridad de redes, pruebas de cortafuegos, descubrimiento manual de MTU de ruta, traceroute avanzado, huellas dactilares del sistema operativo remoto, adivinación del tiempo de actividad remoto, auditoría de pilas TCP/IP y otras funciones.==
+ Es una herramienta orientada a la línea de comandos para el escaneo de redes y la creación de paquetes para el protocolo TCP/IP que envía solicitudes de eco ICMP y admite los protocolos TCP, UDP, ICMP y raw-IP. Realiza auditorías de seguridad de redes, pruebas de cortafuegos, descubrimiento manual de MTU de ruta, traceroute avanzado, huellas dactilares del sistema operativo remoto, adivinación del tiempo de actividad remoto, auditoría de pilas TCP/IP y otras funciones. 
 
 **Comandos de Hping**
 
 **Escaneo ACK en el puerto 80**  
 **hping3 –A 10.0.0.25 –p 80** 
-Para sondear la existencia de un cortafuegos y sus reglas.verifica si un host está activo en una red. ==**Si encuentra un host activo y un puerto abierto, devuelve una respuesta RST==
+Para sondear la existencia de un cortafuegos y sus reglas.verifica si un host está activo en una red.  **Si encuentra un host activo y un puerto abierto, devuelve una respuesta RST 
 
 **Escaneo UDP en el puerto 80**  
 **Ej.** **hping3 -2 10.0.0.25 –p 80**  
- ==Devuelve un mensaje ICMP de puerto inaccesible si encuentra el puerto cerrado y no devuelve ningún mensaje si el puerto está abierto.==
+  Devuelve un mensaje ICMP de puerto inaccesible si encuentra el puerto cerrado y no devuelve ningún mensaje si el puerto está abierto. 
  
 **Cortafuegos y marcas de tiempo**  
 **Ej.** **hping3 -S 72.14.207.99 -p 80 --tcp-timestamp**
-==Al agregar el argumento -S, puedes realizar un escaneo SYN.==
+ Al agregar el argumento -S, puedes realizar un escaneo SYN. 
 
 **Escaneo FIN, PUSH y URG en el puerto 80**  
 **Ej.** **hping3 -F -P -U 10.0.0.25 -p 80**
-==**realiza un escaneo de ping ICMP en toda la subred 10.0.1.x==
+ **realiza un escaneo de ping ICMP en toda la subred 10.0.1.x 
 
 **Interceptar todo el tráfico que contiene la firma HTTP**  
 **Ej.** **hping3 -9 HTTP -I eth0**El 
-==**Argumento -9 configura Hping en modo de escucha**.==
+ **Argumento -9 configura Hping en modo de escucha**. 
 
 
-==**Port Scanning Techniques**==
+ **Port Scanning Techniques** 
 
 ##### **TCP Connect/Full-Open Scan**
 **nmap -sT -v 10.10.1.11**
@@ -78,8 +78,8 @@ Para sondear la existencia de un cortafuegos y sus reglas.verifica si un host es
 **(FIN) <br>nmap -sF -v 10.10.1.11;**     
 
 **(Null) <br>nmap -sN -v 10.10.1.11** 
- ==Si el objetivo ha abierto el puerto, no recibirás ninguna respuesta. 
- Si el objetivo ha cerrado el puerto, recibirás una respuesta del sistema remoto con un RST==.  
+  Si el objetivo ha abierto el puerto, no recibirás ninguna respuesta. 
+ Si el objetivo ha cerrado el puerto, recibirás una respuesta del sistema remoto con un RST .  
 
 **Escaneo TCP Maimon**
 Similar al escaneo NULL, FIN y Xmas, pero **el paquete de sondeo utilizado aquí es FIN/ACK
@@ -95,13 +95,13 @@ RST no firewal
 
 **TTL-Based ACK Flag Probe scanning**
  nmap –ttl [time]
- ==Si el valor de TTL del paquete RST en un puerto en particular es menor que el valor límite de 64, entonces ese puerto está abierto.==
+  Si el valor de TTL del paquete RST en un puerto en particular es menor que el valor límite de 64, entonces ese puerto está abierto. 
 
 Window-Based ACK Flag Probe scanning**  
  **nmap -sW [tiempo]
 
-==**IDLE/IPID Header Scan**==
-==se puede utilizar para enviar una dirección de origen falsificada ==
+ **IDLE/IPID Header Scan** 
+ se puede utilizar para enviar una dirección de origen falsificada  
 **nmap -Pn -p- -sI 10.10.1.11 10.10.1.19**
 
 **UDP Raw ICMP Port Unreachable Scanning**
@@ -135,7 +135,7 @@ Scanning Beyond IDS and Firewall
 
 **Source Port Manipulation**
 nmap -g 80 10.10.1.11 
-==-g especifica el puerto de origen==
+ -g especifica el puerto de origen 
 
  Decoy scans 
  ▪ **nmap -D RND:10 [target]** 
@@ -152,4 +152,4 @@ nmap -g 80 10.10.1.11
 **nmap -sT -Pn --spoof-mac 00:01:02:25:56:AE 10.10.1.11**  
 
 **Creating Custom Packets**
-**==Colasoft Packet Builder
+** Colasoft Packet Builder

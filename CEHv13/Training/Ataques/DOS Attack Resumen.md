@@ -76,7 +76,7 @@
         
     - **Random Recursive GET**: versión modificada del ataque GET recursivo. Está diseñado para foros, blogs y otros sitios web que tienen páginas en secuencia. Finge estar navegando a través de páginas. Debido a que los objetivos son foros, grupos y otros blogs, el atacante utiliza números aleatorios de un rango de páginas válido para hacerse pasar por un usuario legítimo y envía una nueva solicitud GET cada vez..
         
-- **Slowloris**: ==En los ataques Slowloris, el atacante envía solicitudes HTTP parciales al servidor web o aplicación objetivo. Al recibir estas solicitudes parciales, el servidor objetivo abre múltiples conexiones y espera a que las solicitudes se completen.== .
+- **Slowloris**:  En los ataques Slowloris, el atacante envía solicitudes HTTP parciales al servidor web o aplicación objetivo. Al recibir estas solicitudes parciales, el servidor objetivo abre múltiples conexiones y espera a que las solicitudes se completen.  .
     
 - **UDP app-layer flood**: conocidos por su naturaleza volumétrica, algunos protocolos de capa de aplicación que dependen de UDP pueden ser utilizados por los atacantes para realizar ataques de inundación en redes objetivo
     
@@ -93,3 +93,4 @@
     
 - **Ransom DDoS**: se conoce como DDoS por rescate (RDDoS). En este tipo de ataque, los atacantes amenazan a las organizaciones objetivo con realizar un ataque DDoS e insisten en que paguen una cantidad específica como rescate
     
+ 

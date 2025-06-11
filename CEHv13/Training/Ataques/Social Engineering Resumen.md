@@ -62,7 +62,7 @@
 
 **Spam mail****:** Tipo de correo electrónico no deseado, irrelevante y no solicitado diseñado para recolectar información financiera como números de seguro social o detalles de redes.
 
-**Instant chat messenger****:** Pueden utilizar aplicaciones de mensajería instantánea para interactuar con usuarios seleccionados en línea y tratar de obtener información personal como la fecha de nacimiento o el nombre de soltera de la víctima.
+**Instant chat messenger****:** Pueden utili r aplicaciones de mensajería instantánea para interactuar con usuarios seleccionados en línea y tratar de obtener información personal como la fecha de nacimiento o el nombre de soltera de la víctima.
 
 **Pop-up window attacks****:** Técnica utilizada por los atacantes para engañar o forzar a los usuarios a hacer clic en un hipervínculo que los redirige a páginas web falsas, las cuales solicitan información personal o descargan programas maliciosos como keyloggers, troyanos o spyware
 
@@ -82,7 +82,7 @@ El atacante crea una aplicación maliciosa y la publica en las principales tiend
 **Repackaging legitimate apps****:** Un desarrollador malicioso descarga un juego legítimo, lo reempaqueta con malware y lo sube a una tienda de aplicaciones de terceros.
 
 **QRLJacking****:** 
-==Ataque de ingeniería social que explota el método de inicio de sesión mediante códigos QR en diversas aplicaciones web para secuestrar sesiones de inicio de sesión y obtener acceso no autorizado a las cuentas de las víctimas.==.
+ Ataque de ingeniería social que explota el método de inicio de sesión mediante códigos QR en diversas aplicaciones web para secuestrar sesiones de inicio de sesión y obtener acceso no autorizado a las cuentas de las víctimas. .
 
 **Using fake security applications****:** Primero infecta la computadora de la víctima enviando algún archivo malicioso. Luego, sube una aplicación maliciosa a una tienda de aplicaciones.Cuando la víctima inicia sesión en su cuenta bancaria, el malware en el sistema muestra un mensaje emergente indicando que necesita descargar una aplicación en su teléfono para recibir un mensaje de seguridad. La víctima descarga la aplicación desde la tienda del atacante, creyendo que está descargando una aplicación legítima.
 
