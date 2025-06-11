@@ -73,7 +73,7 @@ Es compatible con el estándar 802.11i y admite muchas funciones de seguridad qu
 **WPA3** es una implementación avanzada de WPA2 que proporciona protocolos innovadores y utiliza el algoritmo de cifrado **AES-GCMP 256**
 
 **Modos de operación**
-▪ **WPA3-Personal:** Este modo se utiliza principalmente para ofrecer autenticación basada en contraseñas. WPA3 es más resistente a ataques que WPA2 porque utiliza un protocolo moderno de establecimiento de claves llamado **Autenticación Simultánea de Iguales (SAE)**, también conocido como **Intercambio de Claves Dragonfly**, que reemplaza el concepto de PSK usado en WPA2-Personal. Algunas de las 
+▪ **WPA3-Personal:** Este modo se utiliza principalmente para ofrecer autenticación basada en contraseñas. WPA3 es más resistente a ataques que WPA2 porque utiliza un protocolo moderno de establecimiento de claves llamado **Autenticación Simultánea de Iguales (SAE)**, también conocido como **Intercambio de Claves Dragonfly**, que reemplaza el concepto de PSK usado en WPA2-Personal. 
 
 
 ▪ **WPA3-Enterprise:** Este modo se basa en WPA2. Ofrece mejor seguridad que WPA2 en toda la red y protege los datos sensibles utilizando diversos conceptos y herramientas criptográficas. 
