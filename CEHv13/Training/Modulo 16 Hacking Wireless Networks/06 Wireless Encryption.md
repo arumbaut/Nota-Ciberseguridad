@@ -4,7 +4,7 @@
 
 **▪ EAP:** El Protocolo de Autenticación Extensible (EAP) admite múltiples métodos de autenticación, como tarjetas de tokens, Kerberos y certificado
 
-**▪ LEAP:** Lightweight EAP (LEAP) es una versión propietaria de EAP desarrollada por Cisco.
+**▪ LEAP:** ==Lightweight EAP (LEAP) es una versión propietaria de EAP desarrollada por Cisco.==
 
 **▪ WPA:** Es un protocolo de cifrado inalámbrico avanzado que utiliza **TKIP y Verificación de Integridad de Mensajes (MIC) para proporcionar un cifrado y autenticación sólidos**. **Utiliza un vector de inicialización (IV) de 48 bits, verificación cíclica de redundancia (CRC) de 32 bits y cifrado TKIP para la seguridad inalámbrica**.
 
