@@ -35,4 +35,3 @@ FISMA proporciona un marco integral para asegurar la efectividad de los controle
 #### General Data Protection Regulation (GDPR)
 Es una de las leyes de privacidad y seguridad más estrictas a nivel mundial. Aunque fue redactado y aprobado por la Unión Europea (UE), impone obligaciones a organizaciones en cualquier lugar, siempre que tengan como objetivo o recopilen datos relacionados con personas en la UE. Con el GDPR, Europa manifiesta su postura firme sobre la privacidad y seguridad de los datos, especialmente en un contexto donde cada vez más personas confían sus datos a servicios en la nube y las violaciones de seguridad son algo cotidiano.
 
-### **Modulo 2**
