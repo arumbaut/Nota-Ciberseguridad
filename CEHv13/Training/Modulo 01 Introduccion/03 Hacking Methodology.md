@@ -1,6 +1,6 @@
 El marco de hacking ético CEH del EC-Council define el proceso paso a paso para realizar hacking ético. El marco de hacking ético CEH sigue el mismo proceso que el de un atacante, y las únicas diferencias radican en sus objetivos y estrategias de hacking.
 
-![](attachments/image20250522111609.png)
+![](../../../attachments/image20250522111609.png)
 
 #### ▪ Phase 1: Reconnaissance
 Fase preparatoria, en la que un atacante reúne toda la información posible sobre el objetivo antes de lanzar un ataque. En esta fase, el atacante crea un perfil de la organización objetivo y obtiene información como su rango de direcciones IP, espacio de nombres y empleados
