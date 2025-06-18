@@ -82,10 +82,10 @@ Una evaluación de vulnerabilidades busca responder a estas preguntas:
 
 2. The ATT&CK knowledge base se utiliza como base para el desarrollo de modelos de amenazas específicos y metodologías en el sector privado, el gobierno y la comunidad de productos y servicios de ciberseguridad
 
-![](attachments/image20250522132327.png)
+![](../../../attachments/image20250522132327.png)
 
 
 :TiDiamond: **Diamond Model of Intrusion Analysis**
 
 Este modelo ofrece un marco de trabajo y un conjunto de procedimientos para reconocer grupos de eventos correlacionados en cualquiera de los sistemas de una organización. El modelo determina el elemento atómico vital que ocurre en cualquier actividad de intrusión y se conoce como el evento Diamond.
-![](attachments/image20250522132721.png)
+![](../../../attachments/image20250522132721.png)
