@@ -26,7 +26,7 @@ Para pasar desapercibidos, es importante que los atacantes borren del sistema to
 La metodología de la "ciber kill chain" es un componente de la defensa impulsada por inteligencia para la identificación y prevención de actividades de intrusión maliciosa.  
 También proporciona una mayor comprensión de las fases del ataque, lo que ayuda a entender las TTPs (Tácticas, Técnicas y Procedimientos) del adversario.
 
-![](attachments/image20250522114331.png)
+![](../../../attachments/image20250522114331.png)
 
 ### 🔎 Reconnaissance
 ###### Recopilar datos sobre el objetivo para buscar puntos débiles
