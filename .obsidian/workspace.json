@@ -71,12 +71,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CEHv13/Training/Modulo 03 Scanning Networks 03/02 Scanning Tools.md",
+                "file": "CEHv13/Training/Modulo 03 Scanning Networks 03/04 Port and Service Discovery.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02 Scanning Tools"
+              "title": "04 Port and Service Discovery"
             }
           }
         ],
@@ -253,6 +253,7 @@
   },
   "active": "a2efbd21b1df6d1b",
   "lastOpenFiles": [
+    "CEHv13/Training/Modulo 03 Scanning Networks 03/02 Scanning Tools.md",
     "CEHv13/Training/Modulo 03 Scanning Networks 03/01.1 TCP Communication Flags.md",
     "CEHv13/Training/Modulo 03 Scanning Networks 03/01 Scanning Networks.md",
     "CEHv13/Training/Modulo 02 Footprinting and Reconnaissance/04 DNS Footprinting.md",
@@ -283,7 +284,6 @@
     "CEHv13/Training/Modulo 04 Enumeration/06 SMTP and DNS Enumeration.md",
     "CEHv13/Training/Modulo 08 Sniffing/05 Sniffing Countermeasures.md",
     "CEHv13/Training/02 Puertos.md",
-    "CEHv13/Training/Modulo 19 Cloud Computing/1.1 Types of Cloud Computing Services.md",
     "Note Narration Audio/note - 12 jun 2025 22-47.mp3",
     "Note Narration Audio/Apuntes de examenes resueltos - 12 jun 2025 22-44.mp3",
     "attachments/Pasted image 20250606091404.png",

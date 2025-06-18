@@ -18,7 +18,7 @@ Syntax: # ```hping3 <options> <Target IP address>```
 **Ej.** **hping3 -1 10.0.0.25** Un barrido de ping o escaneo de Protocolo de Mensajes de Control de Internet (ICMP) es un proceso en el que se envía una solicitud ICMP o un ping a todos los hosts de la red para determinar cuáles están activos.
 
 **Escaneo ACK en el puerto 80**  
-**Ej.** **hping3 –A 10.0.0.25 –p 80** 
+**Ej.** **hping3 –A 10.0.0.25 –p 80**
 
 ==Esta técnica de escaneo puede usarse para sondear la existencia de un cortafuegos y sus reglas. Un filtrado simple de paquetes permite el establecimiento de una conexión (paquetes con el bit ACK activado),== mientras que un cortafuegos sofisticado basado en estado no permite el establecimiento de una conexión. ==Este escaneo se lleva a cabo cuando un host no responde a una solicitud de ping. Al emitir este comando, Hping verifica si un host está activo en una red. **Si encuentra un host activo y un puerto abierto, devuelve una respuesta RST**.==
 

@@ -110,8 +110,20 @@ Scanning the IPv6 network is more difficult and complex compared to IPv4.
 ▪ Omitir pruebas no críticas  
 Evitar un escaneo intensivo si solo se requiere una cantidad mínima de información.  
 o El número de puertos escaneados puede limitarse utilizando comandos específicos.  
+
 o El escaneo de puertos (-sn) puede omitirse si y solo si se desea verificar si los hosts están en línea o no.  
-o Se pueden evitar tipos de escaneo avanzados (-sC, -sV, -O, --traceroute y -A) **-sn — Ping Scan (sin escaneo de puertos); -sC — Ejecutar scripts NSE predeterminados; -sV — Detección de versión; -O — Detección de sistema operativo; --traceroute — Trazado de ruta; -A — Escaneo agresivo; -n — No realizar resolución DNS**.  
+
+o Se pueden evitar tipos de escaneo avanzados (-sC, -sV, -O, --traceroute y -A) **
+-sn — Ping Scan (sin escaneo de puertos); 
+-sC — Ejecutar scripts NSE predeterminados; 
+-sV — Detección de versión; 
+-O — Detección de sistema operativo;
+--traceroute — Trazado de ruta; 
+-A — Escaneo agresivo; 
+-n — No realizar resolución DNS**.  
+
 o La resolución DNS debe activarse solo cuando sea necesario.  
+
 ▪ Optimizar los parámetros de tiempo  
+
 Para controlar la actividad del escaneo, Nmap proporciona la opción -T para escanear con niveles de agresividad de tiempo que van desde bajo a alto. **(T0...T5)**
