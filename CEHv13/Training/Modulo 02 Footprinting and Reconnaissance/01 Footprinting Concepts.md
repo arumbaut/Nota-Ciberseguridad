@@ -21,14 +21,18 @@ Para desarrollar una estrategia de hacking, los atacantes deben recopilar inform
 
 #### **Amenazas de Footprinting:**
 
-**▪ Ataques al sistema y a la red:** El footprinting permite a un atacante realizar ataques al sistema y a la red. De esta forma, los atacantes pueden recopilar información relacionada con la configuración del sistema de la organización objetivo, 
+**▪ Ataques al sistema y a la red:** El footprinting permite a un atacante realizar ataques al sistema y a la red. De esta forma, los atacantes pueden recopilar información relacionada con la configuración del sistema de la organización objetivo.
+
 **▪ Fuga de información:** La fuga de información representa una amenaza para cualquier organización. Si la información confidencial de una entidad cae en manos de los atacantes, pueden organizar un ataque basándose en ella o, alternativamente, utilizarla para obtener un beneficio económico. 
+
 **▪ Pérdida de privacidad:** Mediante el footprinting, los hackers pueden acceder a los sistemas y redes de la organización e incluso escalar privilegios hasta niveles de administrador, lo que resulta en la pérdida de privacidad para la organización en su conjunto y para su personal.
+
 **▪ Espionaje corporativo:** El espionaje corporativo es una amenaza fundamental para las organizaciones, ya que la competencia suele intentar obtener datos confidenciales mediante footprinting. Con este enfoque, los competidores pueden lanzar productos similares al mercado, modificar precios y, en general, socavar la posición de mercado de la organización objetivo.
+
 **▪ Pérdida empresarial:** El footprinting puede tener un impacto importante en organizaciones como negocios en línea y otros sitios web de comercio electrónico, así como en empresas del sector bancario y financiero. Miles de millones de dólares se pierden cada año debido a ataques maliciosos de hackers.
 #### **Footprinting Methodology :**
 
-![](attachments/image20250524225024.png)
+![](../../../attachments/image20250524225024.png)
 
 
 |                  |                                                                                                  |                                                             |
