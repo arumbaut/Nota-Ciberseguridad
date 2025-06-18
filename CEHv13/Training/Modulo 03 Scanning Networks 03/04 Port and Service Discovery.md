@@ -114,13 +114,13 @@ o El número de puertos escaneados puede limitarse utilizando comandos específi
 o El escaneo de puertos (-sn) puede omitirse si y solo si se desea verificar si los hosts están en línea o no.  
 
 o Se pueden evitar tipos de escaneo avanzados (-sC, -sV, -O, --traceroute y -A) **
--sn — Ping Scan (sin escaneo de puertos); 
--sC — Ejecutar scripts NSE predeterminados; 
--sV — Detección de versión; 
--O — Detección de sistema operativo;
---traceroute — Trazado de ruta; 
--A — Escaneo agresivo; 
--n — No realizar resolución DNS**.  
+-sn — Ping Scan (sin escaneo de puertos).
+-sC — Ejecutar scripts NSE predeterminados. 
+-sV — Detección de versión.
+-O — Detección de sistema operativo.
+--traceroute — Trazado de ruta.
+-A — Escaneo agresivo.
+-n — No realizar resolución DNS.  
 
 o La resolución DNS debe activarse solo cuando sea necesario.  
 
