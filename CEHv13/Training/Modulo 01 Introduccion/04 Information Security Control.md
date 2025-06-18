@@ -16,12 +16,12 @@ Implica acciones como la identificación de incidentes, la búsqueda de sus caus
 #### Predicción: 
 Implica la identificación de ataques potenciales, objetivos y métodos antes de su materialización en un ataque viable. La predicción incluye acciones como la realización de una evaluación de riesgos y vulnerabilidades, la realización de un análisis de la superficie de ataque, el consumo de datos de inteligencia de amenazas para predecir futuras amenazas sobre la organización.
 
-![](attachments/image20250522133710.png)
+![](../../../attachments/image20250522133710.png)
 
 #### Defense-in-depth
 
 La defensa en profundidad es una estrategia de seguridad en la que los profesionales de la seguridad utilizan varias capas de protección a lo largo de un sistema de información. La defensa en profundidad ayuda a prevenir ataques directos contra un sistema de información y sus datos, ya que una ruptura en una capa solo conduce al atacante a la siguente capa.
-![[image20250522133927.png]]
+![](../../../attachments/image20250522133927.png)
 
 #### What is Risk?
 
@@ -40,11 +40,11 @@ El impacto de un evento sobre un activo de información es el producto de la vul
 **Level of Risk = Consequence x Likelihood(Probabilidad)**
 
 
-![](attachments/image20250522134320.png)
+![](../../../attachments/image20250522134320.png)
 
 #### Risk Matrix
 
-![](attachments/image20250522134554.png)
+![](../../../attachments/image20250522134554.png)
 
 #### Risk Management
 Proceso de identificación, evaluación, respuesta e implementación de las actividades que controlan la forma en que la organización gestiona los efectos potenciales del riesgo. Ocupa un lugar destacado en todo el ciclo de vida de la seguridad y es un proceso continuo y cada vez más complejo. Los tipos de riesgos varían de una organización a otra, pero el acto de preparar un plan de gestión de riesgos es común a todas las organizaciones.
