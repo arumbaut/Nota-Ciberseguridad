@@ -1,6 +1,6 @@
 Los atacantes realizan **footprinting DNS** para recopilar información sobre los servidores DNS, registros DNS y los tipos de servidores utilizados por la organización objetivo. Esta información ayuda a los atacantes a identificar los hosts conectados en la red objetivo y a explotar aún más la organización objetivo
 
-![[image20250524231831.png]]
+![](../../../attachments/image20250524231831.png)
 
 **DNS Interrogation Tools** 
 **▪ SecurityTrails Source:** https://securitytrails.com
