@@ -18,13 +18,19 @@ Syntax: # ```hping3 <options> <Target IP address>```
 **Ej.** **hping3 -1 10.0.0.25** Un barrido de ping o escaneo de Protocolo de Mensajes de Control de Internet (ICMP) es un proceso en el que se envía una solicitud ICMP o un ping a todos los hosts de la red para determinar cuáles están activos.
 
 **Escaneo ACK en el puerto 80**  
-**Ej.** **hping3 –A 10.0.0.25 –p 80** ==Esta técnica de escaneo puede usarse para sondear la existencia de un cortafuegos y sus reglas. Un filtrado simple de paquetes permite el establecimiento de una conexión (paquetes con el bit ACK activado),== mientras que un cortafuegos sofisticado basado en estado no permite el establecimiento de una conexión. ==Este escaneo se lleva a cabo cuando un host no responde a una solicitud de ping. Al emitir este comando, Hping verifica si un host está activo en una red. **Si encuentra un host activo y un puerto abierto, devuelve una respuesta RST**.==
+**Ej.** **hping3 –A 10.0.0.25 –p 80** 
+
+==Esta técnica de escaneo puede usarse para sondear la existencia de un cortafuegos y sus reglas. Un filtrado simple de paquetes permite el establecimiento de una conexión (paquetes con el bit ACK activado),== mientras que un cortafuegos sofisticado basado en estado no permite el establecimiento de una conexión. ==Este escaneo se lleva a cabo cuando un host no responde a una solicitud de ping. Al emitir este comando, Hping verifica si un host está activo en una red. **Si encuentra un host activo y un puerto abierto, devuelve una respuesta RST**.==
 
 **Escaneo UDP en el puerto 80**  
-**Ej.** **hping3 -2 10.0.0.25 –p 80** Hping usa TCP como su protocolo predeterminado. Usar el argumento -2 en la línea de comandos especifica que Hping opera en modo UDP. Puedes usar tanto --udp como -2 como argumento en la línea de comandos. ==Hping envía paquetes UDP al puerto 80 del host (10.0.0.25). Devuelve un mensaje ICMP de puerto inaccesible si encuentra el puerto cerrado y no devuelve ningún mensaje si el puerto está abierto.==
+**Ej.** **hping3 -2 10.0.0.25 –p 80**
+
+Hping usa TCP como su protocolo predeterminado. Usar el argumento -2 en la línea de comandos especifica que Hping opera en modo UDP. Puedes usar tanto --udp como -2 como argumento en la línea de comandos. ==Hping envía paquetes UDP al puerto 80 del host (10.0.0.25). Devuelve un mensaje ICMP de puerto inaccesible si encuentra el puerto cerrado y no devuelve ningún mensaje si el puerto está abierto.==
 
 **Recopilación del número de secuencia inicial**  
-**Ej.** **hping3 192.168.1.103 -Q -p 139** ==Usando el argumento -Q en la línea de comandos, Hping recopila todos los números de secuencia TCP generados por el host objetivo (192.168.1.103).==
+**Ej.** **hping3 192.168.1.103 -Q -p 139**
+
+==Usando el argumento -Q en la línea de comandos, Hping recopila todos los números de secuencia TCP generados por el host objetivo (192.168.1.103).==
 
 **Cortafuegos y marcas de tiempo**  
 **Ej.** **hping3 -S 72.14.207.99 -p 80 --tcp-timestamp**
