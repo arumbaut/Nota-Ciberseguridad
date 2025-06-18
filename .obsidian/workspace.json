@@ -71,12 +71,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CEHv13/Training/Modulo 02 Footprinting and Reconnaissance/04 DNS Footprinting.md",
+                "file": "CEHv13/Training/Modulo 03 Scanning Networks 03/01 Scanning Networks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "04 DNS Footprinting"
+              "title": "01 Scanning Networks"
             }
           }
         ],
@@ -251,8 +251,11 @@
       "edge-tts:Read note aloud": false
     }
   },
-  "active": "a2efbd21b1df6d1b",
+  "active": "19b62d1d9a29ce9d",
   "lastOpenFiles": [
+    "CEHv13/Training/Modulo 03 Scanning Networks 03/01.1 TCP Communication Flags.md",
+    "CEHv13/Training/Modulo 03 Scanning Networks 03/01 Scanning Networks.md",
+    "CEHv13/Training/Modulo 02 Footprinting and Reconnaissance/04 DNS Footprinting.md",
     "CEHv13/Training/Modulo 02 Footprinting and Reconnaissance/01 Footprinting Concepts.md",
     "CEHv13/Training/Modulo 01 Introduccion/05 Information Security Laws and Standards.md",
     "CEHv13/Training/Modulo 01 Introduccion/04 Information Security Control.md",
@@ -283,9 +286,6 @@
     "CEHv13/Training/Modulo 19 Cloud Computing/1.1 Types of Cloud Computing Services.md",
     "Note Narration Audio/note - 12 jun 2025 22-47.mp3",
     "Note Narration Audio/Apuntes de examenes resueltos - 12 jun 2025 22-44.mp3",
-    "CEHv13/Training/Modulo 16 Hacking Wireless Networks/10 Wi-Fi Security Auditing Tools.md",
-    "CEHv13/Training/Modulo 16 Hacking Wireless Networks/09 Launch of Wireless Attacks.md",
-    "CEHv13/Training/Modulo 16 Hacking Wireless Networks/08 Wireless Hacking Methodology.md",
     "attachments/Pasted image 20250606091404.png",
     "attachments/image20250611232114.png",
     "attachments/image20250611231323.png",

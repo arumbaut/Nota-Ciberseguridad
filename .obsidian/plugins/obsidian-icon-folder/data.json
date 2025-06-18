@@ -154,9 +154,7 @@
   "CEHv13/Training/Modulo 03 Scanning Networks 03/05 OS Discovery (Banner Grabbing OS Fingerprinting).md": "LiNotebookTabs",
   "CEHv13/Training/Modulo 03 Scanning Networks 03/07 Network Scanning Countermeasures.md": "LiNotebookTabs",
   "CEHv13/Training/Modulo 03 Scanning Networks 03/04 Port and Service Discovery.md": "LiNotebookTabs",
-  "CEHv13/Training/Modulo 03 Scanning Networks 03/1.1 TCP Communication Flags.md": "TiNotes",
   "CEHv13/Training/Modulo 03 Scanning Networks 03/06 Scanning Beyond IDS and Firewall.md": "LiNotebookTabs",
-  "CEHv13/Training/Modulo 03 Scanning Networks 03/1.2 Comunicación TCP IP.md": "TiNotes",
   "CEHv13/Training/Modulo 05 Vulnerability Analysis": "LiFolder",
   "CEHv13/Training/Modulo 05 Vulnerability Analysis/01 Vulnerability Assessment Concepts.md": "LiNotebookTabs",
   "CEHv13/Training/Modulo 05 Vulnerability Analysis/02 Vulnerability Scoring Systems and Databases.md": "LiNotebookTabs",
@@ -336,5 +334,7 @@
   "CEHv13/Training/Ataques/DOS Attack Resumen.md": "📝",
   "CEHv13/Training/Ataques/Acanneo de redes Resumen.md": "📝",
   "CEHv13/Training/Ataques/Sniffing.md": "📝",
-  "CEHv13/Training/DNS Hierarchy.md": "TiWorldWww"
+  "CEHv13/Training/DNS Hierarchy.md": "TiWorldWww",
+  "CEHv13/Training/Modulo 03 Scanning Networks 03/01.1 TCP Communication Flags.md": "TiNotes",
+  "CEHv13/Training/Modulo 03 Scanning Networks 03/01.2 Comunicación TCP IP.md": "TiNotes"
 }
