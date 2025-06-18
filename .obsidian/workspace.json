@@ -8,52 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "40144a248526a4a5",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CEHv13/Training/Ataques/Apuntes de examenes resueltos.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Apuntes de examenes resueltos"
-            }
-          },
-          {
-            "id": "224fb3713f713ad7",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CEHv13/Training/Ataques/Acanneo de redes Resumen.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Acanneo de redes Resumen"
-            }
-          },
-          {
-            "id": "4b4fe7eb8b5785e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CEHv13/Training/Ataques/Resumen Notas Importantes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Resumen Notas Importantes"
-            }
-          },
-          {
             "id": "0966b94749ffe8e9",
             "type": "leaf",
             "pinned": true,
@@ -70,35 +24,48 @@
             }
           },
           {
-            "id": "bf5755eb35226651",
+            "id": "bdc145ac9782b1d4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CEHv13/Training/01 OSI Model.md",
+                "file": "CEHv13/Training/Modulo 16 Hacking Wireless Networks/04 Wi-Fi Authentication Process.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01 OSI Model"
+              "title": "04 Wi-Fi Authentication Process"
             }
           },
           {
-            "id": "f6cb5ee8974cdcc1",
+            "id": "b08d9ca3bf87aff7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CEHv13/Training/Modulo 16 Hacking Wireless Networks/09 Launch of Wireless Attacks.md",
+                "file": "CEHv13/Training/Modulo 20 Cryptography/1.1 Symmetric Encryption Algorithms.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "09 Launch of Wireless Attacks"
+              "title": "1.1 Symmetric Encryption Algorithms"
+            }
+          },
+          {
+            "id": "71f4a5fbb3808358",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CEHv13/Training/Modulo 20 Cryptography/1.2 Asymmetric Encryption Algorithms.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.2 Asymmetric Encryption Algorithms"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "unreache",
+                "query": "wire",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -252,7 +219,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -269,16 +236,36 @@
       "edge-tts:Read note aloud": false
     }
   },
-  "active": "f6cb5ee8974cdcc1",
+  "active": "0966b94749ffe8e9",
   "lastOpenFiles": [
-    "CEHv13/Training/Modulo 16 Hacking Wireless Networks/08 Wireless Hacking Methodology.md",
-    "CEHv13/Training/Modulo 16 Hacking Wireless Networks/07 Wireless Threats.md",
-    "CEHv13/Training/Modulo 16 Hacking Wireless Networks/06 Wireless Encryption.md",
-    "CEHv13/Training/Modulo 16 Hacking Wireless Networks/05 Types of Wireless Antennas.md",
+    "Note Narration Audio/Apuntes de examenes resueltos  .mp3",
+    "Note Narration Audio/note - 17 jun 2025 23-01.mp3",
+    "CEHv13/Training/Modulo 20 Cryptography/1.2 Asymmetric Encryption Algorithms.md",
+    "CEHv13/Training/Ataques/Apuntes de examenes resueltos.md",
+    "CEHv13/Training/Modulo 20 Cryptography/1.1 Symmetric Encryption Algorithms.md",
+    "Note Narration Audio/Apuntes de examenes resueltos .mp3",
+    "Note Narration Audio/note - 13 jun 2025 22-50.mp3",
+    "Note Narration Audio/note - 13 jun 2025 22-47.mp3",
     "CEHv13/Training/Modulo 16 Hacking Wireless Networks/04 Wi-Fi Authentication Process.md",
     "CEHv13/Training/Modulo 16 Hacking Wireless Networks/03 Wireless Standards.md",
     "CEHv13/Training/Modulo 16 Hacking Wireless Networks/02 Types of Wireless Networks.md",
     "CEHv13/Training/Modulo 16 Hacking Wireless Networks/01 Wireless Terminology.md",
+    "CEHv13/Training/Modulo 16 Hacking Wireless Networks/06 Wireless Encryption.md",
+    "CEHv13/Training/Modulo 16 Hacking Wireless Networks/05 Types of Wireless Antennas.md",
+    "CEHv13/Training/Modulo 11 Session Hijacking/07 Approaches to Prevent Session Hijacking.md",
+    "CEHv13/Training/01 OSI Model.md",
+    "CEHv13/Training/Ataques/Resumen Notas Importantes.md",
+    "CEHv13/Training/Ataques/Acanneo de redes Resumen.md",
+    "CEHv13/Training/Modulo 04 Enumeration/06 SMTP and DNS Enumeration.md",
+    "CEHv13/Training/Modulo 08 Sniffing/05 Sniffing Countermeasures.md",
+    "CEHv13/Training/02 Puertos.md",
+    "CEHv13/Training/Modulo 19 Cloud Computing/1.1 Types of Cloud Computing Services.md",
+    "Note Narration Audio/note - 12 jun 2025 22-47.mp3",
+    "Note Narration Audio/Apuntes de examenes resueltos - 12 jun 2025 22-44.mp3",
+    "CEHv13/Training/Modulo 16 Hacking Wireless Networks/10 Wi-Fi Security Auditing Tools.md",
+    "CEHv13/Training/Modulo 16 Hacking Wireless Networks/09 Launch of Wireless Attacks.md",
+    "CEHv13/Training/Modulo 16 Hacking Wireless Networks/08 Wireless Hacking Methodology.md",
+    "CEHv13/Training/Modulo 16 Hacking Wireless Networks/07 Wireless Threats.md",
     "CEHv13/Training/Modulo 18 IoT and OT Hacking/01 IoT and OT Hacking.md",
     "attachments/Pasted image 20250606091404.png",
     "attachments/image20250611232114.png",
@@ -286,20 +273,6 @@
     "CEHv13/Training/DNS Hierarchy.md",
     "attachments/image20250611231323.png",
     "CEHv13/Training/Encabezado y Operación del Segmento UDP.md",
-    "Sin título.md",
-    "README.md",
-    "Pasted.md",
-    "attachments.md",
-    "CEHv13/Training/Encabezado de Segmento TCP.md",
-    "CEHv13/Training/El encabezado del Packet IPv4.md",
-    "CEHv13/Training/El encabezado del Packet IPv6.md",
-    "CEHv13/Training/02 Puertos.md",
-    "CEHv13/Training/01 OSI Model.md",
-    "CEHv13/Training/Ataques/Acanneo de redes Resumen.md",
-    "CEHv13/Training/Ataques/Resumen Notas Importantes.md",
-    "CEHv13/Training/Ataques/Apuntes de examenes resueltos.md",
-    "CEHv13/Training/Ataques/DOS Attack Resumen.md",
-    "CEHv13/Training/Ataques/Session Hijacking Resume.md",
     "attachments/image20250524225024.png",
     "attachments/image20250524162821.png",
     "attachments/image20250524160852.png",
@@ -310,12 +283,6 @@
     "Note Narration Audio/Apuntes de examenes resueltos - 11 jun 2025 07-39.mp3",
     "Note Narration Audio/Apuntes de examenes resueltos - 10 jun 2025 07-35.mp3",
     "Note Narration Audio/Resumen Notas Importantes - 10 jun 2025 07-30.mp3",
-    "Note Narration Audio/SQL Injection Attacks Resumen - 10 jun 2025 07-29.mp3",
-    "Note Narration Audio/Social Engineering Resumen - 10 jun 2025 07-28.mp3",
-    "Note Narration Audio/Session Hijacking Resume - 10 jun 2025 07-28.mp3",
-    "Note Narration Audio/DOS Attack Resumen - 10 jun 2025 07-28.mp3",
-    "Note Narration Audio/Cryptography Attacks  Resumen - 10 jun 2025 07-28.mp3",
-    "Note Narration Audio/Cracking Passwords Attacks Resumen - 10 jun 2025 07-25.mp3",
-    "Note Narration Audio/Cloud Attacks Resumen - 10 jun 2025 07-25.mp3"
+    "Note Narration Audio/SQL Injection Attacks Resumen - 10 jun 2025 07-29.mp3"
   ]
 }
