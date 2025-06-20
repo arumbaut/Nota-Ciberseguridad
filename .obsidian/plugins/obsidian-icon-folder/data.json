@@ -304,7 +304,6 @@
   },
   "CEHv13/Training/Modulo 17 Hacking Mobile Platforms/05 Mobile Device Management (MDM).md": "LiNotebookTabs",
   "CEHv13/Training/Modulo 17 Hacking Mobile Platforms/06 Mobile Security Tools.md": "LiNotebookTabs",
-  "Hacking Pentesting/Maquinas DMV y WPOWN.md": "FasComputer",
   "Hacking Pentesting/Maquina Psycho Paso a paso.md": "FasComputer",
   "Hacking Pentesting/Maquina Injection.md": "FasComputer",
   "Hacking Pentesting/FFW_FortiGate": "TiWall",
@@ -336,5 +335,6 @@
   "CEHv13/Training/Ataques/Sniffing.md": "📝",
   "CEHv13/Training/DNS Hierarchy.md": "TiWorldWww",
   "CEHv13/Training/Modulo 03 Scanning Networks 03/01.1 TCP Communication Flags.md": "TiNotes",
-  "CEHv13/Training/Modulo 03 Scanning Networks 03/01.2 Comunicación TCP IP.md": "TiNotes"
+  "CEHv13/Training/Modulo 03 Scanning Networks 03/01.2 Comunicación TCP IP.md": "TiNotes",
+  "Hacking Pentesting/Savitar/Maquinas DMV y WPOWN.md": "FasComputer"
 }

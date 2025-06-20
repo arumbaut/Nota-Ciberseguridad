@@ -71,12 +71,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CEHv13/Training/Modulo 03 Scanning Networks 03/04 Port and Service Discovery.md",
+                "file": "CEHv13/Training/Modulo 06 System Hacking/2.2 Buffer Overflow.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "04 Port and Service Discovery"
+              "title": "2.2 Buffer Overflow"
             }
           }
         ],
@@ -253,6 +253,10 @@
   },
   "active": "a2efbd21b1df6d1b",
   "lastOpenFiles": [
+    "CEHv13/Training/Ataques/Apuntes de examenes resueltos.md",
+    "Hacking Pentesting/Savitar/Maquinas DMV y WPOWN.md",
+    "Hacking Pentesting/Savitar",
+    "CEHv13/Training/Modulo 03 Scanning Networks 03/04 Port and Service Discovery.md",
     "CEHv13/Training/Modulo 03 Scanning Networks 03/02 Scanning Tools.md",
     "CEHv13/Training/Modulo 03 Scanning Networks 03/01.1 TCP Communication Flags.md",
     "CEHv13/Training/Modulo 03 Scanning Networks 03/01 Scanning Networks.md",
@@ -263,7 +267,6 @@
     "CEHv13/Training/Modulo 01 Introduccion/03 Hacking Methodology.md",
     "CEHv13/Training/Modulo 01 Introduccion/02 Hacking Concepts.md",
     "CEHv13/Training/Modulo 01 Introduccion/01 Information Security.md",
-    "CEHv13/Training/Ataques/Apuntes de examenes resueltos.md",
     "Note Narration Audio/Apuntes de examenes resueltos  .mp3",
     "Note Narration Audio/note - 17 jun 2025 23-01.mp3",
     "CEHv13/Training/Modulo 20 Cryptography/1.2 Asymmetric Encryption Algorithms.md",
@@ -282,8 +285,6 @@
     "CEHv13/Training/Ataques/Resumen Notas Importantes.md",
     "CEHv13/Training/Ataques/Acanneo de redes Resumen.md",
     "CEHv13/Training/Modulo 04 Enumeration/06 SMTP and DNS Enumeration.md",
-    "CEHv13/Training/Modulo 08 Sniffing/05 Sniffing Countermeasures.md",
-    "CEHv13/Training/02 Puertos.md",
     "Note Narration Audio/note - 12 jun 2025 22-47.mp3",
     "Note Narration Audio/Apuntes de examenes resueltos - 12 jun 2025 22-44.mp3",
     "attachments/Pasted image 20250606091404.png",
@@ -297,7 +298,6 @@
     "attachments/image20250523053729.png",
     "attachments/image20250523053710.png",
     "Note Narration Audio/Apuntes de examenes resueltos - 11 jun 2025 07-39.mp3",
-    "Note Narration Audio/Apuntes de examenes resueltos - 10 jun 2025 07-35.mp3",
-    "Note Narration Audio/Resumen Notas Importantes - 10 jun 2025 07-30.mp3"
+    "Note Narration Audio/Apuntes de examenes resueltos - 10 jun 2025 07-35.mp3"
   ]
 }
