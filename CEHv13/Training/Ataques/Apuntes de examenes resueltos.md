@@ -648,3 +648,132 @@ Realizas una serie de consultas interactivas, **eligiendo los textos en claro (p
 ¿Qué tipo de ataque estás intentando realizar?
 Adaptive chosen-plaintext attack
 ipo avanzado de ataque criptográfico donde:  El atacante **puede elegir textos en claro arbitrarios** para ser cifrados
+
+¿Cuál de las siguientes opciones representa una **característica conceptual** de un **IDS basado en anomalías** (_anomaly-based_) **frente a uno basado en firmas** (_signature-based_)?
+- **Puede identificar ataques desconocidos.**
+
+¿Cuál de los siguientes es un protocolo que se utiliza para consultar bases de datos que almacenan los **usuarios registrados o asignados de un recurso de Internet**, como un **nombre de dominio**, un **bloque de direcciones IP** o un **sistema autónomo**?
+**WHOIS** es un **protocolo de consulta** que permite obtener información sobre:  Propietarios de **nombres de dominio**. Titulares de **bloques de direcciones IP**. Detalles de **sistemas autónomos (AS)**.
+
+¿Cuál de las siguientes opciones te permitirá **prevenir el acceso no autorizado** a redes de área local (LAN) y otros activos de información por parte de **dispositivos inalámbricos**?
+- **WIPS** significa **Wireless Intrusion Prevention System**. Es una solución de seguridad que:    
+    - **Monitorea redes inalámbricas (Wi-Fi)** en tiempo real.        
+    - **Detecta accesos no autorizados**, dispositivos no confiables y ataques como rogue AP, spoofing, DoS inalámbrico, etc.        
+    - **Previene automáticamente** conexiones sospechosas o no autorizadas, **bloqueando el acceso**.
+
+
+Ivan, un hacker de sombrero negro (black hat), **dividió el tráfico de ataque en muchos paquetes**, de forma que **ningún paquete individual activa el IDS**.
+
+¿Qué técnica de evasión del IDS está usando Ivan?
+**Session Splicing** (fragmentación de sesión) es una técnica de evasión donde:
+- El atacante **divide el ataque en múltiples paquetes pequeños**.    
+- **Cada paquete individual** parece inofensivo para el **IDS (Intrusion Detection System)**.    
+- Pero cuando **se ensamblan todos los fragmentos**, se forma el **ataque completo**.
+
+
+¿Cuál de las siguientes herramientas es un **analizador de paquetes (packet sniffer)**, **detector de redes (network detector)** e **IDS** para redes inalámbricas **802.11 (a, b, g, n)**?
+#### **Kismet**?
+- **Kismet** es una herramienta especializada en redes inalámbricas.    
+- Funciona como:    
+    - 📡 **Sniffer de paquetes Wi-Fi** (captura todo el tráfico inalámbrico).        
+    - 🛰️ **Detector de redes ocultas y abiertas**.        
+    - 🛡️ **Sistema de detección de intrusos inalámbrico (Wireless IDS)**.
+        
+- Compatible con los estándares **802.11a/b/g/n**
+
+Un atacante utiliza varias técnicas de evasión para **evadir sistemas de detección de intrusos (IDS)**.  
+Al mismo tiempo, el IDS está configurado para detectar violaciones de la política de seguridad, incluido acceso no autorizado o mal uso.
+
+**¿Cuál de los siguientes métodos de evasión depende del campo TTL (Time-to-Live) del protocolo TCP/IP?**
+#### **Insertion Attack**?
+- Una **insertion attack** es una técnica donde:    
+    - El atacante **envía paquetes con TTL (Time-to-Live)** intencionalmente manipulados para que:        
+        - **Lleguen al IDS**, pero            
+        - **No lleguen al destino final** (host víctima), porque **expiran en el camino**.            
+- Esto provoca que:    
+    - El **IDS registre** o **procese tráfico falso**, creyendo que el host lo recibió.        
+    - Mientras tanto, el atacante **envía otro tráfico real al host** que el IDS **no ve**, logrando **evasión efectiva**.
+
+Determina el ataque a partir de esta descripción:
+
+El **ataque de texto plano conocido (known-plaintext attack)** utilizado contra **DES**. Este ataque provoca que **cifrar un texto plano con una clave DES y luego cifrarlo con una segunda clave DES** no sea más seguro que usar una sola clave.
+
+¿Qué tipo de ataque es?
+Meet-in-the-middle attack
+Es una técnica criptográfica utilizada para **romper cifrados que aplican múltiples capas de cifrado**, como en **Double DES**.
+
+Identifica una vulnerabilidad en **OpenSSL** que permite **robar información protegida normalmente por el cifrado SSL/TLS**, utilizado para asegurar la comunicación en Internet.
+Heartbleed Bug
+
+El hacker malicioso Antonio está intentando atacar un dispositivo **IoT**.  
+Usará varias **identidades falsas** para crear una **fuerte ilusión de congestión de tráfico**, afectando la comunicación entre **nodos vecinos y redes**.
+
+¿Qué tipo de ataque está realizando Antonio?
+Un **Sybil Attack** ocurre cuando un solo atacante crea **múltiples identidades falsas** (o "nodos Sybil") en una red distribuida.
+
+¿Cuál de las siguientes opciones de **Nmap** usarías si quieres escanear **menos puertos que los predeterminados**?
+-F
+
+Rajesh, un administrador de red, encontró varios archivos desconocidos en el directorio raíz de su servidor **FTP**.  
+Le llamó la atención un archivo binario llamado **"mfs"**.  
+Al revisar los registros del servidor FTP, descubrió que un usuario **anónimo** inició sesión, **subió archivos** y **ejecutó un script** usando una función del software del servidor FTP.  
+Además, notó que el archivo **"mfs" está corriendo como un proceso y escuchando en un puerto de red**.
+
+¿Qué tipo de vulnerabilidad debió existir para que este ataque fuera posible?
+### **File system permissions**
+
+Ivan, un hacker malicioso, realiza un ataque **SQL Injection (SQLi)** que se basa en **preguntas Verdadero/Falso**.  
+¿Qué tipo de SQLi está utilizando Ivan?
+Blind SQLi
+- Es un tipo de inyección SQL donde la aplicación **no muestra directamente los resultados** de la consulta.
+    
+- El atacante **no ve el resultado**, pero puede inferirlo mediante **preguntas lógicas (Verdadero/Falso)**
+
+
+John, un administrador de sistemas, está aprendiendo a trabajar con una nueva tecnología: **Docker**.  
+Él la usará para crear una **conexión de red entre las interfaces del contenedor y la interfaz del host principal**.  
+¿Cuál de los siguientes _drivers de red_ de Docker es el más adecuado para John?
+Macvlan networking
+
+Cuál es una técnica automatizada de prueba de software que consiste en proporcionar **datos inválidos, inesperados o aleatorios** como entradas a un programa?
+Fuzz testing
+
+¿Cuál de los siguientes tipos de programas maliciosos ataca tanto al **sector de arranque (boot sector)** como a los **archivos ejecutables**?
+Multipartite Virus
+
+La empresa "Usual Company" pidió a un especialista en ciberseguridad que verificara la seguridad de su **puerta de enlace de correo electrónico perimetral**.  
+Para ello, el especialista crea un correo electrónico con este formato:
+> Lo envía a través de Internet, y un empleado de "Usual Company" lo recibe.
+
+> Esto significa que la puerta de enlace **no previene**:
+
+#### Email Spoofing
+- Es una técnica mediante la cual **un atacante falsifica la dirección del remitente** (`From:`) de un correo electrónico para que **parezca que proviene de una fuente confiable**, como un colega o una organización legítima.
+
+Mientras usas el servicio en línea de tu banco, notas la siguiente cadena en la barra de direcciones:
+Observas que si modificas los valores de `Damount` y `Camount` y envías la solicitud, los **datos en la página web reflejan los cambios**.  
+¿Qué tipo de vulnerabilidad está presente en este sitio?
+#### Web Parameter Tampering
+- Es una vulnerabilidad que permite al usuario **modificar parámetros en la URL (GET)** o en formularios (POST) para **manipular el comportamiento de la aplicación web**.
+
+¿Cuál de los siguientes estándares inalámbricos tiene un ancho de banda de hasta **54 Mbit/s** y utiliza señales en un espectro de frecuencia regulado alrededor de **5 GHz**?
+802.11a
+
+¿Cuál de los siguientes comandos te ayudará a **lanzar la Consola de Administración del Equipo** desde la ventana "Ejecutar" (Run) como **administrador local** en Windows 7?
+compmgmt.msc
+
+¿Cuál de las siguientes **no aplica** a **IPsec**?
+- Trabaja en la capa de enlace de datos (Data Link Layer)
+
+Según el **Estándar de Seguridad de Datos de la Industria de Tarjetas de Pago (PCI DSS)**, ¿cuándo es necesario realizar **pruebas de penetración externas e internas**?
+
+Al menos una vez al año y después de cualquier actualización o modificación significativa.
+
+¿Qué método identifica malware recolectando datos desde computadoras protegidas y analizándolos en la infraestructura del proveedor en lugar de hacerlo localmente?
+Cloud-based detection
+
+¿Cuál de las siguientes opciones es una **colección lógica de dispositivos conectados a Internet** —como computadoras, teléfonos inteligentes o dispositivos IoT— cuya **seguridad ha sido vulnerada** y el **control cedido a un tercero**?
+Botnet
+
+¿Qué significa un ataque "rubber-hose" (_manguera de goma_) en criptografía?
+(**Extracción de secretos criptográficos mediante coacción o tortura**)

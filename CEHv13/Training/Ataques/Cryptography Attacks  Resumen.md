@@ -191,3 +191,31 @@ En este ataque, el atacante construye un diccionario de texto plano junto con su
 
 Known-plaintext Attack**
 En este ataque, la única información disponible para el atacante son algunos bloques de texto plano junto con el texto cifrado correspondiente y el algoritmo utilizado para cifrar y descifrar el texto. Con esta información, se deduce la clave utilizada para generar el texto cifrado y así descifrar otros mensajes. 
+
+▪ Chosen-ciphertext Attack
+▪ Rubber Hose Attack 
+▪ Chosen-key Attack 
+▪ Timing Attack 
+▪ Man-in-the-Middle Attack
+
+Code Breaking Methodologies 
+▪ Brute Force
+Birthday Attack 
+▪ Frequency Analysis 
+▪ Trickery and Deceit
+▪ One-Time Pad
+
+Meet-in-the-Middle Attack on Digital Signature Schemes 
+Side-Channel Attack 
+Hash Collision Attack
+DUHK Attack 
+DROWN Attack
+Related-Key Attack 
+Padding Oracle Attack 
+
+Attacks on Blockchain 
+▪ 51% Attack
+▪ Finney Attack
+▪ Eclipse Attack
+▪ Race Attack
+▪ DeFi Sandwich Attack
