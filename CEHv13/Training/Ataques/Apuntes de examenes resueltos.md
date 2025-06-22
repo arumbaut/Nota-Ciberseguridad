@@ -627,3 +627,24 @@ Bluebugging (tomar el control de un dispositivo a través de Bluetooth) implica 
 **Bluesmacking**:  
 Ataque de denegación de servicio (DoS) que explota una vulnerabilidad en la pila Bluetooth para **bloquear dispositivos** enviando paquetes malformados.
 
+El atacante introduce datos maliciosos en mensajes interceptados dentro de una sesión TCP, ya que el **enrutamiento de origen está deshabilitado**.  
+Intenta **adivinar las respuestas** del cliente y del servidor.
+
+¿Qué técnica de secuestro (hijacking) se describe en este ejemplo?
+#### **Blind Hijacking**. Es un tipo de **secuestro de sesión TCP/IP** en el que el atacante **no puede ver el tráfico** (no tiene visibilidad directa del intercambio).
+
+**Wireshark** es una de las herramientas más importantes para un especialista en ciberseguridad.  
+Se utiliza para el diagnóstico de redes, análisis, desarrollo de software, etc.  
+A menudo se trabaja con el panel de **bytes del paquete (packet bytes pane)**.
+
+¿En qué formato se presenta la información en este panel?
+**Hexadecimal**
+
+¿Cuál de las siguientes **describe mejor un ataque de inyección de código (code injection)?**
+"Forma de ataque en la que un usuario malicioso inserta texto en un campo de datos que es interpretado como código."
+
+Realizas una serie de consultas interactivas, **eligiendo los textos en claro (plaintexts)** siguientes basándote en la **información obtenida de cifrados previos**.
+
+¿Qué tipo de ataque estás intentando realizar?
+Adaptive chosen-plaintext attack
+ipo avanzado de ataque criptográfico donde:  El atacante **puede elegir textos en claro arbitrarios** para ser cifrados
