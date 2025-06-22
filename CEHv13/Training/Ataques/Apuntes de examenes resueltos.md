@@ -777,3 +777,21 @@ Botnet
 
 ¿Qué significa un ataque "rubber-hose" (_manguera de goma_) en criptografía?
 (**Extracción de secretos criptográficos mediante coacción o tortura**)
+
+El firewall impide que los paquetes entren a la organización a través de ciertos **puertos** y **aplicaciones**. ¿Qué revisa este firewall?
+Encabezados de la capa de aplicación y números de puerto de la capa de transporte
+
+¿Cuál de las siguientes capas en la arquitectura del IoT ayuda a **cerrar la brecha entre dos puntos finales**, como un dispositivo y un cliente, y realiza funciones como **enrutamiento de mensajes, identificación de mensajes y suscripción**?
+Access Gateway
+
+**La fragmentación de sesiones (session splicing)** es una técnica de evasión de IDS que explota el hecho de que algunos sistemas de detección de intrusos (IDS) **no reconstruyen las sesiones antes de hacer coincidencia de patrones**. La idea es dividir los datos en varios paquetes para que **ningún paquete individual coincida completamente con una firma del IDS**.
+
+¿Qué herramienta puede utilizarse para realizar ataques de session splicing?
+
+**Whisker** es una herramienta diseñada específicamente para probar vulnerabilidades en aplicaciones web y **evadir IDS** mediante técnicas como:
+
+- **Session Splicing**: Fragmentar solicitudes HTTP en múltiples partes para evadir detección.
+    
+- **Obfuscación de URL**.
+    
+- **Alteración de encabezados HTTP**.
