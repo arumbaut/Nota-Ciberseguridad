@@ -555,3 +555,57 @@ Alert
 netstat
 
 En kerberos cuando se solicita un TGT el servidor provee  la server autentication
+
+¿Cuál es un conjunto de extensiones al DNS que proporciona a los clientes DNS (resolvers) autenticación del origen, negación autenticada de existencia e integridad de datos, pero no disponibilidad ni confidencialidad?
+**DNSSEC** (Domain Name System Security Extensions) es un conjunto de extensiones del protocolo DNS que añade **seguridad criptográfica** a las respuestas DNS. Específicamente, proporciona:
+
+1. **Autenticación del origen**: el cliente (resolver) puede verificar que la información DNS proviene del servidor legítimo.
+    
+2. **Negación autenticada de existencia**: permite comprobar de forma segura que un registro **no existe**, usando registros especiales como `NSEC` o `NSEC3`.
+    
+3. **Integridad de los datos**: garantiza que la información DNS no ha sido modificada durante la transmisión (usando firmas digitales).
+    
+#### ❗ DNSSEC **no proporciona**:
+
+- **Confidencialidad**: las respuestas DNS siguen siendo públicas (no están cifradas).
+    
+- **Disponibilidad**: no protege contra ataques de denegación de servicio (DoS) ni garantiza que el servidor esté accesible.
+
+¿Cuál de las siguientes opciones describe mejor un _firewall_ de software?
+El _firewall_ de software se coloca entre las aplicaciones normales y los componentes de red del sistema operativo.
+
+NOTA: En el contexto de un curso y examen del EC-Council, piensa en estas definiciones de esta manera: La huella (Footprinting) es una recopilación pasiva de información sin tocar el sistema/red/computadora objetivo.
+
+El escaneo (Scanning) es una recopilación activa de información asociada con un impacto directo en el objetivo.
+
+María realizó un ataque exitoso y obtuvo acceso a un servidor Linux. Ella quiere evitar que un NIDS (Sistema de Detección de Intrusos en la Red) detecte el tráfico saliente desde ese servidor en el futuro.
+
+¿Cuál de las siguientes opciones es la **mejor manera** de evitar la detección por parte del NIDS?
+Cifrado (Encryption)
+Un **NIDS (Network Intrusion Detection System)** analiza el **tráfico de red sin cifrar**, buscando patrones sospechosos o firmas de ataque en el contenido de los paquetes (payload).  
+Si el tráfico está **cifrado**, el NIDS **no puede inspeccionarlo a nivel de contenido**, lo que **oculta comandos, datos o conexiones maliciosas**.
+
+El equipo de desarrollo web está realizando una reunión urgente, ya que han recibido información de los testers sobre una nueva vulnerabilidad en su software web.  
+Deciden **modificar los requisitos del software** para **no permitir que los usuarios ingresen HTML como entrada** en su aplicación web.
+
+¿Qué tipo de vulnerabilidad detectó el equipo de pruebas?
+### **Cross-site scripting (XSS)**
+El hecho de que el equipo haya **decidido bloquear la entrada de HTML del usuario** es una **medida directa contra ataques de XSS (Cross-site scripting)**.
+
+Realizas una investigación y descubres que el **navegador de uno de tus empleados envió solicitudes maliciosas sin que el empleado lo supiera**.  
+Identifica la **vulnerabilidad web** que el atacante utilizó en este ataque contra tu empleado.
+#### ¿Qué es CSRF?
+
+El **Cross-Site Request Forgery (CSRF)** es un tipo de ataque en el que un **usuario autenticado** es engañado para enviar **peticiones maliciosas sin saberlo**, normalmente al hacer clic en un enlace o cargar una imagen desde un sitio malicioso.
+
+¿Qué tipo de virus intenta ocultarse de los programas antivirus cambiando activamente y corrompiendo las interrupciones de llamadas a servicios del sistema cuando se están ejecutando?
+Stealth/Tunneling virus . Un virus de tipo **stealth (sigiloso)** y/o **tunneling (de túnel)** intenta **ocultarse del software antivirus interceptando las llamadas al sistema operativo**, como interrupciones o funciones del sistema.
+
+¿Cuál de los siguientes métodos de prueba de seguridad de aplicaciones corresponde a una **prueba de tipo "caja blanca" (white-box)**, en la que **solo se analiza el código fuente** de las aplicaciones y sus componentes para detectar **posibles vulnerabilidades en el software y la arquitectura**?
+Static Application Security Testing es un enfoque de pruebas de seguridad **de caja blanca**
+
+**DAST (Dynamic Application Security Testing)**: Prueba **de caja negra**.
+
+**IAST (Interactive Application Security Testing)**: Combina elementos de SAST y DAST.
+
+**MAST (Mobile Application Security Testing)**: Es un enfoque especializado en la **seguridad de aplicaciones móviles**, y puede usar SAST, DAST, o ambos, pero no es una técnica exclusiva como SAST.
