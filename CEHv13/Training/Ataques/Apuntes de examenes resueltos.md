@@ -609,3 +609,21 @@ Static Application Security Testing es un enfoque de pruebas de seguridad **de c
 **IAST (Interactive Application Security Testing)**: Combina elementos de SAST y DAST.
 
 **MAST (Mobile Application Security Testing)**: Es un enfoque especializado en la **seguridad de aplicaciones móviles**, y puede usar SAST, DAST, o ambos, pero no es una técnica exclusiva como SAST.
+
+¿Cuál de los siguientes es el **método para determinar el recorrido de un paquete de datos** desde un **host externo no confiable** hacia un **host interno protegido** a través de un **firewall**?
+Firewalking
+
+El hacker de sombrero negro Iván quiere implementar un **ataque de hombre en el medio (MITM)** en la red corporativa.  
+Para ello, conecta su **propio router** a la red y **redirige el tráfico** para interceptar los paquetes.
+¿Qué puede hacer el administrador para **mitigar este ataque**?
+Agregar autenticación de mensajes al protocolo de enrutamiento
+
+Bluesnarfing (Robar información a través de Bluetooth)
+
+Bluebugging (tomar el control de un dispositivo a través de Bluetooth) implica obtener acceso remoto a un dispositivo habilitado para Bluetooth y utilizar sus características sin el conocimiento o consentimiento de la víctima
+
+**Bluejacking** es el envío de mensajes no solicitados, de forma anónima, a través de una conexión Bluetooth.
+
+**Bluesmacking**:  
+Ataque de denegación de servicio (DoS) que explota una vulnerabilidad en la pila Bluetooth para **bloquear dispositivos** enviando paquetes malformados.
+
