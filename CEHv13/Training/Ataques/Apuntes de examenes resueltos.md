@@ -790,8 +790,26 @@ Access Gateway
 
 **Whisker** es una herramienta diseñada específicamente para probar vulnerabilidades en aplicaciones web y **evadir IDS** mediante técnicas como:
 
-- **Session Splicing**: Fragmentar solicitudes HTTP en múltiples partes para evadir detección.
-    
-- **Obfuscación de URL**.
-    
+- **Session Splicing**: Fragmentar solicitudes HTTP en múltiples partes para evadir detección.    
+- **Obfuscación de URL**.    
 - **Alteración de encabezados HTTP**.
+
+¿Cuál de las siguientes opciones es una función de seguridad en los switches que **aprovecha la base de datos de DHCP snooping** para ayudar a prevenir ataques **Man-in-the-Middle (MitM)**?
+**DAI (Dynamic ARP Inspection)** es una función de seguridad que:
+
+- **Previene ataques ARP spoofing** (comunes en Man-in-the-Middle).
+    
+- Utiliza la **base de datos de DHCP snooping** para verificar si las respuestas ARP son legítimas.
+
+
+Supongamos que decides usar **PKI** (Infraestructura de Clave Pública) para proteger el correo electrónico que vas a enviar.  
+¿En qué **capa del modelo OSI** será **cifrado y descifrado** este mensaje?
+Presentacion
+
+¿Cómo funciona el mecanismo de un virus del sector de arranque (Boot Sector Virus)?
+Mueve el MBR a otra ubicación en el disco duro y copia el virus en la ubicación original del MBR.
+
+Rajesh, un administrador de sistemas, notó que algunos clientes de su empresa fueron víctimas de **envenenamiento de caché DNS**. Fueron redirigidos a un sitio malicioso cuando intentaron acceder al sitio web de la empresa de Rajesh.  
+**¿Cuál es la mejor recomendación para enfrentar esta amenaza?**
+
+**Use Domain Name System Security Extensions (DNSSEC)**

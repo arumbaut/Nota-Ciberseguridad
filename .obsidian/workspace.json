@@ -134,8 +134,23 @@
               "icon": "lucide-file",
               "title": "Cryptography Attacks  Resumen"
             }
+          },
+          {
+            "id": "c65792cbf0337393",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CEHv13/Training/Ataques/Cryptography Attacks  Resumen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cryptography Attacks  Resumen"
+            }
           }
-        ]
+        ],
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -306,12 +321,12 @@
       "edge-tts:Read note aloud": false
     }
   },
-  "active": "0966b94749ffe8e9",
+  "active": "c65792cbf0337393",
   "lastOpenFiles": [
+    "CEHv13/Training/Ataques/Apuntes de examenes resueltos.md",
     "CEHv13/Training/Ataques/Cryptography Attacks  Resumen.md",
     "CEHv13/Training/Ataques/Cryptography Attacks.md",
     "CEHv13/Training/Ataques/Cracking Passwords Attacks Resumen.md",
-    "CEHv13/Training/Ataques/Apuntes de examenes resueltos.md",
     "CEHv13/Training/Modulo 20 Cryptography/1.2 Asymmetric Encryption Algorithms.md",
     "CEHv13/Training/Modulo 20 Cryptography/1.1 Symmetric Encryption Algorithms.md",
     "CEHv13/Training/Modulo 20 Cryptography/01 Cryptography Concepts and Encryption Algorithms.md",

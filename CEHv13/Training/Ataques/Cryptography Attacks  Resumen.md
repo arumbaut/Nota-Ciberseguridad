@@ -192,30 +192,51 @@ En este ataque, el atacante construye un diccionario de texto plano junto con su
 Known-plaintext Attack**
 En este ataque, la única información disponible para el atacante son algunos bloques de texto plano junto con el texto cifrado correspondiente y el algoritmo utilizado para cifrar y descifrar el texto. Con esta información, se deduce la clave utilizada para generar el texto cifrado y así descifrar otros mensajes. 
 
-▪ Chosen-ciphertext Attack
-▪ Rubber Hose Attack 
-▪ Chosen-key Attack 
-▪ Timing Attack 
-▪ Man-in-the-Middle Attack
+▪ Chosen-ciphertext Attack: El atacante obtiene los textos planos correspondientes a un conjunto arbitrario de textos cifrados que él mismo eligió
+
+▪ Rubber Hose Attack : Los atacantes extraen secretos criptográficos de una persona mediante coacción o tortura.
+
+▪ Chosen-key Attack : En este tipo de ataque, un atacante no solo rompe un cifrado, sino que también compromete un sistema más grande que depende de ese cifrado. El atacante generalmente rompe un cifrado con una clave de _n_ bits en aproximadamente 2 ^n/2 operaciones.
+
+▪ Timing Attack : El atacante intenta romper el cifrado analizando el tiempo que tarda en ejecutarse el algoritmo de cifrado o descifrado para diferentes entradas
+
+▪ Man-in-the-Middle Attack: un atacante intercepta la comunicación entre un cliente y un servidor y negocia los parámetros criptográficos. Usando este ataque, el atacante puede descifrar el contenido cifrado y obtener información confidencial como contraseñas del sistema
 
 Code Breaking Methodologies 
-▪ Brute Force
-Birthday Attack 
-▪ Frequency Analysis 
-▪ Trickery and Deceit
-▪ One-Time Pad
+▪ Brute Force: búsqueda exhaustiva, en la que se determinan las claves probando **todas las combinaciones posibles de caracteres**.
 
-Meet-in-the-Middle Attack on Digital Signature Schemes 
-Side-Channel Attack 
-Hash Collision Attack
-DUHK Attack 
-DROWN Attack
-Related-Key Attack 
-Padding Oracle Attack 
+ 
+▪ Frequency Analysis : Funciona bajo el principio de que, en cualquier segmento de un idioma escrito, ciertas letras y combinaciones de letras aparecen con diferentes frecuencias.
+
+▪ Trickery and Deceit:  El engaño y la manipulación requieren un alto nivel de habilidades matemáticas y criptográficas. Este tipo de ataque **implica el uso de técnicas de ingeniería social para extraer claves criptográficas**.
+
+▪ One-Time Pad:  contiene principalmente un conjunto de letras o números que no se repiten, seleccionados de forma aleatoria por el sistema. El usuario escribe estos valores en pequeñas hojas de papel que luego se pegan juntas formando un bloc o cuaderno.
+
+Birthday Attack:  Un ataque de cumpleaños (birthday attack) se refiere a una clase de ataques de fuerza bruta contra funciones hash criptográficas que hace que la fuerza bruta sea más fácil de realizar. Este ataque se basa en la **paradoja del cumpleaños**, que es la probabilidad de que dos o más personas en un grupo de 23 compartan el mismo cumpleaños
+
+Meet-in-the-Middle Attack on Digital Signature Schemes : es el mejor método de ataque para algoritmos criptográficos que utilizan múltiples claves para el cifrado. utiliza un intercambio espacio-tiempo; también es un tipo de ataque de cumpleaños porque aprovecha las matemáticas detrás de la paradoja del cumpleaños, y consume menos tiempo que un ataque exhaustivo
+
+Side-Channel Attack : ataque físico realizado sobre un dispositivo criptográfico o criptosistema para obtener información sensible.
+
+Hash Collision Attack: Un ataque de colisión de hash se realiza encontrando dos mensajes de entrada diferentes que generan el mismo valor de hash.
+
+DUHK Attack : es una vulnerabilidad criptográfica que permite a los atacantes obtener claves de cifrado usadas para asegurar VPNs y sesiones web.afecta principalmente a cualquier hardware o software que utilice el Generador de Números Aleatorios ANSI X9.31 (RNG)
+
+DROWN Attack: grave vulnerabilidad que puede afectar protocolos criptográficos importantes como HTTPS y otros servicios criptográficos que dependen de SSL y TLS.
+
+Ataque de Tabla Arcoíris: En un ataque de tabla arcoíris, el atacante crea previamente una tabla con todas las posibles contraseñas y sus valores hash correspondientes, llamada tabla arcoíris.
+
+Related-Key Attack : os atacantes lanzan un ataque de clave relacionada explotando la relación matemática entre las claves en un cifrado para obtener acceso a las funciones de encriptación y desencriptación.
+
+Padding Oracle Attack : los atacantes explotan la validación del relleno de un mensaje cifrado para descifrar el texto cifrado. Este tipo de ataque también se conoce como ataque de Vaudenay. Este ataque se realiza principalmente en algoritmos que operan en modo CBC (Cipher Block Chaining)
 
 Attacks on Blockchain 
-▪ 51% Attack
-▪ Finney Attack
-▪ Eclipse Attack
-▪ Race Attack
-▪ DeFi Sandwich Attack
+▪ 51% Attack: ocurre cuando un atacante o grupo de atacantes obtiene el control de más del 50% del poder computacional (tasa de hash) o poder de participación (staking) en una red blockchain.
+
+▪ Finney Attack: tipo de ataque en blockchain que implica que un atacante aproveche los retrasos temporales entre la transmisión y la confirmación de transacciones en redes de criptomonedas para revertir las transacciones antes de que sean confirmadas.
+
+▪ Eclipse Attack: es un tipo de ataque en blockchain en el que un atacante aísla un nodo objetivo del resto de la red al rodearlo con nodos maliciosos, controlando así efectivamente la visión que tiene el nodo sobre la blockchain.
+
+▪ Race Attack: es un ataque de doble gasto que aprovecha el retraso en la confirmación de transacciones en redes blockchain para obtener bienes o servicios sin pagarlos realmente, gastando efectivamente la misma moneda dos veces.
+
+▪ DeFi Sandwich Attack: apunta a intercambios descentralizados (DEXs) y creadores de mercado automatizados (AMMs) para manipular la dinámica del mercado. En este ataque, el atacante explota el retraso en el tiempo y los mecanismos de ejecución de órdenes en los DEX para manipular el precio de un token a su favor.
