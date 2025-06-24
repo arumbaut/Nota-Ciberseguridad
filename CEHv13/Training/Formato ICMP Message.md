@@ -1,1 +1,1 @@
-![](../../../attachments/image20250611232114.png)
+![](../../attachments/image20250611232114.png)
