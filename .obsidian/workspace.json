@@ -141,12 +141,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CEHv13/Training/Formato ICMP Message.md",
+                "file": "CEHv13/Training/01 OSI Model.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Formato ICMP Message"
+              "title": "01 OSI Model"
             }
           }
         ],
@@ -323,11 +323,16 @@
   },
   "active": "c65792cbf0337393",
   "lastOpenFiles": [
+    "CEHv13/Training/02 Puertos.md",
+    "CEHv13/Training/DNS Hierarchy.md",
+    "CEHv13/Training/El encabezado del Packet IPv4.md",
+    "CEHv13/Training/El encabezado del Packet IPv6.md",
+    "CEHv13/Training/Encabezado de Segmento TCP.md",
+    "CEHv13/Training/Encabezado y Operación del Segmento UDP.md",
+    "CEHv13/Training/Formato ICMP Message.md",
     "CEHv13/Training/Modulo 03 Scanning Networks 03/01.1 TCP Communication Flags.md",
     "CEHv13/Training/Ataques/Cloud Attacks Resumen.md",
     "CEHv13/Training/Ataques/Acanneo de redes Resumen.md",
-    "CEHv13/Training/DNS Hierarchy.md",
-    "CEHv13/Training/Formato ICMP Message.md",
     "CEHv13/Training/Modulo 02 Footprinting and Reconnaissance/02 Tools to Search Company`s Sub domains.md",
     "CEHv13/Training/Modulo 09 Social Engineering/03 Social Engineering Countermeasures.md",
     "CEHv13/Training/Modulo 02 Footprinting and Reconnaissance/04 DNS Footprinting.md",
@@ -345,11 +350,6 @@
     "CEHv13/Training/Modulo 18 IoT and OT Hacking/05 What is OT Hacking.md",
     "CEHv13/Training/Modulo 18 IoT and OT Hacking/03 What is IoT Device Hacking.md",
     "CEHv13/Training/Modulo 18 IoT and OT Hacking/01 IoT and OT Hacking.md",
-    "CEHv13/Training/Modulo 18 IoT and OT Hacking/04 Qué es OT.md",
-    "CEHv13/Training/Modulo 18 IoT and OT Hacking/02 IoT Threats.md",
-    "CEHv13/Training/Modulo 17 Hacking Mobile Platforms/06 Mobile Security Tools.md",
-    "CEHv13/Training/Modulo 17 Hacking Mobile Platforms/05 Mobile Device Management (MDM).md",
-    "CEHv13/Training/Modulo 17 Hacking Mobile Platforms/04 Hacking iOS.md",
     "Hacking Pentesting/Savitar",
     "Note Narration Audio/Apuntes de examenes resueltos  .mp3",
     "Note Narration Audio/note - 17 jun 2025 23-01.mp3",

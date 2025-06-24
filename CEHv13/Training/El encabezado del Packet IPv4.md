@@ -1,4 +1,4 @@
-![](../../../attachments/image20250602221131.png)
+![](../../attachments/image20250602221131.png)
 
 **Versión**
 

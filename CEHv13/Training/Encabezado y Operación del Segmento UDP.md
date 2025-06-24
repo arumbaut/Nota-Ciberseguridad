@@ -2,4 +2,4 @@ UDP es comúnmente utilizado por DNS, DHCP, TFTP, NFS, y SNMP. También lo utili
 
 **Nota**: UDP actualmente divide los datos en datagramas. Sin embargo, el término genérico "segmento" se utiliza comúnmente
 
-![](../../../attachments/image20250602220820.png)
+![](../../attachments/image20250602220820.png)
