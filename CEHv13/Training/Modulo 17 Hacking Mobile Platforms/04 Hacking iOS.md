@@ -66,9 +66,7 @@ Source: https://mas.owasp.org
 
 ▪ GoldPickaxe Source: https://www.malwarebytes.com, https://www.group-ib.com
 
-**iOS Hacking Tools**
-
-  
+**iOS Hacking Tools**  
 
 ▪ Elcomsoft Phone Breaker Source: https://www.elcomsoft.com
 
@@ -82,9 +80,6 @@ Source: https://mas.owasp.org
 
 ▪ Frida (https://frida.re)
 
-  
-
-sdsds
 
 **Securing iOS Devices**
 

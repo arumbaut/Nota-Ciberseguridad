@@ -41,7 +41,7 @@ dirigidos específicamente a los spammers que abusan de recursos vulnerables com
 
 **▪ Spider Honeypots:** también se conocen como trampas para arañas. Estos honeypots están diseñados específicamente para atrapar rastreadores web y spiders
 
-**▪ Honeynets**:Son muy eficaces para determinar todas las capacidades de los adversarios. Las honeynets se implementan principalmente en un entorno virtual aislado junto con una combinación de servidores vulnerables.
+**▪ Honeynets** :Son muy eficaces para determinar todas las capacidades de los adversarios. Las honeynets se implementan principalmente en un entorno virtual aislado junto con una combinación de servidores vulnerables.
 
 **Honeypot Tools**
 

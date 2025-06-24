@@ -24,9 +24,7 @@ El enfoque de la lista negra es centrado en amenazas, por lo que no puede detect
 
   
 
-**Content Filtering Tools**
-
-  
+**Content Filtering Tools**  
 
 ▪ TitanHQ WebTitan Source: https://www.titanhq.com
 
