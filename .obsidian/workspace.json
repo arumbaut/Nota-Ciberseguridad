@@ -141,12 +141,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CEHv13/Training/01 OSI Model.md",
+                "file": "CEHv13/Training/Ataques/Apuntes de examenes resueltos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01 OSI Model"
+              "title": "Apuntes de examenes resueltos"
             }
           }
         ],
@@ -323,6 +323,9 @@
   },
   "active": "c65792cbf0337393",
   "lastOpenFiles": [
+    "CEHv13/Training/Modulo 20 Cryptography/1.1 Symmetric Encryption Algorithms.md",
+    "CEHv13/Training/Ataques/Apuntes de examenes resueltos.md",
+    "CEHv13/Training/01 OSI Model.md",
     "CEHv13/Training/02 Puertos.md",
     "CEHv13/Training/DNS Hierarchy.md",
     "CEHv13/Training/El encabezado del Packet IPv4.md",
@@ -336,7 +339,6 @@
     "CEHv13/Training/Modulo 02 Footprinting and Reconnaissance/02 Tools to Search Company`s Sub domains.md",
     "CEHv13/Training/Modulo 09 Social Engineering/03 Social Engineering Countermeasures.md",
     "CEHv13/Training/Modulo 02 Footprinting and Reconnaissance/04 DNS Footprinting.md",
-    "CEHv13/Training/Ataques/Apuntes de examenes resueltos.md",
     "Note Narration Audio/note - 24 jun 2025 07-50.mp3",
     "CEHv13/Training/Ataques/Resumen Notas Importantes.md",
     "CEHv13/Training/Ataques/Resumen e la parte de Ataques.md",
@@ -348,8 +350,6 @@
     "CEHv13/Training/Modulo 19 Cloud Computing/1.1 Types of Cloud Computing Services.md",
     "CEHv13/Training/Modulo 19 Cloud Computing/01 Cloud Computing Concepts.md",
     "CEHv13/Training/Modulo 18 IoT and OT Hacking/05 What is OT Hacking.md",
-    "CEHv13/Training/Modulo 18 IoT and OT Hacking/03 What is IoT Device Hacking.md",
-    "CEHv13/Training/Modulo 18 IoT and OT Hacking/01 IoT and OT Hacking.md",
     "Hacking Pentesting/Savitar",
     "Note Narration Audio/Apuntes de examenes resueltos  .mp3",
     "Note Narration Audio/note - 17 jun 2025 23-01.mp3",

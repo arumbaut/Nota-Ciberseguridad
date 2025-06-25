@@ -11,7 +11,7 @@ IPv6 permite la autenticación de encabezados.
 La **ventaja clave de IPv6 en seguridad** es su **soporte integrado para IPsec**, que permite mecanismos de autenticación y cifrado directamente en el protocolo. Esto no es obligatorio en IPv4.
 
 ¿Qué algoritmo de cifrado es un **cifrado simétrico de flujo**?
-RC4 es un **algoritmo de cifrado simétrico de flujo**
+RC4 es un **algoritmo de cifrado simétrico de flujo** y se basa en el uso de una permutación aleatoria.
 **ChaCha20**  y **Salsa20**  tambien son algoritmos simetricos de flujo
 
 Eres el CISO de una gran empresa tecnológica. Estás encargado de implementar un cifrado para los nuevos dispositivos móviles que se lanzarán en 2022.  
