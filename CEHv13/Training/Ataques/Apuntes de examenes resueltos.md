@@ -8,7 +8,7 @@ Si tu objetivo principal es **compartir documentos**, el servicio **más adecuad
 ¿Cuál es una de las ventajas de IPv6 sobre IPv4 desde una perspectiva de **seguridad**?
 
 IPv6 permite la autenticación de encabezados.
-La **ventaja clave de IPv6 en seguridad** es su **soporte integrado para IPsec**, que permite mecanismos de autenticación y cifrado directamente en el protocolo. Esto no es obligatorio en IPv4.
+La **ventaja clave de IPv6 en seguridad** es su **soporte integrado para IP sec**, que permite mecanismos de autenticación y cifrado directamente en el protocolo. Esto no es obligatorio en IPv4.
 
 ¿Qué algoritmo de cifrado es un **cifrado simétrico de flujo**?
 RC4 es un **algoritmo de cifrado simétrico de flujo** y se basa en el uso de una permutación aleatoria.
@@ -19,8 +19,6 @@ Eres el CISO de una gran empresa tecnológica. Estás encargado de implementar u
 **AES (Advanced Encryption Standard)** es la **mejor y más segura opción** para cifrar datos en dispositivos móviles. Es eficiente, confiable y ampliamente respaldado en estándares internacionales de seguridad
 
 ¿Cuál es la principal vulnerabilidad de una solicitud ARP?
-La mayor vulnerabilidad de ARP es que **puede ser fácilmente suplantado (spoofed)**, permitiendo a un atacante insertar su dirección MAC para interceptar o manipular el tráfico de red.
-
 La mayor vulnerabilidad de ARP es que **puede ser fácilmente suplantado (spoofed)**, permitiendo a un atacante insertar su dirección MAC para interceptar o manipular el tráfico de red.
 
 ¿Cuál es la ventaja de usar SSH para tráfico de línea de comandos?
@@ -70,21 +68,6 @@ Estos módulos se utilizan para identificar sistemas, servicios y vulnerabilidad
 - `auxiliary/scanner/ftp/ftp_version`  
  Detecta la versión del servicio FTP.
     
-- `auxiliary/scanner/snmp/snmp_enum`  
- Enumera información desde un dispositivo SNMP.
-    
-- `auxiliary/scanner/ssh/ssh_version`  
- Identifica la versión del servicio SSH.
-
-### **Denegación de Servicio (DoS)**
-- `auxiliary/dos/tcp/synflood`  
-     Lanza un ataque SYN flood para saturar el sistema objetivo.
-
- Prueba entradas aleatorias o inesperadas para detectar fallos.
-- `auxiliary/fuzzers/ftp/ftp_pre_post`  
- Prueba comandos FTP con cadenas anómalas para provocar errores.
-
-
 ¿Cuál es la región de memoria que se asigna a un proceso o programa cuando se inicia?
 Stack
 
