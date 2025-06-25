@@ -45,7 +45,7 @@ Estándar de Cifrado Avanzado (AES)
 Es una especificación del Instituto Nacional de Estándares y Tecnología (NIST) para el cifrado de datos electrónicos. También se utiliza para cifrar información digital como datos de telecomunicaciones, financieros y gubernamentales. Las agencias del gobierno de los Estados Unidos lo han estado utilizando para proteger material sensible pero no clasificado. Tiene un tamaño de bloque de 128 bits, con tamaños de clave de 128, 192 y 256 bits para AES-128, AES-192 y AES-256, respectivamente. 
 
  RC4  
-Es un cifrado de flujo simétrico con tamaño de clave variable. Basado en la factorización del producto de dos grandes números primos
+Es un cifrado de flujo simétrico con tamaño de clave variable. Se basa en el uso de una permutación aleatoria.
 
 RC5 es un cifrado de bloque simétrico rápido, diseñado por Ronald Rivest. . Los tamaños de bloque pueden ser de 32, 64 o 128 bits. . La rutina de cifrado tiene tres operaciones fundamentales: suma entera, XOR bit a bit y rotación variable.
 

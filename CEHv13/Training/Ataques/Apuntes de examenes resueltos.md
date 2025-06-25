@@ -577,8 +577,8 @@ El hecho de que el equipo haya **decidido bloquear la entrada de HTML del usuari
 
 Realizas una investigación y descubres que el **navegador de uno de tus empleados envió solicitudes maliciosas sin que el empleado lo supiera**.  
 Identifica la **vulnerabilidad web** que el atacante utilizó en este ataque contra tu empleado.
-#### ¿Qué es CSRF?
 
+ **Cross-Site Request ForgeryCSRF
 El **Cross-Site Request Forgery (CSRF)** es un tipo de ataque en el que un **usuario autenticado** es engañado para enviar **peticiones maliciosas sin saberlo**, normalmente al hacer clic en un enlace o cargar una imagen desde un sitio malicioso.
 
 ¿Qué tipo de virus intenta ocultarse de los programas antivirus cambiando activamente y corrompiendo las interrupciones de llamadas a servicios del sistema cuando se están ejecutando?
