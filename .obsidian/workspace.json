@@ -99,12 +99,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CEHv13/Training/Ataques/Cryptography Attacks  Resumen.md",
+                "file": "CEHv13/Training/Modulo 18 IoT and OT Hacking/05 What is OT Hacking.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cryptography Attacks  Resumen"
+              "title": "05 What is OT Hacking"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CEHv13/Training/Modulo 20 Cryptography/01 Cryptography Concepts and Encryption Algorithms.md",
+                "file": "CEHv13/Training/Modulo 20 Cryptography/15 Cryptography Attacks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01 Cryptography Concepts and Encryption Algorithms"
+              "title": "15 Cryptography Attacks"
             }
           },
           {
@@ -127,12 +127,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CEHv13/Training/Ataques/Cryptography Attacks  Resumen.md",
+                "file": "CEHv13/Training/Modulo 20 Cryptography/15 Cryptography Attacks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cryptography Attacks  Resumen"
+              "title": "15 Cryptography Attacks"
             }
           },
           {
@@ -150,7 +150,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -321,18 +321,29 @@
       "edge-tts:Read note aloud": false
     }
   },
-  "active": "5a88bcf8506ebd72",
+  "active": "0cbe66b019f44cb7",
   "lastOpenFiles": [
-    "CEHv13/Training/Modulo 20 Cryptography/01 Cryptography Concepts and Encryption Algorithms.md",
+    "CEHv13/Training/Modulo 18 IoT and OT Hacking/04 Qué es OT.md",
+    "CEHv13/Training/Modulo 18 IoT and OT Hacking/02 IoT Threats.md",
+    "Note Narration Audio/IoT Threats.mp3",
+    "Note Narration Audio/note - 25 jun 2025 07-33.mp3",
+    "CEHv13/Training/Modulo 18 IoT and OT Hacking/01 IoT and OT Hacking.md",
+    "CEHv13/Training/Modulo 19 Cloud Computing/04 Cloud Attacks.md",
+    "CEHv13/Training/02 Puertos.md",
     "CEHv13/Training/Ataques/Cryptography Attacks  Resumen.md",
+    "Note Narration Audio/Cryptography Attacks  Resumen 2.mp3",
+    "Note Narration Audio/Cryptography Attacks  Resumen 1.mp3",
+    "Note Narration Audio/note - 25 jun 2025 07-32.mp3",
+    "CEHv13/Training/Modulo 20 Cryptography/15 Cryptography Attacks.md",
+    "CEHv13/Training/Modulo 20 Cryptography/01 Cryptography Concepts and Encryption Algorithms.md",
+    "Note Narration Audio/note - 25 jun 2025 07-30.mp3",
+    "Note Narration Audio/note - 25 jun 2025 07-26.mp3",
     "CEHv13/Training/Modulo 20 Cryptography/1.1 Symmetric Encryption Algorithms.md",
     "CEHv13/Training/Ataques/Apuntes de examenes resueltos.md",
     "Note Narration Audio/Apuntes de Examenes 2.mp3",
     "Note Narration Audio/Apuntes de Examenes 1 .mp3",
     "Note Narration Audio/note - 25 jun 2025 07-19.mp3",
-    "Note Narration Audio/note - 25 jun 2025 07-13.mp3",
     "CEHv13/Training/01 OSI Model.md",
-    "CEHv13/Training/02 Puertos.md",
     "CEHv13/Training/DNS Hierarchy.md",
     "CEHv13/Training/El encabezado del Packet IPv4.md",
     "CEHv13/Training/El encabezado del Packet IPv6.md",
@@ -345,20 +356,9 @@
     "CEHv13/Training/Modulo 02 Footprinting and Reconnaissance/02 Tools to Search Company`s Sub domains.md",
     "CEHv13/Training/Modulo 09 Social Engineering/03 Social Engineering Countermeasures.md",
     "CEHv13/Training/Modulo 02 Footprinting and Reconnaissance/04 DNS Footprinting.md",
-    "Note Narration Audio/note - 24 jun 2025 07-50.mp3",
     "CEHv13/Training/Ataques/Resumen Notas Importantes.md",
     "CEHv13/Training/Ataques/Resumen e la parte de Ataques.md",
-    "CEHv13/Training/Modulo 19 Cloud Computing/04 Cloud Attacks.md",
     "CEHv13/Training/Modulo 19 Cloud Computing/03 Serverless Computing.md",
-    "CEHv13/Training/Modulo 19 Cloud Computing/02 Container Technology.md",
-    "CEHv13/Training/Modulo 19 Cloud Computing/1.3 Cloud Deployment Models.md",
-    "CEHv13/Training/Modulo 19 Cloud Computing/1.2 Shared Responsibilities in Cloud.md",
-    "CEHv13/Training/Modulo 19 Cloud Computing/1.1 Types of Cloud Computing Services.md",
-    "Hacking Pentesting/Savitar",
-    "Note Narration Audio/Apuntes de examenes resueltos  .mp3",
-    "Note Narration Audio/note - 17 jun 2025 23-01.mp3",
-    "Note Narration Audio/Apuntes de examenes resueltos .mp3",
-    "Note Narration Audio/note - 13 jun 2025 22-50.mp3",
     "attachments/Pasted image 20250606091404.png",
     "attachments/image20250611232114.png",
     "attachments/image20250611231323.png",

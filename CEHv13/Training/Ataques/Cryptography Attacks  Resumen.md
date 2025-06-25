@@ -240,3 +240,21 @@ Attacks on Blockchain
 ▪ Race Attack: es un ataque de doble gasto que aprovecha el retraso en la confirmación de transacciones en redes blockchain para obtener bienes o servicios sin pagarlos realmente, gastando efectivamente la misma moneda dos veces.
 
 ▪ DeFi Sandwich Attack: apunta a intercambios descentralizados (DEXs) y creadores de mercado automatizados (AMMs) para manipular la dinámica del mercado. En este ataque, el atacante explota el retraso en el tiempo y los mecanismos de ejecución de órdenes en los DEX para manipular el precio de un token a su favor.
+
+ **▪ Ciphertext-only Attack**
+El ataque de solo texto cifrado es menos efectivo, pero mucho más probable para el atacante. ==El atacante solo tiene acceso a una colección de textos cifrados. Esto es mucho más probable que el texto plano conocido, pero también es el más difícil. El ataque es completamente exitoso si se pueden deducir los textos planos correspondientes (o mejor aún, la clave).== La capacidad de obtener cualquier información sobre el texto plano subyacente se considera un éxito. Entonces, ¿qué hace el atacante con los textos cifrados que ha acumulado? Puede analizarlos en busca de patrones, intentando encontrar algo que le dé una pista sobre la clave utilizada para descifrarlos. A menudo, el resultado de este ataque es solo una ruptura parcial, no una ruptura completa.
+
+**▪ Adaptive Chosen-plaintext Attack**
+En este tipo de ataque, ==el atacante tiene acceso completo al mensaje de texto plano, incluido su cifrado, y también puede modificar su contenido mediante una serie de consultas interactivas, seleccionando los bloques de texto plano subsiguientes basándose en la información de las consultas y funciones de cifrado anteriores.== Para llevar a cabo este ataque, el atacante necesita interactuar con el dispositivo de cifrado.
+
+**▪ Chosen-plaintext Attack**
+Un ataque de texto plano elegido es un tipo de ataque de criptoanálisis muy eficaz. ==En este ataque, el atacante obtiene los textos cifrados correspondientes a un conjunto de textos planos de su elección. Esto le permite intentar obtener la clave utilizada y, por lo tanto, descifrar otros mensajes cifrados con esa clave==. En esencia, al conocer el texto plano y el texto cifrado resultante, el atacante obtiene mucha información sobre la clave utilizada. Esta técnica puede ser difícil, pero no imposible.
+
+**▪ Related-Key Attack**
+Este ataque es similar al ataque de texto plano, salvo que el atacante puede obtener textos cifrados con dos claves diferentes. Este ataque resulta muy útil si se obtiene el texto plano y el texto cifrado correspondiente. ==El ataque requiere que las claves diferentes estén estrechamente relacionadas, por ejemplo, en un entorno inalámbrico, donde las claves posteriores podrían derivarse de las anteriores. En ese caso, aunque las claves sean diferentes, son similares. Al igual que el ataque de solo texto cifrado, este tipo de ataque probablemente solo produzca una ruptura parcial.==
+
+**▪ Dictionary Attack**
+En este ataque, el atacante construye un diccionario de texto plano junto con su correspondiente texto cifrado, que ha analizado y obtenido durante un período determinado. Tras construir el diccionario, si el atacante obtiene el texto cifrado, utiliza el diccionario ya creado para encontrar el texto plano correspondiente. Los atacantes utilizan esta técnica para descifrar claves, contraseñas, frases de contraseña y texto cifrado.
+
+**▪ Known-plaintext Attack**
+En este ataque, la única información disponible para el atacante son algunos bloques de texto plano junto con el texto cifrado correspondiente y el algoritmo utilizado para cifrar y descifrar el texto. Con esta información, se deduce la clave utilizada para generar el texto cifrado y así descifrar otros mensajes. Este ataque funciona con cifrados de bloque y es un ejemplo de criptoanálisis lineal. Los bloques de texto plano conocidos se generan mediante una serie de suposiciones inteligentes y lógica, y no accediendo al texto plano a través de un canal
