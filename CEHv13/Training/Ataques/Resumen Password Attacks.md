@@ -80,11 +80,14 @@ Este tipo de ataque  es posible cuando el sistema objetivo utiliza una función 
 
 Internal Monologue Attack**
 En el ataque de monólogo interno, el atacante utiliza SSPI(Security Support Provider Interface) para realizar una autenticación NTLM. En lugar de robar las credenciales directamente desde la memoria (como lo hace Mimikatz), el atacante hace una llamada interna al sistema para calcular la respuesta NetNTLM, que es una respuesta de autenticación basada en las credenciales del usuario que ya ha iniciado sesión en el sistema.
+**El atacante extrae todos los tokens de inicio de sesión que no son de red** de todos los procesos activos, con el fin de **hacerse pasar por usuarios legítimos**.
+
+**el atacante interactúa localmente con el Proveedor de Soporte de Seguridad de NTLM (NTLM SSP)** por cada usuario suplantado, para **obtener una respuesta NetNTLMv1** a un _challenge_ elegido, en el contexto de seguridad de ese usuario.
 
 **Kerberoasting**: En este ataque, un atacante utiliza una cuenta de usuario común o un usuario con credenciales válidas del dominio para solicitar tickets de concesión de servicio (TGS) para cuentas de servicio, que se identifican por sus nombres principales de servicio (SPN).
  Algunas partes de estos tickets TGS pueden estar cifradas con el hash de la contraseña de la cuenta de servicio usando el algoritmo RC4.   El atacante extrae estos tickets de la memoria o del tráfico de red e intenta descifrarlos de manera offline, descubriendo así la contraseña en texto plano de la cuenta de servicio. 
 
-**AS-REP Roasting**:  Los atacantes apuntan a usuarios que tienen habilitada la opción **“No requerir preautenticación Kerberos”** en las opciones de su cuenta, o a cuentas de usuario que no requieren preautenticación . Este ataque se enfoca en el **Ticket Granting Ticket (TGT)**. Los atacantes aprovechan vulnerabilidades en el proceso de autenticación inicial (AS-REP) para obtener un TGT y luego intentar descifrarlo. Si el TGT está protegido con una contraseña débil, el atacante puede obtener acceso a la red o servicios sensibles.
+**AS-REP Roasting**:  ==Los atacantes apuntan a usuarios que tienen habilitada la opción **“No requerir preautenticación Kerberos”**== en las opciones de su cuenta, o a cuentas de usuario que no requieren preautenticación . Este ataque se enfoca en el **Ticket Granting Ticket (TGT)**. Los atacantes aprovechan vulnerabilidades en el proceso de autenticación inicial (AS-REP) para obtener un TGT y luego intentar descifrarlo. Si el TGT está protegido con una contraseña débil, el atacante puede obtener acceso a la red o servicios sensibles.
 
 Pass-the-Ticket Attack**
 
