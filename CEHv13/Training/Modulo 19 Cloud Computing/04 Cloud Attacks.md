@@ -30,7 +30,7 @@ Ataques de canal lateral o vulneraciones de máquinas virtuales entre huéspedes
 
 #### ==**Cloudborne Attack**==
 
-Ataque Cloudborne. Cloudborne es una vulnerabilidad que reside en un servidor en la nube físico que permite a los atacantes implantar una puerta trasera maliciosa en su firmware. La puerta trasera instalada puede persistir incluso si el servidor se reasigna a nuevos clientes o empresas que lo utilizan como IaaS. Los servidores físicos no están confinados a un solo cliente y pueden transferirse de un cliente a otro. Durante el proceso de recuperación, si la actualización del firmware (configuración predeterminada de fábrica, borrado completo de la memoria, etc.) no se implementa correctamente, las puertas traseras pueden permanecer activas en el firmware y propagarse por el servidor.
+==Ataque Cloudborne. Cloudborne es una vulnerabilidad que reside en un servidor en la nube físico que permite a los atacantes implantar una puerta trasera maliciosa en su firmware.== La puerta trasera instalada puede persistir incluso si el servidor se reasigna a nuevos clientes o empresas que lo utilizan como IaaS. Los servidores físicos no están confinados a un solo cliente y pueden transferirse de un cliente a otro. Durante el proceso de recuperación, si la actualización del firmware (configuración predeterminada de fábrica, borrado completo de la memoria, etc.) no se implementa correctamente, las puertas traseras pueden permanecer activas en el firmware y propagarse por el servidor.
 
 #### **Instance Metadata Service (IMDS) Attack** 
 

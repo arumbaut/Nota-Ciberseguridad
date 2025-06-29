@@ -1,55 +1,55 @@
-Qué cifrado fue seleccionado por el NIST como el **método principal para proporcionar confidencialidad** después del algoritmo **DES**
+Qué cifrado fue seleccionado por el NIST como el método principal para proporcionar confidencialidad después del algoritmo DES
 
-El **NIST seleccionó oficialmente el algoritmo AES** (basado en Rijndael) como reemplazo de DES debido a su seguridad, velocidad, eficiencia en hardware y software, y flexibilidad en tamaños de clave (128, 192, 256 bits).
+El NIST seleccionó oficialmente el algoritmo AES (basado en Rijndael) como reemplazo de DES debido a su seguridad, velocidad, eficiencia en hardware y software, y flexibilidad en tamaños de clave (128, 192, 256 bits).
 
-¿Qué servicio en la nube es más probable que uses si deseas **compartir documentos con otra persona**?
-Si tu objetivo principal es **compartir documentos**, el servicio **más adecuado y directo** es **Storage as a Service**, ya que está diseñado específicamente para almacenar y facilitar el acceso compartido a archivos en la nube.
+¿Qué servicio en la nube es más probable que uses si deseas compartir documentos con otra persona?
+Si tu objetivo principal es compartir documentos, el servicio más adecuado y directo es Storage as a Service, ya que está diseñado específicamente para almacenar y facilitar el acceso compartido a archivos en la nube.
 
-¿Cuál es una de las ventajas de IPv6 sobre IPv4 desde una perspectiva de **seguridad**?
+¿Cuál es una de las ventajas de IPv6 sobre IPv4 desde una perspectiva de seguridad?
 
 IPv6 permite la autenticación de encabezados.
-La **ventaja clave de IPv6 en seguridad** es su **soporte integrado para IP sec**, que permite mecanismos de autenticación y cifrado directamente en el protocolo. Esto no es obligatorio en IPv4.
+La ventaja clave de IPv6 en seguridad es su soporte integrado para IP sec, que permite mecanismos de autenticación y cifrado directamente en el protocolo. Esto no es obligatorio en IPv4.
 
-¿Qué algoritmo de cifrado es un **cifrado simétrico de flujo**?
-RC4 es un **algoritmo de cifrado simétrico de flujo** y se basa en el uso de una permutación aleatoria.
-**ChaCha20**  y **Salsa20**  tambien son algoritmos simetricos de flujo
+¿Qué algoritmo de cifrado es un cifrado simétrico de flujo?
+RC4 es un algoritmo de cifrado simétrico de flujo y se basa en el uso de una permutación aleatoria.
+ChaCha20  y Salsa20  tambien son algoritmos simetricos de flujo
 
 Eres el CISO de una gran empresa tecnológica. Estás encargado de implementar un cifrado para los nuevos dispositivos móviles que se lanzarán en 2022.  
 ¿Qué estándar de cifrado es el más probable que elijas?
-**AES (Advanced Encryption Standard)** es la **mejor y más segura opción** para cifrar datos en dispositivos móviles. Es eficiente, confiable y ampliamente respaldado en estándares internacionales de seguridad
+AES (Advanced Encryption Standard) es la mejor y más segura opción para cifrar datos en dispositivos móviles. Es eficiente, confiable y ampliamente respaldado en estándares internacionales de seguridad
 
 ¿Cuál es la principal vulnerabilidad de una solicitud ARP?
-La mayor vulnerabilidad de ARP es que **puede ser fácilmente suplantado (spoofed)**, permitiendo a un atacante insertar su dirección MAC para interceptar o manipular el tráfico de red.
+La mayor vulnerabilidad de ARP es que puede ser fácilmente suplantado (spoofed), permitiendo a un atacante insertar su dirección MAC para interceptar o manipular el tráfico de red.
 
 ¿Cuál es la ventaja de usar SSH para tráfico de línea de comandos?
 SSH cifra el tráfico y las credenciales.
 
 ¿cuál es una de las fortalezas de clave registradas de RSA?
-Las **fortalezas de clave comunes y registradas** para RSA son: **1024, 2048, 3072** y **4096 bits**.
+Las fortalezas de clave comunes y registradas para RSA son: 1024, 2048, 3072 y 4096 bits.
 
-Para proporcionar **no repudio** en el correo electrónico, ¿qué algoritmo elegirías implementar?
-- El **no repudio** significa que el remitente **no puede negar** haber enviado un mensaje.    
-- Para lograr no repudio, se necesita una **firma digital**, y para eso se utilizan algoritmos de **criptografía asimétrica**.    
-- **DSA (Digital Signature Algorithm)** es un algoritmo específicamente diseñado para **firmas digitales** y es ampliamente utilizado para **proveer autenticidad e integridad**, así como no repudio.
+Para proporcionar no repudio en el correo electrónico, ¿qué algoritmo elegirías implementar?
+- El no repudio significa que el remitente no puede negar haber enviado un mensaje.    
+- Para lograr no repudio, se necesita una firma digital, y para eso se utilizan algoritmos de criptografía asimétrica.    
+- DSA (Digital Signature Algorithm) es un algoritmo específicamente diseñado para firmas digitales y es ampliamente utilizado para proveer autenticidad e integridad, así como no repudio.
 
-¿Cuál de las siguientes opciones describe una **condición de carrera** (race condition)?
+¿Cuál de las siguientes opciones describe una condición de carrera (race condition)?
 Cuando dos condiciones ocurren al mismo tiempo y existe la posibilidad de que se ejecuten comandos arbitrarios con permisos elevados del usuario, lo cual puede ser aprovechado por un adversario.
 
 ¿Por qué un atacante realizaría un escaneo de conexiones TCP abiertas usando Nmap?
 
-- Un **escaneo TCP abierto (TCP Connect Scan)** realiza la conexión completa a los puertos, simulando tráfico legítimo de usuario porque establece una conexión completa.
+- Un escaneo TCP abierto (TCP Connect Scan) realiza la conexión completa a los puertos, simulando tráfico legítimo de usuario porque establece una conexión completa.
     
-- Esto puede **evitar ser detectado fácilmente por algunos sistemas de detección de intrusos**, haciendo que el escaneo parezca tráfico normal.
+- Esto puede evitar ser detectado fácilmente por algunos sistemas de detección de intrusos, haciendo que el escaneo parezca tráfico normal.
 
 ¿Cuál es un tipo común de ataque al protocolo Kerberos que puede parecer tráfico legítimo?
-**Kerberoasting** es un ataque específico de Kerberos donde el atacante solicita tickets de servicio (TGS) legítimos para cuentas de servicio y luego intenta descifrar la contraseña almacenada en esos tickets fuera de línea.
+Kerberoasting es un ataque específico de Kerberos donde el atacante solicita tickets de servicio (TGS) legítimos para cuentas de servicio y luego intenta descifrar la contraseña almacenada en esos tickets fuera de línea.
 
 ¿Cuál de los siguientes forma parte de una DMZ pero sirve como puente de acceso entre organizaciones?
-Una **extranet** es una red controlada que permite el acceso externo limitado a socios, proveedores o clientes de una organización. Suele estar ubicada en una **DMZ (zona desmilitarizada)**
+Una extranet es una red controlada que permite el acceso externo limitado a socios, proveedores o clientes de una organización. Suele estar ubicada en una DMZ (zona desmilitarizada)
 
 ¿Qué algoritmo de cifrado se utiliza dentro de TLS para el apretón de manos (handshake) y la negociación de claves?
 
-**RSA (Rivest–Shamir–Adleman)** es un algoritmo de **cifrado asimétrico** que se utiliza comúnmente en el protocolo **TLS (Transport Layer Security)** durante la fase de **handshake** (apretón de manos) y **negociación de claves**.
+RSA (Rivest–Shamir–Adleman) es un algoritmo de cifrado asimétrico que se utiliza comúnmente en el protocolo TLS (Transport Layer Security) durante la fase de handshake (apretón de manos) y negociación de claves.
 
 ¿La entrada del archivo de registro SAM se encuentra en qué parte del sistema de Registro de Windows?  
 HKEY_LOCAL_MACHINE\SAM
@@ -58,8 +58,8 @@ HKEY_LOCAL_MACHINE\SAM
 
 auxiliary/scanner/snmp
 
-En **Metasploit**, los módulos auxiliares se organizan jerárquicamente por función.
-### **Escaneo (Scanner)**
+En Metasploit, los módulos auxiliares se organizan jerárquicamente por función.
+### Escaneo (Scanner)
 Estos módulos se utilizan para identificar sistemas, servicios y vulnerabilidades:
 
 - `auxiliary/scanner/portscan/tcp`  
@@ -86,26 +86,26 @@ LOIC
 En el modelo TCP/IP, ¿cuál es el equivalente de la capa de Red (Network) del modelo OSI?
 Internet
 
-**¿Cuál de las siguientes aplicaciones proporciona ARP spoofing?**
+¿Cuál de las siguientes aplicaciones proporciona ARP spoofing?
  Cain & Abel
 
-**¿Qué opción describe a un adversario que finge ser otra persona para obtener crédito o intentar fraude?**
+¿Qué opción describe a un adversario que finge ser otra persona para obtener crédito o intentar fraude?
 Identity theft (Robo de identidad)
 
-**¿Cómo se refiere el modelo Clark-Wilson a los objetos cuando se trata de la integridad?**
+¿Cómo se refiere el modelo Clark-Wilson a los objetos cuando se trata de la integridad?
 UDI y CDI
 
-**¿Qué modo inalámbrico se utiliza cuando hay una conexión punto a punto pero no hay un punto de acceso inalámbrico involucrado?**
+¿Qué modo inalámbrico se utiliza cuando hay una conexión punto a punto pero no hay un punto de acceso inalámbrico involucrado?
 Ad hoc
 
-- El modo **Ad hoc** permite que dos o más dispositivos se conecten directamente entre sí sin necesidad de un punto de acceso inalámbrico (WAP).
+- El modo Ad hoc permite que dos o más dispositivos se conecten directamente entre sí sin necesidad de un punto de acceso inalámbrico (WAP).
     
-- Es una conexión **punto a punto** o **peer-to-peer** en la que cada dispositivo actúa como cliente y servidor.
+- Es una conexión punto a punto o peer-to-peer en la que cada dispositivo actúa como cliente y servidor.
 
-**¿Cuál es una ventaja de una llamada telefónica sobre un correo electrónico de phishing?**
+¿Cuál es una ventaja de una llamada telefónica sobre un correo electrónico de phishing?
 You are able to go into more detail with pretexting using a conversation.
 
-**¿Por qué es más probable que uses REST al desarrollar una aplicación web?**
+¿Por qué es más probable que uses REST al desarrollar una aplicación web?
 HTTP is stateless.
 
 ¿Qué significa el valor TTL?
@@ -113,61 +113,61 @@ HTTP is stateless.
 
 ¿Cuál de los siguientes indica el servidor DNS autoritativo para la zona que se está consultando?
 NS
-- El registro **NS (Name Server)** en DNS identifica los servidores **autoritativos** para una zona o dominio específico.
+- El registro NS (Name Server) en DNS identifica los servidores autoritativos para una zona o dominio específico.
     
 - Estos servidores son responsables de responder con autoridad para los registros dentro de esa zona.
 
-**Una clave que debe conocerse de antemano para poder cifrar datos entre dos partes se conoce como:**
+Una clave que debe conocerse de antemano para poder cifrar datos entre dos partes se conoce como:
  Pre-shared key (Clave precompartida)
 
 Has encontrado un servidor SMTP abierto. ¿Qué comando SMTP podrías usar para identificar usuarios en ese servidor?
 VRFY
-El comando **VRFY** (Verify) permite consultar si un usuario específico existe en el servidor SMTP.
+El comando VRFY (Verify) permite consultar si un usuario específico existe en el servidor SMTP.
 
-**¿Qué tipo de ataque es un ataque Fraggle?**
+¿Qué tipo de ataque es un ataque Fraggle?
 Amplification (Amplificación)
 
-**¿Cuántos campos hay en un encabezado UDP?**
+¿Cuántos campos hay en un encabezado UDP?
 Four (Cuatro)
 
-**¿Qué tipo de informe es mejor entregar al equipo de alta dirección de un cliente?**
-Executive summary report**
+¿Qué tipo de informe es mejor entregar al equipo de alta dirección de un cliente?
+Executive summary report
 
-**Como CISO, publicaste una política que requiere usar una trituradora de papel cruzada para destruir documentos clasificados de forma segura. ¿Qué tipo de control de seguridad implementaste?**
+Como CISO, publicaste una política que requiere usar una trituradora de papel cruzada para destruir documentos clasificados de forma segura. ¿Qué tipo de control de seguridad implementaste?
  Administrative (Administrativo)
 
-**¿Cuál de los siguientes es el tipo de traducción de direcciones de red (NAT) más comúnmente usado?**
+¿Cuál de los siguientes es el tipo de traducción de direcciones de red (NAT) más comúnmente usado?
 PAT (Port Address Translation)
 
-**Si necesitas generar un código de autenticación de mensaje (MAC), ¿qué usarías?**
+Si necesitas generar un código de autenticación de mensaje (MAC), ¿qué usarías?
  SHA   
- Un **MAC (Message Authentication Code)** se genera usando funciones hash criptográficas combinadas con una clave secreta.
+ Un MAC (Message Authentication Code) se genera usando funciones hash criptográficas combinadas con una clave secreta.
  
-**Si quisieras usar un plugin de navegador para identificar las tecnologías usadas en un sitio web, ¿cuál usarías?**
+Si quisieras usar un plugin de navegador para identificar las tecnologías usadas en un sitio web, ¿cuál usarías?
  Wappalyzer
- **Wappalyzer** es un plugin popular que detecta y muestra las tecnologías que usa un sitio web, como frameworks, servidores, CMS, bibliotecas JavaScript, etc
+ Wappalyzer es un plugin popular que detecta y muestra las tecnologías que usa un sitio web, como frameworks, servidores, CMS, bibliotecas JavaScript, etc
 
-**¿Qué tipo de ICMP indica una respuesta "Time Exceeded"?**
+¿Qué tipo de ICMP indica una respuesta "Time Exceeded"?
  Type 11
 
-**Cuál de los siguientes es un protocolo propietario ligero de Cisco para construir túneles de seguridad?**
+Cuál de los siguientes es un protocolo propietario ligero de Cisco para construir túneles de seguridad?
  LEAP
- **LEAP (Lightweight Extensible Authentication Protocol)** es un protocolo propietario de Cisco diseñado para autenticación segura y construcción de túneles en redes inalámbricas.
+ LEAP (Lightweight Extensible Authentication Protocol) es un protocolo propietario de Cisco diseñado para autenticación segura y construcción de túneles en redes inalámbricas.
 
-**¿Qué usan los puntos de acceso inalámbricos para anunciar su presencia?**
+¿Qué usan los puntos de acceso inalámbricos para anunciar su presencia?
  Beacon frame
- Los **Beacon frames** son paquetes periódicos enviados por los puntos de acceso (AP) para anunciar la existencia de la red inalámbrica, incluyendo información como el SSID, capacidades, y parámetros de la red.
+ Los Beacon frames son paquetes periódicos enviados por los puntos de acceso (AP) para anunciar la existencia de la red inalámbrica, incluyendo información como el SSID, capacidades, y parámetros de la red.
 
 ¿Cuál de los siguientes algoritmos de cifrado utiliza dos números primos grandes?
-RSA. El algoritmo **RSA**  **se basa en la factorización de dos números primos grandes**.
+RSA. El algoritmo RSA  se basa en la factorización de dos números primos grandes.
 
 ¿Qué características de protección se utilizan con el modo de transporte de IPSec?
-#### **Proporciona cifrado solo a la carga útil**    
-- En **modo transporte **, **solo se cifra la carga útil**, no la cabecera
+#### Proporciona cifrado solo a la carga útil    
+- En modo transporte , solo se cifra la carga útil, no la cabecera
 - El modo tunel cifra ambos ip header o cabecera y el payload
 
 ¿Cuál de los siguientes define los rangos de direcciones IP privadas, no enrutable por Internet?
-RFC 1918.  Este **RFC** (Request for Comments) define los rangos de direcciones IP **privadas** que **no son enrutable por Internet**.
+RFC 1918.  Este RFC (Request for Comments) define los rangos de direcciones IP privadas que no son enrutable por Internet.
 
 Cuando intentas cambiar la URL a otro formato que podría no ser bloqueado por el firewall, como binario. ¿Qué estás intentando hacer?
 URL obfuscation (Ofuscación de URL)
@@ -189,7 +189,7 @@ nbtstat
 nbtstat muestra información sobre la caché de nombres NetBIOS, el estado de las conexiones NetBIOS, y puede mostrar información sobre grupos de trabajo o dominios a los que está conectado el equipo Windows.
 
 ¿En qué etapa dentro de Kerberos se autentica el sujeto (usuario)?
-**La autenticación del sujeto (usuario o cliente) ocurre cuando el cliente recibe el TGT (Ticket Granting Ticket)**, que es emitido por el **AS (Authentication Server)**
+La autenticación del sujeto (usuario o cliente) ocurre cuando el cliente recibe el TGT (Ticket Granting Ticket), que es emitido por el AS (Authentication Server)
 
 ¿Qué método no convencional usarías para provocar una denegación de servicio (DoS) en toda la sala?
 Atacar las unidades HVAC (calefacción, ventilación y aire acondicionado).
@@ -201,7 +201,7 @@ Searchsploit
 Identificar rangos de direcciones IP de una empresa   duda Identificar contraseñas por defecto en Internet
 
 ¿Qué cifrado de rotación usa una matriz para mapear texto cifrado a texto plano y viceversa?
-El **cifrado Vigenère** es un cifrado polialfabético que usa una **matriz de tabula recta (tabla Vigenère)**
+El cifrado Vigenère es un cifrado polialfabético que usa una matriz de tabula recta (tabla Vigenère)
 
 ¿Quién tiene la responsabilidad del sistema operativo en una oferta de Plataforma como Servicio (PaaS) con un proveedor de la nube?
 Proveedor
@@ -214,10 +214,10 @@ Polimorfismo
 
 ¿Cuál de estas tecnologías usarías para eliminar malware en la red antes de que llegue al endpoint?
 Dispositivo de gestión unificada de amenazas (UTM)
-Un **UTM es un dispositivo que integra múltiples funciones de seguridad de red, como firewall, antivirus, detección de intrusos, filtrado web y análisis de malware.
+Un UTM es un dispositivo que integra múltiples funciones de seguridad de red, como firewall, antivirus, detección de intrusos, filtrado web y análisis de malware.
 
 ¿Cuál de estas utilidades usarías para capturar contraseñas desde el Registro del sistema así como desde la memoria de un sistema comprometido?
-**Mimikatz** . Esta es una herramienta muy conocida para extraer credenciales (contraseñas, hashes, tickets) directamente de la memoria y del sistema Windows, incluyendo del proceso **LSASS**
+Mimikatz . Esta es una herramienta muy conocida para extraer credenciales (contraseñas, hashes, tickets) directamente de la memoria y del sistema Windows, incluyendo del proceso LSASS
 
 ¿Qué técnica podría ser la más efectiva para comprometer un dispositivo móvil?
 Tienda de aplicaciones
@@ -239,7 +239,7 @@ Clustering
 
 ¿Qué tipo de etiqueta se le da a un sujeto por razones de seguridad?
 Clearance.
-**Clearance (Autorización)** es la etiqueta o nivel que se asigna a una persona (sujeto) que indica a qué información clasificada puede acceder.
+Clearance (Autorización) es la etiqueta o nivel que se asigna a una persona (sujeto) que indica a qué información clasificada puede acceder.
 
 ¿Qué necesitas activar en una interfaz de red para poder ver las cabeceras de radio en la comunicación?
 Monitor mode
@@ -252,10 +252,10 @@ Llave pública
 
 ¿Cuál de los siguientes ataques usa paquetes UDP para atacar la dirección de broadcast y causar un DDoS?
 Fraggle
-**Fraggle** usa **paquetes UDP** (en lugar de ICMP como el Smurf) enviados a la dirección de broadcast para amplificar el ataque y causar un DDoS.
+Fraggle usa paquetes UDP (en lugar de ICMP como el Smurf) enviados a la dirección de broadcast para amplificar el ataque y causar un DDoS.
 
 ¿Qué herramienta provoca que se usen todos los sockets y puede hacer que los servicios se congelen o caigan?
-**Slowloris**.  Es un ataque DoS que abre muchas conexiones HTTP lentas, manteniendo abiertas las conexiones sin completar.
+Slowloris.  Es un ataque DoS que abre muchas conexiones HTTP lentas, manteniendo abiertas las conexiones sin completar.
 
 ¿Cómo se llama el dispositivo simple que se usa para gestionar los elementos de nivel más bajo de un sistema de control industrial?
 Programmable logic controller (PLC)
@@ -282,11 +282,11 @@ Para lograr que un usuario lo ejecute
 
 ¿Cuál de las siguientes aplicaciones te permite descifrar contraseñas WEP en una red inalámbrica?
 Cain & Abel.
-**Cain & Abel** es una herramienta de recuperación de contraseñas para sistemas Windows, que incluye funciones como: Escucha de tráfico de red, Ataques de diccionario y fuerza bruta,
-**Crackeo de claves WEP**, si se captura suficiente tráfico.
+Cain & Abel es una herramienta de recuperación de contraseñas para sistemas Windows, que incluye funciones como: Escucha de tráfico de red, Ataques de diccionario y fuerza bruta,
+Crackeo de claves WEP, si se captura suficiente tráfico.
 
 ¿Qué herramienta podrías usar si quisieras identificar directorios que no aparecen en el escaneo (spider) de un sitio web?
-- **DIRB**  Esta una herramienta de **fuerza bruta para descubrir directorios y archivos ocultos** en servidores web.
+- DIRB  Esta una herramienta de fuerza bruta para descubrir directorios y archivos ocultos en servidores web.
 
 ¿Qué herramienta podrías usar para ayudarte a capturar cabeceras de radio en redes inalámbricas?
 Airmon-ng
@@ -301,14 +301,14 @@ Operating system
 RSA
 
 ¿Dónde irías para obtener el nombre y la información de contacto del administrador de un dominio?
-**RIR (Regional Internet Registry)** son organizaciones que administran la asignación de direcciones IP y mantienen bases de datos públicas con información del propietario y contacto de esas direcciones, incluyendo a veces datos de dominios relacionados.
+RIR (Regional Internet Registry) son organizaciones que administran la asignación de direcciones IP y mantienen bases de datos públicas con información del propietario y contacto de esas direcciones, incluyendo a veces datos de dominios relacionados.
 
 Cómo se llama un mensaje que lleva datos y acuses de recibo (acknowledgments)?
-Segment. Un **segmento** es la unidad de datos en la **capa de transporte (TCP)**.
+Segment. Un segmento es la unidad de datos en la capa de transporte (TCP).
 
 Has localizado un servidor RMI en una red objetivo. ¿Qué información te gustaría obtener de ese servidor?
 Applications being hosted
-Un **servidor RMI (Remote Method Invocation)** permite que aplicaciones Java invocan métodos remotamente en otro sistema
+Un servidor RMI (Remote Method Invocation) permite que aplicaciones Java invocan métodos remotamente en otro sistema
 
 ¿Qué hace un puntero de pila (stack pointer)?
 Apunta a la cima (tope) de la pila.
@@ -332,24 +332,24 @@ Un método que defiende contra ataques de inundación (flooding) y ataques masiv
 Flood guard.  Esta es una tecnología o método diseñado específicamente para detectar y prevenir ataques de inundación (flooding)
 
 En IPSec, ¿qué se conoce como el gestor de asociaciones de seguridad?
-**ISAKMP (Internet Security Association and Key Management Protocol)** es el protocolo que se encarga de gestionar la creación, negociación y mantenimiento de las asociaciones de seguridad (Security Associations, SA) en IPSec.
+ISAKMP (Internet Security Association and Key Management Protocol) es el protocolo que se encarga de gestionar la creación, negociación y mantenimiento de las asociaciones de seguridad (Security Associations, SA) en IPSec.
 
 El acto de falsificar datos también se conoce como qué?
-**Spoofing**
+Spoofing
 
 Cuando las aplicaciones crean segmentos de memoria variable de forma dinámica, ¿qué tipo de memoria están usando?
 Heap
 
-**Este fragmento se encuentra en los registros de un servidor web. ¿Qué tipo de ataque es probable que esté ocurriendo?**  
+Este fragmento se encuentra en los registros de un servidor web. ¿Qué tipo de ataque es probable que esté ocurriendo?  
 `&& cat /etc/shadow`
 
 Command injection
 
 ¿Cuál es un identificador único que se usa en Snort?
-SID **(Snort ID)**.
+SID (Snort ID).
 
 ¿Cuál de las siguientes herramientas puede usarse para robar cookies entre un cliente y un servidor para usar en un ataque de repetición (replay attack)?
-**Ferret** es una herramienta diseñada para capturar datos de sesiones HTTP, incluyendo cookies, en redes no cifradas, lo que permite a un atacante realizar ataques de repetición (replay attacks) usando esas cookies robadas.
+Ferret es una herramienta diseñada para capturar datos de sesiones HTTP, incluyendo cookies, en redes no cifradas, lo que permite a un atacante realizar ataques de repetición (replay attacks) usando esas cookies robadas.
 
 DNS Caché snooping es un tipo de enumeracion DNS en la cual un atacante hace peticiones a un servidor de un registro especifico del DNS. Por medio de el caché record el atacante uede determinar visitas recientes de los usuarion. 
 Que comando es usado para determinar si la entrada esta presente en la cache DNS
@@ -465,7 +465,7 @@ La clave pública del receptor
 ¿Qué registro indica la asignación de una dirección IP a un nombre de host?
 PTR
 
-**¿Qué valor se usa en asociación con firewalking?**
+¿Qué valor se usa en asociación con firewalking?
 A. TTL 
 
 ¿Por qué un atacante preferiría usar bluesnarfing en lugar de bluejacking?
@@ -489,7 +489,7 @@ Imposibilidad de implementar controles de seguridad
 ¿Cuál de los siguientes servidores AAA proporciona cifrado asimétrico?
 SESAME
 
-**¿Cuál de los siguientes no es un objeto en Active Directory?**
+¿Cuál de los siguientes no es un objeto en Active Directory?
 Archivos 
 
 ¿Cuál de las siguientes herramientas utiliza Metasploit para lanzar ataques como campañas de phishing?
@@ -531,7 +531,7 @@ RSA
 ¿Qué número de puerto utiliza NetBIOS para los servicios de nombres?
 Puerto UDP 137
 
-**¿Qué tipo de regla permite generar registros y alertas en Snort?**
+¿Qué tipo de regla permite generar registros y alertas en Snort?
 Alert 
 
 ¿Qué utilidad muestra las conexiones de red activas en un host?
@@ -540,19 +540,19 @@ netstat
 En kerberos cuando se solicita un TGT el servidor provee  la server autentication
 
 ¿Cuál es un conjunto de extensiones al DNS que proporciona a los clientes DNS (resolvers) autenticación del origen, negación autenticada de existencia e integridad de datos, pero no disponibilidad ni confidencialidad?
-**DNSSEC** (Domain Name System Security Extensions) es un conjunto de extensiones del protocolo DNS que añade **seguridad criptográfica** a las respuestas DNS. Específicamente, proporciona:
+DNSSEC (Domain Name System Security Extensions) es un conjunto de extensiones del protocolo DNS que añade seguridad criptográfica a las respuestas DNS. Específicamente, proporciona:
 
-1. **Autenticación del origen**: el cliente (resolver) puede verificar que la información DNS proviene del servidor legítimo.
+1. Autenticación del origen: el cliente (resolver) puede verificar que la información DNS proviene del servidor legítimo.
     
-2. **Negación autenticada de existencia**: permite comprobar de forma segura que un registro **no existe**, usando registros especiales como `NSEC` o `NSEC3`.
+2. Negación autenticada de existencia: permite comprobar de forma segura que un registro no existe, usando registros especiales como `NSEC` o `NSEC3`.
     
-3. **Integridad de los datos**: garantiza que la información DNS no ha sido modificada durante la transmisión (usando firmas digitales).
+3. Integridad de los datos: garantiza que la información DNS no ha sido modificada durante la transmisión (usando firmas digitales).
     
-#### ❗ DNSSEC **no proporciona**:
+#### ❗ DNSSEC no proporciona:
 
-- **Confidencialidad**: las respuestas DNS siguen siendo públicas (no están cifradas).
+- Confidencialidad: las respuestas DNS siguen siendo públicas (no están cifradas).
     
-- **Disponibilidad**: no protege contra ataques de denegación de servicio (DoS) ni garantiza que el servidor esté accesible.
+- Disponibilidad: no protege contra ataques de denegación de servicio (DoS) ni garantiza que el servidor esté accesible.
 
 ¿Cuál de las siguientes opciones describe mejor un _firewall_ de software?
 El _firewall_ de software se coloca entre las aplicaciones normales y los componentes de red del sistema operativo.
@@ -563,236 +563,764 @@ El escaneo (Scanning) es una recopilación activa de información asociada con u
 
 María realizó un ataque exitoso y obtuvo acceso a un servidor Linux. Ella quiere evitar que un NIDS (Sistema de Detección de Intrusos en la Red) detecte el tráfico saliente desde ese servidor en el futuro.
 
-¿Cuál de las siguientes opciones es la **mejor manera** de evitar la detección por parte del NIDS?
+¿Cuál de las siguientes opciones es la mejor manera de evitar la detección por parte del NIDS?
 Cifrado (Encryption)
-Un **NIDS (Network Intrusion Detection System)** analiza el **tráfico de red sin cifrar**, buscando patrones sospechosos o firmas de ataque en el contenido de los paquetes (payload).  
-Si el tráfico está **cifrado**, el NIDS **no puede inspeccionarlo a nivel de contenido**, lo que **oculta comandos, datos o conexiones maliciosas**.
+Un NIDS (Network Intrusion Detection System) analiza el tráfico de red sin cifrar, buscando patrones sospechosos o firmas de ataque en el contenido de los paquetes (payload).  
+Si el tráfico está cifrado, el NIDS no puede inspeccionarlo a nivel de contenido, lo que oculta comandos, datos o conexiones maliciosas.
 
 El equipo de desarrollo web está realizando una reunión urgente, ya que han recibido información de los testers sobre una nueva vulnerabilidad en su software web.  
-Deciden **modificar los requisitos del software** para **no permitir que los usuarios ingresen HTML como entrada** en su aplicación web.
+Deciden modificar los requisitos del software para no permitir que los usuarios ingresen HTML como entrada en su aplicación web.
 
 ¿Qué tipo de vulnerabilidad detectó el equipo de pruebas?
-### **Cross-site scripting (XSS)**
-El hecho de que el equipo haya **decidido bloquear la entrada de HTML del usuario** es una **medida directa contra ataques de XSS (Cross-site scripting)**.
+### Cross-site scripting (XSS)
+El hecho de que el equipo haya decidido bloquear la entrada de HTML del usuario es una medida directa contra ataques de XSS (Cross-site scripting).
 
-Realizas una investigación y descubres que el **navegador de uno de tus empleados envió solicitudes maliciosas sin que el empleado lo supiera**.  
-Identifica la **vulnerabilidad web** que el atacante utilizó en este ataque contra tu empleado.
+Realizas una investigación y descubres que el navegador de uno de tus empleados envió solicitudes maliciosas sin que el empleado lo supiera.  
+Identifica la vulnerabilidad web que el atacante utilizó en este ataque contra tu empleado.
 
- **Cross-Site Request ForgeryCSRF
-El **Cross-Site Request Forgery (CSRF)** es un tipo de ataque en el que un **usuario autenticado** es engañado para enviar **peticiones maliciosas sin saberlo**, normalmente al hacer clic en un enlace o cargar una imagen desde un sitio malicioso.
+ Cross-Site Request ForgeryCSRF
+El Cross-Site Request Forgery (CSRF) es un tipo de ataque en el que un usuario autenticado es engañado para enviar peticiones maliciosas sin saberlo, normalmente al hacer clic en un enlace o cargar una imagen desde un sitio malicioso.
 
 ¿Qué tipo de virus intenta ocultarse de los programas antivirus cambiando activamente y corrompiendo las interrupciones de llamadas a servicios del sistema cuando se están ejecutando?
-Stealth/Tunneling virus . Un virus de tipo **stealth (sigiloso)** y/o **tunneling (de túnel)** intenta **ocultarse del software antivirus interceptando las llamadas al sistema operativo**, como interrupciones o funciones del sistema.
+Stealth/Tunneling virus . Un virus de tipo stealth (sigiloso) y/o tunneling (de túnel) intenta ocultarse del software antivirus interceptando las llamadas al sistema operativo, como interrupciones o funciones del sistema.
 
-¿Cuál de los siguientes métodos de prueba de seguridad de aplicaciones corresponde a una **prueba de tipo "caja blanca" (white-box)**, en la que **solo se analiza el código fuente** de las aplicaciones y sus componentes para detectar **posibles vulnerabilidades en el software y la arquitectura**?
-Static Application Security Testing es un enfoque de pruebas de seguridad **de caja blanca**
+¿Cuál de los siguientes métodos de prueba de seguridad de aplicaciones corresponde a una prueba de tipo "caja blanca" (white-box), en la que solo se analiza el código fuente de las aplicaciones y sus componentes para detectar posibles vulnerabilidades en el software y la arquitectura?
+Static Application Security Testing es un enfoque de pruebas de seguridad de caja blanca
 
-**DAST (Dynamic Application Security Testing)**: Prueba **de caja negra**.
+DAST (Dynamic Application Security Testing): Prueba de caja negra.
 
-**IAST (Interactive Application Security Testing)**: Combina elementos de SAST y DAST.
+IAST (Interactive Application Security Testing): Combina elementos de SAST y DAST.
 
-**MAST (Mobile Application Security Testing)**: Es un enfoque especializado en la **seguridad de aplicaciones móviles**, y puede usar SAST, DAST, o ambos, pero no es una técnica exclusiva como SAST.
+MAST (Mobile Application Security Testing): Es un enfoque especializado en la seguridad de aplicaciones móviles, y puede usar SAST, DAST, o ambos, pero no es una técnica exclusiva como SAST.
 
-¿Cuál de los siguientes es el **método para determinar el recorrido de un paquete de datos** desde un **host externo no confiable** hacia un **host interno protegido** a través de un **firewall**?
+¿Cuál de los siguientes es el método para determinar el recorrido de un paquete de datos desde un host externo no confiable hacia un host interno protegido a través de un firewall?
 Firewalking
 
-El hacker de sombrero negro Iván quiere implementar un **ataque de hombre en el medio (MITM)** en la red corporativa.  
-Para ello, conecta su **propio router** a la red y **redirige el tráfico** para interceptar los paquetes.
-¿Qué puede hacer el administrador para **mitigar este ataque**?
+El hacker de sombrero negro Iván quiere implementar un ataque de hombre en el medio (MITM) en la red corporativa.  
+Para ello, conecta su propio router a la red y redirige el tráfico para interceptar los paquetes.
+¿Qué puede hacer el administrador para mitigar este ataque?
 Agregar autenticación de mensajes al protocolo de enrutamiento
 
 Bluesnarfing (Robar información a través de Bluetooth)
 
 Bluebugging (tomar el control de un dispositivo a través de Bluetooth) implica obtener acceso remoto a un dispositivo habilitado para Bluetooth y utilizar sus características sin el conocimiento o consentimiento de la víctima
 
-**Bluejacking** es el envío de mensajes no solicitados, de forma anónima, a través de una conexión Bluetooth.
+Bluejacking es el envío de mensajes no solicitados, de forma anónima, a través de una conexión Bluetooth.
 
-**Bluesmacking**:  
-Ataque de denegación de servicio (DoS) que explota una vulnerabilidad en la pila Bluetooth para **bloquear dispositivos** enviando paquetes malformados.
+Bluesmacking:  
+Ataque de denegación de servicio (DoS) que explota una vulnerabilidad en la pila Bluetooth para bloquear dispositivos enviando paquetes malformados.
 
-El atacante introduce datos maliciosos en mensajes interceptados dentro de una sesión TCP, ya que el **enrutamiento de origen está deshabilitado**.  
-Intenta **adivinar las respuestas** del cliente y del servidor.
+El atacante introduce datos maliciosos en mensajes interceptados dentro de una sesión TCP, ya que el enrutamiento de origen está deshabilitado.  
+Intenta adivinar las respuestas del cliente y del servidor.
 
 ¿Qué técnica de secuestro (hijacking) se describe en este ejemplo?
-#### **Blind Hijacking**. Es un tipo de **secuestro de sesión TCP/IP** en el que el atacante **no puede ver el tráfico** (no tiene visibilidad directa del intercambio).
+#### Blind Hijacking. Es un tipo de secuestro de sesión TCP/IP en el que el atacante no puede ver el tráfico (no tiene visibilidad directa del intercambio).
 
-**Wireshark** es una de las herramientas más importantes para un especialista en ciberseguridad.  
+Wireshark es una de las herramientas más importantes para un especialista en ciberseguridad.  
 Se utiliza para el diagnóstico de redes, análisis, desarrollo de software, etc.  
-A menudo se trabaja con el panel de **bytes del paquete (packet bytes pane)**.
+A menudo se trabaja con el panel de bytes del paquete (packet bytes pane).
 
 ¿En qué formato se presenta la información en este panel?
-**Hexadecimal**
+Hexadecimal
 
-¿Cuál de las siguientes **describe mejor un ataque de inyección de código (code injection)?**
+¿Cuál de las siguientes describe mejor un ataque de inyección de código (code injection)?
 "Forma de ataque en la que un usuario malicioso inserta texto en un campo de datos que es interpretado como código."
 
-Realizas una serie de consultas interactivas, **eligiendo los textos en claro (plaintexts)** siguientes basándote en la **información obtenida de cifrados previos**.
+Realizas una serie de consultas interactivas, eligiendo los textos en claro (plaintexts) siguientes basándote en la información obtenida de cifrados previos.
 
 ¿Qué tipo de ataque estás intentando realizar?
 Adaptive chosen-plaintext attack
-ipo avanzado de ataque criptográfico donde:  El atacante **puede elegir textos en claro arbitrarios** para ser cifrados
+ipo avanzado de ataque criptográfico donde:  El atacante puede elegir textos en claro arbitrarios para ser cifrados
 
-¿Cuál de las siguientes opciones representa una **característica conceptual** de un **IDS basado en anomalías** (_anomaly-based_) **frente a uno basado en firmas** (_signature-based_)?
-- **Puede identificar ataques desconocidos.**
+¿Cuál de las siguientes opciones representa una característica conceptual de un IDS basado en anomalías (_anomaly-based_) frente a uno basado en firmas (_signature-based_)?
+- Puede identificar ataques desconocidos.
 
-¿Cuál de los siguientes es un protocolo que se utiliza para consultar bases de datos que almacenan los **usuarios registrados o asignados de un recurso de Internet**, como un **nombre de dominio**, un **bloque de direcciones IP** o un **sistema autónomo**?
-**WHOIS** es un **protocolo de consulta** que permite obtener información sobre:  Propietarios de **nombres de dominio**. Titulares de **bloques de direcciones IP**. Detalles de **sistemas autónomos (AS)**.
+¿Cuál de los siguientes es un protocolo que se utiliza para consultar bases de datos que almacenan los usuarios registrados o asignados de un recurso de Internet, como un nombre de dominio, un bloque de direcciones IP o un sistema autónomo?
+WHOIS es un protocolo de consulta que permite obtener información sobre:  Propietarios de nombres de dominio. Titulares de bloques de direcciones IP. Detalles de sistemas autónomos (AS).
 
-¿Cuál de las siguientes opciones te permitirá **prevenir el acceso no autorizado** a redes de área local (LAN) y otros activos de información por parte de **dispositivos inalámbricos**?
-- **WIPS** significa **Wireless Intrusion Prevention System**. Es una solución de seguridad que:    
-    - **Monitorea redes inalámbricas (Wi-Fi)** en tiempo real.        
-    - **Detecta accesos no autorizados**, dispositivos no confiables y ataques como rogue AP, spoofing, DoS inalámbrico, etc.        
-    - **Previene automáticamente** conexiones sospechosas o no autorizadas, **bloqueando el acceso**.
+¿Cuál de las siguientes opciones te permitirá prevenir el acceso no autorizado a redes de área local (LAN) y otros activos de información por parte de dispositivos inalámbricos?
+- WIPS significa Wireless Intrusion Prevention System. Es una solución de seguridad que:    
+    - Monitorea redes inalámbricas (Wi-Fi) en tiempo real.        
+    - Detecta accesos no autorizados, dispositivos no confiables y ataques como rogue AP, spoofing, DoS inalámbrico, etc.        
+    - Previene automáticamente conexiones sospechosas o no autorizadas, bloqueando el acceso.
 
 
-Ivan, un hacker de sombrero negro (black hat), **dividió el tráfico de ataque en muchos paquetes**, de forma que **ningún paquete individual activa el IDS**.
+Ivan, un hacker de sombrero negro (black hat), dividió el tráfico de ataque en muchos paquetes, de forma que ningún paquete individual activa el IDS.
 
 ¿Qué técnica de evasión del IDS está usando Ivan?
-**Session Splicing** (fragmentación de sesión) es una técnica de evasión donde:
-- El atacante **divide el ataque en múltiples paquetes pequeños**.    
-- **Cada paquete individual** parece inofensivo para el **IDS (Intrusion Detection System)**.    
-- Pero cuando **se ensamblan todos los fragmentos**, se forma el **ataque completo**.
+Session Splicing (fragmentación de sesión) es una técnica de evasión donde:
+- El atacante divide el ataque en múltiples paquetes pequeños.    
+- Cada paquete individual parece inofensivo para el IDS (Intrusion Detection System).    
+- Pero cuando se ensamblan todos los fragmentos, se forma el ataque completo.
 
 
-¿Cuál de las siguientes herramientas es un **analizador de paquetes (packet sniffer)**, **detector de redes (network detector)** e **IDS** para redes inalámbricas **802.11 (a, b, g, n)**?
-#### **Kismet**?
-- **Kismet** es una herramienta especializada en redes inalámbricas.    
+¿Cuál de las siguientes herramientas es un analizador de paquetes (packet sniffer), detector de redes (network detector) e IDS para redes inalámbricas 802.11 (a, b, g, n)?
+#### Kismet?
+- Kismet es una herramienta especializada en redes inalámbricas.    
 - Funciona como:    
-    - 📡 **Sniffer de paquetes Wi-Fi** (captura todo el tráfico inalámbrico).        
-    - 🛰️ **Detector de redes ocultas y abiertas**.        
-    - 🛡️ **Sistema de detección de intrusos inalámbrico (Wireless IDS)**.
+    - 📡 Sniffer de paquetes Wi-Fi (captura todo el tráfico inalámbrico).        
+    - 🛰️ Detector de redes ocultas y abiertas.        
+    - 🛡️ Sistema de detección de intrusos inalámbrico (Wireless IDS).
         
-- Compatible con los estándares **802.11a/b/g/n**
+- Compatible con los estándares 802.11a/b/g/n
 
-Un atacante utiliza varias técnicas de evasión para **evadir sistemas de detección de intrusos (IDS)**.  
+Un atacante utiliza varias técnicas de evasión para evadir sistemas de detección de intrusos (IDS).  
 Al mismo tiempo, el IDS está configurado para detectar violaciones de la política de seguridad, incluido acceso no autorizado o mal uso.
 
-**¿Cuál de los siguientes métodos de evasión depende del campo TTL (Time-to-Live) del protocolo TCP/IP?**
-#### **Insertion Attack**?
-- Una **insertion attack** es una técnica donde:    
-    - El atacante **envía paquetes con TTL (Time-to-Live)** intencionalmente manipulados para que:        
-        - **Lleguen al IDS**, pero            
-        - **No lleguen al destino final** (host víctima), porque **expiran en el camino**.            
+¿Cuál de los siguientes métodos de evasión depende del campo TTL (Time-to-Live) del protocolo TCP/IP?
+#### Insertion Attack?
+- Una insertion attack es una técnica donde:    
+    - El atacante envía paquetes con TTL (Time-to-Live) intencionalmente manipulados para que:        
+        - Lleguen al IDS, pero            
+        - No lleguen al destino final (host víctima), porque expiran en el camino.            
 - Esto provoca que:    
-    - El **IDS registre** o **procese tráfico falso**, creyendo que el host lo recibió.        
-    - Mientras tanto, el atacante **envía otro tráfico real al host** que el IDS **no ve**, logrando **evasión efectiva**.
+    - El IDS registre o procese tráfico falso, creyendo que el host lo recibió.        
+    - Mientras tanto, el atacante envía otro tráfico real al host que el IDS no ve, logrando evasión efectiva.
 
 Determina el ataque a partir de esta descripción:
 
-El **ataque de texto plano conocido (known-plaintext attack)** utilizado contra **DES**. Este ataque provoca que **cifrar un texto plano con una clave DES y luego cifrarlo con una segunda clave DES** no sea más seguro que usar una sola clave.
+El ataque de texto plano conocido (known-plaintext attack) utilizado contra DES. Este ataque provoca que cifrar un texto plano con una clave DES y luego cifrarlo con una segunda clave DES no sea más seguro que usar una sola clave.
 
 ¿Qué tipo de ataque es?
 Meet-in-the-middle attack
-Es una técnica criptográfica utilizada para **romper cifrados que aplican múltiples capas de cifrado**, como en **Double DES**.
+Es una técnica criptográfica utilizada para romper cifrados que aplican múltiples capas de cifrado, como en Double DES.
 
-Identifica una vulnerabilidad en **OpenSSL** que permite **robar información protegida normalmente por el cifrado SSL/TLS**, utilizado para asegurar la comunicación en Internet.
+Identifica una vulnerabilidad en OpenSSL que permite robar información protegida normalmente por el cifrado SSL/TLS, utilizado para asegurar la comunicación en Internet.
 Heartbleed Bug
 
-El hacker malicioso Antonio está intentando atacar un dispositivo **IoT**.  
-Usará varias **identidades falsas** para crear una **fuerte ilusión de congestión de tráfico**, afectando la comunicación entre **nodos vecinos y redes**.
+El hacker malicioso Antonio está intentando atacar un dispositivo IoT.  
+Usará varias identidades falsas para crear una fuerte ilusión de congestión de tráfico, afectando la comunicación entre nodos vecinos y redes.
 
 ¿Qué tipo de ataque está realizando Antonio?
-Un **Sybil Attack** ocurre cuando un solo atacante crea **múltiples identidades falsas** (o "nodos Sybil") en una red distribuida.
+Un Sybil Attack ocurre cuando un solo atacante crea múltiples identidades falsas (o "nodos Sybil") en una red distribuida.
 
-¿Cuál de las siguientes opciones de **Nmap** usarías si quieres escanear **menos puertos que los predeterminados**?
+¿Cuál de las siguientes opciones de Nmap usarías si quieres escanear menos puertos que los predeterminados?
 -F
 
-Rajesh, un administrador de red, encontró varios archivos desconocidos en el directorio raíz de su servidor **FTP**.  
-Le llamó la atención un archivo binario llamado **"mfs"**.  
-Al revisar los registros del servidor FTP, descubrió que un usuario **anónimo** inició sesión, **subió archivos** y **ejecutó un script** usando una función del software del servidor FTP.  
-Además, notó que el archivo **"mfs" está corriendo como un proceso y escuchando en un puerto de red**.
+Rajesh, un administrador de red, encontró varios archivos desconocidos en el directorio raíz de su servidor FTP.  
+Le llamó la atención un archivo binario llamado "mfs".  
+Al revisar los registros del servidor FTP, descubrió que un usuario anónimo inició sesión, subió archivos y ejecutó un script usando una función del software del servidor FTP.  
+Además, notó que el archivo "mfs" está corriendo como un proceso y escuchando en un puerto de red.
 
 ¿Qué tipo de vulnerabilidad debió existir para que este ataque fuera posible?
-### **File system permissions**
+### File system permissions
 
-Ivan, un hacker malicioso, realiza un ataque **SQL Injection (SQLi)** que se basa en **preguntas Verdadero/Falso**.  
+Ivan, un hacker malicioso, realiza un ataque SQL Injection (SQLi) que se basa en preguntas Verdadero/Falso.  
 ¿Qué tipo de SQLi está utilizando Ivan?
 Blind SQLi
-- Es un tipo de inyección SQL donde la aplicación **no muestra directamente los resultados** de la consulta.
+- Es un tipo de inyección SQL donde la aplicación no muestra directamente los resultados de la consulta.
     
-- El atacante **no ve el resultado**, pero puede inferirlo mediante **preguntas lógicas (Verdadero/Falso)**
+- El atacante no ve el resultado, pero puede inferirlo mediante preguntas lógicas (Verdadero/Falso)
 
 
-John, un administrador de sistemas, está aprendiendo a trabajar con una nueva tecnología: **Docker**.  
-Él la usará para crear una **conexión de red entre las interfaces del contenedor y la interfaz del host principal**.  
+John, un administrador de sistemas, está aprendiendo a trabajar con una nueva tecnología: Docker.  
+Él la usará para crear una conexión de red entre las interfaces del contenedor y la interfaz del host principal.  
 ¿Cuál de los siguientes _drivers de red_ de Docker es el más adecuado para John?
 Macvlan networking
 
-Cuál es una técnica automatizada de prueba de software que consiste en proporcionar **datos inválidos, inesperados o aleatorios** como entradas a un programa?
+Cuál es una técnica automatizada de prueba de software que consiste en proporcionar datos inválidos, inesperados o aleatorios como entradas a un programa?
 Fuzz testing
 
-¿Cuál de los siguientes tipos de programas maliciosos ataca tanto al **sector de arranque (boot sector)** como a los **archivos ejecutables**?
+¿Cuál de los siguientes tipos de programas maliciosos ataca tanto al sector de arranque (boot sector) como a los archivos ejecutables?
 Multipartite Virus
 
-La empresa "Usual Company" pidió a un especialista en ciberseguridad que verificara la seguridad de su **puerta de enlace de correo electrónico perimetral**.  
+La empresa "Usual Company" pidió a un especialista en ciberseguridad que verificara la seguridad de su puerta de enlace de correo electrónico perimetral.  
 Para ello, el especialista crea un correo electrónico con este formato:
 > Lo envía a través de Internet, y un empleado de "Usual Company" lo recibe.
 
-> Esto significa que la puerta de enlace **no previene**:
+> Esto significa que la puerta de enlace no previene:
 
 #### Email Spoofing
-- Es una técnica mediante la cual **un atacante falsifica la dirección del remitente** (`From:`) de un correo electrónico para que **parezca que proviene de una fuente confiable**, como un colega o una organización legítima.
+- Es una técnica mediante la cual un atacante falsifica la dirección del remitente (`From:`) de un correo electrónico para que parezca que proviene de una fuente confiable, como un colega o una organización legítima.
 
 Mientras usas el servicio en línea de tu banco, notas la siguiente cadena en la barra de direcciones:
-Observas que si modificas los valores de `Damount` y `Camount` y envías la solicitud, los **datos en la página web reflejan los cambios**.  
+Observas que si modificas los valores de `Damount` y `Camount` y envías la solicitud, los datos en la página web reflejan los cambios.  
 ¿Qué tipo de vulnerabilidad está presente en este sitio?
 #### Web Parameter Tampering
-- Es una vulnerabilidad que permite al usuario **modificar parámetros en la URL (GET)** o en formularios (POST) para **manipular el comportamiento de la aplicación web**.
+- Es una vulnerabilidad que permite al usuario modificar parámetros en la URL (GET) o en formularios (POST) para manipular el comportamiento de la aplicación web.
 
-¿Cuál de los siguientes estándares inalámbricos tiene un ancho de banda de hasta **54 Mbit/s** y utiliza señales en un espectro de frecuencia regulado alrededor de **5 GHz**?
+¿Cuál de los siguientes estándares inalámbricos tiene un ancho de banda de hasta 54 Mbit/s y utiliza señales en un espectro de frecuencia regulado alrededor de 5 GHz?
 802.11a
 
-¿Cuál de los siguientes comandos te ayudará a **lanzar la Consola de Administración del Equipo** desde la ventana "Ejecutar" (Run) como **administrador local** en Windows 7?
+¿Cuál de los siguientes comandos te ayudará a lanzar la Consola de Administración del Equipo desde la ventana "Ejecutar" (Run) como administrador local en Windows 7?
 compmgmt.msc
 
-¿Cuál de las siguientes **no aplica** a **IPsec**?
+¿Cuál de las siguientes no aplica a IPsec?
 - Trabaja en la capa de enlace de datos (Data Link Layer)
 
-Según el **Estándar de Seguridad de Datos de la Industria de Tarjetas de Pago (PCI DSS)**, ¿cuándo es necesario realizar **pruebas de penetración externas e internas**?
+Según el Estándar de Seguridad de Datos de la Industria de Tarjetas de Pago (PCI DSS), ¿cuándo es necesario realizar pruebas de penetración externas e internas?
 
 Al menos una vez al año y después de cualquier actualización o modificación significativa.
 
 ¿Qué método identifica malware recolectando datos desde computadoras protegidas y analizándolos en la infraestructura del proveedor en lugar de hacerlo localmente?
 Cloud-based detection
 
-¿Cuál de las siguientes opciones es una **colección lógica de dispositivos conectados a Internet** —como computadoras, teléfonos inteligentes o dispositivos IoT— cuya **seguridad ha sido vulnerada** y el **control cedido a un tercero**?
+¿Cuál de las siguientes opciones es una colección lógica de dispositivos conectados a Internet —como computadoras, teléfonos inteligentes o dispositivos IoT— cuya seguridad ha sido vulnerada y el control cedido a un tercero?
 Botnet
 
 ¿Qué significa un ataque "rubber-hose" (_manguera de goma_) en criptografía?
-(**Extracción de secretos criptográficos mediante coacción o tortura**)
+(Extracción de secretos criptográficos mediante coacción o tortura)
 
-El firewall impide que los paquetes entren a la organización a través de ciertos **puertos** y **aplicaciones**. ¿Qué revisa este firewall?
+El firewall impide que los paquetes entren a la organización a través de ciertos puertos y aplicaciones. ¿Qué revisa este firewall?
 Encabezados de la capa de aplicación y números de puerto de la capa de transporte
 
-¿Cuál de las siguientes capas en la arquitectura del IoT ayuda a **cerrar la brecha entre dos puntos finales**, como un dispositivo y un cliente, y realiza funciones como **enrutamiento de mensajes, identificación de mensajes y suscripción**?
+¿Cuál de las siguientes capas en la arquitectura del IoT ayuda a cerrar la brecha entre dos puntos finales, como un dispositivo y un cliente, y realiza funciones como enrutamiento de mensajes, identificación de mensajes y suscripción?
 Access Gateway
 
-**La fragmentación de sesiones (session splicing)** es una técnica de evasión de IDS que explota el hecho de que algunos sistemas de detección de intrusos (IDS) **no reconstruyen las sesiones antes de hacer coincidencia de patrones**. La idea es dividir los datos en varios paquetes para que **ningún paquete individual coincida completamente con una firma del IDS**.
+La fragmentación de sesiones (session splicing) es una técnica de evasión de IDS que explota el hecho de que algunos sistemas de detección de intrusos (IDS) no reconstruyen las sesiones antes de hacer coincidencia de patrones. La idea es dividir los datos en varios paquetes para que ningún paquete individual coincida completamente con una firma del IDS.
 
 ¿Qué herramienta puede utilizarse para realizar ataques de session splicing?
 
-**Whisker** es una herramienta diseñada específicamente para probar vulnerabilidades en aplicaciones web y **evadir IDS** mediante técnicas como:
+Whisker es una herramienta diseñada específicamente para probar vulnerabilidades en aplicaciones web y evadir IDS mediante técnicas como:
 
-- **Session Splicing**: Fragmentar solicitudes HTTP en múltiples partes para evadir detección.    
-- **Obfuscación de URL**.    
-- **Alteración de encabezados HTTP**.
+- Session Splicing: Fragmentar solicitudes HTTP en múltiples partes para evadir detección.    
+- Obfuscación de URL.    
+- Alteración de encabezados HTTP.
 
-¿Cuál de las siguientes opciones es una función de seguridad en los switches que **aprovecha la base de datos de DHCP snooping** para ayudar a prevenir ataques **Man-in-the-Middle (MitM)**?
-**DAI (Dynamic ARP Inspection)** es una función de seguridad que:
+¿Cuál de las siguientes opciones es una función de seguridad en los switches que aprovecha la base de datos de DHCP snooping para ayudar a prevenir ataques Man-in-the-Middle (MitM)?
+DAI (Dynamic ARP Inspection) es una función de seguridad que:
 
-- **Previene ataques ARP spoofing** (comunes en Man-in-the-Middle).
+- Previene ataques ARP spoofing (comunes en Man-in-the-Middle).
     
-- Utiliza la **base de datos de DHCP snooping** para verificar si las respuestas ARP son legítimas.
+- Utiliza la base de datos de DHCP snooping para verificar si las respuestas ARP son legítimas.
 
 
-Supongamos que decides usar **PKI** (Infraestructura de Clave Pública) para proteger el correo electrónico que vas a enviar.  
-¿En qué **capa del modelo OSI** será **cifrado y descifrado** este mensaje?
+Supongamos que decides usar PKI (Infraestructura de Clave Pública) para proteger el correo electrónico que vas a enviar.  
+¿En qué capa del modelo OSI será cifrado y descifrado este mensaje?
 Presentacion
 
 ¿Cómo funciona el mecanismo de un virus del sector de arranque (Boot Sector Virus)?
 Mueve el MBR a otra ubicación en el disco duro y copia el virus en la ubicación original del MBR.
 
-Rajesh, un administrador de sistemas, notó que algunos clientes de su empresa fueron víctimas de **envenenamiento de caché DNS**. Fueron redirigidos a un sitio malicioso cuando intentaron acceder al sitio web de la empresa de Rajesh.  
-**¿Cuál es la mejor recomendación para enfrentar esta amenaza?**
+Rajesh, un administrador de sistemas, notó que algunos clientes de su empresa fueron víctimas de envenenamiento de caché DNS. Fueron redirigidos a un sitio malicioso cuando intentaron acceder al sitio web de la empresa de Rajesh.  
+¿Cuál es la mejor recomendación para enfrentar esta amenaza?
 
-**Use Domain Name System Security Extensions (DNSSEC)**
+Use Domain Name System Security Extensions (DNSSEC)
+
+
+¿Cuál sería la forma más rápida de realizar una enumeración de contenido en un servidor web utilizando la herramienta Gobuster?
+La forma más rápida y efectiva de hacerlo es utilizando una lista de palabras predefinida (wordlist), que contiene nombres comunes de carpetas y archivos como:  
+`/admin`, `/login`, `/config.php`, etc
+
+ Alice necesita enviar un documento confidencial a su compañero de trabajo, Bryan.  
+ La empresa donde trabajan tiene implementada una infraestructura de clave pública (PKI).  
+ Por ello, Alice cifra el mensaje y lo firma digitalmente.
+ Alice usa _______________ para cifrar el mensaje, y Bryan usa _______________ para confirmar la firma digital.
+ 
+ Bryan’s public key; Alice’s public key
+
+¿Cuál es el archivo que determina la configuración básica (específicamente actividades, servicios, receptores de difusión, etc.) en una aplicación Android?
+AndroidManifest.xml
+
+¿Cuál de las siguientes técnicas de hacking por Bluetooth se refiere al robo de información desde un dispositivo inalámbrico mediante Bluetooth?
+Bluesnarfing es una técnica de hacking que permite a un atacante:
+- Acceder sin autorización a información almacenada en dispositivos habilitados con Bluetooth.
+Bluesmacking  
+→ Ataque de denegación de servicio (DoS) que satura un dispositivo Bluetooth con paquetes maliciosos.
+Bluejacking  
+→ Envío de mensajes no solicitados vía Bluetooth a dispositivos cercanos. Es molesto, pero no roba información.
+Bluebugging  
+→ Técnica más avanzada que permite al atacante controlar remotamente un dispositivo (realizar llamadas, leer mensajes, etc.), pero requiere una explotación más profunda que _Bluesnarfing_ y va más allá del simple robo de datos.
+
+El atacante Simon apuntó a la red de comunicación de una organización y deshabilitó los controles de seguridad de NetNTLMv1 modificando los valores de:
+
+- `LMCompatibilityLevel`
+    
+- `NTLMMinClientSec`
+    
+- `RestrictSendingNTLMTraffic`
+    
+
+Luego, extrajo todos los tokens de inicio de sesión no relacionados con red de todos los procesos activos para hacerse pasar por un usuario legítimo y lanzar ataques posteriores.
+
+¿Qué tipo de ataque realizó Simon?
+Internal monologue attack
+
+Steve, un atacante, creó un perfil falso en una red social y le envió una solicitud a Stella.  
+Stella, atraída por la foto de perfil y la descripción, aceptó y comenzó a conversar con él.  
+Después de unos días, Steve comenzó a pedir información sobre la empresa de Stella y recopiló datos importantes.
+
+¿Qué técnica de ingeniería social utilizó Steve en este escenario?    Honey trap
+
+La atacante Lauren obtuvo las credenciales de un servidor interno de una organización y accedía en horarios irregulares para monitorear actividades.  
+La organización sospechó y contrató al profesional de seguridad Robert para determinar el problema.  
+Robert analizó el dispositivo comprometido para identificar detalles del incidente como: tipo de ataque, severidad, objetivo, impacto, método de propagación y vulnerabilidades explotadas.
+
+¿En qué fase del manejo y respuesta a incidentes (Incident Handling & Response - IH&R) se encuentra Robert? Incident Triage
+La fase de Incident Triage en el manejo de incidentes incluye:
+- Analizar y evaluar el incidente para entender su naturaleza.    
+- Determinar el tipo de ataque, severidad, impacto, vulnerabilidades explotadas y alcance.
+
+¿En qué etapa del modelo Cyber Kill Chain ocurre la extracción de datos?
+### Actions on objectives
+En el modelo Cyber Kill Chain de Lockheed Martin, las etapas son:
+1. Reconocimiento (Reconnaissance)    
+2. Armamento (Weaponization)    
+3. Entrega (Delivery)    
+4. Explotación (Exploitation)    
+5. Instalación (Installation)    
+6. Comando y Control (Command and Control)    
+7. Acciones sobre los objetivos (Actions on Objectives)
+
+Johnson, un atacante, investigó en línea para obtener los datos de contacto de empresas reputadas de ciberseguridad.  
+Encontró el número de teléfono de sibertech.org y llamó haciéndose pasar por un equipo de soporte técnico de un proveedor.  
+Advirtió que un servidor estaba a punto de ser comprometido y pidió que siguieran ciertas instrucciones.  
+La víctima ejecutó comandos inusuales e instaló archivos maliciosos, que luego permitieron a Johnson recolectar información crítica.
+
+¿Qué técnica de ingeniería social empleó Johnson?
+Quid pro quo es una técnica de ingeniería social donde el atacante ofrece algo a cambio (un "trueque"), generalmente ayuda técnica o soporte, para engañar a la víctima y obtener acceso o información.
+
+
+¿Cuál de los siguientes módulos de post-explotación de Metasploit se puede usar para escalar privilegios en sistemas Windows?
+getsystem
+
+- getsystem es un módulo de Metasploit que intenta elevar los privilegios del atacante al nivel de SYSTEM en Windows, que es el nivel más alto de permisos. Es la forma típica de escalada de privilegios en Metasploit.
+    
+- getuid muestra la identidad del usuario actual en el sistema, pero no escala privilegios.
+    
+- keylogrecorder es un módulo para capturar las pulsaciones del teclado, no relacionado con escalada de privilegios.
+    
+- autoroute permite redirigir el tráfico a través del sistema comprometido, usado para pivotar en la red, pero no para escalar privilegios.
+
+Una organización ha automatizado la operación de infraestructura crítica desde una ubicación remota.  
+Todos los sistemas de control industrial (ICS) están conectados a Internet.  
+Para proteger el proceso de manufactura, asegurar la confiabilidad de las redes industriales y reducir interrupciones, la organización quiere instalar una herramienta de seguridad OT que proteja contra espionaje, ataques zero-day y malware.
+
+¿Cuál de las siguientes herramientas debe emplear la organización para proteger su infraestructura crítica?
+Flowmon
+
+Juliet, una investigadora de seguridad, debe verificar la autenticidad de imágenes para la revista de su organización.  
+Utilizó las imágenes como consulta para rastrear su fuente original y detalles (fotografías, fotos de perfil, memes).
+
+¿Qué técnica de footprinting utilizó Juliet para completar su tarea?
+Reverse image search
+
+
+Mary, una pentester, ha encontrado hashes de contraseñas en un sistema del cliente que logró vulnerar.  
+Necesita usar esas contraseñas para continuar con la prueba, pero no tiene tiempo para descifrar los hashes.
+
+¿Qué tipo de ataque puede implementar para continuar?
+Pass the hash
+
+Pasar el hash: Un ataque donde el atacante utiliza un valor hash en lugar de la contraseña real para obtener acceso no autorizado. 
+
+Ataque de monólogo interno: Robar los pensamientos o diálogos internos de un usuario desde un sistema para obtener información sensible. 
+
+Envenenamiento LLMNR/NBT-NS: Explotar vulnerabilidades en los protocolos LLMNR y NBT-NS para redirigir la resolución de nombres de host y potencialmente habilitar ataques de intermediario o espionaje. 
+
+Pasar el ticket: Aprovechar los tickets de autenticación robados para hacerse pasar por identidades y obtener acceso no autorizado a sistemas o servicios.
+
+¿Cuál de los siguientes protocolos puede usarse para asegurar un servicio LDAP contra consultas anónimas?
+NTLM
+NTLM (NT LAN Manager) es un protocolo de autenticación de Microsoft que se puede usar para restringir el acceso anónimo a LDAP, exigiendo credenciales válidas antes de responder consultas.
+
+¿Cuál archivo es un objetivo valioso para descubrir la estructura de un sitio web durante el _footprinting_ de un servidor web?
+robots.txt
+
+John, un hacker profesional, decidió usar DNS para realizar exfiltración de datos en una red objetivo. Embebió datos maliciosos dentro de los paquetes del protocolo DNS que ni siquiera DNSSEC pudo detectar. Con esta técnica, logró inyectar malware, burlar el firewall y mantener comunicación entre la máquina víctima y su servidor C&C (Command and Control).
+
+¿Qué técnica usó John para evadir el firewall?
+DNS tunneling method
+
+Hay preocupaciones en tu red sobre que el componente inalámbrico no es suficientemente seguro. Realizas un escaneo de vulnerabilidades de la red inalámbrica y descubres que está usando un protocolo de cifrado antiguo, que fue diseñado para imitar el cifrado de redes cableadas.
+
+¿Qué protocolo de cifrado se está utilizando?
+WEP
+
+En esta forma de algoritmo de cifrado, cada bloque individual contiene 64 bits de datos, y se usan tres claves, donde cada clave consiste en 56 bits.
+
+¿Cuál es este algoritmo de cifrado?
+Triple Data Encryption Standard (Triple DES o 3DES)
+
+John, un hacker profesional, realiza un ataque a la red de una organización reconocida y obtiene acceso no autorizado a la red objetivo. Permanece en la red sin ser detectado durante mucho tiempo y obtiene información sensible sin sabotear la organización.
+
+¿Qué técnica de ataque utilizó John?
+Advanced Persistent Threat (APT)
+
+Este protocolo de seguridad inalámbrico permite un mínimo de seguridad de 192 bits y utiliza herramientas criptográficas como:
+
+- GCMP-256    
+- HMAC-SHA384    
+- ECDSA con curva elíptica de 384 bits
+¿Cuál es este protocolo de seguridad inalámbrica?
+WPA3-Enterprise
+
+¿Cuáles son archivos comunes en un servidor web que pueden estar mal configurados y proporcionar información útil para un hacker, como mensajes de error detallados?
+php.ini
+
+Cuál de los siguientes operadores de búsqueda avanzada de Google ayuda a un atacante a recopilar información sobre sitios web que son similares a una URL objetivo específica?
+related
+
+Eres un penetration tester que está probando la concienciación de los empleados de la empresa cliente XYZ. Obtuviste dos correos electrónicos de empleados de fuentes públicas y estás creando una puerta trasera (backdoor) del lado del cliente para enviarla a los empleados vía correo electrónico.  
+¿En qué etapa del modelo Cyber Kill Chain te encuentras?
+
+Weaponization (Armamento)
+
+Una nueva empleada, Janet, ha recibido un sistema que fue usado por un empleado anterior. Antes de entregárselo, Martin, el administrador, evaluó el sistema.  
+Martin encontró posibles compromisos a través de directorios de usuario, registros (registries) y otros parámetros del sistema. También identificó vulnerabilidades como tablas de configuración nativas, permisos incorrectos en registros o archivos, y errores en la configuración de software.  
+¿Qué tipo de evaluación de vulnerabilidades realizó Martin?
+Host-based assessment (Evaluación basada en host)
+
+Jane, una hacker ética, está probando el servidor web y el sitio web de una organización objetivo para identificar vulnerabilidades. En este proceso, copió todo el sitio web y su contenido en un disco local para ver la estructura completa del directorio del sitio, la estructura de archivos, enlaces externos, imágenes, páginas web, etc.  
+Esta información ayuda a Jane a mapear los directorios del sitio y obtener información valiosa.  
+¿Cuál es la técnica de ataque que empleó Jane en el escenario anterior?
+
+Website mirroring (Espejado del sitio web)
+
+Una organización está realizando una evaluación de vulnerabilidades para mitigar amenazas. James, un pentester, escaneó la organización creando un inventario de los protocolos encontrados en las máquinas para detectar a qué puertos están asociados servicios como servidor de correo, servidor web o servidor de base de datos. Después de identificar los servicios, seleccionó las vulnerabilidades de cada máquina y comenzó a ejecutar únicamente las pruebas relevantes.  
+¿Cuál es el tipo de solución de evaluación de vulnerabilidades que James empleó en el escenario anterior?
+
+Service-based solutions (Soluciones basadas en servicios)
+
+- Service-based solutions: Esta evaluación se centra en identificar los servicios (protocolos y puertos) que están activos en las máquinas y luego enfoca las pruebas en vulnerabilidades específicas relacionadas con esos servicios. Esto coincide con el proceso que James siguió: primero identificar qué servicios están activos y luego probar vulnerabilidades relevantes para esos servicios.
+    
+- Product-based solutions: Se refiere a evaluaciones que están basadas en productos o software específicos, y las pruebas se enfocan en vulnerabilidades conocidas para esos productos, sin necesariamente enfocarse en el servicio subyacente.
+    
+- Tree-based assessment: Es un enfoque donde la evaluación se realiza siguiendo una estructura en forma de árbol, donde cada vulnerabilidad detectada puede conducir a la evaluación de otras. No encaja directamente con el proceso descrito.
+    
+- Inference-based assessment: Implica deducir vulnerabilidades basándose en ciertos comportamientos o datos indirectos, no una identificación explícita de servicios y pruebas específicas.
+
+Harry, un hacker profesional, apunta a la infraestructura de TI de una organización. Después de prepararse para el ataque, intenta ingresar a la red objetivo usando técnicas como enviar correos electrónicos de spear-phishing y explotar vulnerabilidades en servidores públicos. Usando estas técnicas, logra desplegar malware en el sistema objetivo para establecer una conexión de salida.  
+¿Cuál es la fase del ciclo de vida de un APT que Harry está ejecutando actualmente?
+
+Intrusión inicial (Initial intrusion)
+- Initial intrusion (Intrusión inicial): Es la fase donde el atacante obtiene acceso inicial al sistema objetivo. En este caso, Harry está usando spear-phishing y explotación de vulnerabilidades para ingresar a la red y desplegar malware, que es precisamente la definición de la intrusión inicial.
+    
+- Persistence (Persistencia): Se refiere a cuando el atacante establece mecanismos para mantener el acceso al sistema de forma continua y evitar ser expulsado. No es la fase descrita en la pregunta.
+    
+- Cleanup (Limpieza): Es la etapa final en la que el atacante elimina rastros de la intrusión para evitar ser detectado, tampoco corresponde al escenario descrito.
+    
+- Preparation (Preparación): Se refiere a la fase antes del ataque donde el atacante realiza el reconocimiento y planificación, pero aún no ha ingresado al sistema.
+
+Robin, un hacker profesional, apuntó a la red de una organización para olfatear (sniff) todo el tráfico. Durante este proceso, conectó un switch falso (rogue switch) a un puerto no utilizado en la red LAN con una prioridad más baja que cualquier otro switch en la red, para convertirlo en el root bridge, lo cual le permitiría interceptar todo el tráfico en la red.
+
+¿Qué tipo de ataque realizó Robin en este escenario?
+STP attack
+
+- ARP spoofing attack: Manipula la tabla ARP para interceptar tráfico entre dispositivos, pero no implica manipular switches ni STP.
+    
+- DNS poisoning attack: Involucra redirigir solicitudes DNS a destinos falsos. No tiene relación con switches ni el control del flujo de tráfico LAN.
+    
+- VLAN hopping attack: Se aprovecha de la mala configuración de VLANs para saltar entre redes VLAN, pero no implica convertirse en root bridge.
+
+CyberTech Inc. experimentó recientemente ataques de inyección SQL en su sitio web oficial. La empresa contrató a Bob, un profesional de seguridad, para desarrollar e implementar estrategias defensivas contra estos ataques.
+Bob adoptó una práctica en la cual solo se acepta una lista de entidades aprobadas (como tipo de datos, rango, tamaño y valor) para acceso seguro.
+
+¿Cuál es la técnica defensiva empleada por Bob en este escenario?
+Whitelist validation
+
+Joe trabaja como administrador de TI en una organización y recientemente configuró un servicio de computación en la nube para la empresa.  
+Para implementar este servicio, contactó a una empresa de telecomunicaciones para que proporcionara conectividad a Internet y servicios de transporte entre la organización y el proveedor del servicio en la nube.
+
+Según la arquitectura de referencia de implementación de la nube de NIST, ¿en qué categoría encaja la empresa de telecomunicaciones en este escenario?
+Cloud carrier (Transportista de nube)
+
+- Cloud consumer (Consumidor de nube): Es quien usa los servicios en la nube, en este caso sería la organización, no la empresa de telecomunicaciones.
+    
+- Cloud broker (Intermediario de nube): Administra el uso, rendimiento y entrega de servicios de nube, además de negociar relaciones entre consumidores y proveedores. No aplica aquí.
+    
+- Cloud auditor (Auditor de nube): Evalúa la seguridad, el rendimiento y el cumplimiento del entorno de nube. Tampoco es el rol de una empresa de telecomunicaciones.
+
+Usó una herramienta automatizada para consultar de forma anónima el servicio LDAP y obtener información sensible como:
+- nombres de usuario,    
+- direcciones,    
+- detalles departamentales,    
+- nombres de servidores,    
+
+con el fin de lanzar ataques adicionales.
+
+¿Qué herramienta utilizó John para recopilar información del servicio LDAP?
+JXplorer
+
+In Docker's architecture, the Docker daemon (`dockerd`) is the core server-side component that:
+- Listens for Docker API requests,    
+- Processes and manages Docker objects such as:    
+    - Containers        
+    - Images        
+    - Volumes        
+    - Networks
+
+Docker daemon
+
+|Component|Role|
+|---|---|
+|Docker Daemon (`dockerd`)|Handles Docker objects, listens to API requests, manages containers and resources.|
+|Docker Client (`docker`)|CLI tool that sends commands to the Docker daemon via API.|
+|Docker Registries|Stores and distributes Docker images (e.g., Docker Hub).|
+|Docker Objects|The entities being managed (containers, images, etc.), not components themselves.|
+
+Escenario:  
+Bob, un atacante, accedió a un dispositivo IoT y usó una herramienta en línea para obtener información sobre su modelo y certificaciones.
+
+Pregunta: ¿Qué herramienta utilizó?
+- FCC ID Search es una herramienta oficial proporcionada por la Federal Communications Commission (FCC) de EE. UU.    
+- Permite buscar información técnica y certificaciones de dispositivos electrónicos (incluidos los IoT), a través de su número FCC ID, que suele estar impreso físicamente en el dispositivo.
+
+Gilbert, un desarrollador web, utiliza una API web centralizada para reducir la complejidad y aumentar la integridad al actualizar y modificar datos. Para ello, emplea un servicio web que usa métodos HTTP como PUT, POST, GET y DELETE, y que puede mejorar el rendimiento general, la visibilidad, la escalabilidad, la confiabilidad y la portabilidad de una aplicación.  
+¿Qué tipo de API de servicio web se menciona en el escenario?
+RESTful API
+
+Para crear una botnet, el atacante puede usar varias técnicas para escanear máquinas vulnerables. Primero, el atacante recopila información sobre un gran número de máquinas vulnerables para crear una lista. Posteriormente, infecta las máquinas. La lista se divide asignando la mitad a las máquinas recién comprometidas. El proceso de escaneo se ejecuta simultáneamente. Esta técnica garantiza la propagación e instalación del código malicioso en poco tiempo
+Técnica de escaneo con lista de objetivos (Hit-list scanning technique)
+- Escaneo por subred:  
+    Escanea únicamente dispositivos dentro de una misma subred, no involucra una lista predefinida ni distribución entre máquinas.
+    
+- B. Escaneo por permutación:  
+    Realiza escaneos aleatorios mediante permutaciones del espacio de direcciones IP, sin lista inicial.
+    
+- D. Escaneo topológico:  
+    Utiliza información extraída del propio sistema infectado (como contactos o relaciones en red) para propagarse, no una lista previamente creada.
+
+John, un exempleado descontento de una organización, contactó a un hacker profesional para explotar la organización. En el proceso del ataque, el hacker profesional instaló un escáner en una máquina perteneciente a una de las víctimas y escaneó varias máquinas en la misma red para identificar vulnerabilidades y realizar una explotación posterior.  
+¿Qué tipo de herramienta de evaluación de vulnerabilidades usó John en el escenario anterior?
+
+Escáner basado en agente
+Este método es típico de un escáner basado en agente, que requiere instalar software (agente) en una máquina para realizar escaneos desde dentro de la red o sistema.
+
+- Escáner basado en red:  
+    Normalmente funciona desde una máquina externa o central para escanear la red, no requiere instalación en una máquina víctima.
+    
+- Escáner en clúster:  
+    Se refiere a escáneres distribuidos en múltiples nodos para acelerar el proceso, no específicamente instalado en una víctima.
+    
+- Escáner proxy:  
+    Generalmente actúa como intermediario para análisis o filtrado de tráfico, no como herramienta principal para escanear vulnerabilidades.
+
+Joel, un hacker profesional, atacó a una empresa e identificó los tipos de sitios web que sus empleados visitan frecuentemente. Usando esta información, buscó posibles vulnerabilidades en estos sitios y escribió un script malicioso que puede redirigir a los usuarios desde la página web y descargar malware en la máquina de la víctima. Joel espera que la víctima acceda a la aplicación web infectada para comprometer la máquina de la víctima.  
+¿Cuál de las siguientes técnicas usó Joel en el escenario anterior?
+Watering hole attack
+
+- DNS rebinding attack: Explota cómo los navegadores manejan DNS para atacar redes internas, no la infección de sitios web frecuentados.
+    
+- C. MarioNet attack: Ataque reciente donde un script malicioso se ejecuta en navegadores para realizar acciones sin conocimiento del usuario, pero no involucra comprometer sitios visitados con malware.
+    
+- D. Clickjacking attack: Engaña a usuarios para que hagan clic en elementos invisibles o disfrazados, no para redirigir y descargar malware desde sitios comprometidos.
+
+El administrador de seguridad John Smith ha notado cantidades anormales de tráfico provenientes de computadoras locales durante la noche. Al revisar, encuentra que un atacante ha exfiltrado datos de usuarios. Las herramientas antivirus no pueden encontrar ningún software malicioso, y el IDS/IPS no ha reportado programas que no estén en la lista blanca.  
+¿Qué tipo de malware usó el atacante para evadir la lista blanca de aplicaciones de la empresa?
+File-less malware
+El file-less malware es un tipo de malware que no se instala en disco, sino que reside y se ejecuta en la memoria del sistema, usando procesos legítimos para evadir detección
+
+Dorian está enviando un correo electrónico firmado digitalmente a Poly. ¿Con qué clave está Dorian firmando este mensaje y cómo lo valida Poly?
+Dorian firma el mensaje con su clave privada, y Poly verifica que el mensaje vino de Dorian usando la clave pública de Dorian.
+
+Joe enciende su computadora en casa para acceder a su banca en línea. Cuando ingresa la URL [www.bank.com](http://www.bank.com), el sitio web se muestra, pero le pide que vuelva a ingresar sus credenciales como si nunca hubiera visitado el sitio antes. Al examinar la URL, nota que el sitio no es seguro y la dirección web parece diferente.
+
+Pregunta:  
+¿Qué tipo de ataque está experimentando Joe?
+
+DNS hijacking
+Esto es típico del DNS hijacking, donde las consultas DNS se manipulan para redirigir al usuario a sitios fraudulentos. Por eso Joe ve una URL diferente y no segura, y se le pide ingresar sus credenciales de nuevo.
+
+Boney, un hacker profesional, ataca a una organización con fines financieros. Obtiene un ID de sesión válido iniciando sesión en un servicio y luego envía ese mismo ID de sesión a un empleado objetivo mediante una técnica de ataque MITM. El ID de sesión enlaza al empleado con la página de cuenta de Boney sin revelar nada al empleado. Cuando el empleado introduce datos de pago en el formulario, estos se vinculan a la cuenta de Boney.
+
+¿Qué tipo de ataque realizó Boney en este escenario?
+Session donation attack
+
+Kevin, un hacker profesional, quiere penetrar en la red de CyberTech Inc. Empleó una técnica mediante la cual codificó los paquetes con caracteres Unicode. El IDS de la empresa no puede reconocer estos paquetes, pero el servidor web de destino sí puede decodificarlos.  
+¿Qué técnica utilizó Kevin para evadir el sistema IDS?
+
+Ofuscación (Obfuscating)
+
+Bella, una profesional de seguridad de una firma de TI, descubre que se produjo una brecha de seguridad al transferir archivos importantes. Datos sensibles, nombres de usuario y contraseñas de empleados se compartían en texto plano, lo que facilitó el secuestro de sesión a los atacantes. Para solucionar esto, Bella implementó un protocolo que envía datos usando cifrado y certificados digitales.  
+¿Qué protocolo usó Bella?
+FTPS
+FTPS (FTP over SSL/TLS) añade una capa de cifrado (SSL o TLS) y usa certificados digitales para autenticar el servidor (y opcionalmente el cliente), protegiendo tanto las credenciales como los datos transferidos de la exposición en texto plano
+
+John quiere enviar a Marie un correo electrónico que incluye información sensible y no confía en la red a la que está conectado. Marie le sugiere usar PGP.  
+¿Qué debe hacer John para comunicarse correctamente usando este tipo de cifrado?
+Usar la clave pública de Marie para cifrar el mensaje.
+En PGP (Pretty Good Privacy), para asegurar la confidencialidad, el remitente cifra el mensaje con la clave pública del destinatario.
+
+En el sistema de calificación de vulnerabilidades CVSS v3.1, ¿en qué rango cae la gravedad “medio” (Medium)?
+4.0–6.9
+
+El estándar CVSS v3.1 define los niveles de severidad según el puntaje base de la vulnerabilidad de la siguiente manera:
+
+- None (Ninguna): 0.0
+    
+- Low (Baja): 0.1–3.9
+    
+- Medium (Media): 4.0–6.9
+    
+- High (Alta): 7.0–8.9
+    
+- Critical (Crítica): 9.0–10.0
+
+
+Bill es administrador de red. Quiere eliminar el tráfico sin cifrar dentro de la red de su empresa. Configura un puerto SPAN y captura todo el tráfico hacia el centro de datos. Inmediatamente descubre tráfico sin cifrar en el puerto UDP 161.  
+¿Qué protocolo está utilizando este puerto y cómo puede asegurar ese tráfico?
+SNMP y debe cambiarlo a SNMPv3.
+
+- Puerto UDP 161 es el puerto estándar para SNMP (Simple Network Management Protocol), usado para la monitorización y gestión de dispositivos de red.
+    
+- SNMPv1 y SNMPv2c envían comunidades (community strings) y datos en texto plano, exponiendo credenciales y métricas sensibles.
+    
+- SNMPv3 añade autenticación y cifrado (usando HMAC y AES/MD5) para asegurar tanto la integridad como la confidencialidad del tráfico.
+
+Larry, un profesional de seguridad en una organización, ha notado algunas anomalías en las cuentas de usuario de un servidor web. Para contrarrestar ataques en evolución, decidió reforzar la seguridad del servidor web implementando contramedidas que protejan las cuentas de usuario.  
+¿Cuál de las siguientes contramedidas debe implementar Larry para asegurar las cuentas de usuario en el servidor web?
+Limitar el acceso de administrador o root al número mínimo de usuarios.
+
+Existen múltiples opciones de implementación en la nube según el grado de aislamiento de los recursos de un cliente con respecto a los de otros clientes. Los entornos compartidos reducen costos y permiten a cada cliente disfrutar de menores gastos de operación. Una solución es que un cliente se una a un grupo de usuarios u organizaciones para compartir un entorno en la nube.  
+¿Cómo se llama esta opción de implementación en la nube?
+
+Comunitaria (Community)
+
+Allen, un pentester profesional, fue contratado por XpertTech Solutions para realizar una simulación de ataque en los recursos de red de la organización. Para llevar a cabo el ataque, aprovechó la API de NetBIOS y apuntó al servicio NetBIOS. Al enumerar NetBIOS, descubrió que el puerto 139 estaba abierto y pudo ver los recursos accesibles en un sistema remoto. Durante la enumeración, encontró varios códigos NetBIOS.
+
+¿Cuál es el código NetBIOS que se usa para obtener el servicio de mensajería (messenger) en ejecución para el usuario que ha iniciado sesión?
+<03>
+00: Workstation Service (workstation name)
+03: Windows Messenger service
+06: Remote Access Service
+20: File Service (also called Host Record)
+21: Remote Access Service client
+1B: Domain Master Browser – Primary Domain Controller for a domain
+1D: Master Browser
+
+Don, un estudiante, encontró una aplicación de juegos en una tienda de terceros e la instaló. Posteriormente, todas las aplicaciones legítimas de su smartphone fueron reemplazadas por aplicaciones engañosas que parecían legítimas. También empezó a recibir muchos anuncios en su teléfono después de instalar esa app.  
+¿Qué ataque sufrió Don en este escenario?
+ Ataque Agent Smith (Agent Smith attack)
+
+Samuel, un administrador de seguridad, está evaluando la configuración de un servidor web. Observó que el servidor permite conexiones SSLv2, y que se utiliza el mismo certificado de clave privada en otro servidor que también admite SSLv2. Esta vulnerabilidad hace que el servidor web sea susceptible a ataques, ya que el servidor SSLv2 puede filtrar información de la clave.
+
+¿Qué ataque se puede realizar explotando esta vulnerabilidad?
+Ataque DROWN
+DROWN (Decrypting RSA with Obsolete and Weakened eNcryption) aprovecha servidores que aún admiten SSLv2 (un protocolo obsoleto y vulnerable) para romper las conexiones TLS en servicios que comparten el mismo certificado RSA.
+
+El fraude generalizado en Enron, WorldCom y Tyco llevó a la creación de una ley diseñada para mejorar la precisión y la responsabilidad en las divulgaciones corporativas. Cubre a firmas de contabilidad y a terceros que prestan servicios financieros a ciertas organizaciones, y entró en vigor en 2002.  
+¿Cómo se conoce esta ley por su acrónimo?
+SOX
+El Sarbanes-Oxley Act (conocido como SOX) Garantizar la transparencia y la responsabilidad en los informes financieros de las empresas que cotizan en bolsa.
+
+Abel, un profesional de seguridad, realiza pruebas de penetración en la organización de su cliente para buscar brechas de seguridad. Lanza un ataque contra los servidores DHCP difundiendo solicitudes DHCP falsificadas y alquila todas las direcciones DHCP disponibles en el rango, hasta que el servidor ya no puede asignar más direcciones IP. Esto provoca un ataque de denegación de servicio (DoS), y los empleados legítimos no pueden acceder a la red.
+
+¿Qué ataque realizó Abel en el escenario anterior?
+Agotamiento DHCP (DHCP starvation)
+En un ataque DHCP starvation, el atacante envía repetidas solicitudes DHCP (DHCPDISCOVER) usando direcciones MAC falsificadas, con el fin de consumir todas las direcciones IP disponibles en el servidor DHCP.
+Rogue DHCP server attack: Implica desplegar un servidor DHCP no autorizado que responde con configuraciones maliciosas, pero no agota el pool.
+
+Este tipo de algoritmo de cifrado es un cifrador de bloques simétrico que se caracteriza por un tamaño de bloque de 128 bits y su tamaño de clave puede ser de hasta 256 bits.  
+¿Cuál de los siguientes es este algoritmo de cifrado?
+Algoritmo Twofish
+
+Jude, un pentester en Keiltech Ltd., realiza pruebas de seguridad avanzadas en la infraestructura de red de su empresa para identificar brechas. En este proceso, empezó a eludir las herramientas de protección y cortafuegos de la empresa. Empleó una técnica que puede crear sesiones TCP falsificadas mediante el envío de múltiples paquetes SYN, ACK y RST o FIN. Además, este método le permitió ejecutar ataques DDoS que agotan los recursos de red.  
+¿Qué técnica de ataque utilizó Jude para encontrar dichas brechas?
+Spoofed session flood attack
+En un Spoofed Session Flood Attack, el atacante envía paquetes TCP falsificados (SYN, ACK, RST, FIN) con direcciones IP de origen suplantadas para inundar al servidor o cortafuegos con sesiones parcialmente establecidas o resetearlas.
+
+Jim, un hacker profesional, atacó a una organización que opera infraestructura industrial crítica. Jim usó Nmap para escanear puertos abiertos y servicios en ejecución en sistemas conectados a la red OT de la organización. Utilizó un comando de Nmap para identificar dispositivos Ethernet/IP conectados al Internet y, además, recopiló información como el nombre del fabricante, código y nombre de producto, nombre del dispositivo y dirección IP.  
+¿Qué comando de Nmap ayudó a Jim a obtener la información requerida?
+nmap -Pn -sU -p 44818 --script enip-info <Target IP>
+EtherNet/IP utiliza el protocolo CIP sobre UDP/44818, por lo que para detectarlo es necesario un escaneo UDP (`-sU`) en ese puerto.
+
+Richard, un atacante, quería hackear dispositivos IoT conectados a una red objetivo. Para ello, registró la frecuencia (canal de radio) que usan los dispositivos para intercambiar información. Tras determinar la frecuencia, capturó los datos originales cuando los dispositivos iniciaban comandos. Una vez recopilados, usó herramientas como URH para separar la secuencia de comandos, y luego inyectó esa misma secuencia en la frecuencia correspondiente, repitiendo las señales capturadas de los dispositivos.
+
+¿Qué tipo de ataque realizó Richard en este escenario?
+Ataque de repetición (Replay attack)
+
+¿Cuál de las siguientes actividades permite a los atacantes dibujar un mapa o esbozar la infraestructura de red de la organización objetivo para conocer el entorno real que van a atacar?
+Escaneo de redes
+
+Susan, una desarrolladora de software, quiere que su API web actualice otras aplicaciones con la información más reciente.  
+Para ello, usa una llamada HTTP definida por el usuario (callback) o API push que se activa con eventos desencadenantes; cuando se invoca, esta característica suministra datos a otras aplicaciones para que los usuarios reciban información en tiempo real.
+
+¿Qué técnica está utilizando Susan?
+Webhooks
+
+¿Qué técnica de jailbreak en iOS parchea el kernel durante el arranque del dispositivo, de modo que el dispositivo queda con jailbreak después de cada reinicio?
+Untethered jailbreaking
+Untethered jailbreaking (sin cable) modifica el kernel de manera persistente, de modo que el jailbreak persiste incluso después de reiniciar el dispositivo, sin necesidad de usar una computadora o volver a ejecutar una app.
+WS-Addressing
+WS-Addressing es una extensión del protocolo SOAP que permite agregar información de enrutamiento en el encabezado SOAP, permitiendo comunicación asíncrona y más control sobre cómo los mensajes SOAP deben ser entregados y respondidos.
+
+El atacante Steve apuntó a la red de una organización con el objetivo de redirigir el tráfico web de la empresa hacia otro sitio web malicioso. Para lograr esto, Steve realizó un envenenamiento de caché DNS (DNS cache poisoning) explotando vulnerabilidades en el software del servidor DNS y modificó la dirección IP original del sitio web objetivo por la de un sitio falso.
+
+¿Cuál es la técnica empleada por Steve para recopilar información con fines de robo de identidad?
+Pharming
+Pharming es una técnica de ataque en la que el atacante redirecciona el tráfico legítimo de un sitio web hacia uno malicioso, con el objetivo de robar información sensible, como credenciales de acceso, números de tarjeta de crédito,
+
+¿Cuál es el primer puerto que se debe bloquear si sospechas que un dispositivo IoT ha sido comprometido?
+48101
+
+Clark es un hacker profesional. Él creó y configuró múltiples dominios que apuntan al mismo host para cambiar rápidamente entre dominios y evitar ser detectado.  
+¿Cuál es el comportamiento del adversario en este escenario?
+
+Unspecified proxy activities (Actividades de proxy no especificadas)
+
+Durante una prueba de penetración, lograste acceso usando una cuenta de usuario. Durante la prueba, estableciste una conexión con tu propia máquina a través del servicio SMB y, en ocasiones, ingresaste tu usuario y contraseña en texto plano.
+
+¿Qué archivo debes limpiar para eliminar la contraseña?
+.bash_history
+
+David es un profesional de seguridad que trabaja en una organización, y está implementando un programa de gestión de vulnerabilidades para evaluar y controlar los riesgos y vulnerabilidades en la infraestructura de TI. Actualmente está en el proceso de aplicar correcciones (fixes) a los sistemas vulnerables para reducir el impacto y la gravedad de las vulnerabilidades.
+
+¿En qué fase del ciclo de vida de gestión de vulnerabilidades se encuentra David?
+Remediation (Remediación)
+
+Alice, una hacker profesional, apuntó a los servicios en la nube de una organización. Infiltró al proveedor de servicios administrados (MSP) del objetivo mediante correos electrónicos de spear-phishing y distribuyó malware personalizado para comprometer cuentas de usuario y obtener  acceso remoto al servicio en la nube. Luego, accedió a los perfiles de los clientes de la nube con su cuenta de MSP, comprimió los datos de los clientes y los almacenó en el MSP. Más adelante, utilizó esta información para lanzar nuevos ataques contra la organización objetivo.
+
+¿Qué tipo de ataque en la nube realizó Alice en este escenario?
+Cloud hopper attack
+El Cloud Hopper Attack es un tipo de ataque avanzado y persistente (APT) en el que un atacante compromete a un proveedor de servicios en la nube o un MSP (Managed Service Provider) para luego moverse lateralmente y acceder a las redes y datos de sus clientes.
+
+Jane Smith, una hacker ética, está intentando realizar un ataque de inyección SQL. Ella quiere probar el tiempo de respuesta para obtener una respuesta verdadera o falsa, y desea usar un segundo comando para determinar si la base de datos devolverá resultados verdaderos o falsos para ciertos IDs de usuario.
+
+¿Qué dos tipos de inyección SQL le darían los resultados que está buscando?
+Time-based y boolean-based
+
+Jason, un atacante, apuntó a una organización para atacar su servidor web accesible desde Internet, con la intención de acceder a servidores internos, protegidos por un firewall. Para ello, usó una URL como:  
+`https://xyz.com/feed.php?url=externalsite.com/feed/to`  
+—que obtiene contenido remoto—, y alteró la entrada URL a `localhost` para intentar ver recursos internos del servidor.
+
+¿Qué tipo de ataque realizó Jason?
+
+Server-Side Request Forgery (SSRF) attack
+SSRF (Server-Side Request Forgery), donde el atacante manipula una funcionalidad del servidor que realiza solicitudes HTTP hacia una URL externa. Al modificar esa URL, puede redirigir la solicitud a recursos internos protegidos, como `localhost` o servidores backend.
+
+Eres un pentester contratado para probar la seguridad de la red inalámbrica de tu cliente Brakeme SA. La red inalámbrica a atacar tiene el SSID: “Brakeme-Internal” y utiliza cifrado WPA3.  
+Te preguntas: ¿Cuál vulnerabilidad sería la más prometedora para explotar?
+Dragonblood
+
+¿Cuál es el nombre común de un programa de divulgación de vulnerabilidades que las empresas abren en plataformas como HackerOne?
+Bug bounty program
+
+Daniel es un hacker profesional que intenta realizar un ataque de inyección SQL en un sitio web objetivo, [www.moviescope.com](http://www.moviescope.com). Durante este proceso, se encontró con un IDS que detecta intentos de inyección SQL basándose en firmas predefinidas. Para evadir cualquier instrucción de comparación, intentó colocar caracteres como “’or ‘1’=‘1’” en cualquier instrucción básica de inyección como “or 1=1.”  
+Identifica la técnica de evasión usada por Daniel en el escenario anterior.
+Variación
+
+Los ataques de inyección SQL (SQLi) intentan inyectar sintaxis SQL en solicitudes web, lo que puede permitir evadir la autenticación y que los atacantes accedan y/o modifiquen datos asociados a una aplicación web.  
+¿Cuál de los siguientes tipos de SQLi aprovecha la capacidad del servidor de bases de datos para realizar solicitudes DNS para pasar datos al atacante?
+Out-of-band SQLi
+El SQLi fuera de banda (out-of-band) es una técnica que aprovecha funcionalidades externas del servidor de bases de datos, como la capacidad de realizar solicitudes DNS o HTTP, para enviar datos al atacante a través de canales alternativos cuando la comunicación directa (in-band) no es posible o es difícil.
+Evaluación de red inalámbrica
+
+En este ataque, un adversario engaña a la víctima para que reinstale una clave ya en uso. Esto se logra manipulando y reproduciendo mensajes de apretón de manos criptográficos (handshake). Cuando la víctima reinstala la clave, parámetros asociados, como el número incremental de paquetes transmitidos y recibidos, se restablecen a sus valores iniciales.  
+¿Cuál es el nombre de este ataque?
+KRACK
+Este ataque explota una vulnerabilidad en el protocolo WPA2, donde el atacante manipula y retransmite mensajes de handshake para forzar a la víctima a reinstalar la clave de cifrado. Al hacer esto, se resetean los contadores de paquetes, permitiendo que el atacante descifre o modifique el tráfico cifrado.
+
+Después de una auditoría, los auditores te informan que hay un hallazgo crítico que debes atender de inmediato. Lees el informe de auditoría y el problema es el servicio que se ejecuta en el puerto 389.  
+¿Cuál es este servicio y cómo puedes solucionar el problema?
+**El servicio es LDAP, y debes cambiarlo al puerto 636, que es LDAPS.**
+
+Mike, un ingeniero de seguridad, fue contratado recientemente por BigFox Ltd. La empresa sufrió ataques DoS desastrosos. La gerencia le pidió a Mike que diseñara estrategias defensivas para la infraestructura TI de la compañía para detener ataques DoS/DDoS. Mike implementó algunas contramedidas para manejar ataques de **jamming** y **scrambling**.
+**Implementar radios cognitivas en la capa física**
+
+Estás usando una red Wi-Fi pública dentro de una cafetería. Antes de navegar por la web, usas tu VPN para evitar que intrusos espíen tu tráfico.  
+Si no tuvieras una VPN, ¿cómo podrías identificar si alguien está realizando un ataque de **ARP spoofing** en tu laptop?
+Deberías revisar tu tabla ARP y ver si hay una dirección IP con dos direcciones MAC diferentes.
+
+Lewis, un hacker profesional, atacó las cámaras y dispositivos IoT usados por una firma de capital de riesgo. Utilizó una herramienta de recolección de información para recopilar datos sobre los dispositivos IoT conectados a la red, puertos abiertos, servicios y la superficie de ataque. Con esta herramienta, también generó reportes estadísticos sobre patrones de uso y tendencias amplias. Esta herramienta ayudó a Lewis a monitorear continuamente cada servidor y dispositivo accesible en Internet, permitiéndole explotar estos dispositivos en la red.  
+¿Cuál de las siguientes herramientas usó Lewis en el escenario anterior?
+**Censys 
+Censys es una herramienta de reconocimiento y búsqueda que escanea y monitorea continuamente dispositivos y servidores accesibles en Internet.
+
+Ricardo ha descubierto el nombre de usuario para una aplicación en el entorno de su objetivo. Como tiene poco tiempo, decide usar una lista de contraseñas comunes que encontró en Internet. Las compila en una lista y luego alimenta esa lista como argumento a su aplicación para descifrar contraseñas.  
+¿Qué tipo de ataque está realizando Ricardo?
+Diccionario
+
+Al analizar los registros del IDS, el administrador del sistema notó que se generó una alerta cuando se accedió al router externo desde la computadora del administrador para actualizar la configuración del router.  
+¿Qué tipo de alerta es esta?
+Falso positivo

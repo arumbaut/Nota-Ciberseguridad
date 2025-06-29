@@ -79,8 +79,8 @@ Este tipo de ataque  es posible cuando el sistema objetivo utiliza una función 
  LLMNR y NBT-NS son servicios de Windows utilizados para la resolución de nombres en la misma red local. Si el servidor DNS falla, los hosts realizan una transmisión UDP no autenticada buscando nombres. Esto permite que un atacante escuche estas transmisiones y responda haciéndose pasar por el host objetivo. Tras establecer la conexión, el atacante puede redirigir la solicitud a un servidor falso y obtener un hash NTLMv2 del proceso de autenticación.   Este hash puede luego ser descifrado con herramientas como **hashcat** o **John the Ripper**, permitiendo al atacante acceder al sistema legítimo .
 
 Internal Monologue Attack**
-En el ataque de monólogo interno, el atacante utiliza SSPI(Security Support Provider Interface) para realizar una autenticación NTLM. En lugar de robar las credenciales directamente desde la memoria (como lo hace Mimikatz), el atacante hace una llamada interna al sistema para calcular la respuesta NetNTLM, que es una respuesta de autenticación basada en las credenciales del usuario que ya ha iniciado sesión en el sistema.
-**El atacante extrae todos los tokens de inicio de sesión que no son de red** de todos los procesos activos, con el fin de **hacerse pasar por usuarios legítimos**.
+En el ataque de monólogo interno, ==el atacante utiliza SSPI(Security Support Provider Interface) para realizar una autenticación NTLM==. En lugar de robar las credenciales directamente desde la memoria (como lo hace Mimikatz), el atacante hace una llamada interna al sistema para calcular la respuesta NetNTLM, que es una respuesta de autenticación basada en las credenciales del usuario que ya ha iniciado sesión en el sistema.
+==**El atacante extrae todos los tokens de inicio de sesión que no son de red** de todos los procesos activos, con el fin de **hacerse pasar por usuarios legítimos**.==
 
 **el atacante interactúa localmente con el Proveedor de Soporte de Seguridad de NTLM (NTLM SSP)** por cada usuario suplantado, para **obtener una respuesta NetNTLMv1** a un _challenge_ elegido, en el contexto de seguridad de ese usuario.
 
