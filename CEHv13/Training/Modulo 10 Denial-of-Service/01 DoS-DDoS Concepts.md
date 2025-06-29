@@ -33,6 +33,6 @@ Los atacantes utilizan bots para **infectar un gran número de computadoras**, f
 **▪ Credential stuffing(****Relleno de credenciales****):** Realizar intentos automáticos de inicio de sesión utilizando credenciales robadas en una amplia variedad de sitios web, una táctica conocida como relleno de credenciales.
 
 **▪ Cryptocurrency mining:** Pueden instalar software de minería de criptomonedas en máquinas comprometidas dentro de una botnet, utilizando su poder de procesamiento para minar criptomonedas sin el conocimiento ni el consentimiento de los propietarios.
-#### Sindicatos del Crimen Organizado
+#### **Sindicatos del Crimen Organizado**
 Mientras que en el pasado los ciberdelincuentes solían actuar de forma individual, hoy en día tienden a **operar en grupos organizados**. Cada vez más, estos delincuentes están asociados con **sindicatos del crimen organizado** y aprovechan las técnicas sofisticadas de estas organizaciones para llevar a cabo actividades ilegales, generalmente con fines económicos.
 

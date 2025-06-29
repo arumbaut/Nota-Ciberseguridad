@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CEHv13/Training/Modulo 09 Social Engineering/02 Types of Social Engineering.md",
+                "file": "CEHv13/Training/Modulo 10 Denial-of-Service/02 DoS-DDoS Attack Techniques.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02 Types of Social Engineering"
+              "title": "02 DoS-DDoS Attack Techniques"
             }
           },
           {
@@ -308,6 +308,9 @@
   },
   "active": "bdc145ac9782b1d4",
   "lastOpenFiles": [
+    "CEHv13/Training/Modulo 10 Denial-of-Service/01 DoS-DDoS Concepts.md",
+    "CEHv13/Training/Modulo 09 Social Engineering/03 Social Engineering Countermeasures.md",
+    "CEHv13/Training/Modulo 09 Social Engineering/02 Types of Social Engineering.md",
     "CEHv13/Training/Modulo 09 Social Engineering/01 Social Engineering Concepts.md",
     "CEHv13/Training/Modulo 08 Sniffing/05 Sniffing Countermeasures.md",
     "CEHv13/Training/Modulo 08 Sniffing/04 Sniffing Tools.md",
@@ -331,9 +334,6 @@
     "CEHv13/Training/Modulo 06 System Hacking/08 Clearing Logs.md",
     "CEHv13/Training/Modulo 06 System Hacking/07 Establishing Persistence.md",
     "CEHv13/Training/Modulo 06 System Hacking/06 Esteganografía.md",
-    "CEHv13/Training/Modulo 06 System Hacking/5 Hiding Files.md",
-    "CEHv13/Training/Modulo 06 System Hacking/4.3 Spyware.md",
-    "CEHv13/Training/Modulo 06 System Hacking/4.2 Software Keystroke Loggers.md",
     "Note Narration Audio/Apuntes de Examenes 4.mp3",
     "Note Narration Audio/note - 28 jun 2025 23-09.mp3",
     "Note Narration Audio/Apuntes de Examenes 3.mp3",
