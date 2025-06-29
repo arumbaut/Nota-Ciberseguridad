@@ -19,7 +19,8 @@ Este comando determina de dónde obtiene el tiempo el servidor NTP y sigue la ca
 
 **ntpdc [ -46dilnps ] [ -c command] [hostname/IP_address]**
 
-**▪ ntpq**Este comando monitorea las operaciones del demonio NTP ntpd y determina su rendimiento.  
+**▪ ntpq** 
+Este comando monitorea las operaciones del demonio NTP ntpd y determina su rendimiento.  
 **ntpq [-46dinp] [-c command] [host/IP_address]**
 
 #### **NTP Enumeration Tools**

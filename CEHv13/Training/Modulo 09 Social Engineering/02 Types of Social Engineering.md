@@ -20,15 +20,12 @@
 
 **Honey Trap****:** Técnica en la que un atacante se dirige a una persona en línea, pretendiendo ser una persona atractiva, y luego inicia una falsa relación en línea para obtener información confidencial sobre la organización objetivo
 
-**Baiting****:** Técnica en la que los atacantes ofrecen algo atractivo a los usuarios finales a cambio de información importante, como credenciales de inicio de sesión y otros datos sensibles. Esta técnica se basa en la curiosidad y la avaricia de los usuarios finales
-
 **Bait and Switching****:** Técnica en la que los atacantes ofrecen algo atractivo a los usuarios finales a cambio de información importante, como credenciales de inicio de sesión y otros datos sensibles. Esta técnica se basa en la curiosidad y la avaricia de los usuarios finales
 
 **Quid Pro Quo****:** Técnica de engaño en la que los atacantes ofrecen su servicio a los usuarios finales a cambio de datos confidenciales o credenciales de inicio de sesión
 
 **Elicitation****:** Técnica de extraer información específica de la víctima mediante conversaciones normales y desarmantes
 
-**Bait and Switching****:** El atacante captura la atención de la víctima presentando una oferta atractiva a través de un enlace clickeable o una descarga de archivo, lo que incita a la víctima a realizar la acción deseada
 
 **▪ Computer-based Social Engineering**
 
