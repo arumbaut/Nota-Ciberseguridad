@@ -42,7 +42,7 @@ Source:** https://censys.io
 ==Censys monitoriza la infraestructura y descubre activos desconocidos en cualquier lugar de Internet. Proporciona una vista completa de cada servidor y dispositivo expuesto a Internet.==
 Los atacantes utilizan esta herramienta para monitorizar la infraestructura de TI objetivo y descubrir diversos dispositivos conectados a Internet, junto con sus datos, como el sistema operativo, la dirección IP, los protocolos utilizados y la ubicación geográfica.
 
-**▪ BuzzSumo 
+==**▪ BuzzSumo== 
 Source:** https://buzzsumo.com
 BuzzSumo encuentra el contenido más compartido de un tema, autor o dominio. Muestra la actividad compartida en las principales redes sociales, como Twitter, Facebook, LinkedIn, Google Plus y Pinterest. Como se muestra en la captura de pantalla, los atacantes usan BuzzSumo para rastrear el contenido más compartido relacionado con el dominio objetivo y obtener detalles como información de cuentas de redes sociales, URL y direcciones de correo electrónico.
 
