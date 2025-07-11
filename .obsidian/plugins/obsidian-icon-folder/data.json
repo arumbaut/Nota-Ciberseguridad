@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "🐧",
+      "TiBrandRedhat",
       "📦",
       "TiWorldWww",
-      "📝",
-      "📙",
-      "LiNotebookTabs"
+      "📝"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -337,5 +337,7 @@
   "CEHv13/Training/Modulo 03 Scanning Networks 03/01.1 TCP Communication Flags.md": "TiNotes",
   "CEHv13/Training/Modulo 03 Scanning Networks 03/01.2 Comunicación TCP IP.md": "TiNotes",
   "Hacking Pentesting/Savitar/Maquinas DMV y WPOWN.md": "FasComputer",
-  "CEHv13/Training/Formato ICMP Message.md": "📦"
+  "CEHv13/Training/Formato ICMP Message.md": "📦",
+  "Hacking Pentesting/eJPT": "TiBrandRedhat",
+  "Hacking Pentesting/Pinguino Mario": "🐧"
 }
