@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiFolder",
+      "TiFolder",
       "🐧",
       "TiBrandRedhat",
-      "📦",
-      "TiWorldWww",
-      "📝"
+      "📦"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -339,5 +339,7 @@
   "Hacking Pentesting/Savitar/Maquinas DMV y WPOWN.md": "FasComputer",
   "CEHv13/Training/Formato ICMP Message.md": "📦",
   "Hacking Pentesting/eJPT": "TiBrandRedhat",
-  "Hacking Pentesting/Pinguino Mario": "🐧"
+  "Hacking Pentesting/Pinguino Mario": "🐧",
+  "eJPT": "TiFolder",
+  "eJPT/1. Assessment Methodologies -- hide01.ir": "LiFolder"
 }
