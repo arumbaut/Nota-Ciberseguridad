@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "eJPT/1. Assessment Methodologies/2. Asses Methodologies - Footprinting & Scanning/1. Mapping a Network.md",
+                "file": "eJPT/1. Assessment Methodologies/2. Asses Methodologies - Footprinting & Scanning/3. Nmap Host Discovery.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Mapping a Network"
+              "title": "3. Nmap Host Discovery"
             }
           },
           {
@@ -295,8 +295,10 @@
   },
   "active": "bdc145ac9782b1d4",
   "lastOpenFiles": [
-    "eJPT/1. Assessment Methodologies/1. Asses Methodologies - Information Gathering/2. Active Information Gathering/3. Port Scanning with Nmap.md",
+    "eJPT/1. Assessment Methodologies/2. Asses Methodologies - Footprinting & Scanning/2. Port Scanning.md",
+    "eJPT/1. Assessment Methodologies/2. Asses Methodologies - Footprinting & Scanning/3. Nmap Host Discovery.md",
     "eJPT/1. Assessment Methodologies/2. Asses Methodologies - Footprinting & Scanning/1. Mapping a Network.md",
+    "eJPT/1. Assessment Methodologies/1. Asses Methodologies - Information Gathering/2. Active Information Gathering/3. Port Scanning with Nmap.md",
     "eJPT/1. Assessment Methodologies/5. Methodologies - Auditing Fundamentals",
     "eJPT/1. Assessment Methodologies/4. AMethodologies - Vulnerability Assestment",
     "eJPT/1. Assessment Methodologies/3. Asses Methodologies - Enumeration",
@@ -329,8 +331,6 @@
     "CEHv13/Training/Ataques/Apuntes de examenes resueltos.md",
     "CEHv13/Training/Modulo 17 Hacking Mobile Platforms/05 Mobile Device Management (MDM).md",
     "CEHv13/Training/Modulo 17 Hacking Mobile Platforms/04 Hacking iOS.md",
-    "CEHv13/Training/Modulo 17 Hacking Mobile Platforms/03 Analyzing Android Devices.md",
-    "CEHv13/Training/Modulo 17 Hacking Mobile Platforms/02 Mobile Attacks.md",
     "attachments/Pasted image 20250606091404.png",
     "attachments/image20250611232114.png",
     "attachments/image20250611231323.png",
