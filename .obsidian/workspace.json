@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "eJPT/1. Assessment Methodologies/3. Asses Methodologies - Enumeration/1.1. SMB Enumeration.md",
+                "file": "eJPT/1. Assessment Methodologies/3. Asses Methodologies - Enumeration/FTP Enumeration.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.1. SMB Enumeration"
+              "title": "FTP Enumeration"
             }
           },
           {
@@ -310,9 +310,10 @@
   },
   "active": "852a042ca9feb80b",
   "lastOpenFiles": [
+    "eJPT/1. Assessment Methodologies/3. Asses Methodologies - Enumeration/1.1. SMB Enumeration.md",
+    "eJPT/1. Assessment Methodologies/3. Asses Methodologies - Enumeration/FTP Enumeration.md",
     "2025-07-21.md",
     "Untitled.canvas",
-    "eJPT/1. Assessment Methodologies/3. Asses Methodologies - Enumeration/1.1. SMB Enumeration.md",
     "eJPT/1. Assessment Methodologies/2. Asses Methodologies - Footprinting & Scanning/3. Nmap Host Discovery.md",
     "eJPT/1. Assessment Methodologies/2. Asses Methodologies - Footprinting & Scanning/2. Port Scanning.md",
     "eJPT/1. Assessment Methodologies/2. Asses Methodologies - Footprinting & Scanning/1. Mapping a Network.md",
