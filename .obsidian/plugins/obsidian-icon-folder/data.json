@@ -347,5 +347,6 @@
   "eJPT/2. Host & Network Penetration Testing": "TiFolder",
   "eJPT/3. Web Application Penetration Testing": "TiFolder",
   "eJPT/1. Assessment Methodologies/3. Asses Methodologies - Enumeration": "LiFolder",
-  "eJPT/1. Assessment Methodologies/4. AMethodologies - Vulnerability Assestment": "LiFolder"
+  "eJPT/1. Assessment Methodologies/4. AMethodologies - Vulnerability Assestment": "LiFolder",
+  "eJPT/1. Assessment Methodologies/5. Methodologies - Auditing Fundamentals": "LiFolder"
 }
