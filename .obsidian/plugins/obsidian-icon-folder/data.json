@@ -340,13 +340,16 @@
   "CEHv13/Training/Formato ICMP Message.md": "📦",
   "Hacking Pentesting/eJPT": "TiBrandRedhat",
   "Hacking Pentesting/Pinguino Mario": "🐧",
-  "eJPT": "TiFolder",
-  "eJPT/1. Assessment Methodologies/1. Asses Methodologies - Information Gathering": "LiFolder",
-  "eJPT/1. Assessment Methodologies/2. Asses Methodologies - Footprinting & Scanning": "LiFolder",
-  "eJPT/1. Assessment Methodologies": "TiFolder",
-  "eJPT/2. Host & Network Penetration Testing": "TiFolder",
-  "eJPT/3. Web Application Penetration Testing": "TiFolder",
-  "eJPT/1. Assessment Methodologies/3. Asses Methodologies - Enumeration": "LiFolder",
-  "eJPT/1. Assessment Methodologies/4. AMethodologies - Vulnerability Assestment": "LiFolder",
-  "eJPT/1. Assessment Methodologies/5. Methodologies - Auditing Fundamentals": "LiFolder"
+  "eJPT _V1": {
+    "iconName": "TiBrandRedhat",
+    "iconColor": "#d34a4a"
+  },
+  "eJPT _V1/1. Assessment Methodologies": "TiFolder",
+  "eJPT _V1/2. Host & Network Penetration Testing": "TiFolder",
+  "eJPT _V1/3. Web Application Penetration Testing": "TiFolder",
+  "eJPT _V1/1. Assessment Methodologies/1. Asses Methodologies - Information Gathering": "LiFolder",
+  "eJPT _V1/1. Assessment Methodologies/2. Asses Methodologies - Footprinting & Scanning": "LiFolder",
+  "eJPT _V1/1. Assessment Methodologies/3. Asses Methodologies - Enumeration": "LiFolder",
+  "eJPT _V1/1. Assessment Methodologies/4. AMethodologies - Vulnerability Assestment": "LiFolder",
+  "eJPT _V1/1. Assessment Methodologies/5. Methodologies - Auditing Fundamentals": "LiFolder"
 }
