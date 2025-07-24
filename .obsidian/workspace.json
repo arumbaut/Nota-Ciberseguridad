@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "eJPT/1. Assessment Methodologies/3. Asses Methodologies - Enumeration/3. SSH.md",
+                "file": "eJPT/1. Assessment Methodologies/3. Asses Methodologies - Enumeration/4.HTTP Enumeration.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. SSH"
+              "title": "4.HTTP Enumeration"
             }
           },
           {
@@ -193,8 +193,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 338.5086555480957,
-    "collapsed": true
+    "width": 338.5086555480957
   },
   "right": {
     "id": "dd62f90908c3232e",
@@ -310,9 +309,10 @@
   },
   "active": "852a042ca9feb80b",
   "lastOpenFiles": [
-    "eJPT/1. Assessment Methodologies/3. Asses Methodologies - Enumeration/1. SMB Enumeration.md",
-    "eJPT/1. Assessment Methodologies/3. Asses Methodologies - Enumeration/3. SSH.md",
+    "eJPT/1. Assessment Methodologies/3. Asses Methodologies - Enumeration/3. SSH Enumeration.md",
+    "eJPT/1. Assessment Methodologies/3. Asses Methodologies - Enumeration/4.HTTP Enumeration.md",
     "eJPT/1. Assessment Methodologies/3. Asses Methodologies - Enumeration/2. FTP Enumeration.md",
+    "eJPT/1. Assessment Methodologies/3. Asses Methodologies - Enumeration/1. SMB Enumeration.md",
     "2025-07-21.md",
     "Untitled.canvas",
     "eJPT/1. Assessment Methodologies/2. Asses Methodologies - Footprinting & Scanning/3. Nmap Host Discovery.md",
@@ -346,7 +346,6 @@
     "Notas de Ciberseguridad/Crear una reverse shell.md",
     "Hacking Pentesting/Savitar/Maquinas DMV y WPOWN.md",
     "Notas de Ciberseguridad/Adquirir un pront.md",
-    "Hacking Pentesting/eJPT/Enumeracion.md",
     "attachments/Pasted image 20250606091404.png",
     "attachments/image20250611232114.png",
     "attachments/image20250611231323.png",
