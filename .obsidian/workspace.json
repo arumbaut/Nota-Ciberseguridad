@@ -193,8 +193,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 338.5086555480957,
-    "collapsed": true
+    "width": 338.5086555480957
   },
   "right": {
     "id": "dd62f90908c3232e",
@@ -310,8 +309,10 @@
   },
   "active": "852a042ca9feb80b",
   "lastOpenFiles": [
-    "Zphisher.md",
+    "Docker Notes/N8N en docker.md",
     "eJPT _V1/1. Assessment Methodologies/3. Asses Methodologies - Enumeration/5. SQL Enumeration.md",
+    "Docker Notes",
+    "Zphisher.md",
     "Nmap nota.md",
     "eJPT _V1/N.md",
     "Untitled.canvas",
@@ -339,14 +340,12 @@
     "eJPT _V1/1. Assessment Methodologies/1. Asses Methodologies - Information Gathering/1. Pasive Information Gathering/2. Whois Enumeration.md",
     "eJPT _V1/1. Assessment Methodologies/1. Asses Methodologies - Information Gathering/2. Active Information Gathering",
     "eJPT _V1/1. Assessment Methodologies/1. Asses Methodologies - Information Gathering/1. Pasive Information Gathering/09. Leaked Password Databases.md",
-    "eJPT _V1/1. Assessment Methodologies/1. Asses Methodologies - Information Gathering/1. Pasive Information Gathering",
     "eJPT _V1/1. Assessment Methodologies/1. Asses Methodologies - Information Gathering/1. Pasive Information Gathering/08. Email Harvesting.md",
     "eJPT _V1/1. Assessment Methodologies/1. Asses Methodologies - Information Gathering/1. Pasive Information Gathering/07. Google Dorks.md",
     "eJPT _V1/1. Assessment Methodologies/1. Asses Methodologies - Information Gathering/1. Pasive Information Gathering/06. Enumeracion de subdominios con sublist3r.md",
     "eJPT _V1/1. Assessment Methodologies/1. Asses Methodologies - Information Gathering/1. Pasive Information Gathering/05. Detectar WAF (Web Application Firewall).md",
     "eJPT _V1/1. Assessment Methodologies/1. Asses Methodologies - Information Gathering/1. Pasive Information Gathering/04. DNS Recon.md",
     "eJPT _V1/1. Assessment Methodologies/1. Asses Methodologies - Information Gathering/1. Pasive Information Gathering/3. Website Footprinting whith Netcraft.md",
-    "eJPT/1. Assessment Methodologies -- hide01.ir/Sin título 1.md",
     "attachments/Pasted image 20250606091404.png",
     "attachments/image20250611232114.png",
     "attachments/image20250611231323.png",
