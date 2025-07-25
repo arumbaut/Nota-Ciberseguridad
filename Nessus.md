@@ -27,11 +27,3 @@ Detenerlo
 systemctl stop nessusd.service
 ```
 
-
-# Nessus
-
-```
-## License Information
-
-Activation Code: JFMQ-RJFK-GPXN-F6GT-NWHS
-```
