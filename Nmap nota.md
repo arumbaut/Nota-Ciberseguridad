@@ -36,3 +36,15 @@ nmap -p 80 \
   192.168.1.10
 
 ```
+
+Forma recomendada para poner los scripts y los argumentos
+```
+--script=<nombre_del_script> --script-args=clave=valor,clave2=valor2
+
+```
+
+Mas de un Script
+```
+nmap --script=script1,script2,script3 -p <puerto> <IP>
+
+```
