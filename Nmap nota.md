@@ -1,4 +1,3 @@
-
 ## ==🧩 ¿Por qué se ve -script, --script, --script-http, --script http-enum?==
 
 ### ==1\. ✅ -script y --script son lo mismo==
