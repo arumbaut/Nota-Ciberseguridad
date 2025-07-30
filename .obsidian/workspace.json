@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Install GVM.md",
+                "file": "eJPT _V1/2. Host & Network Penetration Testing/Windows/Windows Credentian Dumping/1. Windows Password Hashes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Install GVM"
+              "title": "1. Windows Password Hashes"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 338.5086555480957
+    "width": 338.5086555480957,
+    "collapsed": true
   },
   "right": {
     "id": "dd62f90908c3232e",
@@ -194,8 +195,8 @@
   },
   "active": "7e50e5aae3db3446",
   "lastOpenFiles": [
-    "Docker Notes/Instalacion Nessus Kali Docker.md",
     "Install GVM.md",
+    "Docker Notes/Instalacion Nessus Kali Docker.md",
     "eJPT _V1/2. Host & Network Penetration Testing/Windows/Windows Credentian Dumping/1. Windows Password Hashes.md",
     "eJPT _V1/2. Host & Network Penetration Testing/Windows/File System Vulnerabilities/1 Alternate Data Stream.md",
     "eJPT _V1/2. Host & Network Penetration Testing/Windows/Windows Credentian Dumping",
