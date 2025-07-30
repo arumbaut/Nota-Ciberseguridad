@@ -304,7 +304,6 @@
   },
   "CEHv13/Training/Modulo 17 Hacking Mobile Platforms/05 Mobile Device Management (MDM).md": "LiNotebookTabs",
   "CEHv13/Training/Modulo 17 Hacking Mobile Platforms/06 Mobile Security Tools.md": "LiNotebookTabs",
-  "Hacking Pentesting/Maquina Psycho Paso a paso.md": "FasComputer",
   "Hacking Pentesting/Maquina Injection.md": "FasComputer",
   "Hacking Pentesting/FFW_FortiGate": "TiWall",
   "Hacking Pentesting/Firsthacking.md": "FasComputer",
@@ -351,5 +350,9 @@
   "eJPT _V1/1. Assessment Methodologies/2. Asses Methodologies - Footprinting & Scanning": "LiFolder",
   "eJPT _V1/1. Assessment Methodologies/3. Asses Methodologies - Enumeration": "LiFolder",
   "eJPT _V1/1. Assessment Methodologies/4. AMethodologies - Vulnerability Assestment": "LiFolder",
-  "eJPT _V1/1. Assessment Methodologies/5. Methodologies - Auditing Fundamentals": "LiFolder"
+  "eJPT _V1/1. Assessment Methodologies/5. Methodologies - Auditing Fundamentals": "LiFolder",
+  "Hacking Pentesting/Maquina Psycho.md": {
+    "iconName": "FasComputer",
+    "iconColor": "#ebee11"
+  }
 }

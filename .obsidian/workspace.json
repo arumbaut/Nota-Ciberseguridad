@@ -13,98 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zphisher.md",
+                "file": "Hacking Pentesting/Savitar/Maquinas DMV y WPOWN.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Zphisher"
-            }
-          },
-          {
-            "id": "0cbe66b019f44cb7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CEHv13/Training/02 Puertos.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "02 Puertos"
-            }
-          },
-          {
-            "id": "c327bfdfb999ee1b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CEHv13/Training/Modulo 20 Cryptography/15 Cryptography Attacks.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "15 Cryptography Attacks"
-            }
-          },
-          {
-            "id": "5a88bcf8506ebd72",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CEHv13/Training/Modulo 20 Cryptography/15 Cryptography Attacks.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "15 Cryptography Attacks"
-            }
-          },
-          {
-            "id": "c65792cbf0337393",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CEHv13/Training/Modulo 06 System Hacking/1.1 Types of Password Attacks.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "1.1 Types of Password Attacks"
-            }
-          },
-          {
-            "id": "d18f6045193ed4b2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CEHv13/Training/Modulo 12 Evading IDS, Firewalls, and Honeypots/04 Types of IDS Alerts.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "04 Types of IDS Alerts"
-            }
-          },
-          {
-            "id": "4b19212d2b6ce4fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CEHv13/Training/Ataques/Acanneo de redes Resumen.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Acanneo de redes Resumen"
+              "title": "Maquinas DMV y WPOWN"
             }
           }
         ]
@@ -280,38 +194,38 @@
   },
   "active": "7e50e5aae3db3446",
   "lastOpenFiles": [
-    "2025-07-21.md",
-    "Zphisher.md",
-    "Notas de Ciberseguridad/WIndows Comands.md",
+    "Hacking Pentesting/Vacaciones.md",
+    "Notas de Ciberseguridad/Tools Use/Escaladas de Privilegios mediante Ficheros.md",
+    "Notas de Ciberseguridad/Tools Use/Nmap nota.md",
+    "Notas de Ciberseguridad/Tools Use/Metasploit Notas.md",
     "Notas de Ciberseguridad/Tools Use/Gobuster Notas.md",
+    "Notas de Ciberseguridad/Ejecutar codigo mediante ficheros php o phtml.md",
+    "Notas de Ciberseguridad/Crear una reverse shell.md",
+    "Notas de Ciberseguridad/Adquirir un pront.md",
+    "Hacking Pentesting/Maquina Psycho.md",
+    "Hacking Pentesting/Maquina Injection.md",
+    "Hacking Pentesting/Hedgehog.md",
+    "Hacking Pentesting/Firsthacking.md",
+    "Hacking Pentesting/Breakmyssh.md",
     "Hacking Pentesting/Borazuwarahctf.md",
+    "Zphisher.md",
+    "CEHv13/Training/Ataques/Acanneo de redes Resumen.md",
+    "CEHv13/Training/Modulo 12 Evading IDS, Firewalls, and Honeypots/04 Types of IDS Alerts.md",
+    "CEHv13/Training/Modulo 06 System Hacking/1.1 Types of Password Attacks.md",
+    "CEHv13/Training/Modulo 20 Cryptography/15 Cryptography Attacks.md",
+    "CEHv13/Training/02 Puertos.md",
+    "2025-07-21.md",
+    "Notas de Ciberseguridad/WIndows Comands.md",
     "Notas de Ciberseguridad/Tools Use",
     "eJPT _V1/1. Assessment Methodologies/3. Asses Methodologies - Enumeration/1. SMB Enumeration.md",
     "eJPT _V1/2. Host & Network Penetration Testing/Windows/Exploit Vulnerabilities/4. Exploit SMB con PSExec.md",
-    "Notas de Ciberseguridad/Tools Use/Metasploit Notas.md",
     "eJPT _V1/1. Assessment Methodologies/4. AMethodologies - Vulnerability Assestment/3. Auditing Fundamentals.md",
     "eJPT _V1/1. Assessment Methodologies/4. AMethodologies - Vulnerability Assestment/2.Dtectar las Vulnerabilidades.md",
-    "eJPT _V1/1. Assessment Methodologies/4. AMethodologies - Vulnerability Assestment/1. Vulnerabilities.md",
-    "eJPT _V1/2. Host & Network Penetration Testing/Windows/Exploit Vulnerabilities/1. Windows Vulnerabilities.md",
-    "eJPT _V1/2. Host & Network Penetration Testing/Windows/Exploit Vulnerabilities/2. Exploit WEBDAV in IIS.md",
-    "eJPT _V1/2. Host & Network Penetration Testing/Windows/Exploit Vulnerabilities/3. Exploit WebDav con Metasploit.md",
-    "eJPT _V1/1. Assessment Methodologies/3. Asses Methodologies - Enumeration/4.HTTP Enumeration.md",
-    "CEHv13/Training/Modulo 14 Hacking Web Applications/04 Web Application Hacking Methodology.md",
-    "eJPT _V1/2. Host & Network Penetration Testing/Windows/File System Vulnerabilities/1 Alternate Data Stream.md",
-    "eJPT _V1/2. Host & Network Penetration Testing/Windows/Privilege Scalation/3. Acces Token Impersonation.md",
     "eJPT _V1/2. Host & Network Penetration Testing/Windows/File System Vulnerabilities",
-    "eJPT _V1/2. Host & Network Penetration Testing/Windows/Privilege Scalation/2. Bypassing UAC.md",
-    "eJPT _V1/2. Host & Network Penetration Testing/Windows/Privilege Scalation/1. Win Kernel Exploit.md",
-    "eJPT _V1/2. Host & Network Penetration Testing/Windows/Exploit Vulnerabilities/8. Exploit WinRM.md",
     "eJPT _V1/2. Host & Network Penetration Testing/Windows/Privilege Scalation",
     "eJPT _V1/2. Host & Network Penetration Testing/Windows/Exploit Vulnerabilities",
-    "eJPT _V1/2. Host & Network Penetration Testing/Privilege Scalation.md",
     "eJPT _V1/2. Host & Network Penetration Testing/Windows",
     "eJPT _V1/2. Host & Network Penetration Testing/Windows",
-    "eJPT _V1/2. Host & Network Penetration Testing/Windows/Exploit Vulnerabilities/7. Exploit Windows Vulnerability BlueKeep.md",
-    "eJPT _V1/2. Host & Network Penetration Testing/Windows/Exploit Vulnerabilities/6. Exploit RDP 3389.md",
-    "eJPT _V1/2. Host & Network Penetration Testing/Windows/Exploit Vulnerabilities/5 Exploit Eternal Blue MS17-010 SMB Vulnerability.md",
-    "CEHv13/Training/Ataques/Session Hijacking Resume.md",
     "Untitled",
     "attachments/idVagTn-Wc_logos.png",
     "Docker Notes",
