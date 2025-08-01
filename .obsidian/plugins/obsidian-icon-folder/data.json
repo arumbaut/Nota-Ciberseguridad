@@ -353,5 +353,7 @@
   "Hacking Pentesting/Maquina Psycho.md": {
     "iconName": "FasComputer",
     "iconColor": "#ebee11"
-  }
+  },
+  "eJPT _V1/2. Host & Network Penetration Testing/Windows": "LiFolder",
+  "eJPT _V1/2. Host & Network Penetration Testing/Linux": "LiFolder"
 }

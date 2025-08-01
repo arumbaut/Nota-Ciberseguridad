@@ -9,3 +9,8 @@ mfsconsole
 #Para utilizarla la seleccionamos de la lista sea por el numero o nombre
 >use 29       || >use exploiiy/../....
 ```
+
+Para poner una session de meterpreter en bacground presionamos 
+```
+Ctrl+Z
+```
