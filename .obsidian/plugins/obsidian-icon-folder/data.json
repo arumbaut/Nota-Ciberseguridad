@@ -354,6 +354,8 @@
     "iconName": "FasComputer",
     "iconColor": "#ebee11"
   },
-  "eJPT _V1/2. Host & Network Penetration Testing/Windows": "LiFolder",
-  "eJPT _V1/2. Host & Network Penetration Testing/Linux": "LiFolder"
+  "eJPT _V1/2. Host & Network Penetration Testing/1. System_Host Based Attacks": "LiFolder",
+  "eJPT _V1/2. Host & Network Penetration Testing/1. System_Host Based Attacks/Linux": "LiFolder",
+  "eJPT _V1/2. Host & Network Penetration Testing/1. System_Host Based Attacks/Windows": "LiFolder",
+  "eJPT _V1/2. Host & Network Penetration Testing/2.Network-Based Attacks": "LiFolder"
 }
