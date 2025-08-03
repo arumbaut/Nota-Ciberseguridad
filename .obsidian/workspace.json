@@ -45,12 +45,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "eJPT _V1/2. Host & Network Penetration Testing/3.Metasploit/3. Penetration Testing con Metasloit.md",
+                "file": "eJPT _V1/2. Host & Network Penetration Testing/3.Metasploit/5. MSF Creando y Manejando WORKSPACES.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Penetration Testing con Metasloit"
+              "title": "5. MSF Creando y Manejando WORKSPACES"
             }
           }
         ],
@@ -227,8 +227,12 @@
   },
   "active": "3aba2b15d220300a",
   "lastOpenFiles": [
-    "eJPT _V1/2. Host & Network Penetration Testing/3.Metasploit/2. MetasPloit Arquitectura.md",
+    "eJPT _V1/2. Host & Network Penetration Testing/3.Metasploit/4. MSFconsole Fundamentals.md",
+    "eJPT _V1/2. Host & Network Penetration Testing/3.Metasploit/5. MSF Creando y Manejando WORKSPACES.md",
+    "attachments/Pasted image 20250803214355.png",
     "eJPT _V1/2. Host & Network Penetration Testing/3.Metasploit/3. Penetration Testing con Metasloit.md",
+    "attachments/Pasted image 20250803193332.png",
+    "eJPT _V1/2. Host & Network Penetration Testing/3.Metasploit/2. MetasPloit Arquitectura.md",
     "attachments/Pasted image 20250803165859.png",
     "attachments/Pasted image 20250803165301.png",
     "eJPT _V1/2. Host & Network Penetration Testing/3.Metasploit/1.Framework Overview.md",
@@ -258,9 +262,7 @@
     "eJPT _V1/2. Host & Network Penetration Testing/Linux/4. Linux Credential Dumping.md",
     "eJPT _V1/2. Host & Network Penetration Testing/Linux/3. Linux Privilege Escalation.md",
     "Notas de Ciberseguridad/Tools Use/BurpSuite/Lab 2 SQL injection vulnerability allowing login bypass.md",
-    "Notas de Ciberseguridad/Tools Use/BurpSuite/Lab 1 SQL injection vulnerability in WHERE clause allowing retrieval of hidden data.md",
     "Notas de Ciberseguridad/Tools Use/BurpSuite",
-    "Clippings/SQL injection cheat sheet  Web Security Academy.md",
     "eJPT _V1/2. Host & Network Penetration Testing/1. System_Host Based Attacks/Linux/3. Linux Privilege Escalation",
     "eJPT _V1/2. Host & Network Penetration Testing/1. System_Host Based Attacks/Linux/2. Exploiting Linux Vulnerabilities",
     "eJPT _V1/2. Host & Network Penetration Testing/1. System_Host Based Attacks/Linux",
@@ -272,8 +274,6 @@
     "attachments/image20250611232114.png",
     "attachments/image20250611231323.png",
     "attachments/image20250524225024.png",
-    "attachments/image20250524162821.png",
-    "attachments/image20250524160852.png",
-    "attachments/image20250523055914.png"
+    "attachments/image20250524162821.png"
   ]
 }
