@@ -45,12 +45,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "eJPT _V1/2. Host & Network Penetration Testing/3.Metasploit/5. MSF Creando y Manejando WORKSPACES.md",
+                "file": "eJPT _V1/2. Host & Network Penetration Testing/3.Metasploit/MSF Enumeracion/Nmap.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5. MSF Creando y Manejando WORKSPACES"
+              "title": "Nmap"
             }
           }
         ],
@@ -227,15 +227,18 @@
   },
   "active": "3aba2b15d220300a",
   "lastOpenFiles": [
-    "eJPT _V1/2. Host & Network Penetration Testing/3.Metasploit/4. MSFconsole Fundamentals.md",
-    "eJPT _V1/2. Host & Network Penetration Testing/3.Metasploit/5. MSF Creando y Manejando WORKSPACES.md",
+    "eJPT _V1/2. Host & Network Penetration Testing/3.Metasploit/1. MSF Fundamentals/1.Framework Overview.md",
+    "eJPT _V1/2. Host & Network Penetration Testing/3.Metasploit/MSF Enumeracion/Nmap.md",
+    "eJPT _V1/2. Host & Network Penetration Testing/3.Metasploit/MSF Enumeracion",
+    "eJPT _V1/2. Host & Network Penetration Testing/3.Metasploit/1. MSF Fundamentals/5. MSF Creando y Manejando WORKSPACES.md",
+    "eJPT _V1/2. Host & Network Penetration Testing/3.Metasploit/1. MSF Fundamentals",
+    "eJPT _V1/2. Host & Network Penetration Testing/3.Metasploit/1. MSF Fundamentals/4. MSFconsole Fundamentals.md",
     "attachments/Pasted image 20250803214355.png",
-    "eJPT _V1/2. Host & Network Penetration Testing/3.Metasploit/3. Penetration Testing con Metasloit.md",
+    "eJPT _V1/2. Host & Network Penetration Testing/3.Metasploit/1. MSF Fundamentals/3. Penetration Testing con Metasloit.md",
     "attachments/Pasted image 20250803193332.png",
-    "eJPT _V1/2. Host & Network Penetration Testing/3.Metasploit/2. MetasPloit Arquitectura.md",
+    "eJPT _V1/2. Host & Network Penetration Testing/3.Metasploit/1. MSF Fundamentals/2. MetasPloit Arquitectura.md",
     "attachments/Pasted image 20250803165859.png",
     "attachments/Pasted image 20250803165301.png",
-    "eJPT _V1/2. Host & Network Penetration Testing/3.Metasploit/1.Framework Overview.md",
     "eJPT _V1/2. Host & Network Penetration Testing/3.Metasploit/Untitled.canvas",
     "eJPT _V1/2. Host & Network Penetration Testing/2.Network-Based Attacks/4. Filtros para Wiffi.md",
     "eJPT _V1/2. Host & Network Penetration Testing/3.Metasploit",
@@ -261,13 +264,10 @@
     "eJPT _V1/2. Host & Network Penetration Testing/1. System_Host Based Attacks/Linux/1. Linux Vulnerabilities.md",
     "eJPT _V1/2. Host & Network Penetration Testing/Linux/4. Linux Credential Dumping.md",
     "eJPT _V1/2. Host & Network Penetration Testing/Linux/3. Linux Privilege Escalation.md",
-    "Notas de Ciberseguridad/Tools Use/BurpSuite/Lab 2 SQL injection vulnerability allowing login bypass.md",
     "Notas de Ciberseguridad/Tools Use/BurpSuite",
     "eJPT _V1/2. Host & Network Penetration Testing/1. System_Host Based Attacks/Linux/3. Linux Privilege Escalation",
     "eJPT _V1/2. Host & Network Penetration Testing/1. System_Host Based Attacks/Linux/2. Exploiting Linux Vulnerabilities",
     "eJPT _V1/2. Host & Network Penetration Testing/1. System_Host Based Attacks/Linux",
-    "eJPT _V1/2. Host & Network Penetration Testing/1. System_Host Based Attacks/Windows/4. Windows Credentian Dumping",
-    "Notas de Ciberseguridad/Tools Use",
     "attachments/idVagTn-Wc_logos.png",
     "Untitled.canvas",
     "attachments/Pasted image 20250606091404.png",
