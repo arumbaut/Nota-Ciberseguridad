@@ -59,12 +59,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "eJPT _V1/2. Host & Network Penetration Testing/3.Metasploit/MSF Enumeracion/6. Web Server Enum.md",
+                "file": "Notas de Ciberseguridad/Tools Use/BurpSuite/Lab 1 SQL injection vulnerability in WHERE clause allowing retrieval of hidden data.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "6. Web Server Enum"
+              "title": "Lab 1 SQL injection vulnerability in WHERE clause allowing retrieval of hidden data"
             }
           }
         ],
@@ -241,8 +241,12 @@
   },
   "active": "95f69a2b00c8ee14",
   "lastOpenFiles": [
-    "eJPT _V1/2. Host & Network Penetration Testing/3.Metasploit/MSF Enumeracion/5. SMB Enumeration.md",
+    "Notas de Ciberseguridad/Tools Use/BurpSuite/Lab 3 SQLi UNION attack determining the number of columns returned by the query.md",
+    "attachments/Pasted image 20250804225808.png",
+    "attachments/Pasted image 20250804222604.png",
+    "Notas de Ciberseguridad/Tools Use/BurpSuite/Lab 2 SQL injection vulnerability allowing login bypass.md",
     "eJPT _V1/2. Host & Network Penetration Testing/3.Metasploit/MSF Enumeracion/6. Web Server Enum.md",
+    "eJPT _V1/2. Host & Network Penetration Testing/3.Metasploit/MSF Enumeracion/5. SMB Enumeration.md",
     "eJPT _V1/2. Host & Network Penetration Testing/3.Metasploit/MSF Enumeracion/4. FTP Enumeration.md",
     "eJPT _V1/2. Host & Network Penetration Testing/3.Metasploit/MSF Enumeracion/3. Port Scanning With Auxiliary Modules.md",
     "attachments/Pasted image 20250804105420.png",
@@ -277,17 +281,12 @@
     "eJPT _V1/2. Host & Network Penetration Testing/1. System_Host Based Attacks/Windows/2. Privilege Scalation/1. Win Kernel Exploit.md",
     "eJPT _V1/2. Host & Network Penetration Testing/1. System_Host Based Attacks/Windows/1. Exploit Vulnerabilities/1. Windows Vulnerabilities.md",
     "eJPT _V1/2. Host & Network Penetration Testing/1. System_Host Based Attacks/Windows/1. Exploit Vulnerabilities/7. Exploit Windows Vulnerability BlueKeep.md",
-    "eJPT _V1/2. Host & Network Penetration Testing/1. System_Host Based Attacks/Windows/1. Exploit Vulnerabilities/6. Exploit RDP 3389.md",
-    "eJPT _V1/2. Host & Network Penetration Testing/1. System_Host Based Attacks/Windows/1. Exploit Vulnerabilities/5 Exploit Eternal Blue MS17-010 SMB Vulnerability.md",
-    "eJPT _V1/2. Host & Network Penetration Testing/1. System_Host Based Attacks/Windows/1. Exploit Vulnerabilities/4. Exploit SMB con PSExec.md",
     "Notas de Ciberseguridad/Tools Use/BurpSuite",
     "eJPT _V1/2. Host & Network Penetration Testing/1. System_Host Based Attacks/Linux/3. Linux Privilege Escalation",
     "eJPT _V1/2. Host & Network Penetration Testing/1. System_Host Based Attacks/Linux/2. Exploiting Linux Vulnerabilities",
     "eJPT _V1/2. Host & Network Penetration Testing/1. System_Host Based Attacks/Linux",
     "attachments/idVagTn-Wc_logos.png",
     "Untitled.canvas",
-    "attachments/Pasted image 20250606091404.png",
-    "attachments/image20250611232114.png",
-    "attachments/image20250611231323.png"
+    "attachments/Pasted image 20250606091404.png"
   ]
 }
