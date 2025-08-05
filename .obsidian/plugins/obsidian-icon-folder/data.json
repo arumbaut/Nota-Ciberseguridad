@@ -360,5 +360,6 @@
   "eJPT _V1/2. Host & Network Penetration Testing/2.Network-Based Attacks": "LiFolder",
   "eJPT _V1/2. Host & Network Penetration Testing/3.Metasploit": "TiFolder",
   "eJPT _V1/2. Host & Network Penetration Testing/3.Metasploit/1. MSF Fundamentals": "LiFolder",
-  "eJPT _V1/2. Host & Network Penetration Testing/3.Metasploit/MSF Enumeracion": "LiFolder"
+  "eJPT _V1/2. Host & Network Penetration Testing/3.Metasploit/MSF Enumeracion": "LiFolder",
+  "eJPT _V1/2. Host & Network Penetration Testing/3.Metasploit/Vulnerability Scanning": "LiFolder"
 }
