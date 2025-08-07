@@ -335,7 +335,6 @@
   "CEHv13/Training/DNS Hierarchy.md": "TiWorldWww",
   "CEHv13/Training/Modulo 03 Scanning Networks 03/01.1 TCP Communication Flags.md": "TiNotes",
   "CEHv13/Training/Modulo 03 Scanning Networks 03/01.2 Comunicación TCP IP.md": "TiNotes",
-  "Hacking Pentesting/Savitar/Maquinas DMV y WPOWN.md": "FasComputer",
   "CEHv13/Training/Formato ICMP Message.md": "📦",
   "Hacking Pentesting/Pinguino Mario": "🐧",
   "eJPT _V1": {
@@ -363,5 +362,6 @@
   "eJPT _V1/2. Host & Network Penetration Testing/3.Metasploit/MSF Enumeracion": "LiFolder",
   "eJPT _V1/2. Host & Network Penetration Testing/3.Metasploit/Vulnerability Scanning": "LiFolder",
   "BurpSuite Certification/SQL Injection": "LiFolder",
-  "BurpSuite Certification/1. Aprentice": "LiFolder"
+  "BurpSuite Certification/1. Aprentice": "LiFolder",
+  "Hacking Pentesting/Savitar/Maquinas DMV y WPWN.md": "FasComputer"
 }
