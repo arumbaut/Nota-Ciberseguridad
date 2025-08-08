@@ -39,12 +39,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "eJPT _V1/2. Host & Network Penetration Testing/3.Metasploit/4. Client-Side Attacks/1. Payloads.md",
+                "file": "eJPT _V1/2. Host & Network Penetration Testing/3.Metasploit/4. Client-Side Attacks/4. Automating Metasploit With Resource Scripts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Payloads"
+              "title": "4. Automating Metasploit With Resource Scripts"
             }
           }
         ],
@@ -221,8 +221,15 @@
   },
   "active": "2e47eccf5c918198",
   "lastOpenFiles": [
+    "eJPT _V1/2. Host & Network Penetration Testing/3.Metasploit/6. Exploitation/3. Post Exploitation",
+    "eJPT _V1/2. Host & Network Penetration Testing/3.Metasploit/6. Exploitation/2. Linux",
+    "eJPT _V1/2. Host & Network Penetration Testing/3.Metasploit/6. Exploitation/1. Windows",
+    "eJPT _V1/2. Host & Network Penetration Testing/3.Metasploit/6. Exploitation",
+    "eJPT _V1/2. Host & Network Penetration Testing/3.Metasploit/4. Client-Side Attacks/3. Injecting Payloads Into Windows Portable Executables.md",
+    "eJPT _V1/2. Host & Network Penetration Testing/3.Metasploit/4. Client-Side Attacks/4. Automating Metasploit With Resource Scripts.md",
+    "eJPT _V1/2. Host & Network Penetration Testing/3.Metasploit/4. Client-Side Attacks/2. Encoder Payloads.md",
+    "eJPT _V1/2. Host & Network Penetration Testing/3.Metasploit/4. Client-Side Attacks/1. Crear Payloads.md",
     "eJPT _V1/2. Host & Network Penetration Testing/3.Metasploit/3. Vulnerability Scanning/3. Web App Vulnerability Scanning With WMAP.md",
-    "eJPT _V1/2. Host & Network Penetration Testing/3.Metasploit/4. Client-Side Attacks/1. Payloads.md",
     "eJPT _V1/2. Host & Network Penetration Testing/3.Metasploit/4. Client-Side Attacks",
     "eJPT _V1/2. Host & Network Penetration Testing/3.Metasploit/2. MSF Enumeracion/7. MySQL Enumeration.md",
     "eJPT _V1/2. Host & Network Penetration Testing/3.Metasploit/2. MSF Enumeracion/8. SSH Enumeration.md",
@@ -246,11 +253,7 @@
     "BurpSuite Certification/1. Aprentice/Untitled",
     "BurpSuite Certification/SQL Injection/Lab 4 SQL injection UNION attack, finding a column containing text.md",
     "BurpSuite Certification/1. Aprentice",
-    "BurpSuite Certification/1. Aprentice.md",
     "BurpSuite Certification/SQL Injection",
-    "eJPT _V1/2. Host & Network Penetration Testing/3.Metasploit/1. MSF Fundamentals/1.Framework Overview.md",
-    "Docker Notes/Instalacion Nessus Kali Docker.md",
-    "Docker Notes/N8N en docker.md",
     "eJPT _V1/2. Host & Network Penetration Testing/3.Metasploit/3. Vulnerability Scanning",
     "attachments/Pasted image 20250804225808.png",
     "attachments/Pasted image 20250804222604.png",
@@ -263,9 +266,6 @@
     "attachments/Pasted image 20250803165859.png",
     "attachments/Pasted image 20250803165301.png",
     "eJPT _V1/2. Host & Network Penetration Testing/3.Metasploit/Untitled.canvas",
-    "eJPT _V1/2. Host & Network Penetration Testing/3.Metasploit",
-    "eJPT _V1/2. Host & Network Penetration Testing/2.Network-Based Attacks",
-    "eJPT _V1/2. Host & Network Penetration Testing/1. System_Host Based Attacks",
     "attachments/idVagTn-Wc_logos.png",
     "Untitled.canvas",
     "attachments/Pasted image 20250606091404.png"
