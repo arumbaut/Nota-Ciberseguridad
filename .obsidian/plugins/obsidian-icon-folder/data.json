@@ -359,9 +359,10 @@
   "eJPT _V1/2. Host & Network Penetration Testing/2.Network-Based Attacks": "LiFolder",
   "eJPT _V1/2. Host & Network Penetration Testing/3.Metasploit": "TiFolder",
   "eJPT _V1/2. Host & Network Penetration Testing/3.Metasploit/1. MSF Fundamentals": "LiFolder",
-  "eJPT _V1/2. Host & Network Penetration Testing/3.Metasploit/MSF Enumeracion": "LiFolder",
-  "eJPT _V1/2. Host & Network Penetration Testing/3.Metasploit/Vulnerability Scanning": "LiFolder",
   "BurpSuite Certification/SQL Injection": "LiFolder",
   "BurpSuite Certification/1. Aprentice": "LiFolder",
-  "Hacking Pentesting/Savitar/Maquinas DMV y WPWN.md": "FasComputer"
+  "Hacking Pentesting/Savitar/Maquinas DMV y WPWN.md": "FasComputer",
+  "eJPT _V1/2. Host & Network Penetration Testing/3.Metasploit/2. MSF Enumeracion": "LiFolder",
+  "eJPT _V1/2. Host & Network Penetration Testing/3.Metasploit/3. Vulnerability Scanning": "LiFolder",
+  "eJPT _V1/2. Host & Network Penetration Testing/3.Metasploit/4. Client-Side Attacks": "LiFolder"
 }
