@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SOC Training/Soc Notes.md",
+                "file": "Cheat Sheets/Gobuster Cheat Sheets.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Soc Notes"
+              "title": "Gobuster Cheat Sheets"
             }
           }
         ],
@@ -252,8 +252,19 @@
   },
   "active": "ea775009f37bd4b2",
   "lastOpenFiles": [
-    "BurpSuite Certification/SQL Injection/9. Listado del contenido de la base de datos.md",
+    "eJPT _V1/2. Host & Network Penetration Testing/Exploitation/4. 1. 1. Searching For Exploits.md",
+    "Cheat Sheets/Nmap Cheat Sheets.md",
+    "Cheat Sheets/Escaladas de Privilegios mediante Ficheros.md",
+    "Cheat Sheets/Wfuzz.md",
+    "Cheat Sheets/Metasploit Notas.md",
+    "Cheat Sheets/Gobuster Cheat Sheets.md",
+    "Cheat Sheets/Nmap nota.md",
+    "eJPT _V1/2. Host & Network Penetration Testing/Exploitation/3. Vulnerability Scanning With Metasploit.md",
+    "Cheat Sheets/Hydra.md",
+    "eJPT _V1/2. Host & Network Penetration Testing/Exploitation/2. Vulnerability Scanning With Nmap Scripts.md",
+    "eJPT _V1/2. Host & Network Penetration Testing/Exploitation/1. Banner Grabbing.md",
     "SOC Training/Soc Notes.md",
+    "BurpSuite Certification/SQL Injection/9. Listado del contenido de la base de datos.md",
     "SOC Training",
     "BurpSuite Certification/SQL Injection/7. Recuperar múltiples valores dentro de una sola columna.md",
     "BurpSuite Certification/SQL Injection/8. Examen de la base de datos en ataques de inyección SQL.md",
@@ -268,20 +279,9 @@
     "BurpSuite Certification/3. File upload vulnerabilities/9. Explotación de vulnerabilidades de carga de archivos sin ejecución remota de código.md",
     "BurpSuite Certification/3. File upload vulnerabilities/8. Exploiting file upload race conditions.md",
     "BurpSuite Certification/3. File upload vulnerabilities/7. Validación defectuosa del contenido del archivo.md",
-    "BurpSuite Certification/3. File upload vulnerabilities/6. Obfuscating file extensions.md",
-    "BurpSuite Certification/3. File upload vulnerabilities/5. Lista negra insuficiente de tipos de archivos peligrosos.md",
-    "BurpSuite Certification/3. File upload vulnerabilities/4. Explotación de la validación defectuosa de las cargas de archivos.md",
-    "eJPT _V1/2. Host & Network Penetration Testing/Exploitation/2. Vulnerability Scanning With Nmap Scripts.md",
-    "eJPT _V1/2. Host & Network Penetration Testing/Exploitation/1. Banner Grabbing.md",
-    "eJPT _V1/2. Host & Network Penetration Testing/3.Metasploit/6. Exploitation/5. Linux Post Exploitation/4. Establishing Persistence On Linux.md",
     "eJPT _V1/2. Host & Network Penetration Testing/Exploitation",
     "attachments/Pasted image 20250821132833.png",
     "attachments/Pasted image 20250821132829.png",
-    "eJPT _V1/2. Host & Network Penetration Testing/3.Metasploit/6. Exploitation/5. Linux Post Exploitation/3. Dumping Hashes With Hashdump.md",
-    "eJPT _V1/2. Host & Network Penetration Testing/3.Metasploit/6. Exploitation/5. Linux Post Exploitation/2. Linux Privilege Escalation - Exploiting A Vulnerable Program.md",
-    "BurpSuite Certification/3. File upload vulnerabilities/3. Aprovechar la carga de archivos sin restricciones para implementar un shell web.md",
-    "BurpSuite Certification/3. File upload vulnerabilities/2. ¿Cómo manejan los servidores web las solicitudes de archivos estáticos?.md",
-    "BurpSuite Certification/3. File upload vulnerabilities/1. Cuáles son las vulnerabilidades de carga de archivos.md",
     "BurpSuite Certification/3. File upload vulnerabilities",
     "BurpSuite Certification/2. Path traversal",
     "attachments/Pasted image 20250818144717.png",

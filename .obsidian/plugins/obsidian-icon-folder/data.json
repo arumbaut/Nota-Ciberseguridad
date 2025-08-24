@@ -379,5 +379,9 @@
   "SOC Training": {
     "iconName": "LiFolder",
     "iconColor": "#591aea"
+  },
+  "Cheat Sheets": {
+    "iconName": "LiFolder",
+    "iconColor": "#bed12e"
   }
 }
