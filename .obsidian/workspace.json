@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BurpSuite Certification/SQL Injection/9. Listado del contenido de la base de datos.md",
+                "file": "SOC Training/Soc Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "9. Listado del contenido de la base de datos"
+              "title": "Soc Notes"
             }
           }
         ],
@@ -252,9 +252,11 @@
   },
   "active": "ea775009f37bd4b2",
   "lastOpenFiles": [
+    "BurpSuite Certification/SQL Injection/9. Listado del contenido de la base de datos.md",
+    "SOC Training/Soc Notes.md",
+    "SOC Training",
     "BurpSuite Certification/SQL Injection/7. Recuperar múltiples valores dentro de una sola columna.md",
     "BurpSuite Certification/SQL Injection/8. Examen de la base de datos en ataques de inyección SQL.md",
-    "BurpSuite Certification/SQL Injection/9. Listado del contenido de la base de datos.md",
     "BurpSuite Certification/SQL Injection/6. Uso de un ataque UNION de inyección SQL para recuperar datos interesantes.md",
     "BurpSuite Certification/SQL Injection/4. SQL injection UNION attack, finding a column containing text.md",
     "BurpSuite Certification/SQL Injection/3. SQLi UNION attack determining the number of columns returned by the query.md",
@@ -280,7 +282,6 @@
     "BurpSuite Certification/3. File upload vulnerabilities/3. Aprovechar la carga de archivos sin restricciones para implementar un shell web.md",
     "BurpSuite Certification/3. File upload vulnerabilities/2. ¿Cómo manejan los servidores web las solicitudes de archivos estáticos?.md",
     "BurpSuite Certification/3. File upload vulnerabilities/1. Cuáles son las vulnerabilidades de carga de archivos.md",
-    "BurpSuite Certification/2. Path traversal/Cómo prevenir un ataque de cruce de ruta.md",
     "BurpSuite Certification/3. File upload vulnerabilities",
     "BurpSuite Certification/2. Path traversal",
     "attachments/Pasted image 20250818144717.png",
@@ -290,7 +291,6 @@
     "eJPT _V1/2. Host & Network Penetration Testing/3.Metasploit/6. Exploitation/2. Linux",
     "eJPT _V1/2. Host & Network Penetration Testing/3.Metasploit/6. Exploitation/1. Windows",
     "eJPT _V1/2. Host & Network Penetration Testing/3.Metasploit/6. Exploitation",
-    "eJPT _V1/2. Host & Network Penetration Testing/3.Metasploit/4. Client-Side Attacks",
     "attachments/Pasted image 20250804225808.png",
     "attachments/Pasted image 20250804222604.png",
     "attachments/Pasted image 20250804105420.png",
