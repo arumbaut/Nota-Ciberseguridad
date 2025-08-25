@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SOC Training/Soc Notes.md",
+                "file": "Wazuh VM.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Soc Notes"
+              "title": "Wazuh VM"
             }
           }
         ],
@@ -252,6 +252,7 @@
   },
   "active": "ea775009f37bd4b2",
   "lastOpenFiles": [
+    "SOC Training/Soc Notes.md",
     "Wazuh VM.md",
     "Cheat Sheets/Gobuster Cheat Sheets.md",
     "eJPT _V1/2. Host & Network Penetration Testing/Exploitation/4. 1. 1. Searching For Exploits.md",
@@ -264,7 +265,6 @@
     "Cheat Sheets/Hydra.md",
     "eJPT _V1/2. Host & Network Penetration Testing/Exploitation/2. Vulnerability Scanning With Nmap Scripts.md",
     "eJPT _V1/2. Host & Network Penetration Testing/Exploitation/1. Banner Grabbing.md",
-    "SOC Training/Soc Notes.md",
     "BurpSuite Certification/SQL Injection/9. Listado del contenido de la base de datos.md",
     "SOC Training",
     "BurpSuite Certification/SQL Injection/7. Recuperar múltiples valores dentro de una sola columna.md",

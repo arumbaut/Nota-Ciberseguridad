@@ -1,6 +1,7 @@
 
 Para la instalacion de la maquina virtual 
 Link 
+https://documentation.wazuh.com/current/deployment-options/virtual-machine/virtual-machine.html
 
 Para cambiar la pass de admin
 
