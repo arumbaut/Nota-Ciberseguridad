@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cheat Sheets/Gobuster Cheat Sheets.md",
+                "file": "SOC Training/Soc Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gobuster Cheat Sheets"
+              "title": "Soc Notes"
             }
           }
         ],
@@ -252,12 +252,13 @@
   },
   "active": "ea775009f37bd4b2",
   "lastOpenFiles": [
+    "Wazuh VM.md",
+    "Cheat Sheets/Gobuster Cheat Sheets.md",
     "eJPT _V1/2. Host & Network Penetration Testing/Exploitation/4. 1. 1. Searching For Exploits.md",
     "Cheat Sheets/Nmap Cheat Sheets.md",
     "Cheat Sheets/Escaladas de Privilegios mediante Ficheros.md",
     "Cheat Sheets/Wfuzz.md",
     "Cheat Sheets/Metasploit Notas.md",
-    "Cheat Sheets/Gobuster Cheat Sheets.md",
     "Cheat Sheets/Nmap nota.md",
     "eJPT _V1/2. Host & Network Penetration Testing/Exploitation/3. Vulnerability Scanning With Metasploit.md",
     "Cheat Sheets/Hydra.md",
@@ -278,7 +279,6 @@
     "BurpSuite Certification/3. File upload vulnerabilities/10. Subir archivos usando PUT.md",
     "BurpSuite Certification/3. File upload vulnerabilities/9. Explotación de vulnerabilidades de carga de archivos sin ejecución remota de código.md",
     "BurpSuite Certification/3. File upload vulnerabilities/8. Exploiting file upload race conditions.md",
-    "BurpSuite Certification/3. File upload vulnerabilities/7. Validación defectuosa del contenido del archivo.md",
     "eJPT _V1/2. Host & Network Penetration Testing/Exploitation",
     "attachments/Pasted image 20250821132833.png",
     "attachments/Pasted image 20250821132829.png",
