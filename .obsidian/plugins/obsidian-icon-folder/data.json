@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "🦈",
       "TiPrompt",
       "FasComputer",
       "LiFolder",
-      "TiFolder",
-      "🐧"
+      "TiFolder"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -304,13 +304,6 @@
   },
   "CEHv13/Training/Modulo 17 Hacking Mobile Platforms/05 Mobile Device Management (MDM).md": "LiNotebookTabs",
   "CEHv13/Training/Modulo 17 Hacking Mobile Platforms/06 Mobile Security Tools.md": "LiNotebookTabs",
-  "Hacking Pentesting/Maquina Injection.md": "FasComputer",
-  "Hacking Pentesting/FFW_FortiGate": "TiWall",
-  "Hacking Pentesting/Firsthacking.md": "FasComputer",
-  "Hacking Pentesting/Borazuwarahctf.md": "FasComputer",
-  "Hacking Pentesting/Hedgehog.md": "FasComputer",
-  "Hacking Pentesting/Breakmyssh.md": "FasComputer",
-  "Hacking Pentesting/Vacaciones.md": "FasComputer",
   "CEHv13/Training/Modulo 05 Vulnerability Analysis/07 Vulnerability Assessment Reports.md": "TiNotes",
   "CEHv13/Training/Modulo 19 Cloud Computing/04 Cloud Attacks.md": {
     "iconName": "LiNotebookTabs",
@@ -349,10 +342,6 @@
   "eJPT _V1/1. Assessment Methodologies/3. Asses Methodologies - Enumeration": "LiFolder",
   "eJPT _V1/1. Assessment Methodologies/4. AMethodologies - Vulnerability Assestment": "LiFolder",
   "eJPT _V1/1. Assessment Methodologies/5. Methodologies - Auditing Fundamentals": "LiFolder",
-  "Hacking Pentesting/Maquina Psycho.md": {
-    "iconName": "FasComputer",
-    "iconColor": "#ebee11"
-  },
   "eJPT _V1/2. Host & Network Penetration Testing/1. System_Host Based Attacks": "LiFolder",
   "eJPT _V1/2. Host & Network Penetration Testing/1. System_Host Based Attacks/Linux": "LiFolder",
   "eJPT _V1/2. Host & Network Penetration Testing/1. System_Host Based Attacks/Windows": "LiFolder",
@@ -361,7 +350,6 @@
   "eJPT _V1/2. Host & Network Penetration Testing/3.Metasploit/1. MSF Fundamentals": "LiFolder",
   "BurpSuite Certification/SQL Injection": "LiFolder",
   "BurpSuite Certification/1. Aprentice": "LiFolder",
-  "Hacking Pentesting/Savitar/Maquinas DMV y WPWN.md": "FasComputer",
   "eJPT _V1/2. Host & Network Penetration Testing/3.Metasploit/2. MSF Enumeracion": "LiFolder",
   "eJPT _V1/2. Host & Network Penetration Testing/3.Metasploit/3. Vulnerability Scanning": "LiFolder",
   "eJPT _V1/2. Host & Network Penetration Testing/3.Metasploit/4. Client-Side Attacks": "LiFolder",
@@ -370,8 +358,6 @@
   "eJPT _V1/2. Host & Network Penetration Testing/3.Metasploit/6. Exploitation/2. Linux": "LiFolder",
   "eJPT _V1/2. Host & Network Penetration Testing/3.Metasploit/6. Exploitation/3. Post Exploitation": "LiFolder",
   "eJPT _V1/2. Host & Network Penetration Testing/3.Metasploit/6. Exploitation/4. Windows Post Exploitation": "LiFolder",
-  "Hacking Pentesting/tproot.md": "FasComputer",
-  "Hacking Pentesting/Comandos mas utilizados.md": "TiPrompt",
   "eJPT _V1/2. Host & Network Penetration Testing/3.Metasploit/6. Exploitation/5. Linux Post Exploitation": "LiFolder",
   "BurpSuite Certification/2. Path traversal": "LiFolder",
   "BurpSuite Certification/3. File upload vulnerabilities": "LiFolder",
@@ -383,5 +369,20 @@
   "Cheat Sheets": {
     "iconName": "LiFolder",
     "iconColor": "#bed12e"
-  }
+  },
+  "Hacking Pentesting CTF/Borazuwarahctf.md": "FasComputer",
+  "Hacking Pentesting CTF/Breakmyssh.md": "FasComputer",
+  "Hacking Pentesting CTF/Comandos mas utilizados.md": "TiPrompt",
+  "Hacking Pentesting CTF/FFW_FortiGate": "TiWall",
+  "Hacking Pentesting CTF/Firsthacking.md": "FasComputer",
+  "Hacking Pentesting CTF/Hedgehog.md": "FasComputer",
+  "Hacking Pentesting CTF/Maquina Injection.md": "FasComputer",
+  "Hacking Pentesting CTF/Maquina Psycho.md": {
+    "iconName": "FasComputer",
+    "iconColor": "#ebee11"
+  },
+  "Hacking Pentesting CTF/Vacaciones.md": "FasComputer",
+  "Hacking Pentesting CTF/tproot.md": "FasComputer",
+  "Hacking Pentesting CTF/Savitar/Maquinas DMV y WPWN.md": "FasComputer",
+  "Wireshark": "🦈"
 }
