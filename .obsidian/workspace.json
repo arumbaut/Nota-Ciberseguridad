@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wireshark/Master Clase/8. Localizacion Geo IP.md",
+                "file": "eJPT _V1/2. Host & Network Penetration Testing/Exploitation/4.  Searching For Exploits.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "8. Localizacion Geo IP"
+              "title": "4.  Searching For Exploits"
             }
           }
         ],
@@ -135,7 +135,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 279.5086555480957
+    "width": 392.5086555480957
   },
   "right": {
     "id": "dd62f90908c3232e",
@@ -252,9 +252,9 @@
   },
   "active": "ea775009f37bd4b2",
   "lastOpenFiles": [
+    "Wireshark/Master Clase/8. Localizacion Geo IP.md",
     "attachments/Pasted image 20250826092244.png",
     "Wireshark/Master Clase/7. Extracting Files from PCAPs with Wireshark.md",
-    "Wireshark/Master Clase/8. Localizacion Geo IP.md",
     "attachments/Pasted image 20250826084748.png",
     "attachments/Pasted image 20250826084654.png",
     "attachments/Pasted image 20250826084527.png",
@@ -278,7 +278,7 @@
     "Wireshark",
     "SOC Training/Soc Notes.md",
     "Cheat Sheets/Gobuster Cheat Sheets.md",
-    "eJPT _V1/2. Host & Network Penetration Testing/Exploitation/4. 1. 1. Searching For Exploits.md",
+    "eJPT _V1/2. Host & Network Penetration Testing/Exploitation/4.  Searching For Exploits.md",
     "Cheat Sheets/Nmap Cheat Sheets.md",
     "Cheat Sheets/Escaladas de Privilegios mediante Ficheros.md",
     "Cheat Sheets/Wfuzz.md",
@@ -292,7 +292,6 @@
     "SOC Training",
     "BurpSuite Certification/SQL Injection/7. Recuperar múltiples valores dentro de una sola columna.md",
     "eJPT _V1/2. Host & Network Penetration Testing/Exploitation",
-    "attachments/Pasted image 20250821132833.png",
     "BurpSuite Certification/3. File upload vulnerabilities",
     "BurpSuite Certification/2. Path traversal",
     "eJPT _V1/2. Host & Network Penetration Testing/3.Metasploit/6. Exploitation/5. Linux Post Exploitation",
