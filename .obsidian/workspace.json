@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wireshark/Master Clase/3. Filtering Package.md",
+                "file": "Wireshark/Master Clase/8. Localizacion Geo IP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Filtering Package"
+              "title": "8. Localizacion Geo IP"
             }
           }
         ],
@@ -252,11 +252,21 @@
   },
   "active": "ea775009f37bd4b2",
   "lastOpenFiles": [
+    "attachments/Pasted image 20250826092244.png",
+    "Wireshark/Master Clase/7. Extracting Files from PCAPs with Wireshark.md",
+    "Wireshark/Master Clase/8. Localizacion Geo IP.md",
+    "attachments/Pasted image 20250826084748.png",
+    "attachments/Pasted image 20250826084654.png",
+    "attachments/Pasted image 20250826084527.png",
+    "Wireshark/Master Clase/6. Statistics.md",
+    "attachments/Pasted image 20250826084045.png",
+    "Wireshark/Master Clase/5. Use Time Column.md",
+    "Wireshark/Master Clase/4. Name Resolution.md",
+    "Wireshark/Master Clase/3. Filtering Package.md",
     "attachments/Pasted image 20250825222334.png",
     "attachments/Pasted image 20250825222314.png",
     "attachments/Pasted image 20250825221951.png",
     "Wireshark/Master Clase/2. Capturar paquetes desde el terminal.md",
-    "Wireshark/Master Clase/3. Filtering Package.md",
     "Wireshark/Master Clase/1. Apuntes.md",
     "Wireshark/Master Clase",
     "attachments/Pasted image 20250825211639.png",
@@ -281,23 +291,13 @@
     "BurpSuite Certification/SQL Injection/9. Listado del contenido de la base de datos.md",
     "SOC Training",
     "BurpSuite Certification/SQL Injection/7. Recuperar múltiples valores dentro de una sola columna.md",
-    "BurpSuite Certification/SQL Injection/8. Examen de la base de datos en ataques de inyección SQL.md",
-    "BurpSuite Certification/SQL Injection/6. Uso de un ataque UNION de inyección SQL para recuperar datos interesantes.md",
-    "BurpSuite Certification/SQL Injection/4. SQL injection UNION attack, finding a column containing text.md",
-    "BurpSuite Certification/SQL Injection/3. SQLi UNION attack determining the number of columns returned by the query.md",
-    "BurpSuite Certification/SQL Injection/2. SQL injection vulnerability allowing login bypass.md",
     "eJPT _V1/2. Host & Network Penetration Testing/Exploitation",
     "attachments/Pasted image 20250821132833.png",
-    "attachments/Pasted image 20250821132829.png",
     "BurpSuite Certification/3. File upload vulnerabilities",
     "BurpSuite Certification/2. Path traversal",
-    "attachments/Pasted image 20250818144717.png",
     "eJPT _V1/2. Host & Network Penetration Testing/3.Metasploit/6. Exploitation/5. Linux Post Exploitation",
     "eJPT _V1/2. Host & Network Penetration Testing/3.Metasploit/6. Exploitation/4. Windows Post Exploitation",
     "eJPT _V1/2. Host & Network Penetration Testing/3.Metasploit/6. Exploitation/3. Post Exploitation",
-    "attachments/Pasted image 20250804225808.png",
-    "attachments/Pasted image 20250804222604.png",
-    "attachments/Pasted image 20250804105420.png",
     "eJPT _V1/2. Host & Network Penetration Testing/3.Metasploit/Untitled.canvas",
     "Untitled.canvas"
   ]
