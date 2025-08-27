@@ -69,16 +69,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "eJPT _V1/2. Host & Network Penetration Testing/Exploitation/4.  Searching For Exploits.md",
+                "file": "eJPT _V1/2. Host & Network Penetration Testing/Exploitation/5. 1. Fixing Exploits.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4.  Searching For Exploits"
+              "title": "5. 1. Fixing Exploits"
+            }
+          },
+          {
+            "id": "7b5fbf7f7082a238",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.12"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.12"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -250,8 +262,10 @@
       "edge-tts:Read note aloud": false
     }
   },
-  "active": "ea775009f37bd4b2",
+  "active": "7b5fbf7f7082a238",
   "lastOpenFiles": [
+    "eJPT _V1/2. Host & Network Penetration Testing/Exploitation/4.  Searching For Exploits.md",
+    "eJPT _V1/2. Host & Network Penetration Testing/Exploitation/5. 1. Fixing Exploits.md",
     "Wireshark/Master Clase/8. Localizacion Geo IP.md",
     "attachments/Pasted image 20250826092244.png",
     "Wireshark/Master Clase/7. Extracting Files from PCAPs with Wireshark.md",
@@ -278,7 +292,6 @@
     "Wireshark",
     "SOC Training/Soc Notes.md",
     "Cheat Sheets/Gobuster Cheat Sheets.md",
-    "eJPT _V1/2. Host & Network Penetration Testing/Exploitation/4.  Searching For Exploits.md",
     "Cheat Sheets/Nmap Cheat Sheets.md",
     "Cheat Sheets/Escaladas de Privilegios mediante Ficheros.md",
     "Cheat Sheets/Wfuzz.md",
