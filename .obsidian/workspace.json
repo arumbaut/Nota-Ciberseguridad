@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "eJPT _V1/2. Host & Network Penetration Testing/Exploitation/6.  Cross-Compiling Exploits.md",
+                "file": "Cheat Sheets/Net Cat.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "6.  Cross-Compiling Exploits"
+              "title": "Net Cat"
             }
           }
         ],
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "python",
+                "query": "gobuster",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -135,7 +135,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296.5086555480957
+    "width": 325.5086555480957
   },
   "right": {
     "id": "dd62f90908c3232e",
@@ -252,8 +252,15 @@
   },
   "active": "ea775009f37bd4b2",
   "lastOpenFiles": [
+    "eJPT _V1/2. Host & Network Penetration Testing/Exploitation/7.1 Bind Shells.md",
+    "Cheat Sheets/Net Cat.md",
+    "Cheat Sheets/Gobuster Cheat Sheets.md",
+    "eJPT _V1/2. Host & Network Penetration Testing/Exploitation/7.3 Reverse Shell Cheatsheet.md",
+    "eJPT _V1/2. Host & Network Penetration Testing/Exploitation/7. Bind & Reverse Shells NetCat.md",
+    "eJPT _V1/2. Host & Network Penetration Testing/Exploitation/7.2 Reverse Shells.md",
     "eJPT _V1/2. Host & Network Penetration Testing/Exploitation/5. Fixing Exploits.md",
     "eJPT _V1/2. Host & Network Penetration Testing/Exploitation/6.  Cross-Compiling Exploits.md",
+    "eJPT _V1/2. Host & Network Penetration Testing/Exploitation/7. Shells",
     "eJPT _V1/2. Host & Network Penetration Testing/3.Metasploit/6. Exploitation/1. Windows/4. Exploiting A Vulnerable Apache Tomcat Web Server.md",
     "eJPT _V1/2. Host & Network Penetration Testing/Exploitation/4.  Searching For Exploits.md",
     "eJPT _V1/2. Host & Network Penetration Testing/3.Metasploit/3. Vulnerability Scanning/1. Vulnerability Scanning With MSF.md",
@@ -283,21 +290,14 @@
     "attachments/Pasted image 20250825211622.png",
     "Zphisher.md",
     "Install GVM.md",
-    "Wazuh VM.md",
     "Wireshark",
     "Wireshark",
-    "SOC Training/Soc Notes.md",
-    "Cheat Sheets/Gobuster Cheat Sheets.md",
-    "Cheat Sheets/Nmap Cheat Sheets.md",
-    "Cheat Sheets/Escaladas de Privilegios mediante Ficheros.md",
-    "Cheat Sheets/Wfuzz.md",
     "SOC Training",
     "eJPT _V1/2. Host & Network Penetration Testing/Exploitation",
     "BurpSuite Certification/3. File upload vulnerabilities",
     "BurpSuite Certification/2. Path traversal",
     "eJPT _V1/2. Host & Network Penetration Testing/3.Metasploit/6. Exploitation/5. Linux Post Exploitation",
     "eJPT _V1/2. Host & Network Penetration Testing/3.Metasploit/6. Exploitation/4. Windows Post Exploitation",
-    "eJPT _V1/2. Host & Network Penetration Testing/3.Metasploit/6. Exploitation/3. Post Exploitation",
     "eJPT _V1/2. Host & Network Penetration Testing/3.Metasploit/Untitled.canvas",
     "Untitled.canvas"
   ]
