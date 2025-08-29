@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wireshark/W_Shark for Cyber_S and T_Hunting/Analyzing a Log4j Exploit with Wireshark.md",
+                "file": "Wireshark/W_Shark for Cyber_S and T_Hunting/2. Catch a MiTM ARP Poison Attack with W_Shark.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Analyzing a Log4j Exploit with Wireshark"
+              "title": "2. Catch a MiTM ARP Poison Attack with W_Shark"
             }
           }
         ],
@@ -232,7 +232,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 332.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -252,8 +252,9 @@
   },
   "active": "ea775009f37bd4b2",
   "lastOpenFiles": [
+    "Wireshark/W_Shark for Cyber_S and T_Hunting/1. Analyzing a Log4j Exploit with Wireshark.md",
+    "Wireshark/W_Shark for Cyber_S and T_Hunting/2. Catch a MiTM ARP Poison Attack with W_Shark.md",
     "Cheat Sheets/Net Cat.md",
-    "Wireshark/W_Shark for Cyber_S and T_Hunting/Analyzing a Log4j Exploit with Wireshark.md",
     "Wireshark/W_Shark for Cyber_S and T_Hunting",
     "eJPT _V1/2. Host & Network Penetration Testing/Exploitation/7.3 Reverse Shell Cheatsheet.md",
     "eJPT _V1/2. Host & Network Penetration Testing/Exploitation/7.2 Reverse Shells.md",
@@ -290,7 +291,6 @@
     "Wireshark/Master Clase",
     "attachments/Pasted image 20250825211639.png",
     "attachments/Pasted image 20250825211622.png",
-    "Zphisher.md",
     "Wireshark",
     "Wireshark",
     "SOC Training",
