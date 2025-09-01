@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "eJPT _V1/2. Host & Network Penetration Testing/Exploitation/8. 1. Exploitation Frameworks.md",
+                "file": "Wireshark/W_Shark for Cyber_S and T_Hunting/3. How ARP Poisoning Works   Man-in-the-Middle.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "8. 1. Exploitation Frameworks"
+              "title": "3. How ARP Poisoning Works   Man-in-the-Middle"
             }
           }
         ],
@@ -252,10 +252,11 @@
   },
   "active": "ea775009f37bd4b2",
   "lastOpenFiles": [
+    "eJPT _V1/2. Host & Network Penetration Testing/Exploitation/8. 1. Exploitation Frameworks.md",
+    "Wireshark/W_Shark for Cyber_S and T_Hunting/3. How ARP Poisoning Works   Man-in-the-Middle.md",
     "eJPT _V1/2. Host & Network Penetration Testing/Exploitation/10. Linux Exploitation",
     "eJPT _V1/2. Host & Network Penetration Testing/Exploitation/9. Windows Exploitation",
     "eJPT _V1/2. Host & Network Penetration Testing/3.Metasploit/1. Metasploit Curso.md",
-    "eJPT _V1/2. Host & Network Penetration Testing/Exploitation/8. 1. Exploitation Frameworks.md",
     "3.Metasploit.md",
     "BurpSuite Certification/SQL Injection/10.1 Blind SQL injection Ejemplo Practico.md",
     "BurpSuite Certification/SQL Injection/10. Blind SQL injection.md",
@@ -297,7 +298,6 @@
     "SOC Training",
     "eJPT _V1/2. Host & Network Penetration Testing/Exploitation",
     "BurpSuite Certification/3. File upload vulnerabilities",
-    "BurpSuite Certification/2. Path traversal",
     "eJPT _V1/2. Host & Network Penetration Testing/3.Metasploit/Untitled.canvas",
     "Untitled.canvas"
   ]
