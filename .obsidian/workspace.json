@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wireshark/W_Shark for Cyber_S and T_Hunting/5. NULL Scan.md",
+                "file": "CEHv13/Training/Modulo 06 System Hacking/3 Escalating Privileges.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5. NULL Scan"
+              "title": "3 Escalating Privileges"
             }
           }
         ],
@@ -252,10 +252,16 @@
   },
   "active": "ea775009f37bd4b2",
   "lastOpenFiles": [
-    "Wireshark/W_Shark for Cyber_S and T_Hunting/4. How IP FRAGMENTATION Works.md",
+    "CEHv13/Training/Modulo 06 System Hacking/2.2 Buffer Overflow.md",
+    "CEHv13/Training/Modulo 06 System Hacking/2.1 Metasploit Architecture.md",
+    "CEHv13/Training/Modulo 06 System Hacking/02 Vulnerability Exploitation.md",
+    "CEHv13/Training/Modulo 06 System Hacking/1.1 Types of Password Attacks.md",
+    "eJPT _V1/2. Host & Network Penetration Testing/Exploitation/10. Linux Exploitation/9. Windows Exploitation/1. Port Scanning and Enumeration.md",
+    "eJPT _V1/2. Host & Network Penetration Testing/Exploitation/8.  Exploitation Frameworks.md",
+    "eJPT _V1/2. Host & Network Penetration Testing/Exploitation/10. Linux Exploitation/9. Windows Exploitation",
     "Wireshark/W_Shark for Cyber_S and T_Hunting/5. NULL Scan.md",
+    "Wireshark/W_Shark for Cyber_S and T_Hunting/4. How IP FRAGMENTATION Works.md",
     "Wireshark/W_Shark for Cyber_S and T_Hunting/3. How ARP Poisoning Works   Man-in-the-Middle.md",
-    "eJPT _V1/2. Host & Network Penetration Testing/Exploitation/8. 1. Exploitation Frameworks.md",
     "eJPT _V1/2. Host & Network Penetration Testing/Exploitation/10. Linux Exploitation",
     "eJPT _V1/2. Host & Network Penetration Testing/Exploitation/9. Windows Exploitation",
     "eJPT _V1/2. Host & Network Penetration Testing/3.Metasploit/1. Metasploit Curso.md",
@@ -277,11 +283,6 @@
     "eJPT _V1/2. Host & Network Penetration Testing/3.Metasploit/6. Exploitation/1. Windows/4. Exploiting A Vulnerable Apache Tomcat Web Server.md",
     "eJPT _V1/2. Host & Network Penetration Testing/Exploitation/4.  Searching For Exploits.md",
     "eJPT _V1/2. Host & Network Penetration Testing/3.Metasploit/3. Vulnerability Scanning/1. Vulnerability Scanning With MSF.md",
-    "eJPT _V1/2. Host & Network Penetration Testing/1. System_Host Based Attacks/Linux/4. Linux Credential Dumping/1. Dumping Linux Password Hashes.md",
-    "eJPT _V1/2. Host & Network Penetration Testing/Exploitation/1. Banner Grabbing.md",
-    "CEHv13/Practical Exercices/CEHv12 Practical Exercises.md",
-    "Hacking Pentesting CTF/Firsthacking.md",
-    "Hacking Pentesting CTF/Hedgehog.md",
     "attachments/Pasted image 20250826092244.png",
     "attachments/Pasted image 20250826084748.png",
     "attachments/Pasted image 20250826084654.png",
@@ -297,7 +298,6 @@
     "Wireshark",
     "SOC Training",
     "eJPT _V1/2. Host & Network Penetration Testing/Exploitation",
-    "BurpSuite Certification/3. File upload vulnerabilities",
     "eJPT _V1/2. Host & Network Penetration Testing/3.Metasploit/Untitled.canvas",
     "Untitled.canvas"
   ]
