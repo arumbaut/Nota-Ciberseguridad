@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CEHv13/Training/Modulo 06 System Hacking/3 Escalating Privileges.md",
+                "file": "eJPT _V1/2. Host & Network Penetration Testing/Exploitation/10. Linux Exploitation/9. Windows Exploitation/3. Targeting SSH.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3 Escalating Privileges"
+              "title": "3. Targeting SSH"
             }
           }
         ],
@@ -252,11 +252,15 @@
   },
   "active": "ea775009f37bd4b2",
   "lastOpenFiles": [
+    "eJPT _V1/2. Host & Network Penetration Testing/Exploitation/10. Linux Exploitation/9. Windows Exploitation/1. Port Scanning and Enumeration.md",
+    "eJPT _V1/2. Host & Network Penetration Testing/Exploitation/10. Linux Exploitation/9. Windows Exploitation/3. Targeting SSH.md",
+    "Cheat Sheets/Wfuzz.md",
+    "CEHv13/Training/Modulo 06 System Hacking/3.1 Tools for Defending against DLL and Dylib Hijacking.md",
+    "CEHv13/Training/Modulo 06 System Hacking/3 Escalating Privileges.md",
     "CEHv13/Training/Modulo 06 System Hacking/2.2 Buffer Overflow.md",
     "CEHv13/Training/Modulo 06 System Hacking/2.1 Metasploit Architecture.md",
     "CEHv13/Training/Modulo 06 System Hacking/02 Vulnerability Exploitation.md",
     "CEHv13/Training/Modulo 06 System Hacking/1.1 Types of Password Attacks.md",
-    "eJPT _V1/2. Host & Network Penetration Testing/Exploitation/10. Linux Exploitation/9. Windows Exploitation/1. Port Scanning and Enumeration.md",
     "eJPT _V1/2. Host & Network Penetration Testing/Exploitation/8.  Exploitation Frameworks.md",
     "eJPT _V1/2. Host & Network Penetration Testing/Exploitation/10. Linux Exploitation/9. Windows Exploitation",
     "Wireshark/W_Shark for Cyber_S and T_Hunting/5. NULL Scan.md",
@@ -278,11 +282,7 @@
     "Cheat Sheets/Gobuster Cheat Sheets.md",
     "eJPT _V1/2. Host & Network Penetration Testing/Exploitation/7. Bind & Reverse Shells NetCat.md",
     "eJPT _V1/2. Host & Network Penetration Testing/Exploitation/5. Fixing Exploits.md",
-    "eJPT _V1/2. Host & Network Penetration Testing/Exploitation/6.  Cross-Compiling Exploits.md",
     "eJPT _V1/2. Host & Network Penetration Testing/Exploitation/7. Shells",
-    "eJPT _V1/2. Host & Network Penetration Testing/3.Metasploit/6. Exploitation/1. Windows/4. Exploiting A Vulnerable Apache Tomcat Web Server.md",
-    "eJPT _V1/2. Host & Network Penetration Testing/Exploitation/4.  Searching For Exploits.md",
-    "eJPT _V1/2. Host & Network Penetration Testing/3.Metasploit/3. Vulnerability Scanning/1. Vulnerability Scanning With MSF.md",
     "attachments/Pasted image 20250826092244.png",
     "attachments/Pasted image 20250826084748.png",
     "attachments/Pasted image 20250826084654.png",
