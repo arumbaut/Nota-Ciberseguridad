@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "TiSql",
       "🦈",
       "TiPrompt",
       "FasComputer",
-      "LiFolder",
-      "TiFolder"
+      "LiFolder"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -384,5 +384,9 @@
   "Hacking Pentesting CTF/Vacaciones.md": "FasComputer",
   "Hacking Pentesting CTF/tproot.md": "FasComputer",
   "Hacking Pentesting CTF/Savitar/Maquinas DMV y WPWN.md": "FasComputer",
-  "Wireshark": "🦈"
+  "Wireshark": "🦈",
+  "BurpSuite Certification/SQL Injection/10.1 SQL injection with conditional responsesEjemplo Practico.md": {
+    "iconName": "TiSql",
+    "iconColor": "#c0b107"
+  }
 }

@@ -69,16 +69,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "eJPT _V1/2. Host & Network Penetration Testing/Exploitation/10. Linux Exploitation/9. Windows Exploitation/3. Targeting SSH.md",
+                "file": "Cheat Sheets/Enmumeracion/SQL Enumeration.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Targeting SSH"
+              "title": "SQL Enumeration"
+            }
+          },
+          {
+            "id": "090ac1589be7307a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BurpSuite Certification/SQL Injection/13.1 Lab Blind SQL injection with time delays and information retrieval.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "13.1 Lab Blind SQL injection with time delays and information retrieval"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -110,7 +124,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "gobuster",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -135,7 +149,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 307.5086555480957
+    "width": 315.5086555480957
   },
   "right": {
     "id": "dd62f90908c3232e",
@@ -250,39 +264,44 @@
       "edge-tts:Read note aloud": false
     }
   },
-  "active": "ea775009f37bd4b2",
+  "active": "090ac1589be7307a",
   "lastOpenFiles": [
-    "eJPT _V1/2. Host & Network Penetration Testing/Exploitation/10. Linux Exploitation/9. Windows Exploitation/1. Port Scanning and Enumeration.md",
-    "eJPT _V1/2. Host & Network Penetration Testing/Exploitation/10. Linux Exploitation/9. Windows Exploitation/3. Targeting SSH.md",
-    "Cheat Sheets/Wfuzz.md",
-    "CEHv13/Training/Modulo 06 System Hacking/3.1 Tools for Defending against DLL and Dylib Hijacking.md",
-    "CEHv13/Training/Modulo 06 System Hacking/3 Escalating Privileges.md",
-    "CEHv13/Training/Modulo 06 System Hacking/2.2 Buffer Overflow.md",
-    "CEHv13/Training/Modulo 06 System Hacking/2.1 Metasploit Architecture.md",
-    "CEHv13/Training/Modulo 06 System Hacking/02 Vulnerability Exploitation.md",
-    "CEHv13/Training/Modulo 06 System Hacking/1.1 Types of Password Attacks.md",
-    "eJPT _V1/2. Host & Network Penetration Testing/Exploitation/8.  Exploitation Frameworks.md",
-    "eJPT _V1/2. Host & Network Penetration Testing/Exploitation/10. Linux Exploitation/9. Windows Exploitation",
-    "Wireshark/W_Shark for Cyber_S and T_Hunting/5. NULL Scan.md",
-    "Wireshark/W_Shark for Cyber_S and T_Hunting/4. How IP FRAGMENTATION Works.md",
-    "Wireshark/W_Shark for Cyber_S and T_Hunting/3. How ARP Poisoning Works   Man-in-the-Middle.md",
+    "BurpSuite Certification/SQL Injection/13. Exploiting blind SQL injection by triggering time delays.md",
+    "BurpSuite Certification/SQL Injection/13.1 Lab Blind SQL injection with time delays and information retrieval.md",
+    "BurpSuite Certification/SQL Injection/12.1 Lab Visible error-based SQL injection.md",
+    "BurpSuite Certification/SQL Injection/12. Extracting sensitive data via verbose SQL error messages.md",
+    "BurpSuite Certification/SQL Injection/11.1 Lab Blind SQL injection with conditional errors.md",
+    "BurpSuite Certification/SQL Injection/SQL injection cheat sheet.md",
+    "BurpSuite Certification/SQL Injection/11. Error-based SQL injection.md",
+    "BurpSuite Certification/SQL Injection/1. SQL injection vulnerability in WHERE clause allowing retrieval of hidden data.md",
+    "BurpSuite Certification/SQL Injection/10.1 SQL injection with conditional responsesEjemplo Practico.md",
+    "BurpSuite Certification/SQL Injection/10. Blind SQL injection.md",
+    "BurpSuite Certification/SQL Injection/9. Listado del contenido de la base de datos.md",
+    "BurpSuite Certification/SQL Injection/8. Examen de la base de datos en ataques de inyección SQL.md",
+    "Cheat Sheets/Exploitation/Linux/Exploit Samba.md",
+    "eJPT _V1/2. Host & Network Penetration Testing/1. System_Host Based Attacks/Linux/2. Exploiting Linux Vulnerabilities/4. Exploit SAMBA.md",
+    "eJPT _V1/2. Host & Network Penetration Testing/1. System_Host Based Attacks/Linux/2. Exploiting Linux Vulnerabilities/3. Exploit SSH.md",
+    "Cheat Sheets/Exploitation/Linux/Exploit SSH.md",
+    "eJPT _V1/2. Host & Network Penetration Testing/1. System_Host Based Attacks/Linux/2. Exploiting Linux Vulnerabilities/2. Exploit FTP.md",
+    "Cheat Sheets/Exploitation/Linux/Exploiting FTP.md",
+    "Cheat Sheets/Exploitation/Linux/Exploiting Bash.md",
+    "eJPT _V1/2. Host & Network Penetration Testing/1. System_Host Based Attacks/Linux/2. Exploiting Linux Vulnerabilities/1. Exploiting Bash CVE-2014-6271 Vulnerability (Shellshock).md",
+    "eJPT _V1/2. Host & Network Penetration Testing/1. System_Host Based Attacks/Linux/1. Linux Vulnerabilities.md",
+    "eJPT _V1/1. Assessment Methodologies/4. AMethodologies - Vulnerability Assestment/3. Auditing Fundamentals.md",
+    "Cheat Sheets/Exploitation/Linux",
+    "Cheat Sheets/Exploitation",
+    "Cheat Sheets/Untitled.md",
+    "eJPT _V1/1. Assessment Methodologies/4. AMethodologies - Vulnerability Assestment/2.Dtectar las Vulnerabilidades.md",
+    "eJPT _V1/1. Assessment Methodologies/4. AMethodologies - Vulnerability Assestment/1. Vulnerabilities.md",
+    "eJPT _V1/1. Assessment Methodologies/3. Asses Methodologies - Enumeration/5. SQL Enumeration.md",
+    "Cheat Sheets/Enmumeracion",
+    "BurpSuite Certification/3. File upload vulnerabilities/Labs",
+    "BurpSuite Certification/1. Aprentice/Labs",
+    "BurpSuite Certification/2. Path traversal/Labs",
+    "eJPT _V1/2. Host & Network Penetration Testing/Exploitation/9. Windows Exploitation/9. Windows Exploitation",
     "eJPT _V1/2. Host & Network Penetration Testing/Exploitation/10. Linux Exploitation",
     "eJPT _V1/2. Host & Network Penetration Testing/Exploitation/9. Windows Exploitation",
-    "eJPT _V1/2. Host & Network Penetration Testing/3.Metasploit/1. Metasploit Curso.md",
-    "3.Metasploit.md",
-    "BurpSuite Certification/SQL Injection/10.1 Blind SQL injection Ejemplo Practico.md",
-    "BurpSuite Certification/SQL Injection/10. Blind SQL injection.md",
-    "Wireshark/W_Shark for Cyber_S and T_Hunting/2. Catch a MiTM ARP Poison Attack with W_Shark.md",
-    "Wireshark/W_Shark for Cyber_S and T_Hunting/1. Analyzing a Log4j Exploit with Wireshark.md",
-    "Cheat Sheets/Net Cat.md",
     "Wireshark/W_Shark for Cyber_S and T_Hunting",
-    "eJPT _V1/2. Host & Network Penetration Testing/Exploitation/7.3 Reverse Shell Cheatsheet.md",
-    "eJPT _V1/2. Host & Network Penetration Testing/Exploitation/7.2 Reverse Shells.md",
-    "eJPT _V1/2. Host & Network Penetration Testing/Exploitation/7.1 Bind Shells.md",
-    "Cheat Sheets/Gobuster Cheat Sheets.md",
-    "eJPT _V1/2. Host & Network Penetration Testing/Exploitation/7. Bind & Reverse Shells NetCat.md",
-    "eJPT _V1/2. Host & Network Penetration Testing/Exploitation/5. Fixing Exploits.md",
-    "eJPT _V1/2. Host & Network Penetration Testing/Exploitation/7. Shells",
     "attachments/Pasted image 20250826092244.png",
     "attachments/Pasted image 20250826084748.png",
     "attachments/Pasted image 20250826084654.png",
@@ -291,13 +310,8 @@
     "attachments/Pasted image 20250825222334.png",
     "attachments/Pasted image 20250825222314.png",
     "attachments/Pasted image 20250825221951.png",
-    "Wireshark/Master Clase",
     "attachments/Pasted image 20250825211639.png",
     "attachments/Pasted image 20250825211622.png",
-    "Wireshark",
-    "Wireshark",
-    "SOC Training",
-    "eJPT _V1/2. Host & Network Penetration Testing/Exploitation",
     "eJPT _V1/2. Host & Network Penetration Testing/3.Metasploit/Untitled.canvas",
     "Untitled.canvas"
   ]
