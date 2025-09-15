@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "eJPT _V1/2. Host & Network Penetration Testing/Exploitation/10. Linux Exploitation/2. Port Scanning & Enumeration.md",
+                "file": "BurpSuite Certification/SQL Injection/17. How to prevent SQL injection.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Port Scanning & Enumeration"
+              "title": "17. How to prevent SQL injection"
             }
           }
         ],
@@ -266,8 +266,14 @@
   },
   "active": "090ac1589be7307a",
   "lastOpenFiles": [
-    "eJPT _V1/2. Host & Network Penetration Testing/Exploitation/10. Linux Exploitation/1. Linux Black Box Penetration Test.md",
+    "BurpSuite Certification/SQL Injection/16. Second-order SQL injection.md",
+    "BurpSuite Certification/SQL Injection/17. How to prevent SQL injection.md",
+    "attachments/Pasted image 20250914204608.png",
+    "BurpSuite Certification/SQL Injection/15.2 Lab SQL injection with filter bypass via XML encoding.md",
+    "BurpSuite Certification/SQL Injection/15.1 Lab SQL injection with filter bypass via XML encoding.md",
+    "eJPT _V1/2. Host & Network Penetration Testing/Exploitation/10. Linux Exploitation/3. Targeting vsFTPd.md",
     "eJPT _V1/2. Host & Network Penetration Testing/Exploitation/10. Linux Exploitation/2. Port Scanning & Enumeration.md",
+    "eJPT _V1/2. Host & Network Penetration Testing/Exploitation/10. Linux Exploitation/1. Linux Black Box Penetration Test.md",
     "attachments/Pasted image 20250914141528.png",
     "eJPT _V1/2. Host & Network Penetration Testing/Exploitation/8.  Exploitation Frameworks.md",
     "eJPT _V1/2. Host & Network Penetration Testing/Exploitation/1. Banner Grabbing.md",
@@ -278,7 +284,6 @@
     "eJPT _V1/2. Host & Network Penetration Testing/3.Metasploit/2. MSF Enumeracion/1. Nmap Port Scanning & Enumeration.md",
     "eJPT _V1/1. Assessment Methodologies/2. Asses Methodologies - Footprinting & Scanning/1. Mapping a Network.md",
     "CEHv13/Training/Modulo 01 Introduccion/01 Information Security.md",
-    "BurpSuite Certification/SQL Injection/15.1 Lab SQL injection with filter bypass via XML encoding.md",
     "BurpSuite Certification/SQL Injection/15. SQL injection in different contexts.md",
     "BurpSuite Certification/SQL Injection/14.2 Lab Blind SQL injection with out-of-band data exfiltration.md",
     "BurpSuite Certification/SQL Injection/14. Exploiting blind SQL injection using out-of-band (OAST) techniques.md",
@@ -289,10 +294,6 @@
     "BurpSuite Certification/SQL Injection/12. Extracting sensitive data via verbose SQL error messages.md",
     "BurpSuite Certification/SQL Injection/11.1 Lab Blind SQL injection with conditional errors.md",
     "BurpSuite Certification/SQL Injection/SQL injection cheat sheet.md",
-    "BurpSuite Certification/SQL Injection/11. Error-based SQL injection.md",
-    "BurpSuite Certification/SQL Injection/1. SQL injection vulnerability in WHERE clause allowing retrieval of hidden data.md",
-    "BurpSuite Certification/SQL Injection/10.1 SQL injection with conditional responsesEjemplo Practico.md",
-    "BurpSuite Certification/SQL Injection/10. Blind SQL injection.md",
     "Cheat Sheets/Exploitation/Linux",
     "Cheat Sheets/Exploitation",
     "Cheat Sheets/Enmumeracion",
@@ -311,7 +312,6 @@
     "attachments/Pasted image 20250825222334.png",
     "attachments/Pasted image 20250825222314.png",
     "attachments/Pasted image 20250825221951.png",
-    "attachments/Pasted image 20250825211639.png",
     "eJPT _V1/2. Host & Network Penetration Testing/3.Metasploit/Untitled.canvas",
     "Untitled.canvas"
   ]
