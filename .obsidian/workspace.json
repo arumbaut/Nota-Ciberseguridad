@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BurpSuite Certification/CSRF Cross-site request forgery/2. ¿Cómo funciona CSRF?.md",
+                "file": "BurpSuite Certification/CSRF Cross-site request forgery/3. Cómo construir un ataque CSRF.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. ¿Cómo funciona CSRF?"
+              "title": "3. Cómo construir un ataque CSRF"
             }
           }
         ],
@@ -266,8 +266,9 @@
   },
   "active": "090ac1589be7307a",
   "lastOpenFiles": [
-    "BurpSuite Certification/CSRF Cross-site request forgery/1. ¿Qué es CSRF?.md",
     "BurpSuite Certification/CSRF Cross-site request forgery/2. ¿Cómo funciona CSRF?.md",
+    "BurpSuite Certification/CSRF Cross-site request forgery/3. Cómo construir un ataque CSRF.md",
+    "BurpSuite Certification/CSRF Cross-site request forgery/1. ¿Qué es CSRF?.md",
     "attachments/Pasted image 20250915081124.png",
     "BurpSuite Certification/SQL Injection/17. How to prevent SQL injection.md",
     "BurpSuite Certification/CSRF Cross-site request forgery",
@@ -295,7 +296,6 @@
     "BurpSuite Certification/SQL Injection/13.1 Lab Blind SQL injection with time delays and information retrieval.md",
     "BurpSuite Certification/SQL Injection/13. Exploiting blind SQL injection by triggering time delays.md",
     "BurpSuite Certification/SQL Injection/12.1 Lab Visible error-based SQL injection.md",
-    "BurpSuite Certification/SQL Injection/12. Extracting sensitive data via verbose SQL error messages.md",
     "Cheat Sheets/Exploitation/Linux",
     "Cheat Sheets/Exploitation",
     "Cheat Sheets/Enmumeracion",
