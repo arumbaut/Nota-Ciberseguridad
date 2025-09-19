@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hacking Pentesting CTF/Practicando XSS.md",
+                "file": "BurpSuite Certification/CSRF Cross-site request forgery/7.1 Laboratorio CSRF donde la validación del token depende del método de solicitud.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Practicando XSS"
+              "title": "7.1 Laboratorio CSRF donde la validación del token depende del método de solicitud"
             }
           }
         ],
@@ -266,8 +266,13 @@
   },
   "active": "090ac1589be7307a",
   "lastOpenFiles": [
-    "BurpSuite Certification/CSRF Cross-site request forgery/3.1 Laboratorio Vulnerabilidad CSRF sin defensas.md",
+    "BurpSuite Certification/CSRF Cross-site request forgery/7. Fallas comunes en la validación de tokens CSRF.md",
+    "BurpSuite Certification/CSRF Cross-site request forgery/7.1 Laboratorio CSRF donde la validación del token depende del método de solicitud.md",
+    "BurpSuite Certification/CSRF Cross-site request forgery/6. ¿Qué es un token CSRF?.md",
+    "BurpSuite Certification/CSRF Cross-site request forgery/5. Defensas comunes contra la CSRF.md",
+    "BurpSuite Certification/CSRF Cross-site request forgery/4. Cómo entregar un exploit CSRF.md",
     "Hacking Pentesting CTF/Practicando XSS.md",
+    "BurpSuite Certification/CSRF Cross-site request forgery/3.1 Laboratorio Vulnerabilidad CSRF sin defensas.md",
     "BurpSuite Certification/CSRF Cross-site request forgery/3. Cómo construir un ataque CSRF.md",
     "BurpSuite Certification/CSRF Cross-site request forgery/2. ¿Cómo funciona CSRF?.md",
     "BurpSuite Certification/CSRF Cross-site request forgery/1. ¿Qué es CSRF?.md",
@@ -291,11 +296,6 @@
     "eJPT _V1/2. Host & Network Penetration Testing/3.Metasploit/2. MSF Enumeracion/1. Nmap Port Scanning & Enumeration.md",
     "eJPT _V1/1. Assessment Methodologies/2. Asses Methodologies - Footprinting & Scanning/1. Mapping a Network.md",
     "CEHv13/Training/Modulo 01 Introduccion/01 Information Security.md",
-    "BurpSuite Certification/SQL Injection/15. SQL injection in different contexts.md",
-    "BurpSuite Certification/SQL Injection/14.2 Lab Blind SQL injection with out-of-band data exfiltration.md",
-    "BurpSuite Certification/SQL Injection/14. Exploiting blind SQL injection using out-of-band (OAST) techniques.md",
-    "BurpSuite Certification/SQL Injection/14.1 Lab Blind SQL injection with out-of-band interactionPRACTITIONERLAB.md",
-    "BurpSuite Certification/SQL Injection/13.1 Lab Blind SQL injection with time delays and information retrieval.md",
     "Cheat Sheets/Exploitation/Linux",
     "Cheat Sheets/Exploitation",
     "Cheat Sheets/Enmumeracion",
