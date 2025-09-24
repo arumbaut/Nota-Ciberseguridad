@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CEHv13/The Ultimate Red Team Cyber Suite Bundle/Penetration Testing with OWASP ZAP/3. Manejo de Politicas de Scan.md",
+                "file": "CEHv13/The Ultimate Red Team Cyber Suite Bundle/Penetration Testing with OWASP ZAP/6. Spidering.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Manejo de Politicas de Scan"
+              "title": "6. Spidering"
             }
           }
         ],
@@ -266,6 +266,14 @@
   },
   "active": "090ac1589be7307a",
   "lastOpenFiles": [
+    "CEHv13/The Ultimate Red Team Cyber Suite Bundle/Penetration Testing with OWASP ZAP/5. Attack Modes.md",
+    "CEHv13/The Ultimate Red Team Cyber Suite Bundle/Penetration Testing with OWASP ZAP/6. Spidering.md",
+    "attachments/Pasted image 20250922170705.png",
+    "attachments/Pasted image 20250922170655.png",
+    "CEHv13/The Ultimate Red Team Cyber Suite Bundle/Penetration Testing with OWASP ZAP/4. Configurations.md",
+    "attachments/Drawing 2025-09-22 13.58.07.excalidraw.md",
+    "attachments/Pasted image 20250922135729.png",
+    "CEHv13/The Ultimate Red Team Cyber Suite Bundle/Penetration Testing with OWASP ZAP/3. Manejo de Politicas de Scan.md",
     "attachments/Pasted image 20250922131630.png",
     "attachments/Pasted image 20250922110635.png",
     "attachments/Pasted image 20250922110520.png",
@@ -274,8 +282,6 @@
     "attachments/Pasted image 20250922104711.png",
     "attachments/Pasted image 20250922104648.png",
     "CEHv13/The Ultimate Red Team Cyber Suite Bundle/Penetration Testing with OWASP ZAP/2. ZAP Marketplace.md",
-    "CEHv13/The Ultimate Red Team Cyber Suite Bundle/Penetration Testing with OWASP ZAP/3. Manejo de Politicas de Scan.md",
-    "attachments/Pasted image 20250922081323.png",
     "CEHv13/The Ultimate Red Team Cyber Suite Bundle/Penetration Testing with OWASP ZAP/1. Instalacion de ZAP en multiples plataformas.md",
     "Cheat Sheets/Convertir a .exe un payload/Convertir de codigo python a .exe.md",
     "CEHv13/The Ultimate Red Team Cyber Suite Bundle/Penetration Testing with OWASP ZAP",
@@ -298,15 +304,9 @@
     "BurpSuite Certification/CSRF Cross-site request forgery/3. Cómo construir un ataque CSRF.md",
     "BurpSuite Certification/CSRF Cross-site request forgery/2. ¿Cómo funciona CSRF?.md",
     "BurpSuite Certification/CSRF Cross-site request forgery/1. ¿Qué es CSRF?.md",
-    "attachments/Pasted image 20250915081124.png",
     "BurpSuite Certification/SQL Injection/17. How to prevent SQL injection.md",
     "BurpSuite Certification/CSRF Cross-site request forgery",
     "BurpSuite Certification/SQL Injection/16. Second-order SQL injection.md",
-    "attachments/Pasted image 20250914204608.png",
-    "BurpSuite Certification/SQL Injection/15.2 Lab SQL injection with filter bypass via XML encoding.md",
-    "BurpSuite Certification/SQL Injection/15.1 Lab SQL injection with filter bypass via XML encoding.md",
-    "eJPT _V1/2. Host & Network Penetration Testing/Exploitation/10. Linux Exploitation/2. Port Scanning & Enumeration.md",
-    "attachments/Pasted image 20250914141528.png",
     "Cheat Sheets/Exploitation/Linux",
     "Cheat Sheets/Exploitation",
     "Cheat Sheets/Enmumeracion",
