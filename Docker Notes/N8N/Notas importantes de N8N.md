@@ -1,0 +1,1 @@
+Para poder obtener información de 2 o mas fuentes distintas en N8N se necesita antes de llegar al nodo que las va a utilizar unificarlas para que este tenga el acceso correcto. Se utiliza el nodo Merge.

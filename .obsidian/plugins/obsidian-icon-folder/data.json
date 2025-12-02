@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FabLinux",
+      "LiFolder",
+      "TiFolder",
       "TiSql",
-      "🦈",
-      "TiPrompt",
-      "FasComputer",
-      "LiFolder"
+      "🦈"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -342,10 +342,10 @@
   "eJPT _V1/1. Assessment Methodologies/3. Asses Methodologies - Enumeration": "LiFolder",
   "eJPT _V1/1. Assessment Methodologies/4. AMethodologies - Vulnerability Assestment": "LiFolder",
   "eJPT _V1/1. Assessment Methodologies/5. Methodologies - Auditing Fundamentals": "LiFolder",
-  "eJPT _V1/2. Host & Network Penetration Testing/1. System_Host Based Attacks": "LiFolder",
+  "eJPT _V1/2. Host & Network Penetration Testing/1. System_Host Based Attacks": "TiFolder",
   "eJPT _V1/2. Host & Network Penetration Testing/1. System_Host Based Attacks/Linux": "LiFolder",
   "eJPT _V1/2. Host & Network Penetration Testing/1. System_Host Based Attacks/Windows": "LiFolder",
-  "eJPT _V1/2. Host & Network Penetration Testing/2.Network-Based Attacks": "LiFolder",
+  "eJPT _V1/2. Host & Network Penetration Testing/2.Network-Based Attacks": "TiFolder",
   "eJPT _V1/2. Host & Network Penetration Testing/3.Metasploit": "TiFolder",
   "eJPT _V1/2. Host & Network Penetration Testing/3.Metasploit/1. MSF Fundamentals": "LiFolder",
   "BurpSuite Certification/SQL Injection": "LiFolder",
@@ -362,10 +362,6 @@
   "BurpSuite Certification/2. Path traversal": "LiFolder",
   "BurpSuite Certification/3. File upload vulnerabilities": "LiFolder",
   "eJPT _V1/2. Host & Network Penetration Testing/Exploitation": "TiFolder",
-  "SOC Training": {
-    "iconName": "LiFolder",
-    "iconColor": "#591aea"
-  },
   "Cheat Sheets": {
     "iconName": "LiFolder",
     "iconColor": "#bed12e"
@@ -385,8 +381,17 @@
   "Hacking Pentesting CTF/tproot.md": "FasComputer",
   "Hacking Pentesting CTF/Savitar/Maquinas DMV y WPWN.md": "FasComputer",
   "Wireshark": "🦈",
-  "BurpSuite Certification/SQL Injection/10.1 SQL injection with conditional responsesEjemplo Practico.md": {
+  "eJPT _V1/2. Host & Network Penetration Testing/PostExplotation": "TiFolder",
+  "SOC Apuntes": {
+    "iconName": "LiFolder",
+    "iconColor": "#591aea"
+  },
+  "BurpSuite Certification/SQL Injection/10.1 SQL injection with conditional responses Ejemplo Practico.md": {
     "iconName": "TiSql",
     "iconColor": "#c0b107"
+  },
+  "Curso de Linux Mario el Pinguino": {
+    "iconName": "FabLinux",
+    "iconColor": "#38da0b"
   }
 }
