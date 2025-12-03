@@ -125,12 +125,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Savitar Cursos/Hacking Web/SQL INJECTION/10 Inyección SQL ciega con interacción out-of-band (OOB).md",
+                "file": "Savitar Cursos/Hacking Web/02 XSS/01 XSS reflejado en HTML sin codificación.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10 Inyección SQL ciega con interacción out-of-band (OOB)"
+              "title": "01 XSS reflejado en HTML sin codificación"
             }
           }
         ],
@@ -166,7 +166,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "forti",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -288,7 +288,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 361.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -308,8 +308,15 @@
   },
   "active": "6cdb46a7898b0be4",
   "lastOpenFiles": [
+    "Hacking Pentesting CTF/FFW_FortiGate/Instalacion FortiGate VM.md",
+    "Savitar Cursos/Hacking Web/02 XSS/01 XSS reflejado en HTML sin codificación.md",
+    "Savitar Cursos/Hacking Web/02 XSS",
+    "2025-09-28.md",
+    "SOC Apuntes/Splunk/Install splunk.md",
+    "Savitar Cursos/Hacking Web/01 SQL INJECTION/06 SQL Injection a ciegas con respuestas condicionales.md",
+    "Savitar Cursos/Hacking Web/01 SQL INJECTION/11 Bypass de filtros con codificación XML en Inyección SQL.md",
+    "Savitar Cursos/Hacking Web/01 SQL INJECTION/10 Inyección SQL ciega con interacción out-of-band (OOB).md",
     "attachments/Pasted image 20251202110151.png",
-    "Savitar Cursos/Hacking Web/SQL INJECTION/10 Inyección SQL ciega con interacción out-of-band (OOB).md",
     "CEHv13/Training/Modulo 03 Scanning Networks 03/01.2 Comunicación TCP IP.md",
     "CEHv13/Training/Modulo 10 Denial-of-Service/03 DoS-DDoS Attack Toolkits.md",
     "CEHv13/Training/Modulo 10 Denial-of-Service/01 DoS-DDoS Concepts.md",
@@ -327,15 +334,10 @@
     "BurpSuite Certification/SQL Injection/13.1 Lab Blind SQL injection with time delays and information retrieval.md",
     "Curso de Linux Mario el Pinguino",
     "BurpSuite Certification/SQL Injection/13. Exploiting blind SQL injection by triggering time delays.md",
-    "Savitar Cursos/Hacking Web/SQL INJECTION/09 Inyección SQL ciega con retrasos y exfiltración de datos.md",
-    "Savitar Cursos/Hacking Web/SQL INJECTION/07 SQL Injection a ciegas con errores condicionales.md",
-    "Savitar Cursos/Hacking Web/SQL INJECTION/08 SQL Injection con Errores Visibles.md",
-    "BurpSuite Certification/SQL Injection/12. Extracting sensitive data via verbose SQL error messages.md",
-    "BurpSuite Certification/SQL Injection/11.1 Lab Blind SQL injection with conditional errors.md",
-    "BurpSuite Certification/SQL Injection/11. Error-based SQL injection.md",
-    "Savitar Cursos/Hacking Web/SQL INJECTION/06 SQL Injection a ciegas con respuestas condicionales.md",
-    "Savitar Cursos/Hacking Web/Creacion de BD.md",
-    "Savitar Cursos/Hacking Web/SQL INJECTION",
+    "Savitar Cursos/Hacking Web/01 SQL INJECTION/09 Inyección SQL ciega con retrasos y exfiltración de datos.md",
+    "Savitar Cursos/Hacking Web/01 SQL INJECTION/07 SQL Injection a ciegas con errores condicionales.md",
+    "Savitar Cursos/Hacking Web/01 SQL INJECTION/08 SQL Injection con Errores Visibles.md",
+    "Savitar Cursos/Hacking Web/01 SQL INJECTION",
     "Savitar Cursos/Hacking Web",
     "Savitar Cursos",
     "Docker Notes/N8N",
@@ -347,7 +349,6 @@
     "attachments/Pasted image 20251015080528.png",
     "attachments/Pasted image 20251015080500.png",
     "attachments/Pasted image 20251015073859.png",
-    "CEHv13/The Ultimate Red Team Cyber Suite Bundle/Penetration Testing with OWASP ZAP/Vulnerability AssesSment of Web App",
     "Untitled.canvas",
     "attachments/Pasted image 20251008151214.png",
     "attachments/Pasted image 20251008143640.png",
