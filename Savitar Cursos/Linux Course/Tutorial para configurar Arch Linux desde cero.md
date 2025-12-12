@@ -1,0 +1,1 @@
+- Tutorial para configurar Arch Linux desde cero: [https://www.youtube.com/watch?v=fshLf6u8B-w](https://www.youtube.com/watch?v=fshLf6u8B-w)

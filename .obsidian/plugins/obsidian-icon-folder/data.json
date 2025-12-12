@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "🧨",
       "FabLinux",
       "LiFolder",
       "TiFolder",
-      "TiSql",
-      "🦈"
+      "TiSql"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -393,5 +393,6 @@
   "Curso de Linux Mario el Pinguino": {
     "iconName": "FabLinux",
     "iconColor": "#38da0b"
-  }
+  },
+  "Savitar Cursos": "🧨"
 }
