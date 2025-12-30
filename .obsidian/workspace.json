@@ -125,12 +125,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Savitar Cursos/Curso Python/17.1 Ejemplo de codigo de creacion de paquete.md",
+                "file": "Savitar Cursos/Curso Python/19 Lectura y Escritura de archivos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "17.1 Ejemplo de codigo de creacion de paquete"
+              "title": "19 Lectura y Escritura de archivos"
             }
           }
         ],
@@ -308,8 +308,10 @@
   },
   "active": "6cdb46a7898b0be4",
   "lastOpenFiles": [
-    "Savitar Cursos/Curso Python/17 Creación y distribución de paquetes.md",
+    "Savitar Cursos/Curso Python/18 Entrada por teclado y salida por pantalla.md",
+    "Savitar Cursos/Curso Python/19 Lectura y Escritura de archivos.md",
     "Savitar Cursos/Curso Python/17.1 Ejemplo de codigo de creacion de paquete.md",
+    "Savitar Cursos/Curso Python/17 Creación y distribución de paquetes.md",
     "Savitar Cursos/Curso Python/16 Modulos de Python.md",
     "Savitar Cursos/Curso Python/15 Decoradores y propiedades.md",
     "Savitar Cursos/Curso Python/14 Encapsulamiento y métodos especiales.md",
@@ -332,8 +334,6 @@
     "Savitar Cursos/Linux Course/05  Privilegios especiales – Capabilities.md",
     "Savitar Cursos/Linux Course/04 Permisos especiales – SUID y SGID.md",
     "Savitar Cursos/Linux Course/03 Control de atributos de ficheros en Linux – Chattr y Lsattr.md",
-    "Savitar Cursos/Linux Course/02 Permisos.md",
-    "Savitar Cursos/Linux Course/01 Comandos Basicos.md",
     "Savitar Cursos/Curso Python",
     "Savitar Cursos/Osint",
     "Master Zero Day",
