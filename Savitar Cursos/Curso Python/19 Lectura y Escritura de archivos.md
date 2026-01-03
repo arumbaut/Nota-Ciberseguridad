@@ -13,31 +13,31 @@ f.close()
 
 Forma mas optima y nos protege de errores ademas python se encarga de cerrar el archivo 
 ```
-with open("ejemplo.txt","w") as f
+with open("ejemplo.txt","w") as f:
 	f.write("Hola que tal!")
 	
 #Escribir multiples lineas
 mis_lineas=["Primera","Segunda","Tercera"]	
 
-with open("ejemplo.txt","w") as f
+with open("ejemplo.txt","w") as f:
 	f.writelines(mis_lineas)
 ```
 
 Para leer
 
 ```
-with open("ejemplo.txt","r") as f
+with open("ejemplo.txt","r") as f:
 	file_content=f.read()
 
 print(file_contetnt)
 
 #Leer linea por linea
-with open("ejemplo.txt","r") as f
+with open("ejemplo.txt","r") as f:
 	for line in f:
 		print(line.strip())
 
 #Leer una linea
-with open("ejemplo.txt","r") as f
+with open("ejemplo.txt","r") as f:
 	primera_linea=f.readline()
 
 print(primera_linea)
@@ -50,6 +50,15 @@ with open("/home/s4vitar/Desktop/S4vitar/Fondos/fondo.png", "rb") as f_in, open(
     f_out.write(file_content)
 ```
 
+
+Manejar excepcion cuando no existe el archivo
+```
+try:
+    with open("prueba.txt", "r") as f: 
+       print(f.read()) 
+except FileNotFoundError: 
+       print("\n[!] No ha sido posible encontrar este archivo")
+```
 
 **Manejo Básico de Archivos**
 

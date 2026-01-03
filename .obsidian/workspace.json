@@ -125,12 +125,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Savitar Cursos/Curso Python/19 Lectura y Escritura de archivos.md",
+                "file": "SOC Apuntes/Splunk/Curso SOC/Ejercicio 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "19 Lectura y Escritura de archivos"
+              "title": "Ejercicio 1"
             }
           }
         ],
@@ -191,7 +191,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.5086555480957
+    "width": 341.5086555480957
   },
   "right": {
     "id": "dd62f90908c3232e",
@@ -308,8 +308,26 @@
   },
   "active": "6cdb46a7898b0be4",
   "lastOpenFiles": [
-    "Savitar Cursos/Curso Python/18 Entrada por teclado y salida por pantalla.md",
+    "SOC Apuntes/Splunk/Curso SOC/01.md",
+    "SOC Apuntes/Splunk/Curso SOC/Ejercicio 1.md",
+    "SOC Apuntes/Splunk/Install splunk.md",
+    "Savitar Cursos/Curso Python/30.1 TkInter.md",
+    "SOC Apuntes/Splunk/Curso SOC",
+    "Savitar Cursos/Curso Python/30 TkkInter para interfaces graficas GUI.md",
+    "Savitar Cursos/Curso Python/29 Librería threading y multiprocessing.md",
+    "Savitar Cursos/Curso Python/28 Urllib3.md",
+    "Savitar Cursos/Curso Python/27 Libreria Request.md",
+    "Savitar Cursos/Curso Python/26 Librerias OS y SYS.md",
+    "Savitar Cursos/Curso Python/25.2 Chat.md",
+    "Savitar Cursos/Curso Python/25.1 Otras Conexiones y protocolos.md",
+    "Savitar Cursos/Curso Python/25 Conecciones de Red y Protocolos.md",
+    "Savitar Cursos/Curso Python/24 Manejo de archivos y diretorios.md",
+    "Savitar Cursos/Curso Python/23 Expresiones regulares.md",
+    "Savitar Cursos/Curso Python/22 Manejo de fechas y hora.md",
+    "Savitar Cursos/Curso Python/21 Guardar elementos serializados en el HD.md",
+    "Savitar Cursos/Curso Python/20 Formateo de cadenas y manipulación de texto.md",
     "Savitar Cursos/Curso Python/19 Lectura y Escritura de archivos.md",
+    "Savitar Cursos/Curso Python/18 Entrada por teclado y salida por pantalla.md",
     "Savitar Cursos/Curso Python/17.1 Ejemplo de codigo de creacion de paquete.md",
     "Savitar Cursos/Curso Python/17 Creación y distribución de paquetes.md",
     "Savitar Cursos/Curso Python/16 Modulos de Python.md",
@@ -317,23 +335,6 @@
     "Savitar Cursos/Curso Python/14 Encapsulamiento y métodos especiales.md",
     "Savitar Cursos/Curso Python/13 Herencia y polimorfismo.md",
     "Savitar Cursos/Curso Python/12 Programación Orientada a Objetos (OOP).md",
-    "Savitar Cursos/Curso Python/08 Listas.md",
-    "Savitar Cursos/Curso Python/10 Conjuntos O SET.md",
-    "Savitar Cursos/Curso Python/09 Tuplas.md",
-    "Savitar Cursos/Curso Python/11 Diccionarios.md",
-    "Savitar Cursos/Curso Python/07 Manejo de errores.md",
-    "Savitar Cursos/Curso Python/06 Funciones y ambitos.md",
-    "Master Zero Day/Curso de Linux Mario el Pinguino/17 Sentencias Condicionales.md",
-    "Master Zero Day/Curso de Linux Mario el Pinguino/16 Creamos un script para automatizar búsquedas en el sistema.md",
-    "Master Zero Day/Curso de Linux Mario el Pinguino/15 du Scripts tratamiento de informacion.md",
-    "Master Zero Day/Curso de Linux Mario el Pinguino/18 Bucles.md",
-    "Savitar Cursos/Linux Course/09 Búsquedas a nivel de sistemas.md",
-    "Savitar Cursos/Linux Course/08 Uso de bashrc y zshrc.md",
-    "Savitar Cursos/Linux Course/07 Estructura de directorios del sistema.md",
-    "Savitar Cursos/Linux Course/06 XARGS.md",
-    "Savitar Cursos/Linux Course/05  Privilegios especiales – Capabilities.md",
-    "Savitar Cursos/Linux Course/04 Permisos especiales – SUID y SGID.md",
-    "Savitar Cursos/Linux Course/03 Control de atributos de ficheros en Linux – Chattr y Lsattr.md",
     "Savitar Cursos/Curso Python",
     "Savitar Cursos/Osint",
     "Master Zero Day",
@@ -343,7 +344,6 @@
     "Savitar Cursos/Linux Course/Ejercicios Scripting Overthewire",
     "Savitar Cursos/Linux Course/Script",
     "Instalaciones/Install lsd",
-    "Instalaciones/Install batcat",
     "attachments/Pasted image 20251203105649.png",
     "attachments/Pasted image 20251203103118.png",
     "attachments/Pasted image 20251202110151.png",
