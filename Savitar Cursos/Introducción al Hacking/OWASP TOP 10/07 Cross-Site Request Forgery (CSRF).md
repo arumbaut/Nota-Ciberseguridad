@@ -59,4 +59,4 @@ accesslevel%5btwitter%5d=2&guid=56" />
 
 Es importante entender que debemos ver en los sitios web con una cuenta propia si tenemos la capacidad para inyectar estas consultas get. Desde burpsuit se pueden cambiar las consultas de POST a GET t de permitirlo el servidor pues aquí tendremos un punto de entrada
 
-![[Pasted image 20260121164544.png]]
+![](../../../attachments/Pasted%20image%2020260121164544.png)

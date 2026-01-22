@@ -114,9 +114,9 @@ curl "http://172.17.0.2/utility.php?url=http://10.0.0.2:4646/nota.txt"
 #Asi reflejamos el escenario
 ```
 
-![[Pasted image 20260122091525.png]]
+![](../../../attachments/Pasted%20image%2020260122091525.png)
 
-![[Pasted image 20260122102050.png]]
+![](../../../attachments/Pasted%20image%2020260122102050.png)
 
 ```PYTHON
 #Scaner para ver atravez de SSRF si existen redes internas 

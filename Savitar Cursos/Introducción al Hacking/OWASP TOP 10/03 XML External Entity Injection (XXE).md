@@ -22,12 +22,14 @@ A continuación, se proporciona el enlace al proyecto de Github correspondiente 
 
 El xxe consiste en injectar nuestro codigo a  codigo XML de las peticiones
 
-![[Pasted image 20260118140144.png]]![[Pasted image 20260118140223.png]]
+![](../../../attachments/Pasted%20image%2020260118140144.png)
+
+![](../../../attachments/Pasted%20image%2020260118140223.png)
 
 Ejemplo practico desde una petición interceptada con burpsuit donde vemos que se envian datos XML y en la respuesta se muestra alguno de ellos haciendo referencia a alguno de los campos enviados podremos introducir una entidad con nuestro código. 
 
 Ej
-![[Pasted image 20260118140457.png]]
+![](../../../attachments/Pasted%20image%2020260118140457.png)
 
 ```xml
 <?xml version="1.0" encoding="UTF-8"?> 
@@ -68,7 +70,7 @@ Aqui insertaremos nuestra entidad para ver si nos devuelve lo insertado en ella
 </root>
 ```
 
-![[Pasted image 20260118141503.png]]
+![](../../../attachments/Pasted%20image%2020260118141503.png)
 
 Intentamos acceder a ficheros dentro de la maquina explotando esta vulnerabilidad
 
@@ -94,12 +96,12 @@ Intentamos acceder a ficheros dentro de la maquina explotando esta vulnerabilida
 </root>
 ```
 
-![[Pasted image 20260118142200.png]]
+![](../../../attachments/Pasted%20image%2020260118142200.png)
 
 
 XXE Out of Band Interaction son aquellas que nos nos devuelven nada en la respuesta similar a las sql blind injection, la web no siempre deja declarar entidades por lo que se actúa enviando una petición a un servidor previamente creado con el código malicioso 
 
-![[Pasted image 20260118142558.png]]
+![](../../../attachments/Pasted%20image%2020260118142558.png)
 
 Si no permite declarar la entidad en la estructura pues la llamamos desde el mismo DOCTYPE
 
