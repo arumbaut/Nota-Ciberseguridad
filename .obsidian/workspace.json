@@ -99,12 +99,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Savitar Cursos/Introducción al Hacking/Docker/05 Comandos comunes para la gestión de contenedores.md",
+                "file": "Savitar Cursos/Introducción al Hacking/OWASP TOP 10/08 Server-Side Request Forgery (SSRF).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "05 Comandos comunes para la gestión de contenedores"
+              "title": "08 Server-Side Request Forgery (SSRF)"
             }
           },
           {
@@ -297,6 +297,15 @@
   },
   "active": "72b2de9c1acc8268",
   "lastOpenFiles": [
+    "Savitar Cursos/Introducción al Hacking/Docker/07 Despliegue de máquinas vulnerables con Docker-Compose.md",
+    "CEHv13/Training/Modulo 03 Scanning Networks 03/01.1 TCP Communication Flags.md",
+    "CEHv13/Training/Modulo 03 Scanning Networks 03/01 Scanning Networks.md",
+    "CEHv13/Training/Modulo 04 Enumeration/03 SNMP Enumeration.md",
+    "CEHv13/Training/Modulo 02 Footprinting and Reconnaissance/03 Whois Footprinting.md",
+    "CEHv13/Training/Modulo 02 Footprinting and Reconnaissance/02 Tools to Search Company`s Sub domains.md",
+    "CEHv13/Training/Modulo 02 Footprinting and Reconnaissance/01 Footprinting Concepts.md",
+    "CEHv13/Exam Questions/CEHv12 Exam Questions Study Guide.md",
+    "Savitar Cursos/Introducción al Hacking/Docker/05 Comandos comunes para la gestión de contenedores.md",
     "Savitar Cursos/Introducción al Hacking/Docker/04 Carga de instrucciones en Docker y desplegando nuestro primer contenedor.md",
     "Savitar Cursos/Introducción al Hacking/Docker/03 Definiendo la estructura básica de Dockerfile.md",
     "Savitar Cursos/Introducción al Hacking/OWASP TOP 10/08 Server-Side Request Forgery (SSRF).md",
@@ -321,16 +330,8 @@
     "Savitar Cursos/Curso Python/28 Urllib3.md",
     "Savitar Cursos/Curso Python/17.1 Ejemplo de codigo de creacion de paquete.md",
     "Savitar Cursos/Curso Python/05 Bucles y condicionales.md",
-    "Savitar Cursos/Curso Python/06 Funciones y ambitos.md",
-    "Savitar Cursos/Curso Python/04 String Formating.md",
-    "Savitar Cursos/Curso Python/19 Lectura y Escritura de archivos.md",
-    "Savitar Cursos/Curso Python/15 Decoradores y propiedades.md",
-    "Savitar Cursos/Curso Python/02 Variables y tipos de datos.md",
     "attachments/Pasted image 20260121085744.png",
     "attachments/Pasted image 20260121085530.png",
-    "Savitar Cursos/Introducción al Hacking/Docker/05 Comandos comunes para la gestión de contenedores.md",
-    "Savitar Cursos/Introducción al Hacking/Docker/02 Instalación de Docker en Linux.md",
-    "Savitar Cursos/Introducción al Hacking/Explotacion y Vulnerabilidades/01 Reverse Shells, Bind Shells y Forward Shells.md",
     "attachments/Pasted image 20260118142558.png",
     "Excalidraw",
     "Savitar Cursos/Introducción al Hacking/OWASP TOP 10/Sin título.canvas",

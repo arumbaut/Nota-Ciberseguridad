@@ -29,8 +29,14 @@ Por ejemplo, si queremos crear una red de tipo “**bridge**“, podemos utiliza
 En este caso, estamos utilizando la opción ‘**–driver=bridge**‘ para indicar que deseamos crear una red de tipo “**bridge**“. La opción –driver nos permite especificar el controlador de red que deseamos utilizar, que puede ser “**bridge**“, “**overlay**“, “**macvlan**“, “**ipvlan**” u otro controlador compatible con Docker.
 
 **Recurso SSRF**:  [https://blog.hackmetrix.com/ssrf-server-side-request-forgery/](https://blog.hackmetrix.com/ssrf-server-side-request-forgery/)
+```
+![](../../../attachments/image20250526094112.png)
 
-![[Pasted image 20260121165924.png]]
+Pasted image 20260121165924.png
+```
+
+
+![](../../../attachments/Pasted%20image%2020260121165924.png)
 
 Con apache2 nos creamos un servidor que si esta expuesto por el puerto 80 y mediante este intentaremos extraer la información de nuestro server en el 4646
 Nos creamos una utilidad en php que nos permita pasar y acceder a una url pasada por parametros
@@ -82,7 +88,7 @@ Seria necesario antes de probar identificar si hay algún oro servidor interno e
 wfuzz -c -t 200 -hl=3 -z range 1,65535 "http://172.17.0.2/utility.php?url=http://127.0.0.1:FUZZ"
 ```
 
-![[Pasted image 20260122002606.png]]
+![](Pasted%20image%2020260122002606.png)
 
 En este escenario nos crearemos 3 contenedores de docker en redes pprivadas para representar el escenario de la imagen.
 
