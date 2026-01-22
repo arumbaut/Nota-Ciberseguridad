@@ -1,5 +1,7 @@
+- Tags : #sql #sqlinjection #sql_union_attack
+
 Para esto solo necesitamos devolver algo mediante union select
-primero determinamos la cantidad de columnas que devuelve la consulta con order by apoyarnos en ejemplo anteriores y luego hacer la unio select
+primero determinamos la cantidad de columnas que devuelve la consulta con order by apoyarnos en ejemplo anteriores y luego hacer la union select
 ```
 categoria='union select NULL,NULL,'prueba' --
 

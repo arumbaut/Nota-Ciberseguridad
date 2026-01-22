@@ -1,3 +1,5 @@
+- Tags : #sql #sqlinjection #sqlinjection_blind
+
 En este tipo de ataque intentamos bypasear con ayuda del hackvetor las estructuras xml para que que no sean detectados los ataque por los waf.
 Podemos transformar el código sql como base64 , hexadecimal entre otras opciones que tiene el hackvertor
 
@@ -6,7 +8,7 @@ Siempre probamos los primeros casos para ver si es vulnerable a SQLI order by 1 
 en este caso en particular 
 
 
-```
+```xml
 <stockCheck>
     <productId>1</productId>
     <storeId>
@@ -31,7 +33,7 @@ Despues de con hackvertor transformar a hexadecimal
 
 Probaríamos a continuación si nos muestra datos , tener en cuenta que debemos ver el tipo de BD que es.
 
-```
+```xml
 <stockCheck>
     <productId>1</productId>
     <storeId>

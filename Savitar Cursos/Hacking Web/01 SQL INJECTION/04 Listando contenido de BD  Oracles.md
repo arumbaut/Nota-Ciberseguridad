@@ -1,3 +1,5 @@
+- Tags : #sql #sqlinjection 
+
 Verificar que es susebtible a SQL Injection despues del parametro en la query ponemos ' -- -
 
 Enjemplo

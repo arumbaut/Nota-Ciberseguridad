@@ -1,3 +1,5 @@
+- Tags : #sql #sqlinjection #sqlinjection_blind 
+
 Podemos manipular los tiempos de respuestas para basado en la demora determinar si es correcto o no lo que estamos solicitando
 
 Nos vamos al cheat sheet de PortSwigger para ver como manejan los tiempos las BD

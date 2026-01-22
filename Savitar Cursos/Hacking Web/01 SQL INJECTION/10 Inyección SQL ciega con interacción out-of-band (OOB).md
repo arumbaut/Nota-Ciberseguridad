@@ -1,3 +1,5 @@
+- Tags : #sql #sqlinjection #sqlinjection_blind
+
 Para este tipo de ataques se realizan consultas DNS a partir de la consulta SQL, utilizaremos el Burp Colaborator para obtener la información. Se necesita Burpsuit profesional.
 
 Después de haber intentado todos los tipos de inyección anterior si no obtenemos ningún resultado intentaremos este tipo de ataque. Es importante destacar que los ataques de inyección de SQL son de prueba y error hasta lograr identificar la inyección que es efectiva.

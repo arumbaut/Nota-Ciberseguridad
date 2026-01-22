@@ -1,3 +1,5 @@
+- Tags : #sql #sqlinjection #sqlinjection_blind
+
 En las cookies también se prueba si son vulnerables a la inyección SQL de la misma manera que con las parámetros de las url 
 Las inyecciones a ciegas son las que no nos permiten extraer información en forma de texto por lo que no pudiéramos extrae datos de las BD de la manera 
 

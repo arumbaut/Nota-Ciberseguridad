@@ -4,13 +4,13 @@ python3
 ```
 
 O ejecutar código interactivo con el parámetro -c
-```
+```python
 python3 -c 'codigo a ejecutar'
 ```
 
 # Shebang y convenios en Python
 El shebang es una línea que se incluye al principio de un script ejecutable para indicar al sistema operativo con qué intérprete debe ejecutarse el archivo. En los scripts de Python, el shebang común es:
-```
+```python
 #!/usr/bin/env python3
 
 

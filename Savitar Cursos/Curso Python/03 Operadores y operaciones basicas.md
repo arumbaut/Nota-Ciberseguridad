@@ -1,5 +1,5 @@
 
-```
+```python
 primer_nuemero=3
 segudo_numero=5
 result = primer_nuemro + segundo_nuemero

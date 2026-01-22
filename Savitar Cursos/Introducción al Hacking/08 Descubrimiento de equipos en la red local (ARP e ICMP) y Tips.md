@@ -9,6 +9,17 @@ netdiscover -i eth0   #herramienta
 Considerar tambien hacer un descubrimiento de una red mas amplia ya que en ocaciones se suele confundir subneting con segmenteacion ejemplo , si nos dan una ip 192.150.111.2/24 revisamos la red 192.150.111.0/24 y ademas haremos un descubrimiento en una red mas amplia 192.150.0.0/16 
 ```
 
+Herramienta masscan mas rápida que nmap (nmap escanea unos miles de host por min y masscan unos millones) descubre puertos con un solo envió de paquetes nmap envía paquetes separados para cada puerto. Tener en cuenta para todos los escaners a menor velocidad de scan mas certeza en los datos obtenidos
+```
+Ej
+masscan -p80,8000-8100 --rate=1000
+
+Comun uso por Savitar
+masscan -p21,22,23,139,445,80,8080,443,445 -Pn 192.168.0.0/16 --rate=1000
+
+```
+
+
 ```
 #!/bin/bash
 

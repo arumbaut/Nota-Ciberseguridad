@@ -1,3 +1,4 @@
+- Tags : #sql #sqlinjection 
 SQL Injection
 
  Una inyección SQL bien colocada en una cláusula WHERE permite acceder a datos que deberían estar ocultos. Es una de las formas más básicas y efectivas de explotación.

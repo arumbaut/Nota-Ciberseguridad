@@ -1,4 +1,4 @@
-
+- Tags : #sql #sqlinjection #sqlinjection_blind
 
 En este caso particular creamos un error forzado para cuando la consulta es verdadera para para corroborar la información
 Para identificar si un usuario existe cuando cambiamos el nombre del usuario si no esta en la tabla nos da status 500, si nos fijamos cuando se cumple la condición forzamos el erro y a partir de aquí podemos modificar la condición para nuestro beneficio

