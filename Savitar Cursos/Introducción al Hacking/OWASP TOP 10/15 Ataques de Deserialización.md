@@ -47,3 +47,6 @@ php serialize.php 2>/dev/null; echo
 Cabe destacar que hacemos esto porque en algún punto logramos obtener información de como se maneja el objeto en el servidor y vemos que si el valor isValid es True se salta unas comprobaciones. Por los tanto el obj serializado con la linea `php serialize.php 2>/dev/null; echo` lo pasamos en la petición de burpsuit y lo enviamos al servidor , el servidor ejecutara lo que se encuentra en el campo IP ejecutando así una reverse shell
 
 ![](../../../attachments/Pasted%20image%2020260125214350.png)
+
+Node JS Deserialization ATTACK
+**Recurso** : [https://opsecx.com/index.php/2017/02/08/exploiting-node-js-deserialization-bug-for-remote-code-execution/](https://opsecx.com/index.php/2017/02/08/exploiting-node-js-deserialization-bug-for-remote-code-execution/)

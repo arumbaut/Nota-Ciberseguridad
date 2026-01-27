@@ -1,4 +1,4 @@
-- Tags : #nosql_injection #recursos_github #payloads_old_the_things #hack_trick  #python_script 
+- Tags : #nosql_injection #recursos_github #payloads_all_the_things #hack_trick  #python_script 
 
 Las **inyecciones NoSQL** son una vulnerabilidad de seguridad en las aplicaciones web que utilizan bases de datos NoSQL, como MongoDB, Cassandra y CouchDB, entre otras. Estas inyecciones se producen cuando una aplicación web permite que un atacante envíe datos maliciosos a través de una consulta a la base de datos, que luego puede ser ejecutada por la aplicación sin la debida validación o sanitización.
 
