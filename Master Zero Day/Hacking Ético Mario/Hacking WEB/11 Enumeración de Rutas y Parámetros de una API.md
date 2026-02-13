@@ -3,7 +3,7 @@
 **Recurso**: Maquina ofuspingu thehackerlabs.com
 
 ```bash
-gobuster dirb -u http://url:pot/ -w /usr/share/seclists/Discovery/Web-Content/DirBuster-2007_directory-list-2.3-medium.txt -x php,py,html,js,txt
+gobuster dirb -u http://url:port/ -w /usr/share/seclists/Discovery/Web-Content/DirBuster-2007_directory-list-2.3-medium.txt -x php,py,html,js,txt
 
 Obtenido el directorio donde esta la api haremos un fucer para identificar los parametros y sus valores
 Carpeta que contiene la API /api
@@ -20,3 +20,4 @@ Buscamos js unpacker en el navegador y probamos algunos des-ofuscadores online
 **Recurso**: [https://matthewfl.com/unPacker.html](https://matthewfl.com/unPacker.html)
 
 Dentro de el código de js ofuscado encontramos el valor de el token y hacemos una petición al sitio con el parametro y su valor
+

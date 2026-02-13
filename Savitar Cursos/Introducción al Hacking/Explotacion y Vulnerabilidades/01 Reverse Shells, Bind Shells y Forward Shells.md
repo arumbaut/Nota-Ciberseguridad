@@ -1,4 +1,4 @@
-- Tags: #reverse_shell #bind_shells #forward_shells #shells #recursos
+- Tags: #reverse_shell #bind_shells #forward_shells #shells #recursos #netcat #nc
 
 - REVERSE SHELL
 - Se establece cuando forzamos a la maquina objetivo a establecer una conexión hacia nuestra maquina obteniendo una consola interactiva

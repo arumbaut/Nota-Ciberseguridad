@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "TiBrandRedhat",
-      "🧨",
-      "FabLinux",
-      "LiFolder",
-      "TiFolder"
+      "TiBrandWindows",
+      "TiCloud",
+      "LiCloud",
+      "TiWorldWww",
+      "FabWindows"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -398,5 +398,25 @@
   "Master Zero Day/Hacking Ético Mario": {
     "iconName": "TiBrandRedhat",
     "iconColor": "#f50000"
+  },
+  "Master Zero Day/Hacking Ético Mario/Hacking Ético en Windows": {
+    "iconName": "FabWindows",
+    "iconColor": "#6542e0"
+  },
+  "Master Zero Day/Hacking Ético Mario/Hacking WEB": {
+    "iconName": "TiWorldWww",
+    "iconColor": "#d69d24"
+  },
+  "Master Zero Day/Hacking Ético Mario/Persistencia en Linux": {
+    "iconName": "FabLinux",
+    "iconColor": "#cd04a8"
+  },
+  "Master Zero Day/Cloud": {
+    "iconName": "TiCloud",
+    "iconColor": "#beb1b1"
+  },
+  "Master Zero Day/Windows": {
+    "iconName": "TiBrandWindows",
+    "iconColor": "#5c5ad3"
   }
 }
