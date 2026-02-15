@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "TiBrandWindows",
-      "TiCloud",
-      "LiCloud",
-      "TiWorldWww",
-      "FabWindows"
+      "🕸",
+      "FabUbuntu",
+      "FasServer",
+      "TiFolder",
+      "🧗‍♀️"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -407,10 +407,6 @@
     "iconName": "TiWorldWww",
     "iconColor": "#d69d24"
   },
-  "Master Zero Day/Hacking Ético Mario/Persistencia en Linux": {
-    "iconName": "FabLinux",
-    "iconColor": "#cd04a8"
-  },
   "Master Zero Day/Cloud": {
     "iconName": "TiCloud",
     "iconColor": "#beb1b1"
@@ -418,5 +414,17 @@
   "Master Zero Day/Windows": {
     "iconName": "TiBrandWindows",
     "iconColor": "#5c5ad3"
-  }
+  },
+  "Master Zero Day/Hacking Ético Mario/Hacking Ético en Windows/16 Intensificación y Repaso de Hacking AD.md": "💡",
+  "Master Zero Day/Hacking Ético Mario/Hacking Ético en Windows/Escalada de Privilegios Windows": "TiFolder",
+  "Master Zero Day/Hacking Ético Mario/Hacking Ético en Windows/Comand and Control C2, Persistencia": "FasServer",
+  "Master Zero Day/Hacking Ético Mario/Hacking Ético Linux/Persistencia en Linux": {
+    "iconName": "FabLinux",
+    "iconColor": "#cd04a8"
+  },
+  "Master Zero Day/Hacking Ético Mario/Hacking Ético Linux": {
+    "iconName": "FabUbuntu",
+    "iconColor": "#e78f13"
+  },
+  "Master Zero Day/Hacking Ético Mario/Ingeniería Social": "🕸"
 }

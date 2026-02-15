@@ -13,8 +13,8 @@ enum4linux spookysec.local
 Valido destacar que no es infalible esta herramienta pero si es un buen punto de partida. Es mucho mas efectiva cuando ya tenemos comprometido un usuario del dominio.
 
 Enumeración de Usuarios
-**Herramienta**: *Kerbrute*  [https://github.com/TarlogicSecurity/kerbrute](https://github.com/TarlogicSecurity/kerbrute)
-
+**Herramienta**: *Kerbrute  python tool* [https://github.com/TarlogicSecurity/kerbrute](https://github.com/TarlogicSecurity/kerbrute)
+*Kerbrute bash tool*: [https://github.com/ropnop/kerbrute](https://github.com/ropnop/kerbrute)
 Para la enumeración de usuarios con Kerbrute es necesario una lista de usuarios y otra de passwords para ejecutar el ataque para identificar a los usuarios de dominio
 
 ```bash
