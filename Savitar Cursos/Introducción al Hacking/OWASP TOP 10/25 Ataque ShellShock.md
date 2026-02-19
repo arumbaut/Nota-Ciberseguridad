@@ -20,6 +20,7 @@ gobuster dir -u http://192.168.1.20/ --proxy http://192.168.1.20:3128 -w /usr/sh
 ```
 
 Detectamos un archivo cgi-bin , Normalmente si se encuentra un cgi-bin es factible testear un ataque shellshock. Es recomendable buscara archivos con extensiones pl,sh,cgi
+
 ```bash
 gobuster dir -u http://192.168.1.20/cgi-bin/ --proxy http://192.168.1.20:3128 -w /usr/share/seclists/Discovery/Web-Content/DirBuster-2007_directory-list-2.3-medium.txt -t 20 -x pl,sh,cgi
 

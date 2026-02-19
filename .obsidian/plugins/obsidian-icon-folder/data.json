@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "TiLego",
       "🕸",
       "FabUbuntu",
       "FasServer",
-      "TiFolder",
-      "🧗‍♀️"
+      "TiFolder"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -426,5 +426,9 @@
     "iconName": "FabUbuntu",
     "iconColor": "#e78f13"
   },
-  "Master Zero Day/Hacking Ético Mario/Ingeniería Social": "🕸"
+  "Master Zero Day/Hacking Ético Mario/Ingeniería Social": "🕸",
+  "Master Zero Day/Hacking Ético Mario/Hacking Aplicaciones": {
+    "iconName": "TiLego",
+    "iconColor": "#b5e01a"
+  }
 }

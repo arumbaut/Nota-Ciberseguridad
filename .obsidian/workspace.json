@@ -85,12 +85,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Master Zero Day/Hacking Ético Mario/Ingeniería Social/2 Phishing Personalizado.md",
+                "file": "Savitar Cursos/Introducción al Hacking/Escalada de Privilegios/5 Python Library Hijacking.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2 Phishing Personalizado"
+              "title": "5 Python Library Hijacking"
             }
           }
         ],
@@ -126,7 +126,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#tool_bloodhound",
+                "query": "tag:#recursos_vulhnuh",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -151,7 +151,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 441.5086555480957
+    "width": 419.5086555480957
   },
   "right": {
     "id": "dd62f90908c3232e",
@@ -167,6 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Savitar Cursos/Introducción al Hacking/Escalada de Privilegios/5 Python Library Hijacking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +177,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes"
+              "title": "Enlaces entrantes de 5 Python Library Hijacking"
             }
           },
           {
@@ -267,54 +268,54 @@
       "translate:Open translation view": false
     }
   },
-  "active": "b36d46c16e259ce1",
+  "active": "9c8552b45a1c0e11",
   "lastOpenFiles": [
-    "Master Zero Day/Hacking Ético Mario/Ingeniería Social/1 Ataques de phishing automatizados.md",
-    "Master Zero Day/Hacking Ético Mario/Ingeniería Social/2 Phishing Personalizado.md",
-    "attachments/Pasted image 20260215192115.png",
-    "attachments/Pasted image 20260215191951.png",
-    "attachments/Pasted image 20260215191533.png",
-    "attachments/Pasted image 20260215191435.png",
-    "attachments/Pasted image 20260215191356.png",
-    "attachments/Pasted image 20260215191301.png",
-    "attachments/Pasted image 20260215191134.png",
-    "attachments/Pasted image 20260215190622.png",
-    "Master Zero Day/Hacking Ético Mario/Hacking Ético Linux/1 Encontrar Host.md",
+    "attachments/Pasted image 20260219123941.png",
+    "Savitar Cursos/Introducción al Hacking/Escalada de Privilegios/4 PATH Hijacking.md",
+    "Savitar Cursos/Introducción al Hacking/Escalada de Privilegios/5 Python Library Hijacking.md",
+    "attachments/Pasted image 20260219122655.png",
+    "attachments/Pasted image 20260219121711.png",
+    "Savitar Cursos/Introducción al Hacking/Escalada de Privilegios/3 Detección y explotación de tareas Cron.md",
+    "attachments/Pasted image 20260219110838.png",
+    "Savitar Cursos/Introducción al Hacking/Escalada de Privilegios/2 Abusando de privilegios SUID.md",
+    "Savitar Cursos/Introducción al Hacking/Escalada de Privilegios/1 Abusando de privilegios a nivel de Sudoers.md",
+    "attachments/Pasted image 20260219090714.png",
+    "Savitar Cursos/Introducción al Hacking/OWASP TOP 10/14 Inyecciones LDAP.md",
+    "Savitar Cursos/Introducción al Hacking/Escalada de Privilegios",
+    "Savitar Cursos/Introducción al Hacking/Sin título.md",
+    "Savitar Cursos/Introducción al Hacking/OWASP TOP 10/13 Inyecciones NoSQL.md",
+    "Savitar Cursos/Introducción al Hacking/OWASP TOP 10/11 Ataque de oráculo de relleno (Padding Oracle).md",
+    "Savitar Cursos/Introducción al Hacking/OWASP TOP 10/07 Cross-Site Request Forgery (CSRF).md",
+    "Savitar Cursos/Introducción al Hacking/OWASP TOP 10/12 Ataque Type Juggling.md",
+    "Savitar Cursos/Introducción al Hacking/OWASP TOP 10/01 SQL Injection (SQLI).md",
+    "Savitar Cursos/Introducción al Hacking/OWASP TOP 10/02 Cross-Site Scripting (XSS).md",
+    "Savitar Cursos/Introducción al Hacking/OWASP TOP 10/08 Server-Side Request Forgery (SSRF).md",
+    "Savitar Cursos/Introducción al Hacking/OWASP TOP 10/03 XML External Entity Injection (XXE).md",
+    "Savitar Cursos/Introducción al Hacking/OWASP TOP 10/16 Inyecciones LaTeX.md",
+    "Savitar Cursos/Introducción al Hacking/OWASP TOP 10/36 GraphQL Introspection, Mutations e IDORs.md",
+    "Savitar Cursos/Introducción al Hacking/OWASP TOP 10/35 Python – Ataque de Deserialización Pickle (DES-Pickle).md",
+    "Savitar Cursos/Introducción al Hacking/OWASP TOP 10/34 Python – Ataque de Deserialización Yaml (DES-Yaml).md",
+    "Savitar Cursos/Introducción al Hacking/OWASP TOP 10/33 Inyecciones CSS (CSSI).md",
+    "Savitar Cursos/Introducción al Hacking/OWASP TOP 10/32 Condiciones de carrera (Race Condition).md",
+    "Savitar Cursos/Introducción al Hacking/OWASP TOP 10/31 Enumeración y explotación de Json Web Tokens (JWT).md",
+    "attachments/Pasted image 20260218133649.png",
+    "attachments/Pasted image 20260218132751.png",
+    "attachments/Pasted image 20260218132540.png",
+    "attachments/Pasted image 20260218132431.png",
+    "attachments/Pasted image 20260218132101.png",
+    "Savitar Cursos/Introducción al Hacking/OWASP TOP 10/30 Session Puzzling - Session Fixation - Session Variable Overloading.md",
+    "Savitar Cursos/Introducción al Hacking/OWASP TOP 10/29 Ataque de Truncado SQL (SQL Truncation).md",
+    "attachments/Pasted image 20260218112812.png",
+    "Savitar Cursos/Introducción al Hacking/OWASP TOP 10/28 Intercambio de recursos de origen cruzado (CORS).md",
+    "Master Zero Day/Hacking Ético Mario/Hacking Aplicaciones",
     "Master Zero Day/Hacking Ético Mario/Ingeniería Social",
-    "Master Zero Day/Hacking Ético Mario/Hacking Ético en Windows/Comand and Control C2, Persistencia/4 Uso de Metasploit como C2 (Parcialmente).md",
     "Master Zero Day/Hacking Ético Mario/Hacking Ético Linux",
-    "Master Zero Day/Hacking Ético Mario/Hacking Ético en Windows/Comand and Control C2, Persistencia/3 Evasión del Antivirus con Shellcode de Sliver.md",
-    "Master Zero Day/Hacking Ético Mario/Hacking Ético en Windows/Comand and Control C2, Persistencia/2 Uso de Sliver como C2.md",
-    "Master Zero Day/Hacking Ético Mario/Hacking Ético en Windows/Comand and Control C2, Persistencia/1 Qué es un Servidor C2 - Command and Control.md",
-    "Master Zero Day/Hacking Ético Mario/Hacking Ético en Windows/2 Cómo efectuar un ataque ASREP-Roast.md",
-    "Master Zero Day/Hacking Ético Mario/Hacking Ético en Windows/Escalada de Privilegios Windows/2 Uso de bloodhound.py enumeración sin credenciales.md",
     "Master Zero Day/Hacking Ético Mario/Hacking Ético en Windows/Comand and Control C2, Persistencia",
-    "Master Zero Day/Hacking Ético Mario/Hacking Ético en Windows/Escalada de Privilegios Windows/6 Escalada de Privilegios Windows Automática con Metasploit - PARTE 1.md",
     "Master Zero Day/Hacking Ético Mario/Hacking Ético en Windows/Escalada de Privilegios Windows/C2",
-    "Master Zero Day/Hacking Ético Mario/Hacking Ético en Windows/Escalada de Privilegios Windows/5 Escalada (Enumeracion) de Privilegios con winPEAS.md",
-    "Master Zero Day/Hacking Ético Mario/Hacking Ético en Windows/Escalada de Privilegios Windows/4 Privilegio SeImpersonatePrivilege.md",
-    "attachments/Pasted image 20260215151430.png",
-    "Master Zero Day/Hacking Ético Mario/Hacking Ético en Windows/Escalada de Privilegios Windows/3 Privilegio SeBackupPrivilege.md",
-    "attachments/Pasted image 20260214080133.png",
-    "Master Zero Day/Hacking Ético Mario/Hacking Ético en Windows/Escalada de Privilegios Windows/1 Bloodhound, sharphound y neo4j.md",
-    "Master Zero Day/Hacking Ético Mario/Hacking Ético en Windows/16 Intensificación y Repaso de Hacking AD.md",
     "Master Zero Day/Hacking Ético Mario/Hacking Ético en Windows/Escalada de Privilegios Windows",
-    "Master Zero Day/Hacking Ético Mario/Hacking Ético en Windows/12 Enumeración de usuarios mediante RID Brute Force.md",
-    "Master Zero Day/Hacking Ético Mario/Hacking Ético en Windows/13 Password spraying con netexec.md",
-    "Master Zero Day/Hacking Ético Mario/Hacking Ético en Windows/1 Enumeración básica del Entorno AD , usuarios etc....md",
-    "Master Zero Day/Hacking Ético Mario/Hacking Ético en Windows/14 Fuerza Bruta en Kerberos y SMB.md",
-    "Master Zero Day/Hacking Ético Mario/Hacking Ético en Windows/15 LLMNR Poisoning.md",
-    "Master Zero Day/Hacking Ético Mario/Hacking Ético en Windows/11 Webshell ASPX en Servidor Microsoft IIS.md",
-    "Master Zero Day/Hacking Ético Mario/Hacking Ético en Windows/10 Protocolo Rdp 3389 En Windows Y Enumeración Básica.md",
-    "Master Zero Day/Hacking Ético Mario/Hacking Ético en Windows/9 Enumeración De Usuarios Samba Y Uso De Rpcclient.md",
-    "Master Zero Day/Hacking Ético Mario/Hacking Ético en Windows/8 Cómo Enumerar Y Explotar El Protocolo Smb Con Metasploit.md",
-    "Master Zero Day/Hacking Ético Mario/Hacking Ético en Windows/7 Cómo Enumerar Y Explotar El Protocolo Smb - Puerto 445.md",
-    "Master Zero Day/Hacking Ético Mario/Hacking Ético en Windows/6 BYpass Antivirus de Windows.md",
     "Master Zero Day/Cloud",
     "Master Zero Day/Hacking Ético Mario/Hacking Ético en Windows",
     "Master Zero Day/Hacking Ético Mario/Hacking Ético Linux/Persistencia en Linux",
-    "Master Zero Day/Hacking Ético Mario/Escalada de Privilegios",
-    "Master Zero Day/Hacking Ético Mario/Hacking WEB",
     "Savitar Cursos/Introducción al Hacking/OWASP TOP 10/Sin título.canvas",
     "Untitled.canvas",
     "eJPT _V1/2. Host & Network Penetration Testing/3.Metasploit/Untitled.canvas"
