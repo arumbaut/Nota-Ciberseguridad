@@ -85,12 +85,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Savitar Cursos/Introducción al Hacking/Escalada de Privilegios/5 Python Library Hijacking.md",
+                "file": "Savitar Cursos/Introducción al Hacking/Escalada de Privilegios/10 Abuso de servicios internos del sistema.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5 Python Library Hijacking"
+              "title": "10 Abuso de servicios internos del sistema"
             }
           }
         ],
@@ -151,7 +151,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 419.5086555480957
+    "width": 285.5086555480957
   },
   "right": {
     "id": "dd62f90908c3232e",
@@ -167,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Savitar Cursos/Introducción al Hacking/Escalada de Privilegios/5 Python Library Hijacking.md",
+                "file": "Savitar Cursos/Introducción al Hacking/Escalada de Privilegios/10 Abuso de servicios internos del sistema.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +177,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de 5 Python Library Hijacking"
+              "title": "Enlaces entrantes de 10 Abuso de servicios internos del sistema"
             }
           },
           {
@@ -268,18 +268,29 @@
       "translate:Open translation view": false
     }
   },
-  "active": "9c8552b45a1c0e11",
+  "active": "b36d46c16e259ce1",
   "lastOpenFiles": [
-    "attachments/Pasted image 20260219123941.png",
-    "Savitar Cursos/Introducción al Hacking/Escalada de Privilegios/4 PATH Hijacking.md",
-    "Savitar Cursos/Introducción al Hacking/Escalada de Privilegios/5 Python Library Hijacking.md",
-    "attachments/Pasted image 20260219122655.png",
-    "attachments/Pasted image 20260219121711.png",
+    "attachments/Pasted image 20260221141503.png",
+    "attachments/Pasted image 20260221141231.png",
+    "attachments/Pasted image 20260221140302.png",
+    "Savitar Cursos/Introducción al Hacking/Escalada de Privilegios/9 Abuso de grupos de usuario especiales.md",
+    "Savitar Cursos/Introducción al Hacking/Escalada de Privilegios/10 Abuso de servicios internos del sistema.md",
+    "attachments/Pasted image 20260221085441.png",
+    "Savitar Cursos/Introducción al Hacking/Escalada de Privilegios/8 Explotación del Kernel.md",
     "Savitar Cursos/Introducción al Hacking/Escalada de Privilegios/3 Detección y explotación de tareas Cron.md",
-    "attachments/Pasted image 20260219110838.png",
     "Savitar Cursos/Introducción al Hacking/Escalada de Privilegios/2 Abusando de privilegios SUID.md",
+    "Savitar Cursos/Introducción al Hacking/Escalada de Privilegios/6 Abuso de permisos incorrectamente implementados.md",
+    "attachments/Pasted image 20260221073442.png",
+    "attachments/Pasted image 20260220174000.png",
+    "attachments/Pasted image 20260220173807.png",
+    "attachments/Pasted image 20260220173657.png",
+    "attachments/Pasted image 20260220173316.png",
+    "attachments/Pasted image 20260220173030.png",
+    "attachments/Pasted image 20260220165305.png",
+    "Savitar Cursos/Introducción al Hacking/Escalada de Privilegios/7 Detección y explotación de Capabilities.md",
     "Savitar Cursos/Introducción al Hacking/Escalada de Privilegios/1 Abusando de privilegios a nivel de Sudoers.md",
-    "attachments/Pasted image 20260219090714.png",
+    "Savitar Cursos/Introducción al Hacking/Escalada de Privilegios/5 Python Library Hijacking.md",
+    "Savitar Cursos/Introducción al Hacking/Escalada de Privilegios/4 PATH Hijacking.md",
     "Savitar Cursos/Introducción al Hacking/OWASP TOP 10/14 Inyecciones LDAP.md",
     "Savitar Cursos/Introducción al Hacking/Escalada de Privilegios",
     "Savitar Cursos/Introducción al Hacking/Sin título.md",
@@ -296,17 +307,6 @@
     "Savitar Cursos/Introducción al Hacking/OWASP TOP 10/35 Python – Ataque de Deserialización Pickle (DES-Pickle).md",
     "Savitar Cursos/Introducción al Hacking/OWASP TOP 10/34 Python – Ataque de Deserialización Yaml (DES-Yaml).md",
     "Savitar Cursos/Introducción al Hacking/OWASP TOP 10/33 Inyecciones CSS (CSSI).md",
-    "Savitar Cursos/Introducción al Hacking/OWASP TOP 10/32 Condiciones de carrera (Race Condition).md",
-    "Savitar Cursos/Introducción al Hacking/OWASP TOP 10/31 Enumeración y explotación de Json Web Tokens (JWT).md",
-    "attachments/Pasted image 20260218133649.png",
-    "attachments/Pasted image 20260218132751.png",
-    "attachments/Pasted image 20260218132540.png",
-    "attachments/Pasted image 20260218132431.png",
-    "attachments/Pasted image 20260218132101.png",
-    "Savitar Cursos/Introducción al Hacking/OWASP TOP 10/30 Session Puzzling - Session Fixation - Session Variable Overloading.md",
-    "Savitar Cursos/Introducción al Hacking/OWASP TOP 10/29 Ataque de Truncado SQL (SQL Truncation).md",
-    "attachments/Pasted image 20260218112812.png",
-    "Savitar Cursos/Introducción al Hacking/OWASP TOP 10/28 Intercambio de recursos de origen cruzado (CORS).md",
     "Master Zero Day/Hacking Ético Mario/Hacking Aplicaciones",
     "Master Zero Day/Hacking Ético Mario/Ingeniería Social",
     "Master Zero Day/Hacking Ético Mario/Hacking Ético Linux",

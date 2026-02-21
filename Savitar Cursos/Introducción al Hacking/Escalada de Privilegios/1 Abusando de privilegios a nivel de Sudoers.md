@@ -43,8 +43,11 @@ visudo
 
 root    ALL=(ALL:ALL) ALL
 
+
 #info de cada elemento
 usuario   hosts=(destiny_user:destiny_group)   comandos
+#ejecutar scripts especificos
+usuario   hosts=(destiny_user:destiny_group)   comando1, comando2, ruta_script1, ruta_script2
 
 #ejemplos
 savitar  ALL=(root) NOPASSWD: /usr/bin/awk, /bin/cat #No requiere pass
