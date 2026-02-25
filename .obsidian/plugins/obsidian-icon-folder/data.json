@@ -2,15 +2,15 @@
   "settings": {
     "migrated": 6,
     "iconPacksPath": ".obsidian/icons",
-    "fontSize": 16,
+    "fontSize": 21,
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "TiLego",
-      "🕸",
-      "FabUbuntu",
-      "FasServer",
-      "TiFolder"
+      "CuOWAP",
+      "CuMetasploit",
+      "LiAArrowUp",
+      "CuMetasploitIcons",
+      "FasExplosion"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -430,5 +430,21 @@
   "Master Zero Day/Hacking Ético Mario/Hacking Aplicaciones": {
     "iconName": "TiLego",
     "iconColor": "#b5e01a"
-  }
+  },
+  "Savitar Cursos/Introducción al Hacking/Buffer Overflow": "FabBuffer",
+  "Savitar Cursos/Introducción al Hacking/Docker": {
+    "iconName": "TiBrandDocker",
+    "iconColor": "#1955cc"
+  },
+  "Savitar Cursos/Introducción al Hacking/Enumeracion": {
+    "iconName": "LiSearchCode",
+    "iconColor": "#68df9b"
+  },
+  "Savitar Cursos/Introducción al Hacking/Escalada de Privilegios": "🧗‍♂️",
+  "Savitar Cursos/Introducción al Hacking/Explotacion y Vulnerabilidades": "FasExplosion",
+  "Savitar Cursos/Introducción al Hacking/Metasploit": {
+    "iconName": "CuMetasploit",
+    "iconColor": "#ffffff"
+  },
+  "Savitar Cursos/Introducción al Hacking/OWASP TOP 10": "CuOWAP"
 }

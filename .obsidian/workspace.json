@@ -85,16 +85,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Savitar Cursos/Introducción al Hacking/Escalada de Privilegios/10 Abuso de servicios internos del sistema.md",
+                "file": "Savitar Cursos/Introducción al Hacking/Buffer Overflow/7 Modificación del Shellcode para controlar el comando que se desea ejecutar.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10 Abuso de servicios internos del sistema"
+              "title": "7 Modificación del Shellcode para controlar el comando que se desea ejecutar"
+            }
+          },
+          {
+            "id": "cb511392d4690ec0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Savitar Cursos/Introducción al Hacking/Metasploit/1 Introducción a Metasploit.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1 Introducción a Metasploit"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -126,7 +140,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#recursos_vulhnuh",
+                "query": "#shell",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -151,7 +165,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 285.5086555480957
+    "width": 269.5086555480957
   },
   "right": {
     "id": "dd62f90908c3232e",
@@ -167,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Savitar Cursos/Introducción al Hacking/Escalada de Privilegios/10 Abuso de servicios internos del sistema.md",
+                "file": "Savitar Cursos/Introducción al Hacking/Escalada de Privilegios/11 Abuso de binarios específicos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +191,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de 10 Abuso de servicios internos del sistema"
+              "title": "Enlaces entrantes de 11 Abuso de binarios específicos"
             }
           },
           {
@@ -268,54 +282,54 @@
       "translate:Open translation view": false
     }
   },
-  "active": "b36d46c16e259ce1",
+  "active": "cb511392d4690ec0",
   "lastOpenFiles": [
-    "attachments/Pasted image 20260221141503.png",
-    "attachments/Pasted image 20260221141231.png",
-    "attachments/Pasted image 20260221140302.png",
-    "Savitar Cursos/Introducción al Hacking/Escalada de Privilegios/9 Abuso de grupos de usuario especiales.md",
-    "Savitar Cursos/Introducción al Hacking/Escalada de Privilegios/10 Abuso de servicios internos del sistema.md",
-    "attachments/Pasted image 20260221085441.png",
-    "Savitar Cursos/Introducción al Hacking/Escalada de Privilegios/8 Explotación del Kernel.md",
-    "Savitar Cursos/Introducción al Hacking/Escalada de Privilegios/3 Detección y explotación de tareas Cron.md",
-    "Savitar Cursos/Introducción al Hacking/Escalada de Privilegios/2 Abusando de privilegios SUID.md",
-    "Savitar Cursos/Introducción al Hacking/Escalada de Privilegios/6 Abuso de permisos incorrectamente implementados.md",
-    "attachments/Pasted image 20260221073442.png",
-    "attachments/Pasted image 20260220174000.png",
-    "attachments/Pasted image 20260220173807.png",
-    "attachments/Pasted image 20260220173657.png",
-    "attachments/Pasted image 20260220173316.png",
-    "attachments/Pasted image 20260220173030.png",
-    "attachments/Pasted image 20260220165305.png",
-    "Savitar Cursos/Introducción al Hacking/Escalada de Privilegios/7 Detección y explotación de Capabilities.md",
-    "Savitar Cursos/Introducción al Hacking/Escalada de Privilegios/1 Abusando de privilegios a nivel de Sudoers.md",
-    "Savitar Cursos/Introducción al Hacking/Escalada de Privilegios/5 Python Library Hijacking.md",
-    "Savitar Cursos/Introducción al Hacking/Escalada de Privilegios/4 PATH Hijacking.md",
-    "Savitar Cursos/Introducción al Hacking/OWASP TOP 10/14 Inyecciones LDAP.md",
-    "Savitar Cursos/Introducción al Hacking/Escalada de Privilegios",
+    "attachments/Pasted image 20260225231601.png",
+    "custom_icons/OWAP.svg",
+    "custom_icons/Unconfirmed 136300.crdownload",
+    "custom_icons/Unconfirmed 409442.crdownload",
+    "custom_icons/Metasploit.svg",
+    "custom_icons/Unconfirmed 398150.crdownload",
+    "custom_icons/Unconfirmed 318222.crdownload",
+    "custom_icons/Unconfirmed 496835.crdownload",
+    "custom_icons/Metasploit_Icons.svg",
+    "custom_icons/Metasploit--Streamline-Simple-Icons.svg",
+    "custom_icons/Unconfirmed 847343.crdownload",
+    "custom_icons",
+    "Savitar Cursos/Introducción al Hacking/Buffer Overflow/9 Funcionamiento y creación manual de Shellcodes.md",
+    "Savitar Cursos/Introducción al Hacking/Metasploit/1 Introducción a Metasploit.md",
+    "Savitar Cursos/Introducción al Hacking/Metasploit",
+    "Savitar Cursos/Introducción al Hacking/Buffer Overflow/5 Búsqueda de OpCodes para entrar al ESP y cargar nuestro Shellcode.md",
+    "attachments/Pasted image 20260225092439.png",
+    "attachments/Pasted image 20260225091941.png",
+    "attachments/Pasted image 20260225091754.png",
+    "Savitar Cursos/Introducción al Hacking/Buffer Overflow/7 Modificación del Shellcode para controlar el comando que se desea ejecutar.md",
+    "Savitar Cursos/Introducción al Hacking/Buffer Overflow/8 Explotando un nuevo binario para reforzar lo aprendido.md",
+    "attachments/Pasted image 20260225090912.png",
+    "attachments/Pasted image 20260225090807.png",
+    "attachments/Pasted image 20260225090635.png",
+    "Savitar Cursos/Linux Course/12 Atributos de archivos en Linux.md",
+    "Savitar Cursos/Linux Course/02 Permisos.md",
+    "Cambiar el DNS en linux por los de cloudfare.md",
+    "Savitar Cursos/Introducción al Hacking/Buffer Overflow/6 Uso de NOPs, desplazamientos en pila e interpretación del Shellcode para lograr RCE.md",
+    "Savitar Cursos/Introducción al Hacking/Buffer Overflow/4 Generación de Bytearrays y detección de Badchars.md",
+    "Savitar Cursos/Introducción al Hacking/Buffer Overflow/3 Asignación de espacio para el Shellcode.md",
+    "Savitar Cursos/Introducción al Hacking/Buffer Overflow/2 Fase inicial de Fuzzing y tomando el control del registro EIP.md",
+    "Savitar Cursos/Introducción al Hacking/Buffer Overflow/1 Creación de nuestro laboratorio de pruebas e instalación de Immunity Debuger.md",
+    "Savitar Cursos/Introducción al Hacking/Escalada de Privilegios/12 Docker Breakout.md",
+    "Savitar Cursos/Introducción al Hacking/Buffer Overflow",
     "Savitar Cursos/Introducción al Hacking/Sin título.md",
-    "Savitar Cursos/Introducción al Hacking/OWASP TOP 10/13 Inyecciones NoSQL.md",
-    "Savitar Cursos/Introducción al Hacking/OWASP TOP 10/11 Ataque de oráculo de relleno (Padding Oracle).md",
-    "Savitar Cursos/Introducción al Hacking/OWASP TOP 10/07 Cross-Site Request Forgery (CSRF).md",
-    "Savitar Cursos/Introducción al Hacking/OWASP TOP 10/12 Ataque Type Juggling.md",
-    "Savitar Cursos/Introducción al Hacking/OWASP TOP 10/01 SQL Injection (SQLI).md",
-    "Savitar Cursos/Introducción al Hacking/OWASP TOP 10/02 Cross-Site Scripting (XSS).md",
-    "Savitar Cursos/Introducción al Hacking/OWASP TOP 10/08 Server-Side Request Forgery (SSRF).md",
-    "Savitar Cursos/Introducción al Hacking/OWASP TOP 10/03 XML External Entity Injection (XXE).md",
-    "Savitar Cursos/Introducción al Hacking/OWASP TOP 10/16 Inyecciones LaTeX.md",
-    "Savitar Cursos/Introducción al Hacking/OWASP TOP 10/36 GraphQL Introspection, Mutations e IDORs.md",
-    "Savitar Cursos/Introducción al Hacking/OWASP TOP 10/35 Python – Ataque de Deserialización Pickle (DES-Pickle).md",
-    "Savitar Cursos/Introducción al Hacking/OWASP TOP 10/34 Python – Ataque de Deserialización Yaml (DES-Yaml).md",
-    "Savitar Cursos/Introducción al Hacking/OWASP TOP 10/33 Inyecciones CSS (CSSI).md",
-    "Master Zero Day/Hacking Ético Mario/Hacking Aplicaciones",
-    "Master Zero Day/Hacking Ético Mario/Ingeniería Social",
-    "Master Zero Day/Hacking Ético Mario/Hacking Ético Linux",
-    "Master Zero Day/Hacking Ético Mario/Hacking Ético en Windows/Comand and Control C2, Persistencia",
-    "Master Zero Day/Hacking Ético Mario/Hacking Ético en Windows/Escalada de Privilegios Windows/C2",
-    "Master Zero Day/Hacking Ético Mario/Hacking Ético en Windows/Escalada de Privilegios Windows",
-    "Master Zero Day/Cloud",
-    "Master Zero Day/Hacking Ético Mario/Hacking Ético en Windows",
-    "Master Zero Day/Hacking Ético Mario/Hacking Ético Linux/Persistencia en Linux",
+    "Savitar Cursos/Introducción al Hacking/Escalada de Privilegios/11 Secuestro de la biblioteca de objetos compartidos enlazados dinámicamente.md",
+    "Savitar Cursos/Introducción al Hacking/Escalada de Privilegios/11 Abuso de binarios específicos.md",
+    "Savitar Cursos/Introducción al Hacking/Escalada de Privilegios/10 Abuso de servicios internos del sistema.md",
+    "eJPT _V1/2. Host & Network Penetration Testing/Exploitation/7.3 Reverse Shell Cheatsheet.md",
+    "eJPT _V1/2. Host & Network Penetration Testing/Exploitation/7.2 Reverse Shells.md",
+    "eJPT _V1/2. Host & Network Penetration Testing/Exploitation/7.1 Bind Shells.md",
+    "eJPT _V1/2. Host & Network Penetration Testing/Exploitation/7. Bind & Reverse Shells NetCat.md",
+    "Master Zero Day/Hacking Ético Mario/Hacking Aplicaciones/6 Vulnerabilidad Shellshock.md",
+    "Savitar Cursos/Introducción al Hacking/Explotacion y Vulnerabilidades/01 Reverse Shells, Bind Shells y Forward Shells.md",
+    "Master Zero Day/Hacking Ético Mario/Hacking Ético en Windows/6 BYpass Antivirus de Windows.md",
+    "Savitar Cursos/Introducción al Hacking/Escalada de Privilegios",
     "Savitar Cursos/Introducción al Hacking/OWASP TOP 10/Sin título.canvas",
     "Untitled.canvas",
     "eJPT _V1/2. Host & Network Penetration Testing/3.Metasploit/Untitled.canvas"
