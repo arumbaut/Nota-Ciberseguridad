@@ -71,6 +71,7 @@ include("/var/www/html" .$filename)
 ?>
 ```
 
+#wrappers
 Empleamos wrappers para poder ver el código php que se ejecuta en en archivo
 Ejemplo php//filter/convert/base64-encode/resource=file.php
 ```php

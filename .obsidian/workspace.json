@@ -85,12 +85,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Savitar Cursos/Introducción al Hacking/Buffer Overflow/7 Modificación del Shellcode para controlar el comando que se desea ejecutar.md",
+                "file": "Master Zero Day/Forense Hackavis/10 Análisis de memoria RAM SO Windws.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7 Modificación del Shellcode para controlar el comando que se desea ejecutar"
+              "title": "10 Análisis de memoria RAM SO Windws"
             }
           },
           {
@@ -99,16 +99,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Savitar Cursos/Introducción al Hacking/Metasploit/1 Introducción a Metasploit.md",
+                "file": "Savitar Cursos/Introducción al Hacking/OWASP TOP 10/12 Ataque Type Juggling.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1 Introducción a Metasploit"
+              "title": "12 Ataque Type Juggling"
+            }
+          },
+          {
+            "id": "6b5b398f5e9d8e29",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Master Zero Day/Redes/02 Enrrutamiento.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "02 Enrrutamiento"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -140,7 +154,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#shell",
+                "query": "tag:#adquisicion_linux_memoria",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -165,7 +179,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5086555480957
+    "width": 283.5086555480957
   },
   "right": {
     "id": "dd62f90908c3232e",
@@ -282,54 +296,53 @@
       "translate:Open translation view": false
     }
   },
-  "active": "cb511392d4690ec0",
+  "active": "6b5b398f5e9d8e29",
   "lastOpenFiles": [
-    "attachments/Pasted image 20260225231601.png",
-    "custom_icons/OWAP.svg",
-    "custom_icons/Unconfirmed 136300.crdownload",
-    "custom_icons/Unconfirmed 409442.crdownload",
-    "custom_icons/Metasploit.svg",
-    "custom_icons/Unconfirmed 398150.crdownload",
-    "custom_icons/Unconfirmed 318222.crdownload",
-    "custom_icons/Unconfirmed 496835.crdownload",
-    "custom_icons/Metasploit_Icons.svg",
-    "custom_icons/Metasploit--Streamline-Simple-Icons.svg",
-    "custom_icons/Unconfirmed 847343.crdownload",
-    "custom_icons",
-    "Savitar Cursos/Introducción al Hacking/Buffer Overflow/9 Funcionamiento y creación manual de Shellcodes.md",
-    "Savitar Cursos/Introducción al Hacking/Metasploit/1 Introducción a Metasploit.md",
-    "Savitar Cursos/Introducción al Hacking/Metasploit",
-    "Savitar Cursos/Introducción al Hacking/Buffer Overflow/5 Búsqueda de OpCodes para entrar al ESP y cargar nuestro Shellcode.md",
-    "attachments/Pasted image 20260225092439.png",
-    "attachments/Pasted image 20260225091941.png",
-    "attachments/Pasted image 20260225091754.png",
+    "Master Zero Day/Redes/01 Vlans.md",
+    "Master Zero Day/Redes/02 Enrrutamiento.md",
+    "attachments/Pasted image 20260312181559.png",
+    "attachments/Pasted image 20260312181513.png",
+    "attachments/Pasted image 20260312173543.png",
+    "Master Zero Day/Forense Hackavis/12 Profile en Volatility.md",
+    "Master Zero Day/Redes",
+    "Master Zero Day/Forense Hackavis/11 Análisis de memoria RAM SO Windws Volatility3.md",
+    "Master Zero Day/Forense Hackavis/10 Análisis de memoria RAM SO Windws Volatility2.md",
+    "Savitar Cursos/Linux Course/10 La kitty.md",
+    "attachments/Pasted image 20260310172659.png",
+    "Master Zero Day/Forense Hackavis/9 Análisis de memoria en Linux.md",
+    "Master Zero Day/Forense Hackavis/8 Adquisicion en Windows.md",
+    "Master Zero Day/Forense Hackavis/Sin nombre",
+    "attachments/Pasted image 20260309121309.png",
+    "attachments/Pasted image 20260309115848.png",
+    "Master Zero Day/Forense Hackavis/7 Adquisición en Linux.md",
+    "attachments/Pasted image 20260309113644.png",
+    "Master Zero Day/Forense Hackavis/6 Instalacion de Herramientas.md",
+    "Master Zero Day/Forense Hackavis/5 Herramientas Forenses Linux - Windows.md",
+    "Master Zero Day/Forense Hackavis/2 Configurar entorno Forense en Windows.md",
+    "Master Zero Day/Forense Hackavis/1 OS Fundamentales.md",
+    "Master Zero Day/Forense Hackavis/4 Configurar entorno Forense en Cain.md",
+    "Master Zero Day/Forense Hackavis/3 Configurar entorno Forense en SIFT Workstation.md",
+    "Savitar Cursos/Introducción al Hacking/OWASP TOP 10/04 Local File Inclusion (LFI).md",
+    "Master Zero Day/Forense Hackavis",
+    "Savitar Cursos/Introducción al Hacking/OWASP TOP 10/03 XML External Entity Injection (XXE).md",
+    "Savitar Cursos/Introducción al Hacking/OWASP TOP 10/02 Cross-Site Scripting (XSS).md",
+    "Savitar Cursos/Introducción al Hacking/OWASP TOP 10/01 SQL Injection (SQLI).md",
     "Savitar Cursos/Introducción al Hacking/Buffer Overflow/7 Modificación del Shellcode para controlar el comando que se desea ejecutar.md",
-    "Savitar Cursos/Introducción al Hacking/Buffer Overflow/8 Explotando un nuevo binario para reforzar lo aprendido.md",
-    "attachments/Pasted image 20260225090912.png",
-    "attachments/Pasted image 20260225090807.png",
-    "attachments/Pasted image 20260225090635.png",
-    "Savitar Cursos/Linux Course/12 Atributos de archivos en Linux.md",
-    "Savitar Cursos/Linux Course/02 Permisos.md",
-    "Cambiar el DNS en linux por los de cloudfare.md",
-    "Savitar Cursos/Introducción al Hacking/Buffer Overflow/6 Uso de NOPs, desplazamientos en pila e interpretación del Shellcode para lograr RCE.md",
-    "Savitar Cursos/Introducción al Hacking/Buffer Overflow/4 Generación de Bytearrays y detección de Badchars.md",
-    "Savitar Cursos/Introducción al Hacking/Buffer Overflow/3 Asignación de espacio para el Shellcode.md",
-    "Savitar Cursos/Introducción al Hacking/Buffer Overflow/2 Fase inicial de Fuzzing y tomando el control del registro EIP.md",
-    "Savitar Cursos/Introducción al Hacking/Buffer Overflow/1 Creación de nuestro laboratorio de pruebas e instalación de Immunity Debuger.md",
-    "Savitar Cursos/Introducción al Hacking/Escalada de Privilegios/12 Docker Breakout.md",
-    "Savitar Cursos/Introducción al Hacking/Buffer Overflow",
-    "Savitar Cursos/Introducción al Hacking/Sin título.md",
-    "Savitar Cursos/Introducción al Hacking/Escalada de Privilegios/11 Secuestro de la biblioteca de objetos compartidos enlazados dinámicamente.md",
-    "Savitar Cursos/Introducción al Hacking/Escalada de Privilegios/11 Abuso de binarios específicos.md",
-    "Savitar Cursos/Introducción al Hacking/Escalada de Privilegios/10 Abuso de servicios internos del sistema.md",
-    "eJPT _V1/2. Host & Network Penetration Testing/Exploitation/7.3 Reverse Shell Cheatsheet.md",
-    "eJPT _V1/2. Host & Network Penetration Testing/Exploitation/7.2 Reverse Shells.md",
-    "eJPT _V1/2. Host & Network Penetration Testing/Exploitation/7.1 Bind Shells.md",
-    "eJPT _V1/2. Host & Network Penetration Testing/Exploitation/7. Bind & Reverse Shells NetCat.md",
-    "Master Zero Day/Hacking Ético Mario/Hacking Aplicaciones/6 Vulnerabilidad Shellshock.md",
-    "Savitar Cursos/Introducción al Hacking/Explotacion y Vulnerabilidades/01 Reverse Shells, Bind Shells y Forward Shells.md",
-    "Master Zero Day/Hacking Ético Mario/Hacking Ético en Windows/6 BYpass Antivirus de Windows.md",
-    "Savitar Cursos/Introducción al Hacking/Escalada de Privilegios",
+    "Savitar Cursos/Introducción al Hacking/OWASP TOP 10/12 Ataque Type Juggling.md",
+    "BurpSuite Certification/3. File upload vulnerabilities/Labs/4. Web shell upload via extension blacklist bypass.md",
+    "BurpSuite Certification/3. File upload vulnerabilities/Labs/3. Web shell upload via path traversal.md",
+    "BurpSuite Certification/3. File upload vulnerabilities/Labs/2. Web shell upload via Content-Type restriction bypass.md",
+    "BurpSuite Certification/3. File upload vulnerabilities/Labs/1. Remote code execution via web shell upload.md",
+    "custom_icons/Vulnhub.svg",
+    "custom_icons/Unconfirmed 141818.crdownload",
+    "custom_icons/Vulnhub.png",
+    "custom_icons/haack4you.svg",
+    "custom_icons/Unconfirmed 183549.crdownload",
+    "custom_icons/Unconfirmed 317377.crdownload",
+    "custom_icons/Unconfirmed 1296.crdownload",
+    "Savitar Cursos/Introducción al Hacking/Reportes  e Informes",
+    "custom_icons/Unconfirmed 32378.crdownload",
+    "custom_icons/Unconfirmed 921415.crdownload",
     "Savitar Cursos/Introducción al Hacking/OWASP TOP 10/Sin título.canvas",
     "Untitled.canvas",
     "eJPT _V1/2. Host & Network Penetration Testing/3.Metasploit/Untitled.canvas"

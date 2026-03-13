@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "CuOWAP",
-      "CuMetasploit",
-      "LiAArrowUp",
-      "CuMetasploitIcons",
-      "FasExplosion"
+      "LiNetwork",
+      "TiFingerprintScan",
+      "TiSql",
+      "CuHaack4you",
+      "TiReport"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -390,7 +390,7 @@
     "iconName": "TiSql",
     "iconColor": "#c0b107"
   },
-  "Savitar Cursos": "🧨",
+  "Savitar Cursos": "CuHaack4you",
   "Master Zero Day/Curso de Linux Mario el Pinguino": {
     "iconName": "FabLinux",
     "iconColor": "#38da0b"
@@ -446,5 +446,26 @@
     "iconName": "CuMetasploit",
     "iconColor": "#ffffff"
   },
-  "Savitar Cursos/Introducción al Hacking/OWASP TOP 10": "CuOWAP"
+  "Savitar Cursos/Introducción al Hacking/OWASP TOP 10": "CuOWAP",
+  "Savitar Cursos/Introducción al Hacking/SQLMap": {
+    "iconName": "TiFileTypeSql",
+    "iconColor": "#3adf81"
+  },
+  "Savitar Cursos/Introducción al Hacking/Pivoting": {
+    "iconName": "CuPivot",
+    "iconColor": "#ffffff"
+  },
+  "Savitar Cursos/Introducción al Hacking/Reportes  e Informes": {
+    "iconName": "TiReport",
+    "iconColor": "#95c350"
+  },
+  "Savitar Cursos/Hacking Web/01 SQL INJECTION": "TiSql",
+  "Master Zero Day/Forense Hackavis": {
+    "iconName": "TiFingerprintScan",
+    "iconColor": "#f9f22f"
+  },
+  "Master Zero Day/Redes": {
+    "iconName": "LiNetwork",
+    "iconColor": "#50e7f2"
+  }
 }

