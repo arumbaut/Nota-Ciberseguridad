@@ -113,12 +113,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Master Zero Day/Redes/02 Enrrutamiento.md",
+                "file": "Savitar Cursos/Introducción al Hacking/OWASP TOP 10/01 SQL Injection (SQLI).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02 Enrrutamiento"
+              "title": "01 SQL Injection (SQLI)"
             }
           }
         ],
@@ -179,7 +179,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.5086555480957
+    "width": 452.5086555480957
   },
   "right": {
     "id": "dd62f90908c3232e",
@@ -298,8 +298,23 @@
   },
   "active": "6b5b398f5e9d8e29",
   "lastOpenFiles": [
-    "Master Zero Day/Redes/01 Vlans.md",
+    "Savitar Cursos/Introducción al Hacking/Protocolos comunes (UDP, TCP) y el famoso Three-Way Handshake.md",
+    "Savitar Cursos/Introducción al Hacking/16 Identificación y verificación externa de la versión del sistema operativo.md",
+    "Savitar Cursos/Introducción al Hacking/15 Google Dorks  Google Hacking (Los 18 Dorks más usados).md",
+    "Savitar Cursos/Introducción al Hacking/14 Fuzzing y enumeración de archivos en un servidor web.md",
+    "Savitar Cursos/Introducción al Hacking/13 Identificación de las tecnologías en una página web.md",
+    "Savitar Cursos/Introducción al Hacking/12 Credenciales y brechas de seguridad.md",
+    "Savitar Cursos/Introducción al Hacking/11 Enumeracion de subdominios.md",
+    "Savitar Cursos/Introducción al Hacking/10 Reconocimiento de imágenes.md",
+    "Savitar Cursos/Introducción al Hacking/09 Descubrimiento de correos electrónicos.md",
+    "Savitar Cursos/Introducción al Hacking/08 Descubrimiento de equipos en la red local (ARP e ICMP) y Tips.md",
+    "Savitar Cursos/Introducción al Hacking/07 Alternativas para la enumeración de puertos usando descriptores de archivo.md",
+    "Savitar Cursos/Introducción al Hacking/06 Uso de scripts y categorías en nmap para aplicar reconocimiento.md",
+    "Savitar Cursos/Introducción al Hacking/05 Técnicas de evasión de Firewalls (MTU, Data Length, Source Port, Decoy, etc.).md",
+    "Savitar Cursos/Introducción al Hacking/04 Nmap y sus diferentes modos de escaneo.md",
+    "Savitar Cursos/Introducción al Hacking/Explotacion y Vulnerabilidades/01 Reverse Shells, Bind Shells y Forward Shells.md",
     "Master Zero Day/Redes/02 Enrrutamiento.md",
+    "Master Zero Day/Redes/01 Vlans.md",
     "attachments/Pasted image 20260312181559.png",
     "attachments/Pasted image 20260312181513.png",
     "attachments/Pasted image 20260312173543.png",
@@ -318,21 +333,7 @@
     "attachments/Pasted image 20260309113644.png",
     "Master Zero Day/Forense Hackavis/6 Instalacion de Herramientas.md",
     "Master Zero Day/Forense Hackavis/5 Herramientas Forenses Linux - Windows.md",
-    "Master Zero Day/Forense Hackavis/2 Configurar entorno Forense en Windows.md",
-    "Master Zero Day/Forense Hackavis/1 OS Fundamentales.md",
-    "Master Zero Day/Forense Hackavis/4 Configurar entorno Forense en Cain.md",
-    "Master Zero Day/Forense Hackavis/3 Configurar entorno Forense en SIFT Workstation.md",
-    "Savitar Cursos/Introducción al Hacking/OWASP TOP 10/04 Local File Inclusion (LFI).md",
     "Master Zero Day/Forense Hackavis",
-    "Savitar Cursos/Introducción al Hacking/OWASP TOP 10/03 XML External Entity Injection (XXE).md",
-    "Savitar Cursos/Introducción al Hacking/OWASP TOP 10/02 Cross-Site Scripting (XSS).md",
-    "Savitar Cursos/Introducción al Hacking/OWASP TOP 10/01 SQL Injection (SQLI).md",
-    "Savitar Cursos/Introducción al Hacking/Buffer Overflow/7 Modificación del Shellcode para controlar el comando que se desea ejecutar.md",
-    "Savitar Cursos/Introducción al Hacking/OWASP TOP 10/12 Ataque Type Juggling.md",
-    "BurpSuite Certification/3. File upload vulnerabilities/Labs/4. Web shell upload via extension blacklist bypass.md",
-    "BurpSuite Certification/3. File upload vulnerabilities/Labs/3. Web shell upload via path traversal.md",
-    "BurpSuite Certification/3. File upload vulnerabilities/Labs/2. Web shell upload via Content-Type restriction bypass.md",
-    "BurpSuite Certification/3. File upload vulnerabilities/Labs/1. Remote code execution via web shell upload.md",
     "custom_icons/Vulnhub.svg",
     "custom_icons/Unconfirmed 141818.crdownload",
     "custom_icons/Vulnhub.png",

@@ -1,12 +1,13 @@
+- Tags : #nmap #nmap_evasion
 
-```
-Utilizando fragmentacion de paquetes para evadir
+```bash
+#Utilizando fragmentacion de paquetes para evadir
 nmap -p22 ip -f
 
-Filtro de wirwshark para paquetes fragmentados
+#Filtro de wirwshark para paquetes fragmentados
 ip.flag.mf==1
 
-Con el parametro mtu tambien se puede llegar a evadir el firewall pasandole una mtu(son multiplos de 8) inferior a la esperado en el firewall
+#Con el parametro mtu tambien se puede llegar a evadir el firewall pasandole una mtu(son multiplos de 8) inferior a la esperado en el firewall
 
 nmap -p22 ip --mtu 8
 

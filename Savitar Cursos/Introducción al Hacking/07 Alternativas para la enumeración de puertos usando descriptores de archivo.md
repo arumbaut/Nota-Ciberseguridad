@@ -1,3 +1,5 @@
+- Tags: #descriptores_archivo
+
 Nos creamos un propio scan de pueros
 ```
 #!/bin/bash

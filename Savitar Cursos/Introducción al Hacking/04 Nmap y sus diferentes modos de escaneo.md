@@ -1,9 +1,13 @@
+- Tags : #nmap #scaneo_puertos
+
 ```
 Para ver las rutas en mi maquina
 route -n 
 ```
 
-```
+
+
+```bash
 Escanar puertos abiertos
 nmap -p ip
 
@@ -37,8 +41,6 @@ nmap -p- -T3 -sT 500 ip -v -n -Pn
 TCP conect scan -sT
 nmap -p- -T3 -sT 500 ip -v -n 
 
-Captura con tcpdump
-tcpdump -i eth0 -w Captura.cap -v
 
 UDP Scan -sU
 nmap -p- --open -sU 500 ip -v -n 
@@ -57,4 +59,11 @@ nmap -p22,80 -sV ip
 
 
 
+```
+
+Captura con *TCPDUMP*
+```bash
+
+Captura con tcpdump
+tcpdump -i eth0 -w Captura.cap -v
 ```

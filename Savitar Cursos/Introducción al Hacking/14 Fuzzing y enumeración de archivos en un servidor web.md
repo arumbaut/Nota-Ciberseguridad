@@ -14,13 +14,13 @@ Gobuster
 ```bash
 gobuster dir -u https://wiffi.com -w /usr/share/seclists/Discovery/Web-Content/directory-list-2.3-medium.txt -t 200
 
-Excluir codigos de esado
+#Excluir codigos de esado
 gobuster dir -u https://wiffi.com -w /usr/share/seclists/Discovery/Web-Content/directory-list-2.3-medium.txt -t 200 -b 403,404
 
-Fuzzing a nivel de extensiones
+#Fuzzing a nivel de extensiones
 gobuster dir -u https://wiffi.com -w /usr/share/seclists/Discovery/Web-Content/directory-list-2.3-medium.txt -t 50 -b 403,404 -x php,html,txt
 
-Con parametro -s para obtener solo status 200
+#Con parametro -s para obtener solo status 200
 gobuster dir -u https://wiffi.com -w /usr/share/seclists/Discovery/Web-Content/directory-list-2.3-medium.txt -t 50 -x html -s 200 -b ''
 
 
@@ -30,30 +30,30 @@ Wfuzz
 ```bash
 wfuzz -c -t 200 -w /usr/share/seclists/Discovery/Web-Content/directory-list-2.3-medium.txt -u https://wiffi.com/FUZZ
 
-Ocultar status code
+#Ocultar status code
 wfuzz -c --hc=404,403 -t 200 -w /usr/share/seclists/Discovery/Web-Content/directory-list-2.3-medium.txt -u https://wiffi.com/FUZZ
 
-Seguir la redireccion 
+#Seguir la redireccion 
 wfuzz -c --hc=404,403 -t 200 -w /usr/share/seclists/Discovery/Web-Content/directory-list-2.3-medium.txt -u https://wiffi.com/FUZZ/
 
-Que devuelva rutas con una determinada cantidad de lineas -sl(show line) o -hl (hide line) lo mismo a nivel de palabras -hw o -sw y caracteres -hh -sh
+#Que devuelva rutas con una determinada cantidad de lineas -sl(show line) o -hl (hide line) lo mismo a nivel de palabras -hw o -sw y caracteres -hh -sh
 wfuzz -c -sl=216 --hc=404,403 -t 200 -w /usr/share/seclists/Discovery/Web-Content/directory-list-2.3-medium.txt -u https://wiffi.com/FUZZ/
 
-Para identificar extenciones ej html concatenamo al fuzz .html
+#Para identificar extenciones ej html concatenamo al fuzz .html
 wfuzz -c --hc=404,403 -t 200 -w /usr/share/seclists/Discovery/Web-Content/directory-list-2.3-medium.txt -u https://wiffi.com/FUZZ.html
 
-Provar varias extenciones
+#Provar varias extenciones
 wfuzz -c --hc=404,403 -t 200 -w /usr/share/seclists/Discovery/Web-Content/directory-list-2.3-medium.txt -z list,html-txt-php -u https://wiffi.com/FUZZ.FUZ2Z
 
-Aqui ocurre que para ir fuzzeando en diferentes partes de comando y con diferentes payload debemos ir agregando payload y por cada uno sera su numero de fuzz eje con -z list,html-txt-php creamos una lista que contiene 3 elementos html, txt , php resaltar que en wfuzz se declara como esta  en el comando y para agregar este payload al comando ponemos FUZ2Z en la posicion donde queremos sustituir los valores html, txt , php si creasemos otra lista o utlizaramos otro deccionario debemos sustituirlo poniedo FUZ3Z y asi sucesivamente
+#Aqui ocurre que para ir fuzzeando en diferentes partes de comando y con diferentes payload debemos ir agregando payload y por cada uno sera su numero de fuzz eje con -z list,html-txt-php creamos una lista que contiene 3 elementos html, txt , php resaltar que en wfuzz se declara como esta  en el comando y para agregar este payload al comando ponemos FUZ2Z en la posicion donde queremos sustituir los valores html, txt , php si creasemos otra lista o utlizaramos otro deccionario debemos sustituirlo poniedo FUZ3Z y asi sucesivamente
 
-Para englobar rangos
+#Para englobar rangos
 wfuzz -c -z range,1-200000 -t 200 -u https://wiffi.com/detail?poruct=FUZZ
  
 ```
 
 FFUF
-```
+```bash
 ffuf -c -w /usr/share/seclists/Discovery/Web-Content/directory-list-2.3-medium.txt -u https://wiffi.com/FUZZ -v
 
 Filtrar por codigo de estado

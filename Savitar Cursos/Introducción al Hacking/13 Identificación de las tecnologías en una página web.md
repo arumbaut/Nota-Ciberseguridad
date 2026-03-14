@@ -1,3 +1,5 @@
+- Tags: #whatweb #wappalyzer 
+
 Desde el punto de vista de la seguridad, es fundamental conocer las **tecnologías** y **herramientas** que se utilizan en una página web. La identificación de estas tecnologías permite a los expertos en seguridad evaluar los riesgos potenciales de un sitio web, identificar vulnerabilidades y diseñar estrategias efectivas para proteger la información sensible y los datos críticos.
 
 Existen diversas herramientas y utilidades en línea que permiten identificar las tecnologías utilizadas en una página web. Algunas de las herramientas más populares incluyen **Whatweb**, **Wappalyzer** y **builtwith.com**. Estas herramientas escanean la página web y proporcionan información detallada sobre las tecnologías utilizadas, como el lenguaje de programación, el servidor web, los sistemas de gestión de contenido, entre otros.
@@ -16,7 +18,7 @@ A continuación, os proporcionamos los enlaces correspondientes a las herramient
 
 
 Whatweb
-```
+```bash
 whatweb https://wiffi.com
 ```
 

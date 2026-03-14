@@ -1,4 +1,4 @@
-```
+```bash
 nmap -sn ip/24
 
 arp-scan -i eth0 --localnet --ignoredups

@@ -1,3 +1,5 @@
+- Tags : #enumeration #enumeration_subdominios #gobuster #wfuzz #sublister
+
 La enumeración de **subdominios** es una de las fases cruciales en la seguridad informática para identificar los subdominios asociados a un dominio principal.
 
 Los subdominios son parte de un dominio más grande y a menudo están configurados para apuntar a diferentes recursos de la red, como servidores web, servidores de correo electrónico, sistemas de bases de datos, sistemas de gestión de contenido, entre otros.
@@ -23,12 +25,12 @@ A continuación, os adjuntamos los enlaces a las herramientas vistas en esta cla
 
 
 Gobuster para hacer reconocimiento de subdominios de forma activa
-```
-gobuste vhost -u https://tinder.com -w /usr/share/seclists/Discovery/DNS/subdomains-top1million-5000.txt -t 20 | grep -v "403"
+```bash
+gobuster vhost -u https://tinder.com -w /usr/share/seclists/Discovery/DNS/subdomains-top1million-5000.txt -t 20 | grep -v "403"
 ```
 
 Similar podemos utilizar  la herramienta wfuzz
-```
+```bash
 wfuzz -c -t 20 -w /usr/share/seclists/Discovery/DNS/subdomains-top1million-5000.tx -H "Host: FUZZ.tinder.com" https://tinder.com
 
 Ocultando un codigo de estado param hc
@@ -36,6 +38,6 @@ wfuzz -c --hc=403 -t 20 -w /usr/share/seclists/Discovery/DNS/subdomains-top1mill
 ```
 
 Sublist3r
-```
+```bash
 python3 sublist3r.py -d tinder.com
 ```

@@ -1,3 +1,5 @@
+- Tags: #osint #correo #valides_correos
+
 Sitio para obtener algunos correos pertenecientes a un dominio
 
 - Hunter: [https://hunter.io/](https://hunter.io/)
