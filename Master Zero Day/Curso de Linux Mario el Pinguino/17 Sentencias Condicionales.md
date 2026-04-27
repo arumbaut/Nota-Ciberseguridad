@@ -1,4 +1,4 @@
-Condicionale 
+- Tags : #sentencias_condicionales_linux 
 ## Comparison Operators
 
 - `-eq`: Equal to

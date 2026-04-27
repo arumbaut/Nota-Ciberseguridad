@@ -1,4 +1,4 @@
-Bucle for
+- Tags: #bucles_linux #for #while #until
 
 ```
 for i in {1..50};do

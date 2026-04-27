@@ -1,0 +1,6 @@
+La mensajería de texto, que se muestra en la figura, es una de las herramientas de comunicación más populares que se utilizan en la actualidad. Además, el software de mensajería de texto está integrado en muchas aplicaciones en línea, aplicaciones de teléfonos inteligentes y sitios de redes sociales.
+
+![[Pasted image 20260327142841.png|641]]
+Los mensajes de texto también pueden denominarse mensajes instantáneos, mensajes directos, mensajes privados y mensajes de chat. La mensajería de texto permite a los usuarios comunicarse o chatear por internet en tiempo real. Por lo general, se accede a los servicios de mensajería de texto en una computadora a través de un cliente basado en la web que está integrado en una red social o en un sitio para compartir información. Estos clientes se suelen conectar solo a otros usuarios del mismo sitio.
+
+También hay varios clientes de mensajes de texto independientes, como Cisco Webex Teams, Microsoft Teams, WhatsApp, Facebook Messenger y muchos otros. Estas aplicaciones están disponibles para una amplia variedad de sistemas operativos y dispositivos. Por lo general, se ofrece una versión móvil. Además de los mensajes de texto, estos clientes admiten la transferencia de documentos, videos, música y archivos de audio.

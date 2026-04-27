@@ -15,7 +15,7 @@ Este comando determina de dónde obtiene el tiempo el servidor NTP y sigue la ca
 
 **ntptrace [-n] [-m maxhosts] [servername/IP_address]**
 
-**▪ ntpdc**Este comando consulta al demonio ntpd sobre su estado actual y solicita cambios en ese estado. Los atacantes utilizan este comando para recuperar el estado y las estadísticas de cada servidor NTP conectado a la red objetivo.
+**▪ ntpdc** Este comando consulta al demonio ntpd sobre su estado actual y solicita cambios en ese estado. Los atacantes utilizan este comando para recuperar el estado y las estadísticas de cada servidor NTP conectado a la red objetivo.
 
 **ntpdc [ -46dilnps ] [ -c command] [hostname/IP_address]**
 

@@ -1,8 +1,9 @@
+- Tags: #du
 Comando du
-du -> Pra gestionar el almacenamiento, el tamaño de los archivos.
+du -> Para gestionar el almacenamiento, el tamaño de los archivos.
 
 ```
-du -h 
+du -h /archivo
 
 Agregarle expresiones regulares
 

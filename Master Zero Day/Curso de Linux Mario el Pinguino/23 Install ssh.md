@@ -10,7 +10,7 @@ Generar claves
 ssh-keygen
 
 Copiar la privae key al servido ssh
-ssh-copi-id user@server
+ssh-copy-id user@server
 ```
 
 Copia de seguridad con SSH

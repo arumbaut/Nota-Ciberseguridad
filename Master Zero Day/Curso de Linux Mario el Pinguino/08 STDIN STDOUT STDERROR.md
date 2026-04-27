@@ -5,7 +5,7 @@ read -p 'Introduce tu nombre'
 STDOUT
 echo hola
 
-STDERROR redereccion 
+STDERROR redireccion 
 
 2>/dev/null
 

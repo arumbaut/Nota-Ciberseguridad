@@ -16,7 +16,7 @@ pgrep nombre_proceso  #Nos da el id del proceso
 
 kill numero_id_proceso
 
-ps aux    #Muestra todo los procesos se le puede hacer un grepp para                   #encontra un en especifico
+ps aux    #Muestra todo los procesos se le puede hacer un grep para  encontra un             en especifico
 
 ps aux | grep firefox
 

@@ -1,4 +1,4 @@
-
+- Tags : #tr #awk #cut #sed
 tr - > para sustituir caracteres en concreto, uno por uno no se puede sustituir un carácter por varios
 ```
 Bien

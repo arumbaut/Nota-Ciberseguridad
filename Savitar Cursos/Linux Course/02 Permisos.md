@@ -11,8 +11,7 @@ cat /etc/login.defs | grep "ENCRYPT_METHOD"
 
 Importante entender que siempre prevalece el permiso del directorio que le precede al archivo. Que quiere decir esto :
 
-Si tenemos Una carpeta prueba donde tienen todos los permisos todos, es decir  (ugo)
-y dentro un usuario X crea un fichero que tendrá sus propios permiso el permiso que prevalece por encima de todo es el del Directorio por lo tanto si otros tienen todos los permisos cualquiera podrá manipular el archivo creado por el usuario x al igual que los del grupo o el owner . Tener en cuenta esto al momento de analizar la jerarquia de permisos pues hace a un fichero accesible de estar mal configurado y de no entender como funcionan
+Si tenemos un *Directorio* prueba donde tienen todos los permisos todos, es decir  (ugo) y dentro un usuario X crea un *Fichero* que tendrá sus propios permiso el permiso que prevalece por encima de todo es el del *Directorio* por lo tanto si otros tienen todos los permisos cualquiera podrá manipular el *Fichero* creado por el usuario x al igual que los del grupo o el owner . Tener en cuenta esto al momento de analizar la jerarquia de permisos pues hace a un fichero accesible de estar mal configurado y de no entender como funcionan
 
 Para evitar esto se utiliza el Sticki bit en el directorio
 ```

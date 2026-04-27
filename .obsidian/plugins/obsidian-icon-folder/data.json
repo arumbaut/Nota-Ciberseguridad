@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "TiEyeSearch",
+      "TiNetwork",
       "LiNetwork",
       "TiFingerprintScan",
-      "TiSql",
-      "CuHaack4you",
-      "TiReport"
+      "TiSql"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -467,5 +467,18 @@
   "Master Zero Day/Redes": {
     "iconName": "LiNetwork",
     "iconColor": "#50e7f2"
+  },
+  "CISCO CCST Networking": {
+    "iconName": "LiNetwork",
+    "iconColor": "#fdf630"
+  },
+  "CISCO CCST Networking/07 IPv4 y Segmentacion de redes/07 Segmentación de la red.md": "TiNetwork",
+  "Apuntes Ciber Certificacion/02 Scaneo y Enumeracion/Scaneos.md": {
+    "iconName": "TiEyeSearch",
+    "iconColor": "#1ab8e0"
+  },
+  "Master Zero Day/Splunk": {
+    "iconName": "TiEyeSearch",
+    "iconColor": "#d37a4a"
   }
 }

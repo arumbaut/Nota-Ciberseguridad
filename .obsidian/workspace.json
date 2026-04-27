@@ -24,105 +24,65 @@
             }
           },
           {
-            "id": "445d91eee05cbfd9",
+            "id": "2f52101e1e29ca16",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BurpSuite Certification/2. Path traversal/2. Obstáculos comunes.md",
+                "file": "CCNA/CCNA 200-301/05  Transmission Control Protocol (TCP).md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "2. Obstáculos comunes"
+              "title": "05  Transmission Control Protocol (TCP)"
             }
           },
           {
-            "id": "ea775009f37bd4b2",
+            "id": "5d8a744cd65d3c7e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cheat Sheets/Enmumeracion/SQL Enumeration.md",
+                "file": "CEHv13/Training/Ataques/Resumen Notas Importantes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SQL Enumeration"
+              "title": "Resumen Notas Importantes"
             }
           },
           {
-            "id": "090ac1589be7307a",
+            "id": "0d15e5d03fa9cf99",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BurpSuite Certification/3. File upload vulnerabilities/Labs/1. Remote code execution via web shell upload.md",
+                "file": "CCNA/CCNA 200-301/09 Calculador de Subnet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Remote code execution via web shell upload"
+              "title": "09 Calculador de Subnet"
             }
           },
           {
-            "id": "c1327d602af1fe80",
+            "id": "65f78f8423a4d93f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hacking Pentesting CTF/Maquina Injection.md",
+                "file": "CCNA/CCNA 200-301/24 Quality Of Service/01 Introduccion.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Maquina Injection"
-            }
-          },
-          {
-            "id": "b36d46c16e259ce1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Master Zero Day/Forense Hackavis/10 Análisis de memoria RAM SO Windws.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "10 Análisis de memoria RAM SO Windws"
-            }
-          },
-          {
-            "id": "cb511392d4690ec0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Savitar Cursos/Introducción al Hacking/OWASP TOP 10/12 Ataque Type Juggling.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "12 Ataque Type Juggling"
-            }
-          },
-          {
-            "id": "6b5b398f5e9d8e29",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Savitar Cursos/Introducción al Hacking/OWASP TOP 10/01 SQL Injection (SQLI).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "01 SQL Injection (SQLI)"
+              "title": "01 Introduccion"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -154,7 +114,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#adquisicion_linux_memoria",
+                "query": "Dork",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -179,7 +139,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 452.5086555480957
+    "width": 309.5086555480957
   },
   "right": {
     "id": "dd62f90908c3232e",
@@ -296,54 +256,54 @@
       "translate:Open translation view": false
     }
   },
-  "active": "6b5b398f5e9d8e29",
+  "active": "65f78f8423a4d93f",
   "lastOpenFiles": [
-    "Savitar Cursos/Introducción al Hacking/Protocolos comunes (UDP, TCP) y el famoso Three-Way Handshake.md",
-    "Savitar Cursos/Introducción al Hacking/16 Identificación y verificación externa de la versión del sistema operativo.md",
-    "Savitar Cursos/Introducción al Hacking/15 Google Dorks  Google Hacking (Los 18 Dorks más usados).md",
-    "Savitar Cursos/Introducción al Hacking/14 Fuzzing y enumeración de archivos en un servidor web.md",
-    "Savitar Cursos/Introducción al Hacking/13 Identificación de las tecnologías en una página web.md",
-    "Savitar Cursos/Introducción al Hacking/12 Credenciales y brechas de seguridad.md",
-    "Savitar Cursos/Introducción al Hacking/11 Enumeracion de subdominios.md",
-    "Savitar Cursos/Introducción al Hacking/10 Reconocimiento de imágenes.md",
-    "Savitar Cursos/Introducción al Hacking/09 Descubrimiento de correos electrónicos.md",
-    "Savitar Cursos/Introducción al Hacking/08 Descubrimiento de equipos en la red local (ARP e ICMP) y Tips.md",
-    "Savitar Cursos/Introducción al Hacking/07 Alternativas para la enumeración de puertos usando descriptores de archivo.md",
-    "Savitar Cursos/Introducción al Hacking/06 Uso de scripts y categorías en nmap para aplicar reconocimiento.md",
-    "Savitar Cursos/Introducción al Hacking/05 Técnicas de evasión de Firewalls (MTU, Data Length, Source Port, Decoy, etc.).md",
-    "Savitar Cursos/Introducción al Hacking/04 Nmap y sus diferentes modos de escaneo.md",
-    "Savitar Cursos/Introducción al Hacking/Explotacion y Vulnerabilidades/01 Reverse Shells, Bind Shells y Forward Shells.md",
-    "Master Zero Day/Redes/02 Enrrutamiento.md",
-    "Master Zero Day/Redes/01 Vlans.md",
-    "attachments/Pasted image 20260312181559.png",
-    "attachments/Pasted image 20260312181513.png",
-    "attachments/Pasted image 20260312173543.png",
-    "Master Zero Day/Forense Hackavis/12 Profile en Volatility.md",
-    "Master Zero Day/Redes",
-    "Master Zero Day/Forense Hackavis/11 Análisis de memoria RAM SO Windws Volatility3.md",
-    "Master Zero Day/Forense Hackavis/10 Análisis de memoria RAM SO Windws Volatility2.md",
-    "Savitar Cursos/Linux Course/10 La kitty.md",
-    "attachments/Pasted image 20260310172659.png",
-    "Master Zero Day/Forense Hackavis/9 Análisis de memoria en Linux.md",
-    "Master Zero Day/Forense Hackavis/8 Adquisicion en Windows.md",
-    "Master Zero Day/Forense Hackavis/Sin nombre",
-    "attachments/Pasted image 20260309121309.png",
-    "attachments/Pasted image 20260309115848.png",
-    "Master Zero Day/Forense Hackavis/7 Adquisición en Linux.md",
-    "attachments/Pasted image 20260309113644.png",
-    "Master Zero Day/Forense Hackavis/6 Instalacion de Herramientas.md",
-    "Master Zero Day/Forense Hackavis/5 Herramientas Forenses Linux - Windows.md",
-    "Master Zero Day/Forense Hackavis",
-    "custom_icons/Vulnhub.svg",
-    "custom_icons/Unconfirmed 141818.crdownload",
-    "custom_icons/Vulnhub.png",
-    "custom_icons/haack4you.svg",
-    "custom_icons/Unconfirmed 183549.crdownload",
-    "custom_icons/Unconfirmed 317377.crdownload",
-    "custom_icons/Unconfirmed 1296.crdownload",
-    "Savitar Cursos/Introducción al Hacking/Reportes  e Informes",
-    "custom_icons/Unconfirmed 32378.crdownload",
-    "custom_icons/Unconfirmed 921415.crdownload",
+    "CCNA/CCNA 200-301/24 Quality Of Service/Index.md",
+    "CCNA/CCNA 200-301/24 Quality Of Service/01 Introduccion.md",
+    "CCNA/CCNA 200-301/23 Network Services for Cisco/01 Introducción a HSRP.md",
+    "CCNA/CCNA 200-301/24 Quality Of Service",
+    "attachments/Pasted image 20260427110524.png",
+    "attachments/Pasted image 20260427110052.png",
+    "CCNA/CCNA 200-301/23 Network Services for Cisco/Index.md",
+    "CCNA/CCNA 200-301/22 Dinamic Routing/10 EIGRP Configuracion.md",
+    "CCNA/CCNA 200-301/23 Network Services for Cisco",
+    "CCNA/CCNA 200-301/Sin título.md",
+    "CCNA/CCNA 200-301/Sin título 1.md",
+    "CCNA/CCNA 200-301/23 Network Services for Cisco",
+    "CCNA/CCNA 200-301/22 Dinamic Routing/09 EIGRP.md",
+    "CCNA/CCNA 200-301/17 VLAN Operations/05 Switch L3.md",
+    "attachments/Pasted image 20260426115345.png",
+    "attachments/Pasted image 20260426115156.png",
+    "attachments/Pasted image 20260426114530.png",
+    "attachments/Pasted image 20260426114126.png",
+    "attachments/Pasted image 20260426114019.png",
+    "CCNA/CCNA 200-301/22 Dinamic Routing/01  Como trabajan las rutas dinaicas.md",
+    "CCNA/CCNA 200-301/22 Dinamic Routing/08 Configurando Interface Pasiva OSPF.md",
+    "CCNA/CCNA 200-301/22 Dinamic Routing/07 OSPF Neighbors Table.md",
+    "CCNA/CCNA 200-301/22 Dinamic Routing/03 Configracion de RIP.md",
+    "CCNA/CCNA 200-301/22 Dinamic Routing/02 Distancia Adminisrativa.md",
+    "CCNA/CCNA 200-301/22 Dinamic Routing/06 Configurando OSPF.md",
+    "attachments/Pasted image 20260424175932.png",
+    "attachments/Pasted image 20260424175606.png",
+    "attachments/Pasted image 20260424175354.png",
+    "CCNA/CCNA 200-301/22 Dinamic Routing/05 OSPF Intercambio de Link Information.md",
+    "CCNA/CCNA 200-301/22 Dinamic Routing/04 Introduccion a OSPF.md",
+    "eJPT _V1/1. Assessment Methodologies/1. Asses Methodologies - Information Gathering/1. Pasive Information Gathering/07. Google Dorks.md",
+    "CEHv13/Training/Modulo 02 Footprinting and Reconnaissance/02 Tools to Search Company`s Sub domains.md",
+    "CCNA/CCNA 200-301/21 Routing IPv4 and IPv6/12 Rutas Staticas Redundantes.md",
+    "CCNA/CCNA 200-301/13 Configuring Router/2 Securing Access to the Router.md",
+    "CCNA/CCNA 200-301/22 Dinamic Routing/Index.md",
+    "Savitar Cursos/Linux Course/03 Control de atributos de ficheros en Linux – Chattr y Lsattr.md",
+    "CCNA/CCNA 200-301/22 Dinamic Routing",
+    "Savitar Cursos/Linux Course/02 Permisos.md",
+    "Savitar Cursos/Linux Course/01 Comandos Basicos.md",
+    "Master Zero Day/Curso de Linux Mario el Pinguino/27 Cracking de passwords.md",
+    "CCNA/CCNA 200-301/21 Routing IPv4 and IPv6",
+    "CCNA/CCNA 200-301/20 VTP VLAN Trunking Protocol",
+    "CCNA/CCNA 200-301/19 Etherchannel",
+    "CCNA/CCNA 200-301/18 Spanning Tree Protocol (STP)",
+    "CCNA/CCNA 200-301/17 VLAN Operations",
+    "CCNA/CCNA 200-301/16 Securing Switch",
     "Savitar Cursos/Introducción al Hacking/OWASP TOP 10/Sin título.canvas",
     "Untitled.canvas",
     "eJPT _V1/2. Host & Network Penetration Testing/3.Metasploit/Untitled.canvas"

@@ -1,3 +1,5 @@
+- Tags : #scrip_medir_archivos
+
 ```
 #!/bin/bash
 
