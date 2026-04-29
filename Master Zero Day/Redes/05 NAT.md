@@ -92,6 +92,7 @@ Crearemos una acl para nuestra red local y aplicar la nat a esta regla.
 R3(config)# access-list 1 permit 192.168.0.0 0.0.0.255
 
 Aqui le decimos que aplique un nat a la interface interna y que lo que venga de la LAN le haga un NAT con la ip de la interface g0/1 IP 10.0.0.10
+
 R3(config)# ip nat inside source list 1 interface g0/1 overload
 
 ```
