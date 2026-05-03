@@ -48,7 +48,7 @@ Para  los bits de*HOST*   hacemos el calculo de *32-24= 8* , Recordemos que las 
 10.10.10.255
 
 
-### Ejercicion:
+### Ejercicio:
 
 Tenemos la red *192.168.1.0 / 24*  nos piden dividirla en 4 subredes utilizando  *FLSM*
 

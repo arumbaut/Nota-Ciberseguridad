@@ -6,7 +6,7 @@ Procedimiento para implementar el SPT en la red
 
 En términos de SPT  Bridge y Switch significan lo mismo
 
-Para seleccionar el Root Bridge (SW) necesitamos un mecanismo para transferir información entre los sw , por lo que enviaremos pequeños mensajes llamados BPU (Bridge Protocol Data Unit), dentro de estos enviaremos información que nos permitirá seleccionar el Root Bridge , el mejor camino y que puerto debemos bloquear
+Para seleccionar el Root Bridge (SW) necesitamos un mecanismo para transferir información entre los sw , por lo que enviaremos pequeños mensajes llamados *BPDU (Bridge Protocol Data Unit)*, dentro de estos enviaremos información que nos permitirá seleccionar el Root Bridge , el mejor camino y que puerto debemos bloquear
 
 ![[Pasted image 20260417124027.png|721]]
 
