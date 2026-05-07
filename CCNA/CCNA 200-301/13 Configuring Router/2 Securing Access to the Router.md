@@ -24,7 +24,7 @@ router(config)>enable secret cico #Agrega password al modo privilegiado
 
 Hay una diferencia entre los enable secret y los passwords de los puertos de console y aux , estos últimos están escritos en texto plano y el otro encriptados.
 
-Vamos  a encriptar también esto password para que nos se vean en texto claro a la hora de mostrar la configuración.
+Vamos  a encriptar también estos password para que nos se vean en texto claro a la hora de mostrar la configuración.
 
 ```cisco
 
