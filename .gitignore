@@ -1,1 +1,8 @@
 /Note Narration Audio/
+# Videos
+media/*.mp4
+media/*.mov
+media/*.avi
+media/*.mkv
+media/*.webm
+media/*.m4v

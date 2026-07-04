@@ -2,7 +2,7 @@ Ejecutar powershell en kali
 ```
 sudo apt install powershell -y
 
-pwsh  ->   Ejecuta povershell
+pwsh  ->   Ejecuta powershell
 
 cd 
 Lo importamos en nuestra shell de powershell 

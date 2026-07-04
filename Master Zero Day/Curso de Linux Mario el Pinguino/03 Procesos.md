@@ -1,7 +1,7 @@
 Correr un proceso y pasarlo al 2 plano
 
 ```
-firefox &     #Poniendo & al final indocamos lo ponga en 2 plano
+firefox &     #Poniendo & al final indicamos lo ponga en 2 plano
 
 jobs  #Nos muestra los procesos que esten en 2 plano enviado por nosotros
 

@@ -7,14 +7,14 @@ script /dev/null -c bash
 
 Ctrl+Z
 
-stty row -echo; fg
+stty raw -echo; fg
 
 reset xterm
 
 export SHELL=bash
 export TERM=xterm
 
-stty rows 38 columns 145     
+stty rows 37 columns 145     
 #Estos valores los tomamos de una ventana en nuestra terminal con un `stty size`
 
 

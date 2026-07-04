@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "TiBrandAnsible",
+      "TiLockAccess",
       "TiEyeSearch",
-      "TiNetwork",
-      "LiNetwork",
-      "TiFingerprintScan",
-      "TiSql"
+      "LiFingerprint",
+      "👨‍🎓"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -380,7 +380,7 @@
   "Hacking Pentesting CTF/Vacaciones.md": "FasComputer",
   "Hacking Pentesting CTF/tproot.md": "FasComputer",
   "Hacking Pentesting CTF/Savitar/Maquinas DMV y WPWN.md": "FasComputer",
-  "Wireshark": "🦈",
+  "Wireshark": "CuWiresharkIcons",
   "eJPT _V1/2. Host & Network Penetration Testing/PostExplotation": "TiFolder",
   "SOC Apuntes": {
     "iconName": "LiFolder",
@@ -468,11 +468,6 @@
     "iconName": "LiNetwork",
     "iconColor": "#50e7f2"
   },
-  "CISCO CCST Networking": {
-    "iconName": "LiNetwork",
-    "iconColor": "#fdf630"
-  },
-  "CISCO CCST Networking/07 IPv4 y Segmentacion de redes/07 Segmentación de la red.md": "TiNetwork",
   "Apuntes Ciber Certificacion/02 Scaneo y Enumeracion/Scaneos.md": {
     "iconName": "TiEyeSearch",
     "iconColor": "#1ab8e0"
@@ -480,5 +475,47 @@
   "Master Zero Day/Splunk": {
     "iconName": "TiEyeSearch",
     "iconColor": "#d37a4a"
+  },
+  "CISCO/CISCO CCST Networking": {
+    "iconName": "LiNetwork",
+    "iconColor": "#fdf630"
+  },
+  "CISCO/CISCO CCST Networking/07 IPv4 y Segmentacion de redes/07 Segmentación de la red.md": "TiNetwork",
+  "HTB CPTS": "CuHTBox",
+  "Docker Notes": "CuDockerStreamlineSimpleIcons",
+  "Azure": "CuAzure",
+  "Master Zero Day/Prueba/Hack.md": {
+    "iconName": "LiCheck",
+    "iconColor": "#00ff4c"
+  },
+  "Master Zero Day/Prueba/SOCMINT.md": {
+    "iconName": "LiCheck",
+    "iconColor": "#80ff00"
+  },
+  "Master Zero Day": "👨‍🎓",
+  "Master Zero Day/Prueba/Reporte OSIT.md": {
+    "iconName": "LiCheck",
+    "iconColor": "#73ff00"
+  },
+  "Master Zero Day/Prueba/BlueTeam.md": {
+    "iconName": "LiCheck",
+    "iconColor": "#33e302"
+  },
+  "Master Zero Day/Prueba/Forense.md": {
+    "iconName": "LiCheck",
+    "iconColor": "#06fe0a"
+  },
+  "Master Zero Day/OSINT": {
+    "iconName": "TiEyeSearch",
+    "iconColor": "#f1f500"
+  },
+  "Master Zero Day/Bastionado": "TiLockAccess",
+  "Master Zero Day/Forense Hackavis/Forense": {
+    "iconName": "LiFingerprint",
+    "iconColor": "#d1b710"
+  },
+  "Ansible": {
+    "iconName": "TiBrandAnsible",
+    "iconColor": "#17d350"
   }
 }

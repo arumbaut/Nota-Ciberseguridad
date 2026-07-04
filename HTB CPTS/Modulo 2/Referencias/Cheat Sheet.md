@@ -1,0 +1,1 @@
+![](media/Getting%20Started%20-%20cheatsheet.pdf)

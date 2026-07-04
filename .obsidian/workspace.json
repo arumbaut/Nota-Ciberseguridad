@@ -71,14 +71,10 @@
             "id": "65f78f8423a4d93f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CCNA/CCNA 200-301/28 Network Address Translation/06 Dynamic NAT Configuration.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "06 Dynamic NAT Configuration"
+              "title": "Nueva pestaña"
             }
           },
           {
@@ -87,16 +83,73 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Savitar Cursos/Linux Course/14 Instalar 2FA en conexión SSH.md",
+                "file": "Master Zero Day/Hacking Ético Mario/Hacking Ético Linux/13 Drupal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "14 Instalar 2FA en conexión SSH"
+              "title": "13 Drupal"
+            }
+          },
+          {
+            "id": "e6cedf3fadf4d1c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Master Zero Day/Hacking Ético Mario/Escalada de Privilegios/11 Tratamiento de la TTY.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "11 Tratamiento de la TTY"
+            }
+          },
+          {
+            "id": "ebf5de259dcedef1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cheat Sheets/Exploitation/Linux/Exploit Samba.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Exploit Samba"
+            }
+          },
+          {
+            "id": "2826588e73ec7e53",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cheat Sheets/Enmumeracion/SMB Enumeration.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SMB Enumeration"
+            }
+          },
+          {
+            "id": "a298a77194358369",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".gitignore",
+                "bFile": ".gitignore",
+                "aRef": "HEAD",
+                "bRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: .gitignore"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -128,7 +181,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "path:\"Ansible/\" ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -153,7 +206,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 355.5086555480957
+    "width": 373.5086555480957
   },
   "right": {
     "id": "dd62f90908c3232e",
@@ -270,54 +323,54 @@
       "translate:Open translation view": false
     }
   },
-  "active": "ba7d0478d65baba8",
+  "active": "a298a77194358369",
   "lastOpenFiles": [
-    "Fortinet/NSE2/03 Autenticación y control de acceso/06 Control de Acceso a la Red.md",
-    "Savitar Cursos/Linux Course/14 Instalar 2FA en conexión SSH.md",
-    "Fortinet/NSE2/03 Autenticación y control de acceso/04 Control de Acceso y Métodos.md",
-    "Fortinet/NSE2/03 Autenticación y control de acceso/05 Mejores prácticas de Control de Acceso.md",
-    "attachments/Pasted image 20260507111712.png",
-    "attachments/Pasted image 20260507111655.png",
-    "attachments/Pasted image 20260507111645.png",
-    "attachments/Pasted image 20260507111629.png",
-    "attachments/Pasted image 20260507111617.png",
-    "attachments/Pasted image 20260507111602.png",
-    "attachments/Pasted image 20260507111538.png",
-    "attachments/Pasted image 20260507111508.png",
-    "attachments/Pasted image 20260507111440.png",
-    "attachments/Pasted image 20260507111420.png",
-    "Fortinet/NSE2/03 Autenticación y control de acceso/03 Marco de Autenticación y control de acceso.md",
-    "Fortinet/NSE2/03 Autenticación y control de acceso/02 Inicio de sesión único.md",
-    "Fortinet/NSE2/03 Autenticación y control de acceso/01 Métodos de Autenticación.md",
-    "Fortinet/NSE2/02 Red Segura/07 SASE.md",
-    "Fortinet/NSE2/03 Autenticación y control de acceso",
-    "Fortinet/NSE2/02 Red Segura/06 SD-WAN Segura.md",
-    "Fortinet/NSE2/02 Red Segura/03 Principio de Confianza 0.md",
-    "Fortinet/NSE2/02 Red Segura/02 Perimétero Seguro.md",
-    "Fortinet/NSE2/02 Red Segura/13 SandBox.md",
-    "Fortinet/NSE2/02 Red Segura/14 Amenazas comunes de la Red y Prevención.md",
-    "Fortinet/NSE2/02 Red Segura/12 Protocolos de Seguridad.md",
-    "Fortinet/NSE2/02 Red Segura/11 Switch y puertos seguro.md",
-    "Fortinet/NSE2/02 Red Segura/10 Fortigate.md",
-    "Fortinet/NSE2/02 Red Segura/09 Firewalls.md",
-    "Fortinet/NSE2/02 Red Segura/08 Segmentación de la Red.md",
-    "Fortinet/NSE2/02 Red Segura/04 Gestión Centralizada de la Red de Seguridad.md",
-    "Fortinet/NSE2/02 Red Segura/01 Introduccion.md",
-    "Fortinet/NSE2/02 Red Segura",
-    "Fortinet/NSE2/01 Criptografia/03 Claves y Algoritmos.md",
-    "Fortinet/NSE2/01 Criptografia/06 Infraestructura de PKI.md",
-    "Fortinet/NSE2/01 Criptografia/04 Hashing y Firma Digital.md",
-    "Fortinet/NSE2/01 Criptografia/02 Cifrados.md",
-    "Fortinet/NSE2/01 Criptografia",
-    "Fortinet/NSE2/01 Criptografia/01 Criptografia, PKY.md",
-    "Fortinet/NSE1/05 Campannas de influencias.md",
-    "Fortinet/NSE2",
-    "Fortinet/NSE1",
-    "Fortinet/01 Marcos de Ataque",
-    "Fortinet",
-    "CCNA/CCNA 200-301/Wireless",
-    "CCNA/CCNA 200-301/32 Seguridad Radius Server",
-    "CCNA/CCNA 200-301/31 VPN",
+    "Install GVM.md",
+    "Zphisher.md",
+    "Untitled.base",
+    "Ansible/02 Playboock.md",
+    "Ansible/01 Instalacion.md",
+    "eJPT _V1/2. Host & Network Penetration Testing/1. System_Host Based Attacks/Windows/1. Exploit Vulnerabilities/8. Exploit WinRM.md",
+    "Ansible/Ansible Tareas rincipales.md",
+    "Savitar Cursos/Introducción al Hacking/Resolucion de Maquinas/01 Primera Maquina.md",
+    "attachments/Pasted image 20260629122116.png",
+    "attachments/Pasted image 20260629122042.png",
+    "attachments/Pasted image 20260629122000.png",
+    "Savitar Cursos/Introducción al Hacking/Resolucion de Maquinas",
+    "custom_icons/Ansible.svg",
+    "custom_icons/Ansible.png",
+    "Ansible.svg",
+    "Unconfirmed 401037.crdownload",
+    "Ansible.png",
+    "Unconfirmed 329593.crdownload",
+    "Cheat Sheets/Enmumeracion/FTP Enumeration.md",
+    "Ansible",
+    "Cheat Sheets/Convertir a .exe un payload/Convertir de codigo Powershell a .exe.md",
+    "Clippings/06Enumeración web.md",
+    "Cheat Sheets/Nmap Cheat Sheets.md",
+    "Cheat Sheets/Escaladas de Privilegios mediante Ficheros.md",
+    "Cheat Sheets/Enmumeracion/SSH Enumeration.md",
+    "Cheat Sheets/Enmumeracion/SQL Enumeration.md",
+    "Cheat Sheets/Enmumeracion/SMB Enumeration.md",
+    "Cheat Sheets/Enmumeracion/HTTP Enumeration.md",
+    "eJPT _V1/1. Assessment Methodologies/3. Asses Methodologies - Enumeration/1. SMB Enumeration.md",
+    "Notas de Ciberseguridad/Adquirir un pront.md",
+    "Notas de Ciberseguridad/Crear una reverse shell.md",
+    "Notas de Ciberseguridad/Creacion de una TTY.md",
+    "HTB CPTS/Modulo 2/10.5 Métodos diversos de transferencia de archivos.md",
+    "home/alexandross/Adrian/Master.md",
+    "HTB CPTS/Modulo 2/10.4 Transferencia de archivos con código.md",
+    "HTB CPTS/Modulo 2/10.3 Métodos de transferencia de archivos Linux.md",
+    "eJPT _V1/2. Host & Network Penetration Testing/1. System_Host Based Attacks/Linux/2. Exploiting Linux Vulnerabilities/4. Exploit SAMBA.md",
+    "Clippings/10.3 Linux File Transfer Methods  Hack The Box Academy.md",
+    "attachments/Pasted image 20260618104834.png",
+    "attachments/Pasted image 20260618104245.png",
+    "attachments/Pasted image 20260618104216.png",
+    "Azure/AZ-104 Administrador de Azure/03 Admini Storage y máquinas virtuales",
+    "media/Implement_Traffic_Management.mp4",
+    "home/alexandross/Adrian",
+    "home/alexandross",
+    "home",
     "Savitar Cursos/Introducción al Hacking/OWASP TOP 10/Sin título.canvas",
     "Untitled.canvas",
     "eJPT _V1/2. Host & Network Penetration Testing/3.Metasploit/Untitled.canvas"

@@ -1,0 +1,1 @@
+![](media/Fortigate_HA.mp4)
